@@ -1,5 +1,6 @@
 {
  "gemeldet": {
+  "3444747044": "2026-10-05",
   "3466538870": "2026-09-30",
   "3468409678": "2026-10-05",
   "3481131698": "2026-10-05",
@@ -10,6 +11,7 @@
   "3485924681": "2026-09-30",
   "3486928235": "2026-09-27",
   "3494332286": "2026-09-30",
+  "3494910015": "2026-10-05",
   "3498710385": "2026-09-30",
   "3499104050": "2026-09-30",
   "3499183322": "2026-09-30",
@@ -77,9 +79,13 @@
   "3526927759": "2026-09-30",
   "3526961274": "2026-10-01",
   "3527526438": "2026-09-30",
+  "3527550961": "2026-10-05",
   "3527848523": "2026-10-05",
+  "3527978850": "2026-10-05",
+  "3528426558": "2026-10-05",
   "3528826081": "2026-10-05",
   "3528874143": "2026-10-05",
+  "3528904865": "2026-10-05",
   "3528936710": "2026-10-04",
   "3529036360": "2026-10-05",
   "3529161602": "2026-10-04",
@@ -88,6 +94,7 @@
   "3529445599": "2026-10-04",
   "3529445906": "2026-10-04",
   "3529457683": "2026-10-04",
+  "3529697305": "2026-10-05",
   "3529836909": "2026-10-04",
   "3529947626": "2026-10-05",
   "3530118582": "2026-10-05",
@@ -96,6 +103,7 @@
   "3530386539": "2026-10-04",
   "3530552405": "2026-10-04",
   "3530625586": "2026-10-04",
+  "3530780381": "2026-10-05",
   "3530785772": "2026-10-04",
   "3530792151": "2026-10-04",
   "3530836612": "2026-10-04",
@@ -129,27 +137,15 @@
   "3531501955": "2026-10-04",
   "3531502116": "2026-10-04",
   "3531506649": "2026-10-04",
+  "3531618553": "2026-10-05",
+  "3531860843": "2026-10-05",
   "3531870457": "2026-10-05",
   "3531904251": "2026-10-05",
   "3532215970": "2026-10-05"
  },
- "laeufe": 5,
- "letzter_lauf": "2026-10-05T16:03:33",
+ "laeufe": 6,
+ "letzter_lauf": "2026-10-05T16:13:21",
  "offen": {
-  "3444747044": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3444747044",
-   "kategorie": "pcs",
-   "ort": "",
-   "query": "Lenovo ThinkCentre M920q",
-   "ship": true,
-   "title": "LENOVO ThinkCentre M920q | PC | G4900T | 8GB | 256GB | Win 11",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkcentre-m920q-pc-g4900t-8gb-256gb-win-11/3444747044-228-9224",
-   "vb": false
-  },
   "3487455190": {
    "bis": "2026-10-08",
    "datum": "",
@@ -176,20 +172,6 @@
    "ship": true,
    "title": "Lenovo ThinkPad T14 Gen 3 – i5-1245U/16GB/256GB",
    "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkpad-t14-gen-3-i5-1245u-16gb-256gb/3494736368-278-4306",
-   "vb": false
-  },
-  "3494910015": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3494910015",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "RTX 4080",
-   "ship": true,
-   "title": "Gamerock Palait RTX 4080",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/gamerock-palait-rtx-4080/3494910015-225-5397",
    "vb": false
   },
   "3496406890": {
@@ -276,20 +258,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/seagate-exos-x16-st16000nm001g-16tb-nas-festplatte/3524580861-225-6294",
    "vb": true
   },
-  "3527550961": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3527550961",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "EliteBook RAM 32GB SO-DIMM",
-   "ship": true,
-   "title": "32GB SK Hynix DDR4 SODIMM RAM (2x16GB)",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/32gb-sk-hynix-ddr4-sodimm-ram-2x16gb-/3527550961-225-4895",
-   "vb": false
-  },
   "3527700565": {
    "bis": "2026-10-08",
    "datum": "",
@@ -304,34 +272,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/rtx-4070-super-oder-rx-9070-xt/3527700565-225-8246",
    "vb": false
   },
-  "3527978850": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3527978850",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "Samsung 990 Pro 2TB",
-   "ship": true,
-   "title": "Samsung 990 PRO 2TB NVMe SSD mit Heatsink und externes Gehäuse",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-990-pro-2tb-nvme-ssd-mit-heatsink-und-externes-gehaeuse/3527978850-225-3124",
-   "vb": false
-  },
-  "3528426558": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3528426558",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "RTX 4080",
-   "ship": true,
-   "title": "PNY GeForce RTX 4080 XLR8 Gaming VERTO EPIC-X RGB OC 16GB",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/pny-geforce-rtx-4080-xlr8-gaming-verto-epic-x-rgb-oc-16gb/3528426558-225-22611",
-   "vb": true
-  },
   "3528438672": {
    "bis": "2026-10-08",
    "datum": "",
@@ -345,34 +285,6 @@
    "title": "32 GB DDR4-3200 Notebook RAM – 4× 8 GB Samsung & Micron SO-DIMM",
    "url": "https://www.kleinanzeigen.de/s-anzeige/32-gb-ddr4-3200-notebook-ram-4-8-gb-samsung-micron-so-dimm/3528438672-225-21494",
    "vb": true
-  },
-  "3528657341": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3528657341",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "RTX 4080",
-   "ship": true,
-   "title": "Palit RTX4080 GamingPro Gebraucht",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/palit-rtx4080-gamingpro-gebraucht/3528657341-225-4466",
-   "vb": false
-  },
-  "3528904865": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3528904865",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "EliteBook RAM 16GB SO-DIMM",
-   "ship": true,
-   "title": "Samsung 16GB DDR4 SODIMM RAM M471A2K43CB1-CRC",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-16gb-ddr4-sodimm-ram-m471a2k43cb1-crc/3528904865-225-23811",
-   "vb": false
   },
   "3529316414": {
    "bis": "2026-10-08",
@@ -402,20 +314,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/2-power-32gb-ddr4-2666mhz-cl19-sodimm-arbeitsspeicher/3529603501-225-1891",
    "vb": true
   },
-  "3529697305": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3529697305",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "EliteBook RAM 16GB SO-DIMM",
-   "ship": true,
-   "title": "16GB DDR4 SO-DIMM Arbeitsspeicher Modul",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/16gb-ddr4-so-dimm-arbeitsspeicher-modul/3529697305-225-3001",
-   "vb": false
-  },
   "3529759182": {
    "bis": "2026-10-08",
    "datum": "",
@@ -428,20 +326,6 @@
    "ship": true,
    "title": "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook",
    "url": "https://www.kleinanzeigen.de/s-anzeige/thinkpad-carbon-x1-9-gen-g9-acer-travelmate-p6-notebook/3529759182-278-9629",
-   "vb": false
-  },
-  "3530780381": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3530780381",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "EliteBook RAM 16GB SO-DIMM",
-   "ship": true,
-   "title": "Kingston DDR4 SO-DIMM RAM 16 GB (2 × 8 GB)",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/kingston-ddr4-so-dimm-ram-16-gb-2-8-gb-/3530780381-225-9618",
    "vb": false
   },
   "3530903400": {
@@ -514,20 +398,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-m2/3531435403-278-3381",
    "vb": false
   },
-  "3531618553": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3531618553",
-   "kategorie": "notebooks",
-   "ort": "",
-   "query": "MacBook Air M1",
-   "ship": true,
-   "title": "Apple MacBook Air M1 2020 8gb RAM",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-m1-2020-8gb-ram/3531618553-278-16327",
-   "vb": true
-  },
   "3531702871": {
    "bis": "2026-10-08",
    "datum": "",
@@ -568,20 +438,6 @@
    "ship": true,
    "title": "16gb (2x8gb) DDR4 sodimm  2400T",
    "url": "https://www.kleinanzeigen.de/s-anzeige/16gb-2x8gb-ddr4-sodimm-2400t/3531767605-225-23661",
-   "vb": false
-  },
-  "3531860843": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3531860843",
-   "kategorie": "notebooks",
-   "ort": "",
-   "query": "ThinkPad T14 Gen 2",
-   "ship": true,
-   "title": "Lenovo ThinkPad T14 Gen 2, AMD Ryzen 5 PRO 5650U, 16GB RAM,Win11",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkpad-t14-gen-2-amd-ryzen-5-pro-5650u-16gb-ram-win11/3531860843-278-17598",
    "vb": false
   },
   "3532093016": {
@@ -2794,6 +2650,11 @@
     250.0,
     "2026-10-05",
     "2026-10-05"
+   ],
+   "3532370274": [
+    250.0,
+    "2026-10-05",
+    "2026-10-05"
    ]
   },
   "RTX 3080": {
@@ -3633,7 +3494,7 @@
     "2026-10-05"
    ],
    "3529376581": [
-    1100.0,
+    1000.0,
     "2026-10-05",
     "2026-10-05"
    ],
