@@ -2,13 +2,14 @@ name: Deal-Watcher
 
 on:
   schedule:
-    # stündlich von ca. 7 bis 23 Uhr deutscher Zeit (Angabe in UTC)
+    # stündlich von ca. 7 bis 23 Uhr deutscher Zeit (Angabe in UTC).
+    # Bewusst nicht öfter: kleinanzeigen sperrt IPs mit zu vielen Abrufen.
     - cron: "17 5-21 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # erlaubt den Start per Knopfdruck im Actions-Tab
 
 permissions:
-  contents: write
-  issues: write
+  contents: write   # state.json zurueckspeichern
+  issues: write     # Ersatz-Benachrichtigung, falls keine Mail eingerichtet ist
 
 concurrency:
   group: deal-watcher
@@ -19,9 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
