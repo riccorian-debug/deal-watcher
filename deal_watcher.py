@@ -188,7 +188,9 @@ class Fetcher:
             if r.status_code != 200:
                 print(f"  ! HTTP {r.status_code} bei {url}")
                 return None
-            html = r.text
+            # kleinanzeigen schickt UTF-8, oft ohne Zeichensatz im Header -> requests riete sonst Latin-1
+            # (dann wird aus "€" Zeichensalat und kein Preis wird erkannt)
+            html = r.content.decode("utf-8", errors="replace")
             if re.search(r"vorübergehend gesperrt|IP-Bereich", html, re.I):
                 raise Blocked("IP-Bereich vorübergehend gesperrt")
             if re.search(r"captcha|access denied|zugriff verweigert", html, re.I) \
@@ -208,10 +210,16 @@ def parse_search(html: str) -> list[dict]:
         adid = art.get("data-adid")
         link = art.select_one("a[href*='/s-anzeige/']")
         href = art.get("data-href") or (link.get("href") if link else None)
-        title_el = art.select_one(".text-module-begin a, h2 a, a.ellipsis") or link
-        title = title_el.get_text(" ", strip=True) if title_el else ""
-        if not title and title_el is not None:
-            title = (title_el.get("title") or title_el.get("aria-label") or "").strip()
+        title = ""
+        # Titel: erstes Element mit echtem Text (der Bild-Link enthaelt oft nur die Fotoanzahl wie "6")
+        for el in art.select(".text-module-begin a, h2 a, h2, h3 a, h3, a.ellipsis, [class*='title'], a[href*='/s-anzeige/']"):
+            txt = el.get_text(" ", strip=True) or (el.get("title") or "").strip()
+            if len(txt) >= 5 and not re.fullmatch(r"[\d\s]+(Verkäufergarantie|Bilder?)?", txt):
+                title = txt
+                break
+        if not title:
+            img = art.select_one("img[alt]")
+            title = (img.get("alt") or "").strip() if img else ""
         if not adid or not href or not title:
             continue
         price_el = art.select_one("[class*='price-shipping--price'], .aditem-main--middle--price")
