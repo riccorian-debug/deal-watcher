@@ -135,13 +135,17 @@ def mentions_defect(text: str) -> bool:
     return False
 
 
+# Neueste Anzeigen zuerst: Seite 1 enthaelt so immer die frischesten Angebote.
+SORT = "?sortingField=SORTING_DATE"
+
+
 def search_url(term: str, category: str | None, page: int = 1) -> str:
     kw = re.sub(r"[^a-z0-9äöüß.]+", "-", term.lower()).strip("-")
     pg = f"seite:{page}/" if page > 1 else ""
     if category:
         slug, cid = CATEGORIES[category]
-        return f"{BASE}/s-{slug}/{pg}{kw}/k0c{cid}"
-    return f"{BASE}/s-{pg}{kw}/k0"
+        return f"{BASE}/s-{slug}/{pg}{kw}/k0c{cid}{SORT}"
+    return f"{BASE}/s-{pg}{kw}/k0{SORT}"
 
 
 # --------------------------------------------------------------------------- Abruf
@@ -206,6 +210,8 @@ def parse_search(html: str) -> list[dict]:
         href = art.get("data-href") or (link.get("href") if link else None)
         title_el = art.select_one(".text-module-begin a, h2 a, a.ellipsis") or link
         title = title_el.get_text(" ", strip=True) if title_el else ""
+        if not title and title_el is not None:
+            title = (title_el.get("title") or title_el.get("aria-label") or "").strip()
         if not adid or not href or not title:
             continue
         price_el = art.select_one("[class*='price-shipping--price'], .aditem-main--middle--price")
@@ -215,6 +221,10 @@ def parse_search(html: str) -> list[dict]:
                 old.decompose()
             price_text = price_el.get_text(" ", strip=True)
         full = art.get_text(" ", strip=True)
+        if not PRICE_RE.search(price_text):  # Preisfeld nicht gefunden -> im Anzeigentext suchen
+            m_pr = re.search(r"\d{1,3}(?:\.\d{3})*(?:,\d{1,2})?\s*€(?:\s*VB)?", full)
+            if m_pr:
+                price_text = m_pr.group(0)
         loc = art.select_one(".aditem-main--top--left")
         when = art.select_one(".aditem-main--top--right")
         items.append({
@@ -225,7 +235,7 @@ def parse_search(html: str) -> list[dict]:
             "vb": "VB" in price_text,
             "ship": bool(re.search(r"Versand möglich|Direkt kaufen", full)),
             "direct": "Direkt kaufen" in full,
-            "gesuch": bool(re.search(r"\bGesuch\b", full)),
+            "gesuch": bool(re.search(r"^\s*(Gesuch|Suche)\b", title, re.I)) or bool(art.select_one("[class*='gesuch'], [class*='wanted']")),
             "ort": loc.get_text(" ", strip=True) if loc else "",
             "datum": when.get_text(" ", strip=True) if when else "",
         })
@@ -286,19 +296,28 @@ def parse_detail(html: str) -> dict:
 
 # --------------------------------------------------------------------------- Logik
 
-def matches(item: dict, q: dict) -> bool:
+def why_not(item: dict, q: dict) -> str | None:
+    """Grund, warum eine Anzeige nicht zur Suche passt (None = passt)."""
     t = item["title"]
-    if item["gesuch"] or item["price"] is None:
-        return False
+    if item["gesuch"]:
+        return "Gesuch"
+    if item["price"] is None:
+        return "kein Preis"
     if TITLE_EXCLUDE.search(t):
-        return False
+        return "Ausschlusswort"
     if not q.get("mengen_erlaubt", False) and LOT_RE.search(t):
-        return False
+        return "Sammelanzeige"
     if any(not re.search(rx, t, re.I) for rx in q.get("muss", [])):
-        return False
+        return "Pflichtbegriff fehlt"
     if any(re.search(rx, t, re.I) for rx in q.get("nicht", [])):
-        return False
-    return q.get("preis_min", 0) <= item["price"] <= q.get("preis_max", 10**6)
+        return "nicht-Begriff"
+    if not q.get("preis_min", 0) <= item["price"] <= q.get("preis_max", 10**6):
+        return "ausserhalb Preisrahmen"
+    return None
+
+
+def matches(item: dict, q: dict) -> bool:
+    return why_not(item, q) is None
 
 
 def base_score(discount_pct: float) -> int:
@@ -440,6 +459,14 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
             med_all = trimmed_median([v[0] for v in pool.values()]) if pool else None
             print(f"- {q['name']}: {len(seen)} Anzeigen, {len(relevant)} passend, Pool {len(pool)}"
                   + (f", Marktpreis ~{fmt_eur(med_all)}" if med_all else "") + f", neu/billiger {len(fresh)}")
+            if seen and not relevant:  # Diagnose, falls nichts passt
+                reasons: dict[str, int] = {}
+                for it in seen.values():
+                    r = why_not(it, q) or "?"
+                    reasons[r] = reasons.get(r, 0) + 1
+                print("    Diagnose: " + ", ".join(f"{k} {v}x" for k, v in sorted(reasons.items(), key=lambda x: -x[1])))
+                for it in list(seen.values())[:2]:
+                    print(f"    Beispiel: '{it['title'][:60]}' | Preis {it['price']} | Gesuch {it['gesuch']}")
 
             for it in fresh:
                 c = qualify(it, pool, q, cfg)
