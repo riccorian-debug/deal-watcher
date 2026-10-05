@@ -1,6 +1,7 @@
 {
  "gemeldet": {
   "3466538870": "2026-09-30",
+  "3468409678": "2026-10-05",
   "3481131698": "2026-10-05",
   "3481933967": "2026-09-30",
   "3482838769": "2026-10-01",
@@ -76,7 +77,11 @@
   "3526927759": "2026-09-30",
   "3526961274": "2026-10-01",
   "3527526438": "2026-09-30",
+  "3527848523": "2026-10-05",
+  "3528826081": "2026-10-05",
+  "3528874143": "2026-10-05",
   "3528936710": "2026-10-04",
+  "3529036360": "2026-10-05",
   "3529161602": "2026-10-04",
   "3529298794": "2026-10-04",
   "3529358741": "2026-10-04",
@@ -84,7 +89,9 @@
   "3529445906": "2026-10-04",
   "3529457683": "2026-10-04",
   "3529836909": "2026-10-04",
+  "3529947626": "2026-10-05",
   "3530118582": "2026-10-05",
+  "3530188387": "2026-10-05",
   "3530319261": "2026-10-04",
   "3530386539": "2026-10-04",
   "3530552405": "2026-10-04",
@@ -123,10 +130,11 @@
   "3531502116": "2026-10-04",
   "3531506649": "2026-10-04",
   "3531870457": "2026-10-05",
+  "3531904251": "2026-10-05",
   "3532215970": "2026-10-05"
  },
- "laeufe": 4,
- "letzter_lauf": "2026-10-05T15:50:03",
+ "laeufe": 5,
+ "letzter_lauf": "2026-10-05T16:03:33",
  "offen": {
   "3444747044": {
    "bis": "2026-10-08",
@@ -134,24 +142,12 @@
    "direct": false,
    "gesuch": false,
    "id": "3444747044",
+   "kategorie": "pcs",
    "ort": "",
    "query": "Lenovo ThinkCentre M920q",
    "ship": true,
    "title": "LENOVO ThinkCentre M920q | PC | G4900T | 8GB | 256GB | Win 11",
    "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkcentre-m920q-pc-g4900t-8gb-256gb-win-11/3444747044-228-9224",
-   "vb": false
-  },
-  "3468409678": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3468409678",
-   "ort": "",
-   "query": "RTX 4060 Ti",
-   "ship": true,
-   "title": "Grafikkarte GeForce RTX 4060 Ti 16GB",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/grafikkarte-geforce-rtx-4060-ti-16gb/3468409678-225-16773",
    "vb": false
   },
   "3487455190": {
@@ -160,6 +156,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3487455190",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "RTX 4080",
    "ship": true,
@@ -173,6 +170,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3494736368",
+   "kategorie": "notebooks",
    "ort": "",
    "query": "ThinkPad T14 Gen 3",
    "ship": true,
@@ -186,6 +184,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3494910015",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "RTX 4080",
    "ship": true,
@@ -199,6 +198,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3496406890",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "RTX 4080",
    "ship": true,
@@ -212,6 +212,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3498450115",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "RTX 3070",
    "ship": true,
@@ -225,6 +226,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3507957187",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "RTX 4070 Super",
    "ship": true,
@@ -238,6 +240,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3510514147",
+   "kategorie": "notebooks",
    "ort": "",
    "query": "ThinkPad T14 Gen 2",
    "ship": true,
@@ -251,6 +254,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3514666716",
+   "kategorie": "notebooks",
    "ort": "",
    "query": "ThinkPad T14 Gen 2",
    "ship": true,
@@ -264,6 +268,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3524580861",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "Seagate Exos 16TB",
    "ship": true,
@@ -271,25 +276,13 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/seagate-exos-x16-st16000nm001g-16tb-nas-festplatte/3524580861-225-6294",
    "vb": true
   },
-  "3525275685": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3525275685",
-   "ort": "",
-   "query": "Ryzen 7 7800X3D",
-   "ship": true,
-   "title": "AMD Ryzen 7 7800X3D Prozessor, Sockel AM5 - Neuwertig",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/amd-ryzen-7-7800x3d-prozessor-sockel-am5-neuwertig/3525275685-225-2374",
-   "vb": false
-  },
   "3527550961": {
    "bis": "2026-10-08",
    "datum": "",
    "direct": true,
    "gesuch": false,
    "id": "3527550961",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "EliteBook RAM 32GB SO-DIMM",
    "ship": true,
@@ -303,24 +296,12 @@
    "direct": false,
    "gesuch": false,
    "id": "3527700565",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "RTX 4070 Super",
    "ship": true,
    "title": "RTX 4070 super oder RX 9070 XT",
    "url": "https://www.kleinanzeigen.de/s-anzeige/rtx-4070-super-oder-rx-9070-xt/3527700565-225-8246",
-   "vb": false
-  },
-  "3527848523": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3527848523",
-   "ort": "",
-   "query": "EliteBook RAM 32GB SO-DIMM",
-   "ship": true,
-   "title": "32GB Kingston Sodimm 2666 DDR 4 RAM 2x16GB _______ Ballenstedt",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/32gb-kingston-sodimm-2666-ddr-4-ram-2x16gb-ballenstedt/3527848523-225-17428",
    "vb": false
   },
   "3527978850": {
@@ -329,6 +310,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3527978850",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "Samsung 990 Pro 2TB",
    "ship": true,
@@ -342,6 +324,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3528426558",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "RTX 4080",
    "ship": true,
@@ -355,6 +338,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3528438672",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "EliteBook RAM 32GB SO-DIMM",
    "ship": true,
@@ -368,37 +352,12 @@
    "direct": true,
    "gesuch": false,
    "id": "3528657341",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "RTX 4080",
    "ship": true,
    "title": "Palit RTX4080 GamingPro Gebraucht",
    "url": "https://www.kleinanzeigen.de/s-anzeige/palit-rtx4080-gamingpro-gebraucht/3528657341-225-4466",
-   "vb": false
-  },
-  "3528826081": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3528826081",
-   "ort": "",
-   "query": "EliteBook RAM 16GB SO-DIMM",
-   "ship": true,
-   "title": "Innodisk 16 GB DDR4-2133 SO-DIMM – 2× 8 GB",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/innodisk-16-gb-ddr4-2133-so-dimm-2-8-gb/3528826081-225-1003",
-   "vb": false
-  },
-  "3528874143": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3528874143",
-   "ort": "",
-   "query": "EliteBook RAM 16GB SO-DIMM",
-   "ship": true,
-   "title": "16GB DDR4 Notebook RAM – 2×8GB Samsung & Ramaxel SODIMM",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/16gb-ddr4-notebook-ram-2-8gb-samsung-ramaxel-sodimm/3528874143-225-2001",
    "vb": false
   },
   "3528904865": {
@@ -407,6 +366,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3528904865",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "EliteBook RAM 16GB SO-DIMM",
    "ship": true,
@@ -414,25 +374,13 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-16gb-ddr4-sodimm-ram-m471a2k43cb1-crc/3528904865-225-23811",
    "vb": false
   },
-  "3529036360": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3529036360",
-   "ort": "",
-   "query": "Seagate Exos 18TB",
-   "ship": true,
-   "title": "Seagate Exos X18 18TB SATA III 3,5 Zoll HDD mit Rest-Garantie",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/seagate-exos-x18-18tb-sata-iii-3-5-zoll-hdd-mit-rest-garantie/3529036360-225-7913",
-   "vb": true
-  },
   "3529316414": {
    "bis": "2026-10-08",
    "datum": "",
    "direct": false,
    "gesuch": false,
    "id": "3529316414",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "EliteBook RAM 16GB SO-DIMM",
    "ship": true,
@@ -446,6 +394,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3529603501",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "EliteBook RAM 32GB SO-DIMM",
    "ship": true,
@@ -459,6 +408,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3529697305",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "EliteBook RAM 16GB SO-DIMM",
    "ship": true,
@@ -466,31 +416,19 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/16gb-ddr4-so-dimm-arbeitsspeicher-modul/3529697305-225-3001",
    "vb": false
   },
-  "3529947626": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3529947626",
-   "ort": "",
-   "query": "ThinkPad T14 Gen 2",
-   "ship": true,
-   "title": "Lenovo Thinkpad t14 gen 2 Intel i5 1145g7 16GB ram ddr4 keine ssd",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkpad-t14-gen-2-intel-i5-1145g7-16gb-ram-ddr4-keine-ssd/3529947626-278-7438",
-   "vb": true
-  },
-  "3530188387": {
+  "3529759182": {
    "bis": "2026-10-08",
    "datum": "",
    "direct": false,
    "gesuch": false,
-   "id": "3530188387",
-   "ort": "",
-   "query": "Synology DS220j",
+   "id": "3529759182",
+   "kategorie": "notebooks",
+   "ort": "10999 Kreuzberg",
+   "query": "ThinkPad X1 Carbon Gen 9",
    "ship": true,
-   "title": "Synology DS220j",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/synology-ds220j/3530188387-168-20534",
-   "vb": true
+   "title": "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/thinkpad-carbon-x1-9-gen-g9-acer-travelmate-p6-notebook/3529759182-278-9629",
+   "vb": false
   },
   "3530780381": {
    "bis": "2026-10-08",
@@ -498,6 +436,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3530780381",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "EliteBook RAM 16GB SO-DIMM",
    "ship": true,
@@ -505,25 +444,13 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/kingston-ddr4-so-dimm-ram-16-gb-2-8-gb-/3530780381-225-9618",
    "vb": false
   },
-  "3530877359": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3530877359",
-   "ort": "",
-   "query": "RX 6800 XT",
-   "ship": true,
-   "title": "Rx 6800 bzw 6800xt",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/rx-6800-bzw-6800xt/3530877359-225-29858",
-   "vb": true
-  },
   "3530903400": {
    "bis": "2026-10-08",
    "datum": "",
    "direct": false,
    "gesuch": false,
    "id": "3530903400",
+   "kategorie": "notebooks",
    "ort": "",
    "query": "MacBook Air M1",
    "ship": true,
@@ -537,6 +464,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3531156372",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "WD Black SN850X 2TB",
    "ship": true,
@@ -550,6 +478,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3531173416",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "EliteBook RAM 16GB SO-DIMM",
    "ship": true,
@@ -563,6 +492,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3531431169",
+   "kategorie": "notebooks",
    "ort": "",
    "query": "MacBook Air M2",
    "ship": true,
@@ -576,24 +506,12 @@
    "direct": true,
    "gesuch": false,
    "id": "3531435403",
+   "kategorie": "notebooks",
    "ort": "",
    "query": "MacBook Air M2",
    "ship": true,
    "title": "Apple MacBook Air m2",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-m2/3531435403-278-3381",
-   "vb": false
-  },
-  "3531526197": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3531526197",
-   "ort": "",
-   "query": "Seagate Exos 20TB",
-   "ship": true,
-   "title": "NEW Seagate EXOS X22 20TB SAS 6Gbps 7200RPM 3.5\" HDD ST20000NM004",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/new-seagate-exos-x22-20tb-sas-6gbps-7200rpm-3-5-hdd-st20000nm004/3531526197-225-17419",
    "vb": false
   },
   "3531618553": {
@@ -602,6 +520,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3531618553",
+   "kategorie": "notebooks",
    "ort": "",
    "query": "MacBook Air M1",
    "ship": true,
@@ -615,6 +534,7 @@
    "direct": true,
    "gesuch": false,
    "id": "3531702871",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "WD Black SN850X 2TB",
    "ship": true,
@@ -628,6 +548,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3531710780",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "DDR5 32GB 6000",
    "ship": true,
@@ -641,6 +562,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3531767605",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "EliteBook RAM 16GB SO-DIMM",
    "ship": true,
@@ -654,6 +576,7 @@
    "direct": false,
    "gesuch": false,
    "id": "3531860843",
+   "kategorie": "notebooks",
    "ort": "",
    "query": "ThinkPad T14 Gen 2",
    "ship": true,
@@ -661,25 +584,13 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkpad-t14-gen-2-amd-ryzen-5-pro-5650u-16gb-ram-win11/3531860843-278-17598",
    "vb": false
   },
-  "3531904251": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3531904251",
-   "ort": "",
-   "query": "EliteBook RAM 32GB SO-DIMM",
-   "ship": true,
-   "title": "32GB Samsung DDR4-2666 RAM – 4x 8GB SO-DIMM Laptop/Notebook",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/32gb-samsung-ddr4-2666-ram-4x-8gb-so-dimm-laptop-notebook/3531904251-225-9595",
-   "vb": true
-  },
   "3532093016": {
    "bis": "2026-10-08",
    "datum": "",
    "direct": false,
    "gesuch": false,
    "id": "3532093016",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "DDR5 32GB 6000",
    "ship": true,
@@ -693,25 +604,13 @@
    "direct": true,
    "gesuch": false,
    "id": "3532252326",
+   "kategorie": "pc-zubehoer",
    "ort": "",
    "query": "DDR5 32GB 6000",
    "ship": true,
    "title": "G.Skill Flare X5 32GB (2x16GB) DDR5-6000 CL30 RAM",
    "url": "https://www.kleinanzeigen.de/s-anzeige/g-skill-flare-x5-32gb-2x16gb-ddr5-6000-cl30-ram/3532252326-225-1340",
    "vb": true
-  },
-  "3532344267": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3532344267",
-   "ort": "",
-   "query": "RTX 4080",
-   "ship": true,
-   "title": "GIGABYTE AERO OC GeForce RTX 4080 SUPER 16GB Weiß",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/gigabyte-aero-oc-geforce-rtx-4080-super-16gb-weiss/3532344267-225-430",
-   "vb": false
   }
  },
  "pools": {
@@ -954,8 +853,260 @@
     "2026-10-05"
    ]
   },
-  "Dell Latitude 7420": {},
-  "EliteBook 840 G8": {},
+  "Dell Latitude 7420": {
+   "2722814947": [
+    300.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3242319017": [
+    285.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3283149578": [
+    398.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3306118256": [
+    285.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3309176323": [
+    285.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3445512447": [
+    350.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3453865132": [
+    349.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3466247382": [
+    229.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3486723373": [
+    350.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3497398134": [
+    350.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3506899602": [
+    350.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3517776680": [
+    330.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3519116594": [
+    330.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3520959159": [
+    349.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3521107906": [
+    210.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3522494837": [
+    325.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3523924363": [
+    230.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3525411410": [
+    400.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3525450715": [
+    150.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3526094894": [
+    250.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3526535345": [
+    275.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3527200694": [
+    299.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3527919381": [
+    250.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3528492967": [
+    170.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3528736281": [
+    320.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3529552766": [
+    210.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3529705993": [
+    313.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3530100995": [
+    399.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3530136885": [
+    289.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3531508131": [
+    300.0,
+    "2026-10-05",
+    "2026-10-05"
+   ]
+  },
+  "EliteBook 840 G8": {
+   "2627364366": [
+    435.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3317950840": [
+    300.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3461878280": [
+    260.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3469562777": [
+    420.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3494058663": [
+    360.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3500625332": [
+    349.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3505283676": [
+    449.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3506389298": [
+    399.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3508543495": [
+    400.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3511218202": [
+    299.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3513467149": [
+    379.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3514310478": [
+    369.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3515085746": [
+    279.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3515243668": [
+    300.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3515510179": [
+    300.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3516128995": [
+    380.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3528696022": [
+    160.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3528908616": [
+    365.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3529308251": [
+    450.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3531593533": [
+    280.0,
+    "2026-10-05",
+    "2026-10-05"
+   ]
+  },
   "EliteBook RAM 16GB SO-DIMM": {
    "3488834054": [
     90.0,
@@ -2428,7 +2579,7 @@
     "2026-10-05"
    ],
    "3531792075": [
-    310.0,
+    279.0,
     "2026-10-05",
     "2026-10-05"
    ],
@@ -3806,8 +3957,220 @@
     "2026-10-05"
    ]
   },
-  "Raspberry Pi 5 16GB": {},
-  "Raspberry Pi 5 8GB": {},
+  "Raspberry Pi 5 16GB": {
+   "3408681595": [
+    300.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3412282442": [
+    300.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3468299590": [
+    300.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3497595908": [
+    299.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3525903302": [
+    270.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3527650468": [
+    290.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3528612489": [
+    320.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3530088665": [
+    329.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3530107229": [
+    250.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3530546904": [
+    200.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3532264693": [
+    139.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3532319507": [
+    110.0,
+    "2026-10-05",
+    "2026-10-05"
+   ]
+  },
+  "Raspberry Pi 5 8GB": {
+   "3492881722": [
+    175.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3494611906": [
+    245.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3500033471": [
+    220.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3504039408": [
+    185.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3514782718": [
+    229.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3517098319": [
+    230.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3519347332": [
+    149.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3520694416": [
+    190.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3523810293": [
+    179.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3524509090": [
+    185.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3525138335": [
+    200.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3525352199": [
+    200.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3526540041": [
+    200.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3526731882": [
+    190.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3527296227": [
+    150.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3528613819": [
+    200.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3528933672": [
+    229.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3529114491": [
+    160.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3529857470": [
+    230.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3530014128": [
+    150.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3530018541": [
+    190.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3530386539": [
+    105.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3530959247": [
+    120.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3531267545": [
+    225.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3531518967": [
+    175.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3531682445": [
+    185.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3531711540": [
+    199.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3531761690": [
+    145.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3531952768": [
+    160.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3532335108": [
+    210.0,
+    "2026-10-05",
+    "2026-10-05"
+   ]
+  },
   "Ryzen 7 5800X3D": {
    "3491576048": [
     200.0,
@@ -3946,8 +4309,13 @@
     "2026-10-05",
     "2026-10-05"
    ],
+   "3527985844": [
+    225.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
    "3528201877": [
-    279.0,
+    269.0,
     "2026-10-05",
     "2026-10-05"
    ],
@@ -4996,6 +5364,11 @@
     "2026-10-05",
     "2026-10-05"
    ],
+   "3508971314": [
+    650.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
    "3510021612": [
     699.0,
     "2026-10-05",
@@ -5018,6 +5391,11 @@
    ],
    "3527641997": [
     430.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3529759182": [
+    350.0,
     "2026-10-05",
     "2026-10-05"
    ],
