@@ -12,6 +12,7 @@
   "3486928235": "2026-09-27",
   "3494332286": "2026-09-30",
   "3494910015": "2026-10-05",
+  "3498450115": "2026-10-05",
   "3498710385": "2026-09-30",
   "3499104050": "2026-09-30",
   "3499183322": "2026-09-30",
@@ -59,6 +60,7 @@
   "3524019330": "2026-09-26",
   "3524169900": "2026-09-30",
   "3524448034": "2026-09-30",
+  "3524580861": "2026-10-05",
   "3524600460": "2026-10-05",
   "3525312163": "2026-09-28",
   "3525312170": "2026-09-28",
@@ -90,11 +92,13 @@
   "3529036360": "2026-10-05",
   "3529161602": "2026-10-04",
   "3529298794": "2026-10-04",
+  "3529316414": "2026-10-05",
   "3529358741": "2026-10-04",
   "3529445599": "2026-10-04",
   "3529445906": "2026-10-04",
   "3529457683": "2026-10-04",
   "3529697305": "2026-10-05",
+  "3529759182": "2026-10-05",
   "3529836909": "2026-10-04",
   "3529947626": "2026-10-05",
   "3530118582": "2026-10-05",
@@ -111,9 +115,11 @@
   "3531028538": "2026-10-04",
   "3531059217": "2026-10-04",
   "3531155223": "2026-10-04",
+  "3531156372": "2026-10-05",
   "3531157123": "2026-10-04",
   "3531163999": "2026-10-04",
   "3531170177": "2026-10-04",
+  "3531173416": "2026-10-05",
   "3531182624": "2026-10-04",
   "3531247311": "2026-10-04",
   "3531248659": "2026-10-04",
@@ -130,6 +136,8 @@
   "3531327788": "2026-10-04",
   "3531328919": "2026-10-04",
   "3531364542": "2026-10-04",
+  "3531431169": "2026-10-05",
+  "3531435403": "2026-10-05",
   "3531444032": "2026-10-04",
   "3531456625": "2026-10-04",
   "3531467873": "2026-10-04",
@@ -138,13 +146,15 @@
   "3531502116": "2026-10-04",
   "3531506649": "2026-10-04",
   "3531618553": "2026-10-05",
+  "3531702871": "2026-10-05",
+  "3531767605": "2026-10-05",
   "3531860843": "2026-10-05",
   "3531870457": "2026-10-05",
   "3531904251": "2026-10-05",
   "3532215970": "2026-10-05"
  },
- "laeufe": 6,
- "letzter_lauf": "2026-10-05T16:13:21",
+ "laeufe": 7,
+ "letzter_lauf": "2026-10-05T16:24:49",
  "offen": {
   "3487455190": {
    "bis": "2026-10-08",
@@ -186,20 +196,6 @@
    "ship": true,
    "title": "NVIDIA GeForce RTX 4080 (16GB) – PNY XLR8 Gaming VERTO EPIC-X",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nvidia-geforce-rtx-4080-16gb-pny-xlr8-gaming-verto-epic-x/3496406890-225-7533",
-   "vb": true
-  },
-  "3498450115": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3498450115",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "RTX 3070",
-   "ship": true,
-   "title": "Inno3D iChill GeForce RTX 3070 Grafikkarte",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/inno3d-ichill-geforce-rtx-3070-grafikkarte/3498450115-225-4291",
    "vb": true
   },
   "3507957187": {
@@ -244,20 +240,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkpad-t14-gen-2/3514666716-278-9445",
    "vb": true
   },
-  "3524580861": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3524580861",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "Seagate Exos 16TB",
-   "ship": true,
-   "title": "Seagate EXOS X16 ST16000NM001G 16TB NAS Festplatte",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/seagate-exos-x16-st16000nm001g-16tb-nas-festplatte/3524580861-225-6294",
-   "vb": true
-  },
   "3527700565": {
    "bis": "2026-10-08",
    "datum": "",
@@ -286,20 +268,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/32-gb-ddr4-3200-notebook-ram-4-8-gb-samsung-micron-so-dimm/3528438672-225-21494",
    "vb": true
   },
-  "3529316414": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3529316414",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "EliteBook RAM 16GB SO-DIMM",
-   "ship": true,
-   "title": "3x vorhanden 16GB SODIMM DDR4 PC4 2666MHz Notebookspeicher",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3x-vorhanden-16gb-sodimm-ddr4-pc4-2666mhz-notebookspeicher/3529316414-225-16613",
-   "vb": false
-  },
   "3529603501": {
    "bis": "2026-10-08",
    "datum": "",
@@ -314,20 +282,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/2-power-32gb-ddr4-2666mhz-cl19-sodimm-arbeitsspeicher/3529603501-225-1891",
    "vb": true
   },
-  "3529759182": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3529759182",
-   "kategorie": "notebooks",
-   "ort": "10999 Kreuzberg",
-   "query": "ThinkPad X1 Carbon Gen 9",
-   "ship": true,
-   "title": "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/thinkpad-carbon-x1-9-gen-g9-acer-travelmate-p6-notebook/3529759182-278-9629",
-   "vb": false
-  },
   "3530903400": {
    "bis": "2026-10-08",
    "datum": "",
@@ -340,104 +294,6 @@
    "ship": true,
    "title": "MacBook Air M1 8 GB 256GB Gold",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-air-m1-8-gb-256gb-gold/3530903400-278-1220",
-   "vb": false
-  },
-  "3531156372": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3531156372",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "WD Black SN850X 2TB",
-   "ship": true,
-   "title": "Western Digital WD Black SN850X 2 TB 2000 GB M2 NVMe PCIe 4.0 SSD",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/western-digital-wd-black-sn850x-2-tb-2000-gb-m2-nvme-pcie-4-0-ssd/3531156372-225-5792",
-   "vb": true
-  },
-  "3531173416": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3531173416",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "EliteBook RAM 16GB SO-DIMM",
-   "ship": true,
-   "title": "2x SK Hynix 8GB DDR4 RAM 3200 Laptop Arbeitsspeicher SODIMM 16GB",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/2x-sk-hynix-8gb-ddr4-ram-3200-laptop-arbeitsspeicher-sodimm-16gb/3531173416-225-881",
-   "vb": false
-  },
-  "3531431169": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3531431169",
-   "kategorie": "notebooks",
-   "ort": "",
-   "query": "MacBook Air M2",
-   "ship": true,
-   "title": "Apple MacBook Air M2 – Hervorragender Zustand – Akkukapazität 94",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-m2-hervorragender-zustand-akkukapazitaet-94/3531431169-278-2901",
-   "vb": false
-  },
-  "3531435403": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3531435403",
-   "kategorie": "notebooks",
-   "ort": "",
-   "query": "MacBook Air M2",
-   "ship": true,
-   "title": "Apple MacBook Air m2",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-m2/3531435403-278-3381",
-   "vb": false
-  },
-  "3531702871": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": true,
-   "gesuch": false,
-   "id": "3531702871",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "WD Black SN850X 2TB",
-   "ship": true,
-   "title": "WD_BLACK SN850X 2TB NVMe SSD | PCIe 4.0 | 100% Zustand | TOP",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/wd-black-sn850x-2tb-nvme-ssd-pcie-4-0-100-zustand-top/3531702871-225-21049",
-   "vb": false
-  },
-  "3531710780": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3531710780",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "DDR5 32GB 6000",
-   "ship": true,
-   "title": "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000 MHz CL36 RAM",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/corsair-vengeance-rgb-ddr5-32gb-2x16gb-6000-mhz-cl36-ram/3531710780-225-18947",
-   "vb": true
-  },
-  "3531767605": {
-   "bis": "2026-10-08",
-   "datum": "",
-   "direct": false,
-   "gesuch": false,
-   "id": "3531767605",
-   "kategorie": "pc-zubehoer",
-   "ort": "",
-   "query": "EliteBook RAM 16GB SO-DIMM",
-   "ship": true,
-   "title": "16gb (2x8gb) DDR4 sodimm  2400T",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/16gb-2x8gb-ddr4-sodimm-2400t/3531767605-225-23661",
    "vb": false
   },
   "3532093016": {
@@ -707,6 +563,11 @@
     339.0,
     "2026-10-05",
     "2026-10-05"
+   ],
+   "3532382345": [
+    450.0,
+    "2026-10-05",
+    "2026-10-05"
    ]
   },
   "Dell Latitude 7420": {
@@ -772,6 +633,11 @@
    ],
    "3519116594": [
     330.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3519689803": [
+    285.0,
     "2026-10-05",
     "2026-10-05"
    ],
@@ -1979,6 +1845,21 @@
     650.0,
     "2026-10-05",
     "2026-10-05"
+   ],
+   "3532381348": [
+    450.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3532381427": [
+    400.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3532384680": [
+    500.0,
+    "2026-10-05",
+    "2026-10-05"
    ]
   },
   "MacBook Air M2": {
@@ -2877,6 +2758,11 @@
     550.0,
     "2026-10-05",
     "2026-10-05"
+   ],
+   "3532385128": [
+    250.0,
+    "2026-10-05",
+    "2026-10-05"
    ]
   },
   "RTX 4060 Ti": {
@@ -3012,6 +2898,11 @@
    ],
    "3532347518": [
     329.0,
+    "2026-10-05",
+    "2026-10-05"
+   ],
+   "3532380571": [
+    400.0,
     "2026-10-05",
     "2026-10-05"
    ]
