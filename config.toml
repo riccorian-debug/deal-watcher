@@ -1,0 +1,474 @@
+# ============================================================================
+#  Deal-Watcher – Einstellungen und Suchbegriffe
+#  Aenderungen hier wirken beim naechsten Lauf. Zeilen mit # sind Kommentare.
+# ============================================================================
+
+[einstellungen]
+min_rabatt_prozent   = 20     # mind. so viel % unter dem Marktpreis (Median)
+min_spielraum_eur    = 20     # und mind. so viele Euro Luft fuer den Weiterverkauf
+zu_billig_prozent    = 35     # unter 35 % des Marktpreises = vermutlich falscher Artikel/Fake -> ignorieren
+min_vergleiche       = 6      # so viele Vergleichsanzeigen braucht ein verlaesslicher Marktpreis
+nur_mit_versand      = true   # reine Abholer-Angebote nicht melden
+hochpreis_eur        = 150    # ab diesem Preis nur mit etabliertem Verkaeufer ODER "Direkt kaufen" (Kaeuferschutz)
+min_bewertung        = 4      # Angebote unter dieser Bewertung (1-10) nicht melden
+max_detailpruefungen = 12     # Anzeigenseiten, die pro Lauf genauer geprueft werden
+pause_min_s          = 1.5    # Pause zwischen Seitenabrufen (hoeflich bleiben, nicht gesperrt werden)
+pause_max_s          = 3.5
+
+# ----------------------------------------------------------------------------
+#  Suchbegriffe
+#   begriff    = Suchtext wie im kleinanzeigen-Suchfeld
+#   kategorie  = "pc-zubehoer" (Festplatten, SSD, RAM, GPU, CPU), "pcs" (Server, Mini-PCs) oder weglassen
+#   muss       = diese Muster muessen im Titel stehen (Regex, Gross/Klein egal)
+#   nicht      = Titel mit diesen Mustern werden ignoriert
+#   preis_min/preis_max = alles ausserhalb ist Zubehoer, Fehlpreis o.ae.
+#   alle       = nur jeden n-ten Lauf pruefen (spart Abrufe bei selten ergiebigen Suchen)
+#   eigenbedarf = true -> kein Mindest-Spielraum noetig (fuer dein EliteBook)
+#   mengen_erlaubt = true -> Titel wie "2x16GB" nicht als Sammelanzeige aussortieren
+# ----------------------------------------------------------------------------
+
+# ---------------- SPEICHER (bisher die meisten Treffer) ----------------
+[[suche]]
+name = "Seagate IronWolf 4TB"
+begriff = "seagate ironwolf 4tb"
+kategorie = "pc-zubehoer"
+muss = ['\b4\s*tb']
+nicht = ['\bpro\b']
+preis_min = 30
+preis_max = 200
+
+[[suche]]
+name = "Seagate IronWolf 8TB"
+begriff = "seagate ironwolf 8tb"
+kategorie = "pc-zubehoer"
+muss = ['\b8\s*tb']
+nicht = ['\bpro\b']
+preis_min = 60
+preis_max = 350
+
+[[suche]]
+name = "Seagate IronWolf 12TB"
+begriff = "seagate ironwolf 12tb"
+kategorie = "pc-zubehoer"
+muss = ['\b12\s*tb']
+nicht = ['\bpro\b']
+preis_min = 90
+preis_max = 500
+
+[[suche]]
+name = "WD Red Plus 4TB"
+begriff = "wd red plus 4tb"
+kategorie = "pc-zubehoer"
+muss = ['\b4\s*tb']
+nicht = ['\bpro\b']
+preis_min = 30
+preis_max = 200
+
+[[suche]]
+name = "WD Red Plus 8TB"
+begriff = "wd red plus 8tb"
+kategorie = "pc-zubehoer"
+muss = ['\b8\s*tb']
+nicht = ['\bpro\b']
+preis_min = 60
+preis_max = 350
+
+[[suche]]
+name = "Seagate Exos 16TB"
+begriff = "seagate exos 16tb"
+kategorie = "pc-zubehoer"
+muss = ['\b16\s*tb']
+preis_min = 100
+preis_max = 550
+
+[[suche]]
+name = "Seagate Exos 18TB"
+begriff = "seagate exos 18tb"
+kategorie = "pc-zubehoer"
+muss = ['\b18\s*tb']
+nicht = ['2x18', 'mach\.?\s*2']
+preis_min = 120
+preis_max = 650
+
+[[suche]]
+name = "Seagate Exos 20TB"
+begriff = "seagate exos 20tb"
+kategorie = "pc-zubehoer"
+muss = ['\b20\s*tb']
+preis_min = 150
+preis_max = 750
+
+[[suche]]
+name = "Synology DS220j"
+begriff = "synology ds220j"
+muss = ['220\s*j']
+nicht = ['festplatte\s+(einzeln|ohne)', 'netzteil', 'gehäuse']
+preis_min = 60
+preis_max = 300
+
+[[suche]]
+name = "Synology DS220+"
+begriff = "synology ds220"
+muss = ['220\s*(\+|plus)']
+nicht = ['220\s*j', 'netzteil']
+preis_min = 150
+preis_max = 700
+
+[[suche]]
+name = "Synology DS920+"
+begriff = "synology ds920"
+muss = ['920\s*(\+|plus)']
+nicht = ['netzteil']
+preis_min = 250
+preis_max = 1000
+
+[[suche]]
+name = "Synology DS923+"
+begriff = "synology ds923"
+muss = ['923\s*(\+|plus)']
+nicht = ['netzteil']
+preis_min = 350
+preis_max = 1100
+
+# ---------------- SSD (NVMe) ----------------
+[[suche]]
+name = "Samsung 990 Pro 2TB"
+begriff = "samsung 990 pro 2tb"
+kategorie = "pc-zubehoer"
+muss = ['990\s*pro', '\b2\s*tb']
+preis_min = 80
+preis_max = 350
+
+[[suche]]
+name = "WD Black SN850X 2TB"
+begriff = "wd black sn850x 2tb"
+kategorie = "pc-zubehoer"
+muss = ['850\s*x', '\b2\s*tb']
+preis_min = 80
+preis_max = 350
+
+[[suche]]
+name = "Samsung 970 Evo Plus 2TB"
+begriff = "samsung 970 evo plus 2tb"
+kategorie = "pc-zubehoer"
+muss = ['970\s*evo\s*plus', '\b2\s*tb']
+preis_min = 60
+preis_max = 280
+
+[[suche]]
+name = "Crucial P3 Plus 2TB"
+begriff = "crucial p3 plus 2tb"
+kategorie = "pc-zubehoer"
+muss = ['p3\s*plus', '\b2\s*tb']
+preis_min = 60
+preis_max = 250
+
+# ---------------- RAM fuer dein HP EliteBook 845 G8 (Eigenbedarf) ----------------
+# Nur DDR4 SO-DIMM (Notebook-RAM). Desktop-Riegel passen nicht.
+[[suche]]
+name = "EliteBook RAM 32GB SO-DIMM"
+begriff = "ddr4 sodimm 32gb"
+kategorie = "pc-zubehoer"
+muss = ['so-?\s*dimm|notebook|laptop', '\b32\s*gb']
+nicht = ['ddr5', 'ddr3', '\b64\s*gb', 'udimm', 'desktop', '\becc\b', 'rdimm', 'server']
+preis_min = 30
+preis_max = 250
+eigenbedarf = true
+mengen_erlaubt = true
+
+[[suche]]
+name = "EliteBook RAM 16GB SO-DIMM"
+begriff = "ddr4 sodimm 16gb"
+kategorie = "pc-zubehoer"
+muss = ['so-?\s*dimm|notebook|laptop', '\b16\s*gb']
+nicht = ['ddr5', 'ddr3', '\b(32|64)\s*gb', 'udimm', 'desktop', '\becc\b', 'rdimm', 'server']
+preis_min = 15
+preis_max = 130
+eigenbedarf = true
+mengen_erlaubt = true
+
+# ---------------- GRAFIKKARTEN ----------------
+[[suche]]
+name = "RTX 3060 12GB"
+begriff = "rtx 3060 12gb"
+kategorie = "pc-zubehoer"
+muss = ['3060']
+nicht = ['3060\s*ti', '\b8\s*gb', 'laptop', 'notebook', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate', 'wasserblock']
+preis_min = 120
+preis_max = 350
+
+[[suche]]
+name = "RTX 3070"
+begriff = "rtx 3070"
+kategorie = "pc-zubehoer"
+muss = ['3070']
+nicht = ['3070\s*ti', 'laptop', 'notebook', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate', 'wasserblock']
+preis_min = 150
+preis_max = 450
+
+[[suche]]
+name = "RTX 3080"
+begriff = "rtx 3080"
+kategorie = "pc-zubehoer"
+muss = ['3080']
+nicht = ['3080\s*ti', 'laptop', 'notebook', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate', 'wasserblock']
+preis_min = 200
+preis_max = 650
+
+[[suche]]
+name = "RTX 4060 Ti"
+begriff = "rtx 4060 ti"
+kategorie = "pc-zubehoer"
+muss = ['4060\s*ti']
+nicht = ['laptop', 'notebook', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate']
+preis_min = 200
+preis_max = 500
+
+[[suche]]
+name = "RTX 4070"
+begriff = "rtx 4070"
+kategorie = "pc-zubehoer"
+muss = ['4070']
+nicht = ['4070\s*(ti|super)', 'laptop', 'notebook', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate']
+preis_min = 300
+preis_max = 700
+
+[[suche]]
+name = "RTX 4070 Super"
+begriff = "rtx 4070 super"
+kategorie = "pc-zubehoer"
+muss = ['4070\s*super']
+nicht = ['4070\s*ti', 'laptop', 'notebook', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate']
+preis_min = 350
+preis_max = 800
+
+[[suche]]
+name = "RTX 4070 Ti Super"
+begriff = "rtx 4070 ti super"
+kategorie = "pc-zubehoer"
+muss = ['4070\s*ti\s*super']
+nicht = ['laptop', 'notebook', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate']
+preis_min = 500
+preis_max = 1100
+
+[[suche]]
+name = "RTX 4080"
+begriff = "rtx 4080"
+kategorie = "pc-zubehoer"
+muss = ['4080']
+nicht = ['laptop', 'notebook', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate']
+preis_min = 650
+preis_max = 1600
+
+[[suche]]
+name = "RX 6800 XT"
+begriff = "rx 6800 xt"
+kategorie = "pc-zubehoer"
+muss = ['6800\s*xt']
+nicht = ['laptop', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate']
+preis_min = 250
+preis_max = 600
+
+[[suche]]
+name = "RX 7800 XT"
+begriff = "rx 7800 xt"
+kategorie = "pc-zubehoer"
+muss = ['7800\s*xt']
+nicht = ['laptop', 'gaming[-\s]*pc', '\bpc\b', 'rechner', 'kühler', 'lüfter', 'backplate']
+preis_min = 300
+preis_max = 700
+
+# ---------------- CPUs ----------------
+[[suche]]
+name = "Ryzen 7 7800X3D"
+begriff = "ryzen 7 7800x3d"
+kategorie = "pc-zubehoer"
+muss = ['7800\s*x3d']
+nicht = ['mainboard', 'board', 'bundle', '\+', 'kühler', '\bram\b', 'aufrüst', '\bpc\b', 'laptop']
+preis_min = 180
+preis_max = 500
+
+[[suche]]
+name = "Ryzen 7 9800X3D"
+begriff = "ryzen 7 9800x3d"
+kategorie = "pc-zubehoer"
+muss = ['9800\s*x3d']
+nicht = ['mainboard', 'board', 'bundle', '\+', 'kühler', '\bram\b', 'aufrüst', '\bpc\b', 'laptop']
+preis_min = 300
+preis_max = 700
+
+[[suche]]
+name = "Ryzen 7 5800X3D"
+begriff = "ryzen 7 5800x3d"
+kategorie = "pc-zubehoer"
+muss = ['5800\s*x3d']
+nicht = ['mainboard', 'board', 'bundle', '\+', 'kühler', '\bram\b', 'aufrüst', '\bpc\b', 'laptop']
+preis_min = 120
+preis_max = 400
+
+[[suche]]
+name = "Intel i7-12700K"
+begriff = "i7 12700k"
+kategorie = "pc-zubehoer"
+muss = ['12700\s*k']
+nicht = ['mainboard', 'board', 'bundle', '\+', 'kühler', '\bram\b', 'aufrüst', '\bpc\b', 'laptop']
+preis_min = 120
+preis_max = 350
+
+[[suche]]
+name = "Intel i5-13600K"
+begriff = "i5 13600k"
+kategorie = "pc-zubehoer"
+muss = ['13600\s*k']
+nicht = ['mainboard', 'board', 'bundle', '\+', 'kühler', '\bram\b', 'aufrüst', '\bpc\b', 'laptop']
+preis_min = 120
+preis_max = 350
+
+[[suche]]
+name = "Intel i7-14700K"
+begriff = "i7 14700k"
+kategorie = "pc-zubehoer"
+muss = ['14700\s*k']
+nicht = ['mainboard', 'board', 'bundle', '\+', 'kühler', '\bram\b', 'aufrüst', '\bpc\b', 'laptop']
+preis_min = 200
+preis_max = 500
+
+# ---------------- RAM (Desktop, Weiterverkauf) ----------------
+[[suche]]
+name = "DDR5 32GB 6000"
+begriff = "ddr5 32gb 6000"
+kategorie = "pc-zubehoer"
+muss = ['\b32\s*gb', '6000']
+nicht = ['so-?\s*dimm', 'notebook', 'laptop', '\b64\s*gb', '\bpc\b']
+preis_min = 50
+preis_max = 500
+mengen_erlaubt = true
+
+# ---------------- SERVER / MINI-PCs ----------------
+[[suche]]
+name = "HP MicroServer Gen10 Plus"
+begriff = "microserver gen10 plus"
+kategorie = "pcs"
+muss = ['gen\s*10\s*plus']
+preis_min = 150
+preis_max = 1100
+
+[[suche]]
+name = "Fujitsu Primergy TX1320 M4"
+begriff = "fujitsu tx1320 m4"
+kategorie = "pcs"
+muss = ['1320', '\bm4\b']
+nicht = ['mainboard', 'netzteil']
+preis_min = 100
+preis_max = 800
+
+[[suche]]
+name = "Lenovo ThinkCentre M920q"
+begriff = "lenovo m920q"
+kategorie = "pcs"
+muss = ['m920\s*q']
+preis_min = 70
+preis_max = 400
+
+# ---------------- RASPBERRY PI 5 (bisher selten ergiebig -> nur jeden 4. Lauf) ----------------
+[[suche]]
+name = "Raspberry Pi 5 8GB"
+begriff = "raspberry pi 5 8gb"
+muss = ['pi\s*5|pi5', '\b8\s*gb']
+nicht = ['pi\s*4|pi4', 'cm\s*5', 'compute', '\b500\b', '\b16\s*gb', '\b4\s*gb', '\b2\s*gb']
+preis_min = 50
+preis_max = 250
+alle = 4
+
+[[suche]]
+name = "Raspberry Pi 5 16GB"
+begriff = "raspberry pi 5 16gb"
+muss = ['pi\s*5|pi5', '\b16\s*gb']
+nicht = ['pi\s*4|pi4', 'cm\s*5', 'compute', '\b500\b']
+preis_min = 80
+preis_max = 350
+alle = 4
+
+# ---------------- LAPTOPS (zum Weiterverkaufen) ----------------
+[[suche]]
+name = "ThinkPad T14 Gen 2"
+begriff = "thinkpad t14 gen 2"
+kategorie = "notebooks"
+muss = ['t14\b', 'gen\s*2']
+nicht = ['t14s', 'defekt', 'bastler', 'display\s*(defekt|kaputt|gebrochen)', 'mainboard', 'ersatzteil']
+preis_min = 150
+preis_max = 500
+
+[[suche]]
+name = "ThinkPad T14 Gen 3"
+begriff = "thinkpad t14 gen 3"
+kategorie = "notebooks"
+muss = ['t14\b', 'gen\s*3']
+nicht = ['t14s', 'defekt', 'bastler', 'ersatzteil']
+preis_min = 250
+preis_max = 750
+
+[[suche]]
+name = "ThinkPad X1 Carbon Gen 9"
+begriff = "x1 carbon gen 9"
+kategorie = "notebooks"
+muss = ['x1', 'gen\s*9']
+nicht = ['defekt', 'bastler', 'ersatzteil']
+preis_min = 250
+preis_max = 700
+
+[[suche]]
+name = "ThinkPad X1 Carbon Gen 10"
+begriff = "x1 carbon gen 10"
+kategorie = "notebooks"
+muss = ['x1', 'gen\s*10']
+nicht = ['defekt', 'bastler', 'ersatzteil']
+preis_min = 300
+preis_max = 800
+
+[[suche]]
+name = "ThinkPad L14 Gen 3"
+begriff = "thinkpad l14 gen 3"
+kategorie = "notebooks"
+muss = ['l14', 'gen\s*3']
+nicht = ['defekt', 'bastler', 'ersatzteil']
+preis_min = 180
+preis_max = 550
+
+[[suche]]
+name = "EliteBook 840 G8"
+begriff = "elitebook 840 g8"
+kategorie = "notebooks"
+muss = ['840\s*g8']
+nicht = ['defekt', 'bastler', 'ersatzteil', 'mainboard']
+preis_min = 150
+preis_max = 500
+alle = 2
+
+[[suche]]
+name = "Dell Latitude 7420"
+begriff = "latitude 7420"
+kategorie = "notebooks"
+muss = ['7420']
+nicht = ['defekt', 'bastler', 'ersatzteil', 'mainboard']
+preis_min = 120
+preis_max = 450
+alle = 2
+
+[[suche]]
+name = "MacBook Air M1"
+begriff = "macbook air m1"
+kategorie = "notebooks"
+muss = ['air', '\bm1\b']
+nicht = ['defekt', 'bastler', 'ersatzteil', 'icloud', 'gesperrt', 'hülle', 'case', 'tasche', 'ladekabel', 'netzteil$']
+preis_min = 250
+preis_max = 650
+
+[[suche]]
+name = "MacBook Air M2"
+begriff = "macbook air m2"
+kategorie = "notebooks"
+muss = ['air', '\bm2\b']
+nicht = ['defekt', 'bastler', 'ersatzteil', 'icloud', 'gesperrt', 'hülle', 'case', 'tasche']
+preis_min = 350
+preis_max = 900
