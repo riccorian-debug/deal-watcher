@@ -244,7 +244,7 @@ def parse_search(html: str) -> list[dict]:
             "ship": bool(re.search(r"Versand möglich|Direkt kaufen", full)),
             "direct": "Direkt kaufen" in full,
             "gesuch": bool(re.search(r"^\s*(Gesuch|Suche)\b", title, re.I)) or bool(art.select_one("[class*='gesuch'], [class*='wanted']")),
-            "ort": loc.get_text(" ", strip=True) if loc else "",
+            "ort": loc.get_text(" ", strip=True) if loc else ((re.search(r"\b\d{5}\s+[A-ZÄÖÜ][a-zäöüß.\-]+(?:\s+-\s+[A-ZÄÖÜ][\wäöüß.\-]+)?", full) or [""])[0].strip()),
             "datum": when.get_text(" ", strip=True) if when else "",
         })
     if not items:  # Notfall-Parser, falls sich das Seitenlayout aendert
@@ -299,6 +299,8 @@ def parse_detail(html: str) -> dict:
     d["category"] = crumb.get_text(" > ", strip=True) if crumb else ""
     desc = soup.select_one("#viewad-description-text")
     d["desc"] = desc.get_text(" ", strip=True) if desc else main
+    d["unsafe_pay"] = bool(re.search(r"freunde|familie|überweisung|vorkasse|nur\s+bar", d["desc"], re.I)) \
+        and not re.search(r"waren\s*(&|und)\s*dienst|käuferschutz|sicher\s+bezahlen", d["desc"], re.I)
     return d
 
 
@@ -385,6 +387,8 @@ def assess(cand: dict, d: dict, cfg: dict) -> tuple[int | None, list[str], str |
         notes.append("keine Bewertungssiegel")
     if d["direct"] or cand.get("direct"):
         notes.append("Direkt kaufen mit Käuferschutz")
+    elif d.get("unsafe_pay"):
+        notes.append("will Zahlung ohne Käuferschutz (Überweisung/PayPal Freunde) – auf „Sicher bezahlen“ bestehen")
     return mod, notes, None
 
 
@@ -405,10 +409,10 @@ def qualify(it: dict, pool: dict, q: dict, cfg: dict) -> dict | None:
         return None
     if cfg["nur_mit_versand"] and not it["ship"]:
         return None
-    return {**it, "query": q["name"], "median": med, "n": len(others), "discount": disc, "own_use": own_use}
+    return {**it, "query": q["name"], "kategorie": q.get("kategorie"), "median": med, "n": len(others), "discount": disc, "own_use": own_use}
 
 
-PENDING_KEYS = ("id", "url", "title", "vb", "ship", "direct", "gesuch", "ort", "datum", "query")
+PENDING_KEYS = ("id", "url", "title", "vb", "ship", "direct", "gesuch", "ort", "datum", "query", "kategorie")
 
 
 def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[list[dict], dict]:
@@ -439,6 +443,7 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
             if every > 1 and (run_no - 1) % every:
                 continue
             pool = pools.setdefault(q["name"], {})
+            bootstrap = not pool  # neue Suche: erst Preisbasis sammeln, alte Anzeigen nicht als "neu" melden
             pages = 1 if len(pool) >= cfg["min_vergleiche"] else min(int(cfg["startseiten"]), 5)
             seen: dict[str, dict] = {}
             for page in range(1, pages + 1):
@@ -458,7 +463,7 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
                 pool[it["id"]] = [it["price"], t0.isoformat(), prev[2] if prev else t0.isoformat()]
                 is_new = prev is None
                 cheaper = prev is not None and it["price"] < prev[0] - 0.5
-                if (is_new or cheaper) and it["id"] not in reported:
+                if (is_new or cheaper) and it["id"] not in reported and not bootstrap:
                     fresh.append(it)
             # alte Vergleichspreise aufraeumen
             limit = (t0 - dt.timedelta(days=int(cfg["pool_tage"]))).isoformat()
@@ -466,7 +471,7 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
                 del pool[k]
             med_all = trimmed_median([v[0] for v in pool.values()]) if pool else None
             print(f"- {q['name']}: {len(seen)} Anzeigen, {len(relevant)} passend, Pool {len(pool)}"
-                  + (f", Marktpreis ~{fmt_eur(med_all)}" if med_all else "") + f", neu/billiger {len(fresh)}")
+                  + (f", Marktpreis ~{fmt_eur(med_all)}" if med_all else "") + f", neu/billiger {len(fresh)}" + (" (erster Lauf: nur Preisbasis)" if bootstrap else ""))
             if seen and not relevant:  # Diagnose, falls nichts passt
                 reasons: dict[str, int] = {}
                 for it in seen.values():
@@ -557,6 +562,8 @@ def compose(hits: list[dict]) -> tuple[str, str]:
             f"   Marktpreis: ~{fmt_eur(h['median'])} (Median aus {h['n']} Anzeigen \"{h['query']}\")"
             f" -> {h['discount']:.0f} % günstiger",
         ]
+        if h.get("kategorie") in ("notebooks", "pcs"):
+            lines.append("   Achtung: Marktpreis mischt Ausstattungen – CPU/RAM/SSD mit ähnlichen Anzeigen vergleichen")
         if h["own_use"]:
             lines.append("   Eigenbedarf (EliteBook-Upgrade) – passt: DDR4 SO-DIMM bzw. M.2 NVMe laut Titel")
         else:

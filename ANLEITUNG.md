@@ -99,6 +99,29 @@ steht dort nicht. Wird es zu viel: in **Meins → Suchaufträge** einzelne Mitte
 
 Dann erscheint bei jedem Deal zusätzlich ein Windows-Popup, solange der Browser läuft.
 
+---
+
+## Updates einspielen (wichtig)
+
+Neue Versionen von `deal_watcher.py`, `config.toml` oder `deal-watcher.yml` einfach per
+**Add file → Upload files** hochladen (bzw. die yml im Ordner `.github/workflows`), alte Dateien werden ersetzt.
+
+**`state.json` nie erneut hochladen!** Darin sammelt der Deal-Watcher die Marktpreise und merkt sich,
+was er schon gemeldet hat. Eine alte Version würde das zurücksetzen.
+
+## Was steht im Protokoll?
+
+Actions → Lauf → suche → **Angebote suchen**:
+
+- `RTX 3080: 43 Anzeigen, 35 passend, Pool 120, Marktpreis ~400 €, neu/billiger 2` – alles in Ordnung.
+- `(erster Lauf: nur Preisbasis)` – neue Suche, beim ersten Mal wird nur gesammelt, nichts gemeldet.
+- `Diagnose: kein Preis 28x` – kleinanzeigen hat das Seitenlayout geändert → Protokoll an Claude schicken.
+- `x … – nur Abholung / Defekt / Konto erst … Tage alt` – Kandidat geprüft und bewusst aussortiert.
+- `Zugriff blockiert` – kleinanzeigen sperrt kurz; der Deal-Watcher pausiert automatisch.
+
+Bei Laptops und PCs mischt der Marktpreis verschiedene Ausstattungen (i5/i7, 8/16 GB). Vor dem Kauf
+CPU, RAM und SSD kurz mit ähnlichen Anzeigen vergleichen – die Mail weist darauf hin.
+
 ## Plan B: auf eigenem Gerät laufen lassen
 
 Falls GitHub dauerhaft gesperrt wird: ein Gerät, das dauerhaft läuft (PC, Raspberry Pi, Homeserver, Python 3.11+).
