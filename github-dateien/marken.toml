@@ -1,0 +1,246 @@
+# ============================================================================
+#  Marken und Qualitaetsstufen
+#  Der Deal-Watcher vergleicht Preise NUR innerhalb derselben Stufe und meldet Stufe C (und
+#  Anzeigen ohne erkennbare Marke, wenn die Gruppe "unbekannt = C" hat) standardmaessig nicht.
+#
+#   Stufe A = etablierte Markenhersteller          (Crucial, Samsung, ThinkPad, Synology ...)
+#   Stufe B = akzeptable Mittelklasse / OEM          (Lexar, Ramaxel, Acer, Beelink ...)
+#   Stufe C = No-Name / China-Billigware             (Fanxiang, KingSpec, Chuwi ...)
+#
+#  Regeln zur Stufenbestimmung (in dieser Reihenfolge):
+#   1. Steht ein Name aus C im Titel -> Stufe C (eine Billigmarke entwertet die Anzeige).
+#   2. modell_A / modell_B = Modellreihen, die schon allein die Stufe festlegen (z. B. "thinkpad" = A).
+#   3. Sonst gilt der Markenname aus A oder B, der im Titel zuerst steht.
+#   4. Sonst "unbekannt": die Stufe steht in der Zeile  unbekannt = "B" oder "C".
+#
+#  Alle Eintraege sind Suchmuster (Regex, Gross/Klein egal, Umlaute egal). Marken-Eintraege (A, B, C) muessen als
+#  ganzes Wort im Titel stehen; modell_A/modell_B duerfen Ziffern direkt anhaengen (z. B. 'rtx\s?\d{4}').
+#  Backslashes immer in einfachen Anfuehrungszeichen ('...') schreiben.
+#
+#  ignoriere = Mangel-Regeln, die fuer diese Gruppe normal sind (z. B. NAS werden ohne Festplatten verkauft).
+# ============================================================================
+
+# ----------------------------------------------------------------- Arbeitsspeicher
+[gruppe.ram]
+unbekannt = "B"      # viele private Riegel sind unbeschriftete Laptop-Ausbauten (meist Samsung/Hynix/Micron)
+A = ['crucial', 'samsung', 'sk\s?hynix', 'hynix', 'micron', 'kingston', 'corsair', 'g\.?\s?skill', 'patriot',
+     'team\s?group', 'teamgroup', 'adata', 'xpg', 'mushkin', 'hyperx', 'fury', 'vengeance', 'ripjaws', 'trident',
+     'dominator', 'viper']
+B = ['lexar', 'ramaxel', 'silicon\s?power', 'transcend', 'pny', 'apacer', 'goodram', 'nanya', 'gloway', 'kingmax',
+     'v-?color', 'oloy']
+C = ['fanxiang', 'kingspec', 'walram', 'netac', 'hikvision', 'hiksemi', 'kllisre', 'aiwanlily', 'zifei', 'biwintech',
+     'maxsun', 'no\s?name', 'noname', 'ohne\s+marke', 'china']
+
+# ----------------------------------------------------------------- SSD
+[gruppe.ssd]
+unbekannt = "C"
+modell_A = ['990\s?pro', '980\s?pro', '970\s?evo', 'sn850x?', 'sn770', 'sn580', 'p3\s?plus', 'p5\s?plus', 'mx500']
+A = ['samsung', 'wd', 'western\s?digital', 'sandisk', 'crucial', 'kingston', 'sk\s?hynix', 'hynix', 'solidigm',
+     'intel', 'seagate', 'firecuda', 'corsair', 'micron', 'sabrent']
+B = ['lexar', 'patriot', 'gigabyte', 'aorus', 'msi', 'spatium', 'team\s?group', 'teamgroup', 'adata', 'xpg', 'pny',
+     'transcend', 'silicon\s?power', 'toshiba', 'kioxia', 'lite-?on']
+C = ['kingspec', 'fanxiang', 'netac', 'hikvision', 'hiksemi', 'aiwanlily', 'walram', 'kllisre', 'zheino',
+     'goldenfir', 'ediloca', 'orico', 'ssk', 'biwin', 'no\s?name', 'noname', 'ohne\s+marke', 'china']
+
+# ----------------------------------------------------------------- Festplatten
+[gruppe.hdd]
+unbekannt = "C"
+modell_A = ['ironwolf', 'exos', 'barracuda\s?pro', 'ultrastar', 'wd\s?red', 'wd\s?gold', 'wd\s?ultrastar',
+            'n300', 'mg0\d', 'huh7\d', 'hus7\d', 'wd\d{2}e']
+A = ['seagate', 'wd', 'western\s?digital', 'toshiba', 'hgst', 'hitachi']
+B = ['intenso', 'maxtor', 'samsung', 'fujitsu']
+C = ['netac', 'kingspec', 'fanxiang', 'walram', 'no\s?name', 'noname', 'ohne\s+marke', 'china']
+
+# ----------------------------------------------------------------- NAS
+[gruppe.nas]
+unbekannt = "C"
+ignoriere = ['unvollstaendig_speicher']
+modell_A = ['diskstation', 'rackstation', 'ds\d{3,4}\+?j?', 'ts-?\d{3,4}']
+A = ['synology', 'qnap']
+B = ['asustor', 'terramaster', 'ugreen', 'zyxel', 'netgear', 'buffalo', 'western\s?digital', 'wd']
+C = ['zimaboard', 'no\s?name', 'noname', 'ohne\s+marke', 'china']
+
+# ----------------------------------------------------------------- Server
+[gruppe.server]
+unbekannt = "B"
+ignoriere = ['unvollstaendig_speicher']
+modell_A = ['proliant', 'microserver', 'primergy', 'poweredge', 'thinksystem', 'supermicro']
+A = ['hpe', 'hp', 'dell', 'fujitsu', 'lenovo', 'supermicro']
+C = ['no\s?name', 'noname', 'ohne\s+marke', 'china']
+
+# ----------------------------------------------------------------- Grafikkarten
+[gruppe.gpu]
+unbekannt = "B"      # Modell (RTX/RX) steht fast immer im Titel -> gilt als A, auch ohne Herstellername
+modell_A = ['rtx\s?\d{4}', 'gtx\s?\d{3,4}', 'geforce', 'radeon', 'rx\s?\d{4}', 'arc\s?a\d{3}']
+A = ['asus', 'rog', 'tuf', 'msi', 'gigabyte', 'aorus', 'zotac', 'palit', 'gainward', 'pny', 'evga', 'sapphire',
+     'xfx', 'powercolor', 'asrock', 'nvidia', 'inno3d', 'galax', 'sparkle']
+B = ['colorful', 'gunnir', 'peladn', 'yeston']
+C = ['soyo', 'maxsun', 'kllisre', 'jieshuo', 'mllse', 'machinist', 'huananzhi', 'ohne\s+marke', 'no\s?name',
+     'noname', 'mining\s+(?:edition|karte)', '2048\s?sp', 'china']
+
+# ----------------------------------------------------------------- Prozessoren
+[gruppe.cpu]
+unbekannt = "B"
+modell_A = ['ryzen\s?\d', 'core\s?i[3579]', 'core\s?ultra', '\bi[3579]-?\d{4,5}', 'threadripper']
+A = ['amd', 'intel']
+C = ['engineering\s+sample', 'qualification\s+sample', '\bes\b', '\bqs\b', 'xeon\s+e5', 'e5-?26\d{2}', 'kllisre',
+     'huananzhi', 'machinist', 'china']
+
+# ----------------------------------------------------------------- Laptops
+[gruppe.laptop]
+unbekannt = "C"
+modell_A = ['thinkpad', 'elitebook', 'zbook', 'latitude', 'precision', 'macbook', 'surface\s+(?:laptop|pro)', 'xps',
+            'x1\s?carbon', 't1[0-9]s?\b', 't4\d0s?\b', 'l1[345]\b', 'p1[45]s?\b', 'x13\b', 'x390\b']
+modell_B = ['ideapad', 'yoga', 'pavilion', 'envy', 'inspiron', 'vostro', 'probook', 'aspire', 'swift', 'nitro',
+            'predator', 'vivobook', 'zenbook', 'legion', 'victus', 'omen', 'loq', 'katana', 'travelmate']
+A = ['apple']
+B = ['lenovo', 'hp', 'dell', 'acer', 'asus', 'msi', 'medion', 'huawei', 'samsung', 'microsoft']
+C = ['chuwi', 'teclast', 'jumper', 'alldocube', 'ninkear', 'kuu', 'blackview', 'bmax', 'vorke', 'no\s?name',
+     'noname', 'ohne\s+marke', 'china']
+
+# ----------------------------------------------------------------- Mini-PCs
+[gruppe.minipc]
+unbekannt = "C"
+modell_A = ['thinkcentre', 'm[79]\d0\s?q', 'elitedesk', 'prodesk', 'optiplex', 'nuc']
+A = ['asus']
+B = ['beelink', 'minisforum', 'gmktec', 'zotac', 'shuttle', 'lenovo', 'hp', 'dell']
+C = ['nipogi', 'kamrui', 'acemagic', 'chuwi', 'trigkey', 'ninkear', 'morefine', 'vorke', 'no\s?name', 'noname',
+     'ohne\s+marke', 'china']
+
+# ----------------------------------------------------------------- Netzteile
+[gruppe.psu]
+unbekannt = "C"
+A = ['corsair', 'be\s?quiet', 'seasonic', 'msi', 'evga', 'fractal', 'nzxt', 'thermaltake', 'asus', 'super\s?flower']
+B = ['chieftec', 'cooler\s?master', 'enermax', 'fsp', 'silverstone', 'xilence', 'deepcool', 'gigabyte', 'aerocool']
+C = ['segotep', 'aigo', 'no\s?name', 'noname', 'ohne\s+marke', 'china']
+
+# ============================================================================
+#  Mindestpreise gegen Fake-Angebote und Kapazitaetsbetrug (Titel passt zum Muster UND Preis liegt darunter
+#  -> Anzeige wird ignoriert). Die Werte sind bewusst sehr niedrig angesetzt (ca. 25-35 % des Marktpreises),
+#  damit nur offensichtlicher Betrug rausfliegt. Bei grossen Preisaenderungen am Markt anpassen.
+#  Reihenfolge wichtig: die erste passende Zeile je Gruppe zaehlt (grosse Kapazitaeten zuerst).
+# ============================================================================
+[[preisboden]]
+gruppe = "ssd"
+muster = '\b4\s?tb'
+unter = 110
+[[preisboden]]
+gruppe = "ssd"
+muster = '\b2\s?tb'
+unter = 55
+[[preisboden]]
+gruppe = "ssd"
+muster = '\b1\s?tb'
+unter = 25
+[[preisboden]]
+gruppe = "ssd"
+muster = '\b512\s?gb'
+unter = 12
+
+[[preisboden]]
+gruppe = "hdd"
+muster = '\b2\d\s?tb'
+unter = 150
+[[preisboden]]
+gruppe = "hdd"
+muster = '\b1[6-8]\s?tb'
+unter = 105
+[[preisboden]]
+gruppe = "hdd"
+muster = '\b1[0-4]\s?tb'
+unter = 65
+[[preisboden]]
+gruppe = "hdd"
+muster = '\b[6-9]\s?tb'
+unter = 38
+[[preisboden]]
+gruppe = "hdd"
+muster = '\b[2-5]\s?tb'
+unter = 20
+
+[[preisboden]]
+gruppe = "ram"
+muster = '\b64\s?gb'
+unter = 70
+[[preisboden]]
+gruppe = "ram"
+muster = '\b32\s?gb'
+unter = 40
+[[preisboden]]
+gruppe = "ram"
+muster = '\b16\s?gb'
+unter = 18
+
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?5090'
+unter = 1300
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?5080'
+unter = 600
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?5070'
+unter = 350
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?4090'
+unter = 900
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?4080'
+unter = 450
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?4070'
+unter = 200
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?4060'
+unter = 120
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?3080'
+unter = 150
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?3070'
+unter = 110
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rtx\s?3060'
+unter = 80
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rx\s?7800'
+unter = 250
+[[preisboden]]
+gruppe = "gpu"
+muster = 'rx\s?6800'
+unter = 130
+
+[[preisboden]]
+gruppe = "cpu"
+muster = '9800x3d'
+unter = 250
+[[preisboden]]
+gruppe = "cpu"
+muster = '7800x3d'
+unter = 150
+[[preisboden]]
+gruppe = "cpu"
+muster = '5800x3d'
+unter = 90
+[[preisboden]]
+gruppe = "cpu"
+muster = '14700k'
+unter = 120
+[[preisboden]]
+gruppe = "cpu"
+muster = '13600k'
+unter = 80
+[[preisboden]]
+gruppe = "cpu"
+muster = '12700k'
+unter = 60
