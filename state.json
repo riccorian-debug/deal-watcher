@@ -360,9 +360,24 @@
   "3543018395": "2026-10-17",
   "3543023019": "2026-10-17"
  },
- "laeufe": 190,
- "letzter_lauf": "2026-10-17T08:49:47",
- "offen": {},
+ "laeufe": 191,
+ "letzter_lauf": "2026-10-17T09:47:23",
+ "offen": {
+  "3542496979": {
+   "bis": "2026-10-20",
+   "datum": "",
+   "direct": true,
+   "gesuch": false,
+   "id": "3542496979",
+   "kategorie": "pc-zubehoer",
+   "ort": "22763 Hamburg",
+   "query": "Seagate IronWolf 8TB",
+   "ship": true,
+   "title": "Seagate IronWolf 8TB NAS HDD (ST8000VN004) – Top, 0 Fehler",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/seagate-ironwolf-8tb-nas-hdd-st8000vn004-top-0-fehler/3542496979-225-9505",
+   "vb": false
+  }
+ },
  "pools": {
   "Crucial P3 Plus 2TB": {
    "3504508010": [
@@ -16273,7 +16288,7 @@
     "2026-10-15"
    ],
    "3542496979": [
-    160.0,
+    150.0,
     "2026-10-17",
     "2026-10-16"
    ],
@@ -17656,7 +17671,7 @@
  "zustand": {
   "leer_in_folge": 0,
   "letzte_warnung": "",
-  "pause_bis": "2026-10-16T20:54:18",
-  "pause_h": 6
+  "pause_bis": "2026-10-17T21:47:23",
+  "pause_h": 12
  }
 }
