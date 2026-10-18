@@ -144,7 +144,7 @@ name = "Synology DS920+"
 gruppe = "nas"
 begriff = "synology ds920"
 muss = ['920\s*(\+|plus)']
-nicht = ['netzteil', '\d+\s*tb', 'inkl', 'mit\s+(\d|2x|zwei|festplatt|hdd|platten|wd|seagate)']
+nicht = ['netzteil', '\d+\s*tb', 'inkl', 'mit\s+(\d+\s*x|\d+\s*tb|2x|zwei|vier|festplatt|hdd|platten|wd|seagate)']
 preis_min = 250
 preis_max = 1000
 
@@ -153,7 +153,7 @@ name = "Synology DS923+"
 gruppe = "nas"
 begriff = "synology ds923"
 muss = ['923\s*(\+|plus)']
-nicht = ['netzteil', '\d+\s*tb', 'inkl', 'mit\s+(\d|2x|zwei|festplatt|hdd|platten|wd|seagate)']
+nicht = ['netzteil', '\d+\s*tb', 'inkl', 'mit\s+(\d+\s*x|\d+\s*tb|2x|zwei|vier|festplatt|hdd|platten|wd|seagate)']
 preis_min = 350
 preis_max = 1100
 
