@@ -672,5 +672,11 @@ check("Ohne Takt: gegen Anzeigen ohne Takt verglichen und Mail nennt fehlende An
       h_rt2 and h_rt2[0]["merkmale"]["takt"] is None and "fehlende Angaben vor dem Kauf erfragen" in W.compose(h_rt2)[1]
       and 120 <= h_rt2[0]["median"] <= 135)
 
+check("Ventus 3X / Windforce 3X ist keine Sammelanzeige", not W.LOT_RE.search("MSI RTX 3080 Ventus 3X 10GB") and not W.LOT_RE.search("Gigabyte RTX 4070 Windforce 3X OC"))
+check("2x 16GB bleibt Mengenangabe", bool(W.LOT_RE.search("2x 16GB DDR4")) and bool(W.LOT_RE.search("3x Shelly 2.5")))
+q_ds = next(q for q in queries if q["name"] == "Synology DS920+")
+check("DS920+ mit 8GB RAM passt", W.why_not(itx("Synology DS920+ NAS mit 8GB RAM", 400), q_ds) is None)
+check("DS920+ mit 4x 4TB bleibt draußen", W.why_not(itx("Synology DS920+ mit 4x 4TB", 600), q_ds) is not None)
+
 print("\nFEHLER:", fails)
 sys.exit(1 if fails else 0)

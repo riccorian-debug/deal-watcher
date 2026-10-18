@@ -96,7 +96,7 @@ ALL_BADGES = POSITIVE_BADGES + ["OK Zufriedenheit", "Na ja Zufriedenheit", "Freu
 TITLE_EXCLUDE = re.compile(
     r"defekt|kaputt|bastler|für\s+teile|\bsuche\b|\bsuchen\b|gesucht|\btausch|ankauf|wir\s+kaufen|"
     r"reserviert|verkauft\b", re.I)
-LOT_RE = re.compile(r"(^|\s)\d+\s*[x×]\s|\b\d+\s*(stück|stk)\b|konvolut|sammlung", re.I)
+LOT_RE = re.compile(r"(?<!ventus)(?<!windforce)(?<!ventus\s\d)(^|\s)\d+\s*[x×]\s|\b\d+\s*(stück|stk)\b|konvolut|sammlung", re.I)
 PRICE_RE = re.compile(r"(\d{1,3}(?:\.\d{3})+|\d+)(?:,(\d{1,2}))?\s*€")
 
 

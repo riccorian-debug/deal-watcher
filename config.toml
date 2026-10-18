@@ -16,9 +16,10 @@ noname_melden        = false  # Stufe C (No-Name/China-Billigware, siehe marken.
 b_mit_a_vergleichen  = true   # Mittelklasse (Stufe B) darf mit Markenware (A) verglichen werden, wenn B zu wenige Vergleiche hat
 b_abschlag_prozent   = 15     # ... dann aber mit diesem Abschlag auf den Markenware-Marktpreis
 soft_abzug           = 2      # Punkte Abzug, wenn die Beschreibung unklare Hinweise enthaelt (z. B. "Reparatur", "Geraeusche")
-max_neue_suchen_pro_lauf = 8  # neue Suchen bauen ihre Preisbasis verteilt auf mehrere Laeufe auf (schont kleinanzeigen)
-pause_min_s          = 1.5    # Pause zwischen Seitenabrufen (hoeflich bleiben, nicht gesperrt werden)
-pause_max_s          = 3.5
+max_neue_suchen_pro_lauf = 5  # neue Suchen bauen ihre Preisbasis verteilt auf mehrere Laeufe auf (schont kleinanzeigen)
+startseiten          = 2      # Seiten pro Suche beim ersten Aufbau der Preisbasis (weniger = seltener gesperrt)
+pause_min_s          = 3.0    # Pause zwischen Seitenabrufen (hoeflich bleiben, nicht gesperrt werden)
+pause_max_s          = 6.0
 
 # ----------------------------------------------------------------------------
 #  Suchbegriffe
@@ -542,7 +543,7 @@ preis_max = 900
 # ============================================================================
 #  NEU (Oktober 2026): Eigenbedarf Studium, Smart Home, Arbeitsplatz,
 #  Business-Zubehoer, Server-Speicher, Akku-Werkzeug, Konvolute & Makel-Laptops
-#  Die meisten laufen nur jeden 2./3. Lauf (alle = 2/3), damit kleinanzeigen nicht zu viele Abrufe sieht.
+#  Diese laufen nur jeden 3./4. Lauf (alle = 3/4), damit kleinanzeigen nicht zu viele Abrufe sieht.
 # ============================================================================
 
 # ---------------- MESSTECHNIK (Eigenbedarf, behaelt den Wert) ----------------
@@ -556,7 +557,7 @@ preis_min = 120
 preis_max = 450
 eigenbedarf = true
 eigenbedarf_hinweis = "Oszilloskop fürs Studium (Rigol DHO800, 12 Bit)"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Rigol DS1054Z Oszilloskop"
@@ -567,7 +568,7 @@ preis_min = 120
 preis_max = 450
 eigenbedarf = true
 eigenbedarf_hinweis = "Oszilloskop fürs Studium (Rigol DS1000Z)"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Siglent SDS1104X-E"
@@ -578,7 +579,7 @@ preis_min = 150
 preis_max = 550
 eigenbedarf = true
 eigenbedarf_hinweis = "Oszilloskop fürs Studium (Siglent SDS1000X-E)"
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Fluke 87V Multimeter"
@@ -590,7 +591,7 @@ preis_min = 80
 preis_max = 400
 eigenbedarf = true
 eigenbedarf_hinweis = "Profi-Multimeter fürs Labor"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Fluke 115/117 Multimeter"
@@ -602,7 +603,7 @@ preis_min = 50
 preis_max = 250
 eigenbedarf = true
 eigenbedarf_hinweis = "Multimeter (Fluke 115/117)"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Labornetzteil 30V 5A"
@@ -613,7 +614,7 @@ preis_min = 25
 preis_max = 200
 eigenbedarf = true
 eigenbedarf_hinweis = "Labornetzteil für Elektronik-Projekte"
-alle = 3
+alle = 4
 
 # ---------------- LOETEN (Eigenbedarf) ----------------
 [[suche]]
@@ -625,7 +626,7 @@ preis_min = 40
 preis_max = 200
 eigenbedarf = true
 eigenbedarf_hinweis = "Lötstation (Weller WE1010/WT1010)"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Weller WTCP-S"
@@ -636,7 +637,7 @@ preis_min = 30
 preis_max = 150
 eigenbedarf = true
 eigenbedarf_hinweis = "Lötstation (Weller Magnastat, robust, Ersatzspitzen günstig)"
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Pinecil Lötkolben"
@@ -647,7 +648,7 @@ preis_min = 10
 preis_max = 80
 eigenbedarf = true
 eigenbedarf_hinweis = "USB-C-Lötkolben (Pinecil)"
-alle = 3
+alle = 4
 
 # ---------------- MIKROCONTROLLER / SMART HOME (Eigenbedarf) ----------------
 [[suche]]
@@ -661,7 +662,7 @@ preis_max = 120
 mengen_erlaubt = true
 eigenbedarf = true
 eigenbedarf_hinweis = "Elektronik-Set für Projekte (Arduino/ESP32 + Sensoren)"
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Zigbee-Stick"
@@ -673,7 +674,7 @@ preis_min = 8
 preis_max = 60
 eigenbedarf = true
 eigenbedarf_hinweis = "Zigbee-Koordinator für Home Assistant (Smart-Room-Projekt)"
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Home Assistant Green/Yellow"
@@ -684,7 +685,7 @@ preis_min = 40
 preis_max = 160
 eigenbedarf = true
 eigenbedarf_hinweis = "Home-Assistant-Zentrale (Smart-Room-Projekt)"
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Shelly Plus Plug S"
@@ -695,7 +696,7 @@ preis_min = 5
 preis_max = 40
 eigenbedarf = true
 eigenbedarf_hinweis = "Zwischenstecker mit Verbrauchsmessung – ohne Elektroinstallation nutzbar"
-alle = 3
+alle = 4
 
 # ---------------- ARBEITSPLATZ (Eigenbedarf + Weiterverkauf) ----------------
 [[suche]]
@@ -706,7 +707,7 @@ kategorie = "pc-zubehoer"
 muss = ['u2722d']
 preis_min = 80
 preis_max = 350
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Dell UltraSharp U2723QE"
@@ -716,7 +717,7 @@ kategorie = "pc-zubehoer"
 muss = ['u2723qe']
 preis_min = 150
 preis_max = 550
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Dell UltraSharp U2719D"
@@ -726,7 +727,7 @@ kategorie = "pc-zubehoer"
 muss = ['u2719d']
 preis_min = 60
 preis_max = 250
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Lenovo ThinkVision P27h"
@@ -736,7 +737,7 @@ kategorie = "pc-zubehoer"
 muss = ['p27h|p27q']
 preis_min = 80
 preis_max = 350
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Keychron Tastatur"
@@ -746,7 +747,7 @@ muss = ['keychron', '\b[kqv]\d']
 nicht = ['keycaps?$', 'tastenkappen']
 preis_min = 25
 preis_max = 200
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Sony WH-1000XM4/XM5"
@@ -756,7 +757,7 @@ muss = ['1000\s?xm[45]']
 nicht = ['ohrpolster', 'polster', 'hülle', 'case', 'kabel$']
 preis_min = 60
 preis_max = 300
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Bose QuietComfort"
@@ -766,7 +767,7 @@ muss = ['bose', 'qc\s?(?:45|ultra)|quietcomfort\s?(?:45|ultra|headphones)']
 nicht = ['earbuds', 'ohrpolster', 'polster', 'hülle']
 preis_min = 60
 preis_max = 300
-alle = 3
+alle = 4
 
 # ---------------- BUSINESS-ZUBEHOER (Docks) ----------------
 [[suche]]
@@ -778,7 +779,7 @@ muss = ['thunderbolt|tb', '\bg4\b']
 nicht = ['ohne\s+netzteil', 'kabel\s+beschädigt', 'nur\s+netzteil']
 preis_min = 25
 preis_max = 200
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Lenovo Thunderbolt 4 Dock"
@@ -789,7 +790,7 @@ muss = ['thunderbolt\s?4|tb\s?4|40b0|40b00135']
 nicht = ['ohne\s+netzteil', 'nur\s+netzteil']
 preis_min = 40
 preis_max = 250
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Lenovo USB-C Dock Gen 2"
@@ -800,7 +801,7 @@ muss = ['usb-?\s?c', 'gen\s?2|40as']
 nicht = ['ohne\s+netzteil', 'nur\s+netzteil']
 preis_min = 25
 preis_max = 150
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Dell WD19TB/WD22TB4"
@@ -811,7 +812,7 @@ muss = ['wd19tb|wd19tbs|wd22tb4']
 nicht = ['ohne\s+netzteil', 'nur\s+netzteil']
 preis_min = 30
 preis_max = 220
-alle = 3
+alle = 4
 
 # ---------------- SERVER-SPEICHER ----------------
 [[suche]]
@@ -823,7 +824,7 @@ muss = ['ecc|rdimm|registered|reg\b', '32\s?gb']
 nicht = ['lrdimm', 'so-?dimm', 'udimm', 'ddr3', 'ddr5']
 preis_min = 25
 preis_max = 200
-alle = 2
+alle = 3
 
 [[suche]]
 name = "DDR4 ECC RDIMM 64GB"
@@ -834,7 +835,7 @@ muss = ['ecc|rdimm|registered|reg\b', '64\s?gb']
 nicht = ['lrdimm', 'so-?dimm', 'udimm', 'ddr3', 'ddr5', '\d\s?x\s?\d']
 preis_min = 60
 preis_max = 400
-alle = 3
+alle = 4
 
 [[suche]]
 name = "DDR5 ECC RDIMM 32GB"
@@ -845,7 +846,7 @@ muss = ['ecc|rdimm|registered|reg\b', '32\s?gb', 'ddr5']
 nicht = ['so-?dimm', 'udimm']
 preis_min = 60
 preis_max = 500
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Samsung PM983 3.84TB"
@@ -855,7 +856,7 @@ kategorie = "pc-zubehoer"
 muss = ['pm983|pm9a3', '3[.,]84|3840|3,8\s?tb']
 preis_min = 80
 preis_max = 500
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Samsung PM983 1.92TB"
@@ -865,7 +866,7 @@ kategorie = "pc-zubehoer"
 muss = ['pm983|pm9a3', '1[.,]92|1920|1,9\s?tb']
 preis_min = 40
 preis_max = 300
-alle = 3
+alle = 4
 
 # ---------------- AKKU-WERKZEUG (nur Sets mit Akku; Solo-Geraete separat waeren ein anderer Markt) ----------------
 [[suche]]
@@ -876,7 +877,7 @@ muss = ['dhp\s?485|ddf\s?485']
 nicht = ['solo', 'ohne\s+akku', '\bz\b', 'dhp485z', 'ddf485z']
 preis_min = 50
 preis_max = 300
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Makita DTD153/172 Set"
@@ -886,7 +887,7 @@ muss = ['dtd\s?1(?:53|54|55|57|72)']
 nicht = ['solo', 'ohne\s+akku', 'dtd1\d\dz']
 preis_min = 60
 preis_max = 350
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Bosch GSR 18V-60 Set"
@@ -896,7 +897,7 @@ muss = ['gsr', '18\s?v?-?\s?60|18v-?55|18v-?90']
 nicht = ['solo', 'ohne\s+akku', 'ohne\s+ladeger']
 preis_min = 60
 preis_max = 350
-alle = 3
+alle = 4
 
 [[suche]]
 name = "Bosch GBH 18V-26"
@@ -906,7 +907,7 @@ muss = ['gbh', '18\s?v?-?\s?2[16]']
 nicht = ['solo', 'ohne\s+akku']
 preis_min = 80
 preis_max = 400
-alle = 3
+alle = 4
 
 # ---------------- KONVOLUTE & LAPTOPS MIT EINFACHEM MAKEL (Modus Preisgrenze) ----------------
 [[suche]]
@@ -923,7 +924,7 @@ preis_min = 10
 preis_max = 60
 bewertung = 6
 hinweis = "Konvolut: Inhalt/Riegelgrößen in der Anzeige prüfen, nur DDR4/DDR5 mit 8 GB+ lohnt sich"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Konvolut SSD/Festplatten"
@@ -939,7 +940,7 @@ preis_min = 10
 preis_max = 60
 bewertung = 6
 hinweis = "Konvolut: Kapazitäten und SMART-Werte erfragen"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Konvolut Business-Laptops"
@@ -954,7 +955,7 @@ preis_min = 40
 preis_max = 400
 bewertung = 6
 hinweis = "Konvolut: Modelle/Generationen, Netzteile und BIOS-Passwörter erfragen; nur ab ca. 8. Gen Intel / Ryzen 3000 lohnt sich"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "ThinkPad ohne SSD"
@@ -971,7 +972,7 @@ preis_max = 180
 aufwertung_eur = 35
 bewertung = 6
 hinweis = "Makel-Laptop: SSD (ca. 25-35 €) einbauen; vorher BIOS-Passwort und Akkuzustand erfragen"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "EliteBook ohne SSD/Netzteil"
@@ -987,7 +988,7 @@ preis_max = 170
 aufwertung_eur = 40
 bewertung = 6
 hinweis = "Makel-Laptop: fehlende SSD/Netzteil nachrüsten (ca. 25-40 €); BIOS-Passwort und Akku erfragen"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "ThinkPad ohne Netzteil"
@@ -1004,7 +1005,7 @@ preis_max = 220
 aufwertung_eur = 15
 bewertung = 6
 hinweis = "Makel-Laptop: USB-C-Netzteil 65 W kostet ca. 15 €"
-alle = 2
+alle = 3
 
 [[suche]]
 name = "Latitude ohne SSD"
@@ -1020,4 +1021,4 @@ preis_max = 160
 aufwertung_eur = 35
 bewertung = 6
 hinweis = "Makel-Laptop: SSD nachrüsten; BIOS-Passwort und Akkuzustand erfragen"
-alle = 3
+alle = 4
