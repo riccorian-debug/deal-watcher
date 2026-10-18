@@ -12,13 +12,24 @@ Aufruf:
   python deal_watcher.py              normaler Lauf
   python deal_watcher.py --dry-run    ohne Mail, ohne state.json zu speichern (zum Testen)
   python deal_watcher.py --test-mail  schickt nur eine Testmail (prueft die Zugangsdaten)
+  python deal_watcher.py --explain 3532125921           zeigt, wie eine einzelne Anzeige bewertet wird
+  python deal_watcher.py --explain URL --gruppe ssd     (Marke/Stufe fuer eine Produktgruppe)
+  python deal_watcher.py --explain x --html seite.html  (gespeicherte Anzeigenseite statt Abruf)
 
-Einstellungen und Suchbegriffe: config.toml. Einrichtung: ANLEITUNG.md.
+Einstellungen und Suchbegriffe: config.toml. Marken und Qualitaetsstufen: marken.toml.
+Einrichtung: ANLEITUNG.md.
+
+Sicherheitsnetz gegen Fehlmeldungen (alles ohne KI):
+  * Maengel-Scanner: Titel, Zustand und die komplette Beschreibung werden satzweise auf Defekte,
+    Schaeden, Sperren, fehlende Teile, schlechte Gesundheitswerte und Betrugsmuster geprueft.
+  * Marken-Stufen A/B/C: Markenware wird nie mit No-Name-/China-Billigware verglichen; Stufe C
+    wird standardmaessig gar nicht gemeldet.
 """
 from __future__ import annotations
 
 import argparse
 import datetime as dt
+import functools
 import json
 import os
 import random
@@ -40,6 +51,7 @@ except ModuleNotFoundError:  # pragma: no cover
 BASE = "https://www.kleinanzeigen.de"
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(HERE, "config.toml")
+MARKEN_PATH = os.path.join(HERE, "marken.toml")
 STATE_PATH = os.path.join(HERE, "state.json")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
@@ -69,6 +81,10 @@ DEFAULTS = {
     "serioes_konto_tage": 365,       # seriöser Verkaeufer: so alt + positives Siegel
     "top_konto_tage": 730,           # +1 Punkt ab diesem Alter + positives Siegel
     "hochpreis_eur": 150,            # ab hier nur mit seriösem Verkaeufer oder Kaeuferschutz
+    "noname_melden": False,          # Stufe C (No-Name/China-Billigware, Marke unbekannt) melden? Standard: nein
+    "b_mit_a_vergleichen": True,     # Stufe B darf mit Stufe-A-Preisen verglichen werden, wenn B zu wenige Vergleiche hat
+    "b_abschlag_prozent": 15,        # ... dann aber mit diesem Abschlag auf den Stufe-A-Marktpreis
+    "soft_abzug": 2,                 # Punkte Abzug bei unklaren Hinweisen in der Beschreibung
     "pause_min_s": 1.5,
     "pause_max_s": 3.5,
 }
@@ -81,11 +97,6 @@ TITLE_EXCLUDE = re.compile(
     r"defekt|kaputt|bastler|für\s+teile|\bsuche\b|\bsuchen\b|gesucht|\btausch|ankauf|wir\s+kaufen|"
     r"reserviert|verkauft\b", re.I)
 LOT_RE = re.compile(r"(^|\s)\d+\s*[x×]\s|\b\d+\s*(stück|stk)\b|konvolut|sammlung", re.I)
-DEFECT_RE = re.compile(
-    r"(?:(\w+)\s+)?(defekt|kaputt|bastler|für\s+teile|als\s+ersatzteil|ohne\s+funktion|"
-    r"funktioniert\s+nicht|ungetestet|nicht\s+getestet|bildfehler|artefakte)", re.I)
-SELF_NEGATING = ("funktioniert", "ungetestet", "nicht", "ohne", "als", "für")
-NEGATIONS = {"nicht", "kein", "keine", "keinerlei", "nie", "keinen", "ohne"}
 PRICE_RE = re.compile(r"(\d{1,3}(?:\.\d{3})+|\d+)(?:,(\d{1,2}))?\s*€")
 
 
@@ -120,19 +131,536 @@ def trimmed_median(values: list[float]) -> float:
     return float(statistics.median(v))
 
 
-def mentions_defect(text: str) -> bool:
-    text = text or ""
-    for m in DEFECT_RE.finditer(text):
-        prev = (m.group(1) or "").lower()
-        word = m.group(2).lower()
-        if word.startswith(SELF_NEGATING):
-            return True
-        if prev in NEGATIONS or prev == "0":
-            continue
-        if re.match(r"\w*\s+(sektor|sector|pixel|block)", text[m.end():m.end() + 20], re.I):
-            continue  # z.B. "defekte Sektoren: 0" – Angabe zu SMART-Werten, kein Defekt
+# --------------------------------------------------------------------------- Maengel-Scanner
+# Prueft Titel, Zustand und die KOMPLETTE Beschreibung satzweise auf Maengel, Sperren, fehlende Teile,
+# schlechte Gesundheitswerte und Betrugsmuster.
+#   HARD  = Anzeige wird ausgeschlossen
+#   SOFT  = unklarer Hinweis: nur mit Warnung in der Mail und Punktabzug
+#   CLEAN = nichts gefunden
+# Gesucht wird auf "normalisiertem" Text (klein, ae/oe/ue/ss statt Umlaute), darum stehen die Muster ohne Umlaute.
+
+HARD, SOFT, CLEAN = "HARD", "SOFT", "CLEAN"
+SHORT_DESC_MIN = 40        # kuerzere Beschreibung bei teurer Ware ist verdaechtig
+SHORT_DESC_PRICE = 100
+
+
+def norm(s: str | None) -> str:
+    """Kleinschreibung, Umlaute ausgeschrieben ('für' = 'fuer'), damit Schreibvarianten gleich behandelt werden."""
+    s = (s or "").lower().replace(" ", " ")
+    for a, b in (("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss")):
+        s = s.replace(a, b)
+    return s
+
+
+_DET = (r"(?:(?:das|den|die|dem|der|ein|eine|einen|original|originales|originalen|passendes|passenden|"
+        r"zugehoeriges|dazugehoeriges|externes|externen)\s+)?")
+_STROM = r"(?:netzteil|ladegeraet|ladekabel|akku|batterie)"
+_SPEICHER = r"(?:ssd|festplatte|hdd|ram|arbeitsspeicher|speicher|laufwerk|trays?|einschuebe|festplattenrahmen)"
+_TEILE = (r"(?:display|bildschirm|luefter|kuehler|tastatur|gehaeuse|cpu|prozessor|mainboard|motherboard|"
+          r"rahmen|schrauben|backplate|rueckwand)")
+_BAUTEIL = (r"(?:tastatur|tasten?|touchpad|trackpoint|trackpad|ladebuchse|netzbuchse|ladeanschluss|"
+            r"usb(?:-c)?(?:\s*(?:port|anschluss|buchse))?|hdmi(?:\s*(?:port|anschluss|buchse))?|displayport|"
+            r"kamera|webcam|mikrofon|lautsprecher|boxen|wlan|wifi|bluetooth|scharnier\w*|display|bildschirm|"
+            r"touchscreen|touchbar|fingerabdrucksensor|fingerprint|kartenleser|luefter|gehaeuse|monitor|"
+            r"anschluesse?|buchse|ports?|schnittstelle\w*|laufwerk)")
+# Ausstattungsstufen ("159 € ohne RAM, 195 € mit 8 GB") sind keine fehlenden Teile, sondern Varianten
+_VARIANTE = (r"optional|konfigur|waehlbar|aufpreis|\+\s*\d+\s*(?:€|eur)|\bmit\s+\d+\s*gb|\bje\s+nach|\bstufe|"
+             r"\bvariante|\bwahlweise|\bab\s+\d+\s*(?:€|eur)")
+
+
+def _fehlt(teile: str) -> str:
+    return (r"\bohne\s+" + _DET + teile + r"\b"
+            r"|\bkein(?:e|en|es)?\s+(?:original\w*\s+)?" + teile + r"\b"
+            r"|\b" + teile + r"\s+(?:\w+\s+){0,2}(?:nicht\s+(?:dabei|enthalten|vorhanden|inklusive|inkl|"
+            r"im\s+lieferumfang|im\s+preis|mit\s+dabei|mitgeliefert)|fehlt|fehlen|extra|gegen\s+aufpreis|"
+            r"zusaetzlich|separat)\b")
+
+
+# (Name, Muster, Stufe, selbstverneinend, abmildern_wenn)
+#  selbstverneinend = True: das Wort "nicht/kein" gehoert zum Mangel ("funktioniert nicht"), Verneinungen davor zaehlen nicht
+#  abmildern_wenn = Muster im selben Satz, dann nur SOFT statt HARD
+RULES = [
+    ("defekt", r"\b(?:teil)?defekt\w*|\bkaputt\w*|\bfunktionsunfaehig\w*|\bfunktionsuntuechtig\w*|\bunbrauchbar\w*|"
+               r"\bhinueber\b|\bausgefallen\b|\bausfall\b|\bmangelhaft\w*", HARD, False, None),
+    ("bastler", r"\bbastler\w*|\bbastelobjekt\w*|\bbastelprojekt\w*|\bersatzteil\w*|\bteilespender\w*|"
+                r"\bausschlacht\w*|\bschrott\w*|\bwracks?\b|\bzum\s+(?:basteln|ausschlachten|reparieren)\b|"
+                r"\bfuer\s+(?:die\s+)?(?:reparatur|bastler|teile)\b", HARD, False, None),
+    ("reparatur_noetig", r"\breparaturbeduerftig\w*|\bzu\s+reparieren\b|\bmuss\s+(?:\w+\s+){0,3}repariert\b|"
+                         r"\breparieren\s+lassen\b|\bbedarf\s+(?:einer\s+)?reparatur\b", HARD, True, None),
+    ("repariert", r"\brepariert\w*|\breparatur\w*|\bnachgeloetet\w*|\bgeloetet\w*|\bnachgeklebt\w*|\bgeklebt\w*|"
+                  r"\bneu\s+verklebt\w*", SOFT, False, None),
+    ("funktioniert_nicht",
+     r"\bfunktioniert\s+(?:\w+\s+){0,2}(?:nicht|nie|kaum|teilweise|zeitweise|manchmal|nur\s+noch)\b"
+     r"|\b(?:geht|ging|gehen)\s+(?:\w+\s+){0,2}(?:nicht|nie)\b"
+     r"|\b(?:laeuft|lief)\s+(?:\w+\s+){0,2}(?:nicht|nie)\b(?!\s+(?:zu\s+)?(?:heiss|warm|laut|ruckel\w*|haeng\w*|ueber))"
+     r"|\bstartet\s+(?:\w+\s+){0,2}nicht\b|\bbootet\s+(?:\w+\s+){0,2}nicht\b"
+     r"|\bfaehrt\s+(?:\w+\s+)?nicht\s+hoch\b|\bschaltet\s+(?:sich\s+)?(?:\w+\s+)?nicht\s+(?:ein|an|mehr)\b"
+     r"|\blaedt\s+(?:\w+\s+){0,2}nicht\b|\berkennt\s+(?:\w+\s+){0,2}nicht\b|\breagiert\s+(?:\w+\s+){0,2}nicht\b"
+     r"|\bnicht\s+(?:mehr\s+)?(?:funktionsfaehig|funktionstuechtig|nutzbar|verwendbar|einsatzfaehig|"
+     r"betriebsbereit|zu\s+gebrauchen)\b|\bnicht\s+mehr\s+an\b", HARD, True, None),
+    ("kein_bild", r"\bkein\s+(?:bild|signal|ton|sound)\b|\bschwarzer\s+bildschirm\b|\bblack\s*screen\b|"
+                  r"\bbildschirm\s+bleibt\s+schwarz\b", HARD, True, None),
+    ("ungetestet", r"\bungetestet\w*|\bnicht\s+(?:\w+\s+)?(?:getestet|testbar|ausprobiert|geprueft|ueberprueft)\b|"
+                   r"\bkonnte\s+(?:\w+\s+){0,2}nicht\s+(?:\w+\s+)?(?:getestet|geprueft)\b|\bohne\s+(?:\w+\s+)?test\b|"
+                   r"\b(?:konnte|kann|habe|haben)\s+(?:\w+\s+){0,3}nicht\s+(?:testen|pruefen|ueberpruefen|ausprobieren)\b",
+     HARD, True, None),
+    ("schaden", r"\bgebrochen\w*|\bbruchschaden\w*|\bglasbruch\w*|\bgerissen\w*|\bhaarriss\w*|\brisse?\b|"
+                r"\bgesprungen\w*|\bsprung\b|\bsplitter\w*|\babgebrochen\w*|\bausgebrochen\w*|\babgerissen\w*|"
+                r"\bverbogen\w*|\bschaden\b|\bschaeden\b|\bbeschaedigt\w*|\bbeschaedigung\w*",
+     HARD, False, r"verpackung|karton|\bovp\b|schachtel|umverpackung|huelle|\bbox\b"),
+    ("fluessigkeit", r"\bwasserschaden\w*|\bfluessigkeitsschaden\w*|\bfeuchtigkeitsschaden\w*|"
+                     r"\bwasser\s+(?:abbekommen|eingedrungen)|\bverschuettet\w*|\bkorrosion\w*|\bkorrodiert\w*|"
+                     r"\boxidier\w*|\boxidation\w*|\bsturzschaden\w*|\bfallschaden\w*|\bheruntergefallen\w*|"
+                     r"\bruntergefallen\w*|\bhingefallen\w*|\bgestuerzt\w*", HARD, False, None),
+    ("bildfehler", r"\bbildfehler\w*|\bpixelfehler\w*|\btote[nr]?\s+pixel\w*|\bhot\s*pixel\w*|\bartefakt\w*|"
+                   r"\bgrafikfehler\w*|\bbildstoerung\w*|\bbildaussetzer\w*|\bflackert\w*|\bflackern\w*|"
+                   r"\bflimmer\w*|\bdisplayschaden\w*|\bdisplaybruch\w*|\bbildschirmschaden\w*|"
+                   r"\bdisplayfehler\w*|\beinbrenn\w*|\bburn[- ]?in\b|\bnachleucht\w*|"
+                   r"\b(?:streifen|linien)\s+im\s+(?:display|bild|bildschirm)\b|"
+                   r"\bvertikale[rn]?\s+(?:linie|streifen)\w*|\bhorizontale[rn]?\s+(?:linie|streifen)\w*|"
+                   r"\bschatten\s+im\s+(?:display|bild)\b|\b(?:dunkle|helle)\s+(?:stelle|flecken)\w*",
+     HARD, False, None),
+    ("optik_geraeusch", r"\bflecken?\b|\bfleck\b|\bbacklight\s*bleeding\b|\blichthof\w*|\bklebereste?\b|"
+                        r"\baufkleberreste?\b|\bverfaerbung\w*|\bvergilbt\w*|\bangeschlagen\w*|\bverbeult\w*|"
+                        r"\babgeplatzt\w*|\bspulenfiepen\w*|\bfiepen\w*|\bbrummen\w*|\bbrummt\b|\bsurrt\b|"
+                        r"\bgeraeusch\w*", SOFT, False, None),
+    ("akku_defekt", r"\bakku\s+(?:\w+\s+){0,2}(?:defekt|tot|leer|schwach|schlecht|hinueber|verbraucht|kaputt|"
+                    r"ausgeleiert|aufgebl\w+|tiefentladen)\b|\baufgebl\w+|\bblaeht\s+sich\b|"
+                    r"\bakku\s+(?:muss|sollte)\s+(?:\w+\s+){0,2}(?:getauscht|ersetzt|erneuert)\b|"
+                    r"\bakku\s+(?:\w+\s+)?(?:tauschen|wechseln|erneuern)\b", HARD, False, None),
+    ("akku_haelt_nicht", r"\bakku\s+(?:\w+\s+){0,3}haelt\s+(?:\w+\s+){0,2}(?:nicht|kaum|nur)\b|"
+                         r"\bakku\s+(?:\w+\s+){0,3}(?:nur\s+noch|noch\s+nur)\b|"
+                         r"\bakku\s+(?:\w+\s+){0,3}laedt\s+(?:\w+\s+)?nicht\b", HARD, True, None),
+    ("bauteil_defekt", r"\b" + _BAUTEIL + r"\s+(?:\w+\s+){0,2}(?:defekt\w*|kaputt|lose|locker|wackelt|wackelig|"
+                       r"fehlt|fehlen|gebrochen|abgebrochen|klemmt|haengt|knarzt|knackt|ausgeleiert|schief|"
+                       r"verbogen|verzogen|spinnt|zickt|ruckelt)\b", HARD, False, None),
+    ("bauteil_geht_nicht", r"\b" + _BAUTEIL + r"\s+(?:\w+\s+){0,2}(?:funktioniert\s+(?:\w+\s+)?nicht|geht\s+nicht|"
+                           r"gehen\s+nicht|reagiert\s+nicht|ohne\s+funktion|nicht\s+(?:mehr\s+)?"
+                           r"(?:funktion\w*|nutzbar|verfuegbar|vorhanden|erkannt))\b", HARD, True, None),
+    ("absturz", r"\bwackelkontakt\w*|\bkontaktproblem\w*|\bkontaktfehler\w*|\bfehlfunktion\w*|\btotalausfall\w*|"
+                r"\bbootloop\w*|\bblue\s*screen\w*|\bkernel\s+panic\w*|\babsturz\w*|\babstuerz\w*|"
+                r"\bstuerzt\s+(?:\w+\s+)?ab\b|\bhaengt\s+sich\s+auf\b|\bfriert\s+(?:\w+\s+)?ein\b|\beinfrier\w*|"
+                r"\baussetzer\w*|\bausfaelle\b|\bueberhitz\w*|\bthermal\s+throttl\w*|\bthrottelt\w*|"
+                r"\bwird\s+(?:sehr\s+|extrem\s+|viel\s+zu\s+|zu\s+)?heiss\b|\bheisslaeufer\w*", HARD, False, None),
+    ("schaltet_ab", r"\bschaltet\s+sich\s+(?:\w+\s+){0,3}(?:zufaellig|ploetzlich|unerwartet|staendig|"
+                    r"selbststaendig|von\s+selbst)\b|\bschaltet\s+sich\s+(?:immer\s+|dann\s+)?(?:ab|aus)\b",
+     HARD, False, None),
+    ("luefter_geraeusch", r"\bluefter\s+(?:\w+\s+){0,3}(?:laut|schleift|rattert|klappert|defekt|faellt\s+aus|"
+                          r"brummt|kreischt)\b|\b(?:rattert|klappert|schleift|klackert|klackernd\w*|kreischt|"
+                          r"schleifgeraeusch\w*|klickgeraeusch\w*|knackgeraeusch\w*|klickt|kopfcrash|headcrash)\b",
+     HARD, False, None),
+    ("smart", r"\breallocated\w*|\breallokiert\w*|\bneu\s+zugewiesen\w*|\bpending\s+sector\w*|"
+              r"\bausstehende\s+sektor\w*|\bbad\s+(?:block|sector)\w*|\bdefekte\s+sektor\w*|"
+              r"\bdefekte\s+bloecke\w*|\bsmart[- ]?(?:warnung|fehler|caution|warning|bad|problem)\w*|"
+              r"\blesefehler\w*|\bschreibfehler\w*|\bcrc[- ]?fehler\w*|\bcaution\b|\bunhealthy\b",
+     HARD, False, None),
+    ("sperre", r"\b(?:bios|uefi|supervisor|power[- ]?on|setup|festplatten|hdd|ssd|admin\w*|zugangs)[- ]?"
+               r"(?:passwort|kennwort|password|pw|sperre|lock)\b|\bpasswort\s+(?:\w+\s+)?(?:vergessen|unbekannt|"
+               r"gesperrt)\b|\bicloud[- ]?(?:sperre|lock|gesperrt|aktiv)\w*|\baktivierungssperre\w*|"
+               r"\bactivation[- ]?lock\b|\bapple[- ]?id\s+(?:\w+\s+)?(?:gesperrt|gelockt|aktiv)\b|\bmdm\b|"
+               r"\bfirmensperre\w*|\bfirmenprofil\w*|\bintune\b|\bcomputrace\b|"
+               r"\babsolute\s+(?:secure|software|persistence)\w*|\bgesperrt\w*|\bsperre\b|\bsim[- ]?lock\w*|"
+               r"\bcarrier[- ]?lock\w*|\bblacklist\w*|\bals\s+gestohlen\w*|\bgestohlen\w*|"
+               r"\bpasswortgeschuetzt\w*|\bentsperr\w*\s+(?:noetig|erforderlich|fehlt)\b", HARD, False, None),
+    ("unvollstaendig_strom", _fehlt(_STROM), HARD, True, _VARIANTE),
+    ("unvollstaendig_speicher", _fehlt(_SPEICHER), HARD, True, _VARIANTE),
+    ("unvollstaendig_teile", _fehlt(_TEILE), HARD, True, _VARIANTE),
+    ("nur_teil", r"\bnur\s+(?:das\s+|der\s+|die\s+|ein\s+|eine\s+)?(?:gehaeuse|karton|verpackung|ovp|huelle|"
+                 r"kuehler|wasserblock|backplate|platine|blende|abdeckung|rahmen|kabel|zubehoer|halterung|case|"
+                 r"box)\b|\bleergehaeuse\w*|\battrappe\w*|\bdummy\b|\bmainboard\s+only\b|\bnur\s+mainboard\b|"
+                 r"\bleerkarton\w*", HARD, True, None),
+    ("teilweise", r"\bteilweise\s+(?:\w+\s+)?(?:defekt|funktion\w*|kaputt|ausgefallen)\b|"
+                  r"\beingeschraenkt\w*\s+(?:funktion\w*|nutzbar\w*|einsatz\w*)|"
+                  r"\bzeitweise\s+(?:\w+\s+)?(?:ausfall|aussetzer|probleme)\b", HARD, False, None),
+    ("probleme", r"\bprobleme\b|\bproblem\b|\bfehler\b|\bfehlermeldung\w*|\bfehlercode\w*|\bstoerung\w*|"
+                 r"\bmangel\b|\bmaengel\b|\bmaengeln\b", SOFT, False, None),
+    ("zustand_unklar", r"\bkeine\s+ahnung\b|\bzustand\s+unbekannt\b|\bunbekannter\s+zustand\b|\bangetestet\b|"
+                       r"\bkurz\s+getestet\b|\bnur\s+kurz\s+(?:\w+\s+)?(?:getestet|benutzt|ausprobiert)\b|"
+                       r"\blaeuft\s+soweit\b|\bsoweit\s+(?:ich\s+weiss|funktionsfaehig|ok|in\s+ordnung)\b|"
+                       r"\bbei\s+mir\s+(?:lief|laeuft|ging)\b|\blief\s+(?:bis|zuletzt|noch)\b|"
+                       r"\bwie\s+(?:es\s+)?(?:ist|gesehen)\b|\bhaushaltsaufloesung\w*|\baus\s+(?:dem\s+)?nachlass\b|"
+                       r"\bgeerbt\w*|\binsolvenz\w*|\bkonkurs\w*|\bgebraucht\s+gekauft\b|\bwundertuete\b|"
+                       r"\bretoure\w*|\bgarantie\s+abgelaufen\b", SOFT, True, None),
+]
+
+# Betrugsmuster: Zahlung ausserhalb des Kaeuferschutzes und Kontakt ausserhalb von kleinanzeigen
+SCAM_RULES = [
+    ("zahlung_ohne_schutz",
+     r"\bpaypal\s*(?:-\s*)?(?:freunde|friends|f\s*&\s*f|ff|familie)\w*|\bfreunde\s*(?:und|&|/)\s*familie\b|"
+     r"\bfamilie\s*(?:und|&|/)\s*freunde\b|\bfriends\s*(?:and|&)\s*family\b|\bf\s*&\s*f\b|\bwestern\s+union\b|"
+     r"\bmoneygram\b|\bpaysafe\w*|\bamazon[- ]?gutschein\w*|\bgutscheincode\w*|\bbitcoin\w*|\bkrypto\w*|"
+     r"\bvorkasse\b|\bueberweisung\s+(?:vorab|vorher|zuerst|im\s+voraus)\b|\bnur\s+ueberweisung\b", HARD),
+    ("kontakt_ausserhalb",
+     r"\b(?:whatsapp|whats\s*app|telegram|threema|viber|signal[- ]?app)\b|[\w.+-]+@[\w-]+\.[a-z]{2,}|"
+     r"(?:\+|\b00)\s*49[\s\d/-]{8,}|\b0\s*1[5-7]\d[\s\d/-]{7,}", HARD),
+    ("fremder_link", r"https?://|\bwww\.[a-z0-9-]+\.", SOFT),
+]
+_PROTECT = re.compile(r"sicher\s+bezahlen|kaeuferschutz|waren\s*(?:und|&)\s*dienstleistung|direkt\s+kaufen|"
+                      r"paypal\s+(?:waren|kaeuferschutz)")
+
+_RULES_C = [(n, re.compile(rx), lv, sn, re.compile(si) if si else None) for n, rx, lv, sn, si in RULES]
+_SCAM_C = [(n, re.compile(rx), lv) for n, rx, lv in SCAM_RULES]
+
+_SPLIT = re.compile(r"[\r\n]+|(?<=[.!?])\s+|\s[•·|*]\s|\s[–—]\s|\s-\s")
+_NEG_WORDS = {"kein", "keine", "keinen", "keinem", "keiner", "keines", "keinerlei", "nicht", "nie", "niemals",
+              "nichts", "ohne", "weder", "frei", "null", "0", "nein"}
+_CLAUSE_CUT = re.compile(r"[,;:()!?]|\s(?:aber|sondern|jedoch|allerdings|und|oder|sowie)\s")
+_COND_BEFORE = re.compile(
+    r"(?:\b(?:falls|wenn|sofern|ob)\s+(?:\w+\s+){0,3}|\bsollte\w*\s+(?:\w+\s+){0,3}|"
+    r"\bbei\s+(?:(?:einem|etwaigem|eventuellem|moeglichem)\s+)?|\bim\s+fall(?:e)?\s+(?:eines?\s+)?|"
+    r"\b(?:garantie|gewaehrleistung|haftung|rueckgabe|ruecknahme|erstattung|ersatz|umtausch|rueckerstattung)\s+"
+    r"(?:\w+\s+){0,2}(?:auf|bei|fuer|von)\s+(?:\w+\s+)?)$")
+# "Wasserschaden: nein", "Defekte: keine", "Reallocated: 0", "Wasserschaden ausgeschlossen"
+_NEG_AFTER = re.compile(
+    r"^\s*[:=-]\s*(?:keine?n?\b|nein\b|0\b|null\b|nicht\s+vorhanden|nix\b|nichts\b|none\b)"
+    r"|^\s+(?:keine?n?\b|nein\b|ausgeschlossen\b|nicht\s+vorhanden|nix\b|nichts\b)")
+# "defekte Sektoren: 0", "Reallokierte/defekte Sektoren: 0", "pending sector count: 0"
+_ZERO_AFTER = re.compile(
+    r"^[\s/,&-]*(?:\w{0,12}[\s/,&-]+)?(?:sektor|sector|pixel|bloc?k|bloecke|zellen|count|zaehler|events?)\w*"
+    r"\s*[:=]?\s*(?:0\b|null\b|keine?\b|nein\b|none\b|no\b)")
+
+_HEALTH_DISK = [re.compile(r"(?:ssd|hdd|nvme|festplatte|laufwerk|datentraeger)\w*[-\s]*(?:gesundheit|health|zustand|"
+                           r"lebensdauer|restlebensdauer|verschleiss)\D{0,14}?(\d{1,3})\s*%"),
+                re.compile(r"(?:gesundheit|health)\s*(?:der\s+)?(?:ssd|hdd|nvme|festplatte)\D{0,14}?(\d{1,3})\s*%")]
+_HEALTH_AKKU = re.compile(r"akku\w*[-\s]*(?:gesundheit|health|zustand|kapazitaet|restkapazitaet|verschleiss)?"
+                          r"\D{0,14}?(\d{2,3})\s*%")
+
+
+def _negated(before: str, matched: str, after: str) -> bool:
+    """Steht vor/in/nach dem Treffer eine Verneinung ("kein Defekt", "ohne Wasserschaden", "Defekte: 0")?"""
+    cut = 0
+    for m in _CLAUSE_CUT.finditer(before):
+        cut = m.end()
+    words = re.findall(r"\w+", before[cut:])[-3:]
+    if any(w in _NEG_WORDS for w in words):
         return True
-    return False
+    if any(w in _NEG_WORDS for w in re.findall(r"\w+", matched)[:-1]):  # "akku nicht defekt"
+        return True
+    return bool(_NEG_AFTER.match(after) or _ZERO_AFTER.match(after))
+
+
+def _sentences(text: str | None) -> list[str]:
+    return [s.strip() for s in _SPLIT.split(text or "") if s and s.strip()]
+
+
+def _health_hits(whole: str) -> list[tuple]:
+    out = []
+    for rx in _HEALTH_DISK:
+        for m in rx.finditer(whole):
+            val = int(m.group(1))
+            if "verschleiss" in m.group(0):
+                val = 100 - val
+            if val < 80:
+                out.append((HARD, "ssd_gesundheit", m.group(0), f"SSD/HDD-Gesundheit {val} %", "Beschreibung"))
+            elif val < 90:
+                out.append((SOFT, "ssd_gesundheit", m.group(0), f"SSD/HDD-Gesundheit {val} %", "Beschreibung"))
+    for m in _HEALTH_AKKU.finditer(whole):
+        ctx = whole[max(0, m.start() - 20): m.end() + 25]
+        if re.search(r"geladen|ladung|ladestand|laden\b", ctx):
+            continue
+        val = int(m.group(1))
+        if "verschleiss" in m.group(0):
+            val = 100 - val
+        if val < 70:
+            out.append((HARD, "akku_gesundheit", m.group(0), f"Akku nur {val} %", "Beschreibung"))
+        elif val < 80:
+            out.append((SOFT, "akku_gesundheit", m.group(0), f"Akku nur {val} %", "Beschreibung"))
+    return out
+
+
+@functools.lru_cache(maxsize=30000)
+def _scan_cached(title: str, desc: str, ignore: tuple) -> tuple:
+    hits: list[tuple] = []
+    whole = norm((title or "") + " \n " + (desc or ""))
+    protected = bool(_PROTECT.search(whole))
+    for src, text in (("Titel", title), ("Beschreibung", desc)):
+        for sent in _sentences(text):
+            n = norm(sent)
+            for name, rx, lvl, selfneg, soft_if in _RULES_C:
+                if name in ignore:
+                    continue
+                for m in rx.finditer(n):
+                    before, after = n[:m.start()], n[m.end(): m.end() + 40]
+                    if _COND_BEFORE.search(before):
+                        continue
+                    if not selfneg and _negated(before, m.group(0), after):
+                        continue
+                    lv = SOFT if (soft_if and soft_if.search(n)) else lvl
+                    hits.append((lv, name, m.group(0), sent[:160], src))
+                    break  # ein Treffer je Regel und Satz genuegt
+            for name, rx, lvl in _SCAM_C:
+                for m in rx.finditer(n):
+                    before, after = n[:m.start()], n[m.end(): m.end() + 40]
+                    if _COND_BEFORE.search(before) or _negated(before, m.group(0), after):
+                        continue
+                    lv = SOFT if (lvl == HARD and protected) else lvl
+                    hits.append((lv, name, m.group(0), sent[:160], src))
+                    break
+    hits += _health_hits(whole)
+    seen, uniq = set(), []
+    for h in hits:  # Titel wird oft in der Beschreibung wiederholt -> nicht doppelt zaehlen
+        key = (h[0], h[1], h[2])
+        if key not in seen:
+            seen.add(key)
+            uniq.append(h)
+    return tuple(uniq)
+
+
+def scan_defects(title: str = "", desc: str = "", cond: str = "", ignore=(), price: float | None = None) -> dict:
+    """Prueft Titel + Beschreibung (+ Zustandsfeld). Gibt {"level": HARD|SOFT|CLEAN, "hits": [...]} zurueck.
+    ignore = Regelnamen, die fuer diese Produktgruppe normal sind (z. B. NAS ohne Festplatte)."""
+    hits = [dict(level=h[0], rule=h[1], word=h[2], snippet=h[3], source=h[4])
+            for h in _scan_cached(title or "", desc or "", tuple(sorted(ignore or ())))]
+    if norm(cond).strip() == "defekt":
+        hits.append(dict(level=HARD, rule="zustand_defekt", word="Defekt", snippet="Zustand laut Anzeige: Defekt",
+                         source="Zustand"))
+    d_text = (desc or "").strip()
+    if price and price >= SHORT_DESC_PRICE and len(d_text) < SHORT_DESC_MIN:
+        hits.append(dict(level=SOFT, rule="beschreibung_kurz", word="", source="Beschreibung",
+                         snippet=f"Beschreibung nur {len(d_text)} Zeichen bei {price:.0f} € Preis"))
+    elif d_text and norm(d_text).strip(" .!") == norm(title).strip(" .!"):
+        hits.append(dict(level=SOFT, rule="beschreibung_wie_titel", word="", source="Beschreibung",
+                         snippet="Beschreibung wiederholt nur den Titel (keine Angaben zu Zustand/Mängeln)"))
+    level = HARD if any(h["level"] == HARD for h in hits) else (SOFT if hits else CLEAN)
+    return {"level": level, "hits": hits}
+
+
+def describe_hit(h: dict) -> str:
+    return f"{h['rule']} („{h['snippet'].strip()}“)"
+
+
+def mentions_defect(text: str) -> bool:
+    """Kurzform: enthaelt der Text einen harten Mangelhinweis?"""
+    return scan_defects("", text)["level"] == HARD
+
+
+# --------------------------------------------------------------------------- Marken und Qualitaetsstufen
+# A = etablierte Markenhersteller, B = akzeptable Mittelklasse/OEM, C = No-Name/China-Billigware.
+# Die Listen stehen in marken.toml (dort bearbeiten). Marktpreise werden pro Stufe getrennt berechnet.
+
+_MARKEN: dict | None = None
+
+
+def _alt(items) -> re.Pattern | None:
+    if not items:
+        return None
+    return re.compile(r"(?<![a-z0-9])(?:" + "|".join(norm(x) for x in items) + r")(?![a-z0-9])")
+
+
+def _alt_free(items) -> re.Pattern | None:
+    """Modellreihen (Muster duerfen Ziffern direkt anhaengen, z. B. 'rtx\\s?\\d{4}')."""
+    if not items:
+        return None
+    return re.compile(r"(?<![a-z])(?:" + "|".join(norm(x) for x in items) + r")")
+
+
+def get_marken() -> dict:
+    global _MARKEN
+    if _MARKEN is None:
+        if not os.path.exists(MARKEN_PATH):
+            sys.exit("marken.toml fehlt – bitte die Datei ins Repo hochladen (neben deal_watcher.py).")
+        with open(MARKEN_PATH, "rb") as f:
+            raw = tomllib.load(f)
+        groups = {}
+        rawg = raw.get("gruppe", {})
+        for name, g in rawg.items():
+            base = rawg.get(g.get("basis", ""), {}) if g.get("basis") else {}
+            # Gruppe kann Markenlisten einer anderen Gruppe uebernehmen (basis = "laptop") und eigene ergaenzen
+            g = {**base, **{k: v for k, v in g.items() if k != "basis"}}
+            groups[name] = {
+                "kategorien": g.get("kategorien"), "b_mit_a": g.get("b_mit_a"),
+                "b_abschlag_prozent": g.get("b_abschlag_prozent"),
+                "A": _alt(g.get("A")), "B": _alt(g.get("B")), "C": _alt(g.get("C")),
+                "mA": _alt_free(g.get("modell_A")), "mB": _alt_free(g.get("modell_B")),
+                "unbekannt": g.get("unbekannt", "C"), "ignoriere": tuple(g.get("ignoriere", [])),
+            }
+        floors = [(f["gruppe"], re.compile(norm(f["muster"])), float(f["unter"])) for f in raw.get("preisboden", [])]
+        _MARKEN = {"gruppe": groups, "boden": floors}
+    return _MARKEN
+
+
+def detect_brand(gruppe: str | None, title: str, extra: str = "") -> tuple[str | None, str | None]:
+    """Gibt (Marke, Stufe) zurueck. Stufe C gewinnt immer (eine Billigmarke im Titel entwertet die Anzeige),
+    danach zaehlen Modellreihen (z. B. ThinkPad = A), dann der Markenname, der im Titel zuerst steht."""
+    g = get_marken()["gruppe"].get(gruppe) if gruppe else None
+    if not g:
+        return None, None
+    t = norm(title)
+    if g["C"]:
+        m = g["C"].search(t)
+        if m:
+            return m.group(0), "C"
+    model = None
+    for key, tier in (("mA", "A"), ("mB", "B")):
+        if g[key]:
+            m = g[key].search(t)
+            if m:
+                model = (m.group(0), tier)
+                break
+    best = None
+    for tier in ("A", "B"):
+        if g[tier]:
+            m = g[tier].search(t)
+            if m and (best is None or m.start() < best[0]):
+                best = (m.start(), m.group(0), tier)
+    if model:  # Modellreihe legt die Stufe fest; als Name zeigen wir die Marke, falls eine im Titel steht
+        return (best[1] if best else model[0]), model[1]
+    if best:
+        return best[1], best[2]
+    if extra:
+        b2, t2 = detect_brand(gruppe, extra)
+        if b2 != "unbekannt":
+            return b2, t2
+    return "unbekannt", g["unbekannt"]
+
+
+def group_ignore(q: dict | None) -> tuple:
+    gr = (q or {}).get("gruppe")
+    g = get_marken()["gruppe"].get(gr) if gr else None
+    return g["ignoriere"] if g else ()
+
+
+DEFAULT_KATEGORIEN = r"Elektronik|PC|Computer|Notebook|Multimedia"
+
+
+def allowed_categories(q: dict | None) -> str:
+    """Kategorien, in denen die Ware plausibel ist. Werkzeug steht z. B. unter 'Haus & Garten > Heimwerken'."""
+    gr = (q or {}).get("gruppe")
+    g = get_marken()["gruppe"].get(gr) if gr else None
+    extra = g.get("kategorien") if g else None
+    return DEFAULT_KATEGORIEN + ("|" + extra if extra else "")
+
+
+# --------------------------------------------------------------------------- Ausstattung (RAM)
+# Arbeitsspeicher ist nur mit gleicher Ausstattung vergleichbar: DDR4 ist billiger als DDR5, 2666 MHz billiger als 3200,
+# Server-RAM (ECC/RDIMM) ist ein eigener Markt. Unbekannte Werte werden vorsichtig behandelt: Steht z. B. kein Takt im
+# Titel, wird nur mit Anzeigen ohne Takt oder mit dem langsamsten Takt verglichen (niedriger Marktpreis = keine falschen Deals).
+MERKMAL_GRUPPEN = ("ram", "server_ram")
+_PC_SPEED = {"12800": 1600, "14900": 1866, "17000": 2133, "19200": 2400, "21300": 2666, "23400": 2933, "25600": 3200,
+             "28800": 3600, "38400": 4800, "41600": 5200, "44800": 5600, "48000": 6000, "51200": 6400}
+_SPEED_BUCKETS = {
+    "ddr3": [(0, "bis 1600"), (1601, "1866+")],
+    "ddr4": [(0, "bis 2400"), (2401, "2666"), (2801, "2933/3200"), (3300, "3600+")],
+    "ddr5": [(0, "4800"), (5000, "5200/5600"), (5800, "6000+"), (6600, "6600+")],
+}
+_GEN_ORDER = ["ddr3", "ddr4", "ddr5"]
+
+
+def _speeds(t: str) -> list[int]:
+    out = []
+    for m in re.finditer(r"pc[345]l?-?\s?(\d{4,5})", t):
+        v = m.group(1)
+        if v in _PC_SPEED:
+            out.append(_PC_SPEED[v])
+        elif len(v) == 4 and 1300 <= int(v) <= 8400:  # "PC4-2666V"
+            out.append(int(v))
+    # Hersteller-Teilenummern: Samsung M471A...-CWE = 3200, Hynix HMA...-XN = 3200, Micron ...-3G2 = 3200
+    for rx, v in ((r"-c(?:we|wf)\b", 3200), (r"-cvf\b", 2933), (r"-ctd\b", 2666), (r"-crc\b", 2400), (r"-cpb\b", 2133),
+                  (r"\bhma\w+-xn\b", 3200), (r"\bhma\w+-vk\b", 2666), (r"\bhma\w+-uh\b", 2400), (r"\bhma\w+-tf\b", 2133),
+                  (r"-3g2\w*\b", 3200), (r"-2g9\w*\b", 2933), (r"-2g6\w*\b", 2666), (r"-2g3\w*\b", 2400)):
+        if re.search(rx, t):
+            out.append(v)
+    for m in re.finditer(r"(?<![\d.,x])(1[3-9]\d{2}|[2-8]\d{3})(?=\s?(?:mhz|mt/?s|[a-z]?\b|$))", t):
+        v = int(m.group(1))
+        if 1300 <= v <= 8400 and v not in (2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026):
+            out.append(v)
+    return out
+
+
+def ram_merkmale(text: str) -> dict:
+    """Generation, Bauform und Taktklasse aus Titel/Beschreibung. Fehlende Werte bleiben None."""
+    t = norm(text)
+    gens = {g for g in _GEN_ORDER if re.search(r"\b" + g + r"\b|\b" + g + r"l\b|" + g + r"-?\d{3,4}", t)}
+    for pc, g in (("pc3", "ddr3"), ("pc4", "ddr4"), ("pc5", "ddr5")):
+        if re.search(r"\b" + pc + r"l?-", t):
+            gens.add(g)
+    gen = next(iter(gens)) if len(gens) == 1 else None
+    if re.search(r"\blrdimm\b|\blr-?dimm\b|\blrdimm", t):
+        form = "lrdimm"
+    elif re.search(r"\brdimm\b|\bregistered\b|\breg\b|\becc\s+reg|\bpc[45]-\d{4,5}[a-z]*r\b|\d{4}v-r\b", t):
+        form = "rdimm"
+    elif re.search(r"so-?\s?dimm|\bnotebook\b|\blaptop\b|\bpc[345]l?-\d+s\b", t):
+        form = "sodimm"
+    elif re.search(r"\becc\b", t):
+        form = "ecc-udimm"
+    elif re.search(r"\budimm\b|\bdesktop\b|\bdimm\b|\bpc-?ram\b|\bfuer\s+pc\b", t):
+        form = "dimm"
+    else:
+        form = None
+    sp = _speeds(t)
+    speed = None
+    if sp and gen in _SPEED_BUCKETS:
+        v = min(sp)
+        for lo, name in _SPEED_BUCKETS[gen]:
+            if v >= lo:
+                speed = name
+    return {"gen": gen, "form": form, "takt": speed}
+
+
+def merkmale_text(m: dict | None) -> str:
+    if not m:
+        return ""
+    parts = [m.get("gen", "").upper() if m.get("gen") else "DDR?",
+             {"sodimm": "SO-DIMM", "dimm": "Desktop-DIMM", "rdimm": "RDIMM (ECC)", "lrdimm": "LRDIMM",
+              "ecc-udimm": "ECC-UDIMM"}.get(m.get("form") or "", "Bauform ?"),
+             (m.get("takt") + " MHz") if m.get("takt") else "Takt ?"]
+    return " · ".join(parts)
+
+
+def _lowest_bucket(gen: str | None) -> str | None:
+    return _SPEED_BUCKETS[gen][0][1] if gen in _SPEED_BUCKETS else None
+
+
+def merkmal_passt(cand: dict, other: dict) -> bool:
+    """Ist eine Vergleichsanzeige gleichwertig? Bekannte Werte muessen gleich sein. Fehlt beim Kandidaten ein Wert,
+    zaehlen nur Anzeigen ohne diesen Wert oder mit der billigsten Variante (vorsichtig)."""
+    # Generation
+    if cand["gen"]:
+        if other["gen"] != cand["gen"]:
+            return False
+    elif other["gen"] not in (None, "ddr3", "ddr4"):
+        return False
+    # Bauform (Server-RAM ist ein eigener Markt; SO-DIMM und Desktop sind preislich nah, aber nicht gleich)
+    if cand["form"] and other["form"] and other["form"] != cand["form"]:
+        return False
+    if not cand["form"] and other["form"] in ("rdimm", "lrdimm", "ecc-udimm"):
+        return False
+    # Takt
+    if cand["takt"]:
+        if other["takt"] != cand["takt"]:
+            return False
+    else:
+        gen = cand["gen"] or other["gen"]
+        if other["takt"] not in (None, _lowest_bucket(gen)):
+            return False
+    return True
+
+
+def price_floor_hit(q: dict, title: str, price: float | None) -> float | None:
+    """Fake-Grenze: ein Preis unter dem Mindestpreis fuer dieses Modell/diese Groesse ist unrealistisch."""
+    gr = q.get("gruppe")
+    if not gr or price is None:
+        return None
+    t = norm(title)
+    for g, rx, unter in get_marken()["boden"]:
+        if g == gr and rx.search(t):
+            return unter if price < unter else None
+    return None
+
+
+def model_conflict(title: str, attrs: dict) -> str | None:
+    """Grafikkarten: widerspricht das Modell in den Anzeigen-Attributen dem Titel?"""
+    rx = re.compile(r"\b(?:rtx|gtx|rx|arc)\s?-?\s?(\d{3,4})(?:\s?(ti|super|xtx|xt))?")
+    t = [(m.group(1), m.group(2) or "") for m in rx.finditer(norm(title))]
+    a_text = norm(" ".join(str(v) for k, v in attrs.items() if k.lower() in ("modell", "grafikkarte", "gpu", "typ", "art")))
+    a = [(m.group(1), m.group(2) or "") for m in rx.finditer(a_text)]
+    if not t or not a:
+        return None
+    if {x[0] for x in t}.isdisjoint({x[0] for x in a}):
+        return f"Modell laut Anzeige ({a[0][0]}) widerspricht dem Titel ({t[0][0]})"
+    if {x for x in t if x[1]} != {x for x in a if x[1]} and {x[0] for x in t} == {x[0] for x in a}:
+        return "Variante (Ti/Super/XT) laut Anzeige widerspricht dem Titel"
+    return None
 
 
 # Neueste Anzeigen zuerst: Seite 1 enthaelt so immer die frischesten Angebote.
@@ -244,7 +772,7 @@ def parse_search(html: str) -> list[dict]:
             "ship": bool(re.search(r"Versand möglich|Direkt kaufen", full)),
             "direct": "Direkt kaufen" in full,
             "gesuch": bool(re.search(r"^\s*(Gesuch|Suche)\b", title, re.I)) or bool(art.select_one("[class*='gesuch'], [class*='wanted']")),
-            "ort": loc.get_text(" ", strip=True) if loc else ((re.search(r"\b\d{5}\s+[A-ZÄÖÜ][a-zäöüß.\-]+(?:\s+-\s+[A-ZÄÖÜ][\wäöüß.\-]+)?", full) or [""])[0].strip()),
+            "ort": (loc.get_text(" ", strip=True) if loc else "") or ((re.search(r"\b\d{5}\s+[A-ZÄÖÜ][a-zäöüß.\-]+(?:\s+-\s+[A-ZÄÖÜ][\wäöüß.\-]+)?", full) or [""])[0].strip()),
             "datum": when.get_text(" ", strip=True) if when else "",
         })
     if not items:  # Notfall-Parser, falls sich das Seitenlayout aendert
@@ -263,6 +791,20 @@ def parse_search(html: str) -> list[dict]:
                 "ort": "", "datum": "",
             })
     return items
+
+
+def parse_attrs(soup) -> dict:
+    """Liest die Attributliste der Anzeige (Zustand, Marke, Modell, Art ...) als {Name: Wert}."""
+    attrs: dict[str, str] = {}
+    for li in soup.select("#viewad-details li, .addetailslist li, .addetailslist--detail"):
+        val_el = li.select_one("[class*='detail--value'], span")
+        if not val_el:
+            continue
+        val = val_el.get_text(" ", strip=True)
+        label = li.get_text(" ", strip=True).replace(val, "", 1).strip(" :")
+        if label and val and label not in attrs:
+            attrs[label] = val
+    return attrs
 
 
 def parse_detail(html: str) -> dict:
@@ -297,8 +839,20 @@ def parse_detail(html: str) -> dict:
     d["ads_online"] = int(m.group(1)) if m else None
     crumb = soup.select_one("#vap-brdcrmb, .breadcrump")
     d["category"] = crumb.get_text(" > ", strip=True) if crumb else ""
-    desc = soup.select_one("#viewad-description-text")
-    d["desc"] = desc.get_text(" ", strip=True) if desc else main
+    # Beschreibung: nur das eigentliche Beschreibungs-Element, NIE ersatzweise die ganze Seite
+    desc_el = None
+    for sel in ("#viewad-description-text", "p[itemprop='description']", "[itemprop='description']",
+                "#viewad-description"):
+        desc_el = soup.select_one(sel)
+        if desc_el:
+            break
+    d["desc_found"] = desc_el is not None
+    d["desc"] = desc_el.get_text("\n", strip=True) if desc_el else ""
+    d["attrs"] = parse_attrs(soup)
+    # Gesuch statt Angebot: Markierung auf der Seite oder "Ich suche ..." in Titel/Beschreibung
+    d["gesuch"] = bool(re.search(r"\bGesuch\b", main[:2000])) or bool(
+        re.search(r"^\s*(ich\s+)?(suche|kaufe|ankauf)\b|\bich\s+suche\b|\bsuche\s+(eine?n?|nach)\b|\bwer\s+verkauft\b",
+                  f"{d['title']} . {d['desc'][:400]}", re.I))
     d["unsafe_pay"] = bool(re.search(r"freunde|familie|überweisung|vorkasse|nur\s+bar", d["desc"], re.I)) \
         and not re.search(r"waren\s*(&|und)\s*dienst|käuferschutz|sicher\s+bezahlen", d["desc"], re.I)
     return d
@@ -315,6 +869,11 @@ def why_not(item: dict, q: dict) -> str | None:
         return "kein Preis"
     if TITLE_EXCLUDE.search(t):
         return "Ausschlusswort"
+    sc = scan_defects(t, "", ignore=group_ignore(q))
+    if sc["level"] == HARD:
+        return "Titel nennt Mangel: " + describe_hit(next(h for h in sc["hits"] if h["level"] == HARD))
+    if price_floor_hit(q, t, item["price"]):
+        return f"Preis unter Fake-Grenze ({price_floor_hit(q, t, item['price']):.0f} €)"
     if not q.get("mengen_erlaubt", False) and LOT_RE.search(t):
         return "Sammelanzeige"
     if any(not re.search(rx, t, re.I) for rx in q.get("muss", [])):
@@ -342,20 +901,46 @@ def base_score(discount_pct: float) -> int:
     return 5
 
 
-def assess(cand: dict, d: dict, cfg: dict) -> tuple[int | None, list[str], str | None]:
-    """Gibt (Punkte-Modifikator, Notizen, Ausschlussgrund) zurueck."""
+def assess(cand: dict, d: dict, cfg: dict, q: dict | None = None) -> tuple[int | None, list[str], str | None]:
+    """Gibt (Punkte-Modifikator, Notizen, Ausschlussgrund) zurueck.
+    Legt das Pruefergebnis zusaetzlich in d["scan"] (Maengel-Scanner) ab."""
     notes: list[str] = []
     mod = 0
     age = (today() - d["since"]).days if d["since"] else None
     positive = [b for b in d["badges"] if b in POSITIVE_BADGES]
+    q = q or {}
 
+    if d.get("gesuch"):
+        return None, notes, "ist ein Gesuch (jemand sucht), kein Angebot"
     if d["condition"] == "Defekt":
         return None, notes, "Zustand: defekt"
-    if mentions_defect(d["desc"]):
-        return None, notes, "Beschreibung erwähnt Defekt/ungetestet"
+    if not d.get("desc_found", True):
+        return None, notes, "Beschreibung nicht lesbar (Seitenlayout geändert?) – nicht blind melden"
+    # Marke/Modell laut Anzeige muss zum Titel passen
+    gr = q.get("gruppe")
+    attrs = d.get("attrs") or {}
+    if gr:
+        _, t_title = detect_brand(gr, cand.get("title", ""))
+        a_brand = attrs.get("Marke") or ""
+        if a_brand:
+            ab, at = detect_brand(gr, a_brand)
+            if at == "C" and t_title != "C":
+                return None, notes, f"Marke laut Anzeige „{a_brand}“ ist Stufe C, Titel behauptet etwas anderes"
+        mc = model_conflict(cand.get("title", ""), attrs)
+        if mc:
+            return None, notes, mc
+    sc = scan_defects(d.get("title") or cand.get("title", ""), d["desc"], d["condition"],
+                      ignore=group_ignore(q), price=cand.get("price"))
+    d["scan"] = sc
+    if sc["level"] == HARD:
+        hard = [h for h in sc["hits"] if h["level"] == HARD]
+        return None, notes, "Mangelhinweis: " + "; ".join(describe_hit(h) for h in hard[:2])
+    if sc["level"] == SOFT:
+        mod -= int(cfg["soft_abzug"])
+        notes.append("Hinweis in der Beschreibung: " + "; ".join(describe_hit(h) for h in sc["hits"][:2]))
     if "Na ja Zufriedenheit" in d["badges"]:
         return None, notes, "schlechte Verkäuferbewertung"
-    if d["category"] and not re.search(r"Elektronik|PC|Computer|Notebook|Multimedia", d["category"]):
+    if d["category"] and not re.search(allowed_categories(q), d["category"]):
         return None, notes, f"fachfremde Kategorie ({d['category']}) – Betrugsverdacht"
     if age is not None and age < cfg["sperr_konto_tage"]:
         return None, notes, f"Konto erst {age} Tage alt"
@@ -392,24 +977,113 @@ def assess(cand: dict, d: dict, cfg: dict) -> tuple[int | None, list[str], str |
     return mod, notes, None
 
 
-def qualify(it: dict, pool: dict, q: dict, cfg: dict) -> dict | None:
-    """Prueft eine Anzeige gegen den Marktpreis ihres Pools. Gibt Kandidat oder None zurueck."""
-    others = [v[0] for k, v in pool.items() if k != it["id"]]
-    if len(others) < cfg["min_vergleiche"]:
-        return None
-    med = trimmed_median(others)
+def comparable_prices(it: dict, pool: dict, q: dict, cfg: dict) -> tuple[list[float], float, str | None, str | None, str | None]:
+    """Vergleichspreise fuer eine Anzeige. Mit Produktgruppe (marken.toml) wird NUR mit Anzeigen derselben
+    Qualitaetsstufe verglichen (A mit A, B mit B ...). Gibt (Preise, Faktor, Marke, Stufe, Hinweis oder Fehlergrund) zurueck;
+    sind Preise leer, steht im letzten Feld der Grund."""
+    gr = q.get("gruppe")
+    n_min = int(cfg["min_vergleiche"])
+    if not gr:
+        others = [v[0] for k, v in pool.items() if k != it["id"]]
+        return (others, 1.0, None, None, None) if len(others) >= n_min else ([], 1.0, None, None, "zu wenige Vergleiche")
+    brand, tier = detect_brand(gr, it["title"])
+    if tier == "C" and not q.get("noname_melden", cfg["noname_melden"]):
+        return [], 1.0, brand, tier, f"Marke „{brand}“ = No-Name/Billigware (Stufe C), wird nicht gemeldet"
+    candidates = {k: v for k, v in pool.items() if k != it["id"]}
+    mk_note = ""
+    if gr in MERKMAL_GRUPPEN:
+        cm = it.get("merkmale") or ram_merkmale(it["title"])
+        it["merkmale"] = cm
+        candidates = {k: v for k, v in candidates.items() if merkmal_passt(cm, ram_merkmale(v[3]))}
+        mk_note = f" mit gleicher Ausstattung ({merkmale_text(cm)})"
+    tiers = {k: detect_brand(gr, v[3])[1] for k, v in candidates.items()}
+    same = [candidates[k][0] for k, t in tiers.items() if t == tier]
+    if len(same) >= n_min:
+        return same, 1.0, brand, tier, f"verglichen mit {len(same)} Anzeigen der Stufe {tier}{mk_note}"
+    g = get_marken()["gruppe"].get(gr) or {}
+    b_with_a = g.get("b_mit_a") if g.get("b_mit_a") is not None else cfg["b_mit_a_vergleichen"]
+    if tier == "B" and b_with_a:
+        a_prices = [candidates[k][0] for k, t in tiers.items() if t == "A"]
+        if len(a_prices) >= n_min:
+            ab = float(g.get("b_abschlag_prozent") or cfg["b_abschlag_prozent"])
+            return a_prices, 1 - ab / 100, brand, tier, (f"Stufe B mit {len(a_prices)} Stufe-A-Anzeigen verglichen{mk_note}, "
+                                                          f"{ab:.0f} % Abschlag")
+    return [], 1.0, brand, tier, f"Stufe {tier}: nur {len(same)} Vergleichsanzeigen{mk_note} (nötig: {n_min})"
+
+
+def qualify_why(it: dict, pool: dict, q: dict, cfg: dict) -> tuple[dict | None, str | None]:
+    """Prueft eine Anzeige gegen den Marktpreis ihrer Qualitaetsstufe. Gibt (Kandidat, None) oder (None, Grund)."""
+    if q.get("modus") == "preisgrenze":
+        return qualify_limit(it, q, cfg)
+    others, factor, brand, tier, note = comparable_prices(it, pool, q, cfg)
+    if not others:
+        return None, note
+    med = trimmed_median(others) * factor
     disc = (1 - it["price"] / med) * 100
     if it["price"] < med * cfg["zu_billig_prozent"] / 100:
-        return None  # verdaechtig billig: falscher Artikel, Zubehoer oder Fake
+        return None, "verdächtig billig (falscher Artikel, Zubehör oder Fake)"
     own_use = bool(q.get("eigenbedarf", False))
     min_disc = float(q.get("min_rabatt_prozent", cfg["min_rabatt_prozent"]))
     min_margin = 0.0 if own_use else float(q.get("min_spielraum_eur", cfg["min_spielraum_eur"]))
     margin = med - it["price"] - cfg["versand_schaetzung_eur"]
     if disc < min_disc or margin < min_margin:
-        return None
+        return None, "zu wenig Abstand zum Marktpreis"
     if cfg["nur_mit_versand"] and not it["ship"]:
-        return None
-    return {**it, "query": q["name"], "kategorie": q.get("kategorie"), "median": med, "n": len(others), "discount": disc, "own_use": own_use}
+        return None, "kein Versand"
+    return {**it, "query": q["name"], "kategorie": q.get("kategorie"), "median": med, "n": len(others),
+            "discount": disc, "own_use": own_use, "brand": brand, "tier": tier, "tier_note": note,
+            "eigen_hinweis": q.get("eigenbedarf_hinweis"), "merkmale": it.get("merkmale")}, None
+
+
+def merkmale_aus_detail(title: str, d: dict) -> dict:
+    """Ausstattung aus Titel, Anzeige-Attributen und Beschreibung. Der Titel gilt, ausser die Beschreibung nennt
+    eindeutig etwas Langsameres/anderes (z. B. Titel '3200', Beschreibung nur '2666')."""
+    t = ram_merkmale(title)
+    extra = " ".join(str(v) for v in (d.get("attrs") or {}).values())
+    dm = ram_merkmale(extra + " " + (d.get("desc") or ""))
+    out = dict(t)
+    for k in ("gen", "form"):
+        if not out[k] and dm[k]:
+            out[k] = dm[k]
+    if dm["takt"] and out["gen"] == (dm["gen"] or out["gen"]):
+        desc_speeds = _speeds(norm(extra + " " + (d.get("desc") or "")))
+        title_speeds = _speeds(norm(title))
+        if not out["takt"] or (title_speeds and desc_speeds and max(desc_speeds) < min(title_speeds)):
+            out["takt"] = dm["takt"]
+    return out
+
+
+def qualify_limit(it: dict, q: dict, cfg: dict) -> tuple[dict | None, str | None]:
+    """Modus "preisgrenze" (Konvolute, Laptops mit einfachem Makel): kein Median-Vergleich, weil die Anzeigen zu
+    unterschiedlich sind. Gemeldet wird, was unter `melden_bis` liegt. Mit `richtwert` (realistischer Wiederverkaufswert
+    nach Aufwertung) werden Rabatt und Spielraum gegen diesen Wert berechnet, sonst gibt es eine feste Bewertung."""
+    limit = float(q.get("melden_bis", q.get("preis_max", 0)))
+    if it["price"] > limit:
+        return None, f"über der Preisgrenze ({fmt_eur(limit)})"
+    if cfg["nur_mit_versand"] and not it["ship"]:
+        return None, "kein Versand"
+    gr = q.get("gruppe")
+    brand, tier = detect_brand(gr, it["title"]) if gr else (None, None)
+    if tier == "C" and not q.get("noname_melden", cfg["noname_melden"]):
+        return None, f"Marke „{brand}“ = No-Name/Billigware (Stufe C), wird nicht gemeldet"
+    ref = q.get("richtwert")
+    own_use = bool(q.get("eigenbedarf", False))
+    if ref:
+        ref = float(ref)
+        disc = (1 - it["price"] / ref) * 100
+        margin = ref - it["price"] - cfg["versand_schaetzung_eur"] - float(q.get("aufwertung_eur", 0))
+        if not own_use and margin < float(q.get("min_spielraum_eur", cfg["min_spielraum_eur"])):
+            return None, "zu wenig Spielraum zum Richtwert"
+    else:
+        ref, disc = 0.0, 0.0
+    return {**it, "query": q["name"], "kategorie": q.get("kategorie"), "median": ref, "n": 0, "discount": disc,
+            "own_use": own_use, "brand": brand, "tier": tier, "tier_note": None, "modus": "preisgrenze",
+            "limit": limit, "aufwertung": float(q.get("aufwertung_eur", 0)), "fix_score": int(q.get("bewertung", 6)),
+            "hinweis": q.get("hinweis"), "eigen_hinweis": q.get("eigenbedarf_hinweis")}, None
+
+
+def qualify(it: dict, pool: dict, q: dict, cfg: dict) -> dict | None:
+    return qualify_why(it, pool, q, cfg)[0]
 
 
 PENDING_KEYS = ("id", "url", "title", "vb", "ship", "direct", "gesuch", "ort", "datum", "query", "kategorie")
@@ -423,8 +1097,9 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
     reported = state.setdefault("gemeldet", {})
     pending = state.setdefault("offen", {})
     by_name = {q["name"]: q for q in queries}
-    stats = {"blocked": None, "listings": 0, "requests": 0}
+    stats = {"blocked": None, "listings": 0, "requests": 0, "detail_checked": 0, "detail_unreadable": 0}
     prelim: list[dict] = []
+    new_started = 0
 
     # Kandidaten, die im letzten Lauf wegen des Pruef-Limits liegen geblieben sind
     for pid, p in list(pending.items()):
@@ -443,7 +1118,19 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
             if every > 1 and (run_no - 1) % every:
                 continue
             pool = pools.setdefault(q["name"], {})
+            # alte Pool-Eintraege ohne Titel (aeltere Version) koennen nicht nachgefiltert werden -> neu aufbauen
+            if any(len(v) < 4 for v in pool.values()):
+                pool.clear()
+            # Vergleichspreise, die nach geaenderten Filtern nicht mehr passen, entfernen
+            for k in [k for k, v in pool.items()
+                      if why_not({"title": v[3], "price": v[0], "gesuch": False}, q) is not None]:
+                del pool[k]
             bootstrap = not pool  # neue Suche: erst Preisbasis sammeln, alte Anzeigen nicht als "neu" melden
+            if bootstrap:
+                # viele neue Suchen auf einmal wuerden kleinanzeigen mit Abrufen fluten -> auf mehrere Laeufe verteilen
+                if new_started >= int(cfg.get("max_neue_suchen_pro_lauf", 8)):
+                    continue
+                new_started += 1
             pages = 1 if len(pool) >= cfg["min_vergleiche"] else min(int(cfg["startseiten"]), 5)
             seen: dict[str, dict] = {}
             for page in range(1, pages + 1):
@@ -460,7 +1147,7 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
             fresh = []
             for it in relevant:
                 prev = pool.get(it["id"])
-                pool[it["id"]] = [it["price"], t0.isoformat(), prev[2] if prev else t0.isoformat()]
+                pool[it["id"]] = [it["price"], t0.isoformat(), prev[2] if prev else t0.isoformat(), it["title"]]
                 is_new = prev is None
                 cheaper = prev is not None and it["price"] < prev[0] - 0.5
                 if (is_new or cheaper) and it["id"] not in reported and not bootstrap:
@@ -482,9 +1169,11 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
                     print(f"    Beispiel: '{it['title'][:60]}' | Preis {it['price']} | Gesuch {it['gesuch']}")
 
             for it in fresh:
-                c = qualify(it, pool, q, cfg)
+                c, why = qualify_why(it, pool, q, cfg)
                 if c:
                     prelim.append(c)
+                elif why and ("Stufe" in why or "Marke" in why):
+                    print(f"  x {it['title'][:60]} – {why}")
     except Blocked as e:
         stats["blocked"] = str(e)
         print(f"!! Zugriff blockiert: {e} – Lauf abgebrochen")
@@ -511,22 +1200,50 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
             if not html:
                 continue
             d = parse_detail(html)
-            if d["price"]:
-                c["price"] = d["price"]
-                c["discount"] = (1 - c["price"] / c["median"]) * 100
-            mod, notes, reason = assess(c, d, cfg)
+            stats["detail_checked"] += 1
+            if not d.get("desc_found"):
+                stats["detail_unreadable"] += 1
+            if d["price"] and abs(d["price"] - c["price"]) > 0.5:
+                # Preis auf der Anzeigenseite weicht ab -> mit diesem Preis nochmal pruefen
+                q_c = by_name.get(c["query"], {})
+                c2 = qualify({**c, "price": d["price"]}, pools.get(c["query"], {}), q_c, cfg) if q_c else None
+                if not c2 or not (q_c.get("preis_min", 0) <= d["price"] <= q_c.get("preis_max", 10**6)):
+                    print(f"  x {c['title'][:60]} – Preis auf Anzeigenseite {fmt_eur(d['price'])} passt nicht")
+                    continue
+                c.update(price=d["price"], discount=c2["discount"])
+            q_c = by_name.get(c["query"], {})
+            if q_c.get("gruppe") in MERKMAL_GRUPPEN and q_c.get("modus") != "preisgrenze":
+                # Takt/Generation/Bauform aus Beschreibung und Anzeige-Details: steht dort z. B. 2666 statt 3200,
+                # wird nur mit gleichwertigen Anzeigen verglichen.
+                full = merkmale_aus_detail(c["title"], d)
+                if full != c.get("merkmale"):
+                    c3, why3 = qualify_why({**c, "merkmale": full}, pools.get(c["query"], {}), q_c, cfg)
+                    if not c3:
+                        print(f"  x {c['title'][:60]} – laut Beschreibung {merkmale_text(full)}: {why3}")
+                        continue
+                    c.update(median=c3["median"], n=c3["n"], discount=c3["discount"], tier_note=c3["tier_note"],
+                             merkmale=full)
+            mod, notes, reason = assess(c, d, cfg, by_name.get(c["query"]))
             if reason:
                 print(f"  x {c['title'][:60]} – {reason}")
                 continue
             ship = d["ship_cost"] if d["ship_cost"] is not None else cfg["versand_schaetzung_eur"]
-            base = base_score(c["discount"])
+            if c.get("modus") == "preisgrenze" and not c.get("median"):
+                base = int(c.get("fix_score", 6))  # kein Marktpreis -> feste Bewertung, nur Verkaeufer-Abzuege
+            else:
+                base = base_score(c["discount"])
             score = base + mod
             score = 10 if (c["discount"] >= 50 and mod >= 1) else max(1, min(9, score))
             if score < cfg["min_bewertung"]:
                 print(f"  x {c['title'][:60]} – Bewertung {score}/10 zu niedrig")
                 continue
+            sc = d.get("scan") or {"level": CLEAN, "hits": []}
+            snippet = re.sub(r"\s+", " ", d.get("desc", "")).strip()
             c.update(score=score, notes=notes, ship_cost=d["ship_cost"], condition=d["condition"],
-                     margin=c["median"] - c["price"] - ship)
+                     margin=(c["median"] - c["price"] - ship - c.get("aufwertung", 0)) if c.get("median") else None,
+                     desc_len=len(d.get("desc", "")),
+                     desc_snip=snippet[:300], scan_level=sc["level"],
+                     scan_hits=[describe_hit(h) for h in sc["hits"]])
             hits.append(c)
     # nicht geschaffte Kandidaten beim naechsten Lauf pruefen
     for c in prelim[checked:]:
@@ -547,9 +1264,12 @@ def run(cfg: dict, queries: list[dict], state: dict, fetcher: Fetcher) -> tuple[
 
 # --------------------------------------------------------------------------- Ausgabe
 
+TIER_NAME = {"A": "Markenware", "B": "Mittelklasse/OEM", "C": "No-Name/Billigware"}
+
+
 def compose(hits: list[dict]) -> tuple[str, str]:
     top = hits[0]
-    subj = f"Deal: {top['title'][:55]} für {fmt_eur(top['price'])} (-{top['discount']:.0f} %)"
+    subj = f"Deal: {top['title'][:55]} für {fmt_eur(top['price'])}" + (f" (-{top['discount']:.0f} %)" if top.get("discount") else "")
     if len(hits) > 1:
         subj += f" + {len(hits) - 1} weitere"
     lines = [f"{len(hits)} neue{'s' if len(hits) == 1 else ''} Angebot{'e' if len(hits) > 1 else ''} "
@@ -559,16 +1279,39 @@ def compose(hits: list[dict]) -> tuple[str, str]:
         lines += [
             f"{i}) Bewertung {h['score']}/10 – {h['title']}",
             f"   Preis: {fmt_eur(h['price'])}{' VB' if h['vb'] else ''}{ship}",
-            f"   Marktpreis: ~{fmt_eur(h['median'])} (Median aus {h['n']} Anzeigen \"{h['query']}\")"
-            f" -> {h['discount']:.0f} % günstiger",
         ]
+        if h.get("modus") == "preisgrenze":
+            if h.get("median"):
+                lines.append(f"   Richtwert (Wiederverkauf, aus config.toml): ~{fmt_eur(h['median'])}"
+                             f" -> {h['discount']:.0f} % darunter"
+                             + (f", Aufwertung ca. {fmt_eur(h['aufwertung'])} eingerechnet" if h.get("aufwertung") else ""))
+            else:
+                lines.append(f"   Preisgrenzen-Treffer \"{h['query']}\" (unter {fmt_eur(h['limit'])}) – "
+                             "kein automatischer Marktpreis, Wert bitte selbst prüfen")
+            if h.get("hinweis"):
+                lines.append(f"   Hinweis: {h['hinweis']}")
+        else:
+            lines.append(f"   Marktpreis: ~{fmt_eur(h['median'])} (Median aus {h['n']} Anzeigen \"{h['query']}\")"
+                         f" -> {h['discount']:.0f} % günstiger")
+        if h.get("brand"):
+            lines.append(f"   Marke: {h['brand']} (Stufe {h['tier']}: {TIER_NAME.get(h['tier'], '?')}) – {h.get('tier_note') or ''}")
+        if h.get("merkmale"):
+            lines.append(f"   Ausstattung erkannt: {merkmale_text(h['merkmale'])}"
+                         + (" – fehlende Angaben vor dem Kauf erfragen" if None in h["merkmale"].values() else ""))
         if h.get("kategorie") in ("notebooks", "pcs"):
             lines.append("   Achtung: Marktpreis mischt Ausstattungen – CPU/RAM/SSD mit ähnlichen Anzeigen vergleichen")
         if h["own_use"]:
-            lines.append("   Eigenbedarf (EliteBook-Upgrade) – passt: DDR4 SO-DIMM bzw. M.2 NVMe laut Titel")
-        else:
+            lines.append("   Eigenbedarf – " + (h.get("eigen_hinweis") or "für dich selbst, kein Mindest-Spielraum nötig"))
+        elif h.get("margin") is not None:
             lines.append(f"   Spielraum bei Weiterverkauf zum Marktpreis: ca. {fmt_eur(max(h['margin'], 0))}")
         lines.append(f"   Verkäufer: {'; '.join(h['notes'])}")
+        if h.get("desc_len") is not None:
+            if h.get("scan_hits"):
+                lines.append(f"   Beschreibung gelesen ({h['desc_len']} Zeichen) – Hinweise: " + "; ".join(h["scan_hits"][:3]))
+            else:
+                lines.append(f"   Beschreibung gelesen ({h['desc_len']} Zeichen): keine Mängelhinweise gefunden")
+            if h.get("desc_snip"):
+                lines.append(f"   „{h['desc_snip']}“")
         extra = f" · Zustand: {h['condition']}" if h.get("condition") else ""
         lines.append(f"   Ort: {h['ort'] or 'k. A.'}{extra}")
         lines.append(f"   {h['url']}")
@@ -657,6 +1400,14 @@ def health_check(state: dict, stats: dict, dry: bool) -> None:
     last = dt.datetime.fromisoformat(h["letzte_warnung"]) if h["letzte_warnung"] else None
     if last and now - last < dt.timedelta(hours=24):
         return
+    det_bad = stats.get("detail_checked", 0) >= 3 and stats.get("detail_unreadable", 0) == stats["detail_checked"]
+    if det_bad and not dry:
+        notify("Deal-Watcher: Anzeigenseiten nicht lesbar",
+               "Die Beschreibung ließ sich bei mehreren Anzeigen nicht lesen. Vermutlich hat kleinanzeigen das "
+               "Seitenlayout der Anzeigen geändert. Der Deal-Watcher meldet deshalb vorsichtshalber nichts, "
+               "bis der Parser angepasst ist (Claude fragen und das Protokoll zeigen).")
+        h["letzte_warnung"] = now.isoformat(timespec="seconds")
+        return
     if h["leer_in_folge"] >= 3 and not dry:
         notify("Deal-Watcher: findet keine Anzeigen mehr",
                "Der Deal-Watcher findet seit mehreren Läufen gar keine Anzeigen mehr. "
@@ -693,11 +1444,60 @@ def save_state(state: dict) -> None:
     os.replace(tmp, STATE_PATH)
 
 
+def explain(target: str, html_file: str | None = None, gruppe: str | None = None) -> None:
+    """Zeigt, wie der Deal-Watcher EINE Anzeige beurteilt (Marke/Stufe, gelesene Beschreibung, Mangelhinweise)."""
+    if html_file:
+        with open(html_file, encoding="utf-8", errors="replace") as f:
+            html = f.read()
+    else:
+        url = target if target.startswith("http") else f"{BASE}/s-anzeige/x/{target}"
+        try:
+            html = Fetcher().get(url)
+        except Blocked as e:
+            sys.exit(f"Zugriff blockiert ({e}) – bitte später nochmal oder --html mit gespeicherter Seite nutzen.")
+        if not html:
+            sys.exit("Anzeige konnte nicht geladen werden (offline, gelöscht oder Netzwerkfehler).")
+    d = parse_detail(html)
+    print(f"Titel:        {d['title']}")
+    print(f"Preis:        {fmt_eur(d['price']) if d['price'] else 'k. A.'} · Zustand: {d['condition'] or 'k. A.'} · "
+          f"Versand: {'nur Abholung' if d['pickup_only'] else ('ab ' + fmt_eur(d['ship_cost']) if d['ship_cost'] else 'möglich/unbekannt')}")
+    print(f"Verkäufer:    {'gewerblich' if d['commercial'] else 'privat'}, aktiv seit {d['since'] or 'k. A.'}, "
+          f"Siegel: {', '.join(d['badges']) or 'keine'}")
+    print(f"Attribute:    {d['attrs'] or 'keine gelesen'}")
+    print(f"Beschreibung: {'gefunden' if d['desc_found'] else 'NICHT GEFUNDEN'}, {len(d['desc'])} Zeichen")
+    if d["desc"]:
+        print("              „" + re.sub(r"\s+", " ", d["desc"])[:300] + "“")
+    groups = get_marken()["gruppe"]
+    shown = [gruppe] if gruppe else [g for g in groups if detect_brand(g, d["title"], d["attrs"].get("Marke", ""))[0] != "unbekannt"]
+    print("\nMarke/Stufe:")
+    for g in shown or ["(keine bekannte Marke im Titel)"]:
+        if g in groups:
+            b, t = detect_brand(g, d["title"], d["attrs"].get("Marke", ""))
+            print(f"  Gruppe {g}: {b} -> Stufe {t} ({TIER_NAME.get(t, '?')})")
+        else:
+            print(f"  {g}")
+    sc = scan_defects(d["title"], d["desc"], d["condition"], ignore=group_ignore({"gruppe": gruppe}) if gruppe else (), price=d["price"])
+    print(f"\nMängel-Scanner: {sc['level']}")
+    for h in sc["hits"]:
+        print(f"  [{h['level']}] {h['rule']} in {h['source']}: „{h['snippet']}“")
+    if not sc["hits"]:
+        print("  nichts gefunden")
+    if d["gesuch"]:
+        print("\n!! Das ist ein Gesuch (jemand sucht), kein Angebot.")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description="Deal-Watcher für kleinanzeigen.de")
     ap.add_argument("--dry-run", action="store_true", help="keine Mail, state.json nicht speichern")
     ap.add_argument("--test-mail", action="store_true", help="nur Testmail senden")
+    ap.add_argument("--explain", metavar="ID_ODER_URL", help="eine einzelne Anzeige erklären (Marke, Mängel-Scanner)")
+    ap.add_argument("--html", metavar="DATEI", help="mit --explain: gespeicherte Anzeigenseite statt Abruf")
+    ap.add_argument("--gruppe", metavar="NAME", help="mit --explain: Produktgruppe aus marken.toml (z. B. ssd, ram, gpu)")
     args = ap.parse_args()
+
+    if args.explain:
+        explain(args.explain, args.html, args.gruppe)
+        return
 
     if args.test_mail:
         notify("Deal-Watcher: Testmail", "Die Benachrichtigung funktioniert.")

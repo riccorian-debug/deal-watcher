@@ -25,7 +25,8 @@ Wenn du möglichst wenige Mails willst: nur den Deal-Watcher einrichten.
 
 ### 2. Dateien hochladen
 1. Im Repo auf **uploading an existing file** klicken.
-2. Diese vier Dateien reinziehen: `deal_watcher.py`, `config.toml`, `state.json`, `requirements.txt` → **Commit changes**.
+2. Diese Dateien reinziehen: `deal_watcher.py`, `config.toml`, `marken.toml`, `state.json`, `requirements.txt`
+   (optional auch `test_dw.py`, der Selbsttest) → **Commit changes**.
 3. **Add file → Create new file**, als Namen genau `.github/workflows/deal-watcher.yml` eintippen
    (die Schrägstriche legen die Ordner an), den Inhalt der Datei `deal-watcher.yml` einfügen → **Commit changes**.
 
@@ -77,18 +78,66 @@ steht dort nicht. Wird es zu viel: in **Meins → Suchaufträge** einzelne Mitte
   vielen Abrufen sperrt.
 - Gemeldet wird eine neue Anzeige oder Preissenkung, wenn sie **mind. 20 % unter dem Marktpreis** liegt und
   **mind. 20 € Spielraum** zum Weiterverkauf lässt (RAM fürs EliteBook: nur die 20 %).
-- Vorher prüft er die Anzeigenseite: Kontoalter, Bewertungssiegel, passende Kategorie, Zustand,
-  Defekt-Hinweise, Versand. Ab 150 € nur mit etabliertem Verkäufer oder „Direkt kaufen“.
+- Vorher öffnet er die Anzeigenseite und **liest die komplette Beschreibung** (Satz für Satz, auch den
+  Zustandseintrag und das Ende des Textes): Kontoalter, Bewertungssiegel, Kategorie, Versand, und vor allem
+  **Mängel** (defekt, Sprung, Akku schwach, ohne Netzteil, BIOS-Passwort, gesperrt, SSD-/Akku-Gesundheit unter
+  Grenze, Betrugsmuster wie „PayPal Freunde“ oder „nur WhatsApp“). Verneinungen („nicht defekt“, „0 defekte
+  Sektoren“, „Rückgabe bei Defekt“) versteht er. Harte Mängel = nie gemeldet, unklare Hinweise = Punktabzug
+  und Hinweis in der Mail. Lässt sich die Beschreibung nicht lesen, wird **nichts blind gemeldet**.
+  Ab 150 € nur mit etabliertem Verkäufer oder „Direkt kaufen“.
+- **Marken-Stufen** (Datei `marken.toml`): A = Marken-/High-End-Ware, B = solide Mittelklasse/OEM,
+  C = No-Name/China-Billigware. Marktpreise werden **nur innerhalb derselben Stufe** verglichen, Billigware
+  (Stufe C) wird nicht gemeldet. Ist bei SSD/HDD/Laptop/Mini-PC/Netzteil keine Marke erkennbar, gilt sie als
+  Stufe C. Außerdem gibt es Mindestpreise gegen Fake-Angebote (z. B. 2-TB-SSD für 30 €) und einen Abgleich
+  zwischen Titel und Marken-/Modellangabe der Anzeige.
 - Alle Funde eines Laufs kommen in **einer** Mail, bester Deal zuerst. Nichts gefunden = keine Mail.
 - **Sperre durch kleinanzeigen:** Er erkennt die Sperrseite, pausiert automatisch 6 Stunden (bei erneuter
   Sperre 12, 24, max. 48 Stunden) und macht dann von allein weiter. Erst bei wiederholter Sperre bekommst du
   eine Mail.
 
+## Arbeitsspeicher: nur gleiche Ausstattung wird verglichen
+
+Bei RAM erkennt der Deal-Watcher aus Titel, Anzeige-Details und Beschreibung **DDR-Generation** (DDR3/4/5),
+**Bauform** (SO-DIMM, Desktop, ECC/RDIMM/LRDIMM) und **Taktklasse** (z. B. DDR4 bis 2400 · 2666 · 2933/3200 · 3600+,
+auch aus Teilenummern wie Samsung „-CWE“ oder „PC4-21300“). Ein 2666er wird nur mit 2666ern verglichen, DDR4 nie mit DDR5,
+Laptop-RAM nie mit Server-RAM. Steht kein Takt da, vergleicht er nur mit Anzeigen ohne Takt oder mit der langsamsten
+Variante, damit kein Billig-Riegel als Deal durchrutscht. Nennt die Beschreibung einen langsameren Takt als der Titel,
+zählt die Beschreibung. RAM ohne Marke (Stufe B) wird mit Markenware nur mit 25 % Abschlag verglichen.
+In der Mail steht dann z. B. „Ausstattung erkannt: DDR4 · SO-DIMM · 2933/3200 MHz“.
+
+## Neue Kategorien (Oktober 2026)
+
+Zusätzlich zu Speicher, GPUs, CPUs und Laptops sucht der Deal-Watcher jetzt auch:
+
+- **Eigenbedarf fürs Studium** (ohne Mindest-Gewinn, nur ab 20 % unter Marktpreis): Oszilloskope (Rigol DHO800/DS1000Z,
+  Siglent), Fluke-Multimeter, Labornetzteile, Lötstationen (Weller, Pinecil), Arduino/ESP32-Sets, Zigbee-Sticks,
+  Home Assistant Green, Shelly-Zwischenstecker.
+- **Arbeitsplatz / Weiterverkauf:** Dell UltraSharp und Lenovo ThinkVision, Keychron, Sony WH-1000XM4/XM5, Bose QC.
+- **Business-Zubehör:** HP/Lenovo/Dell Thunderbolt- und USB-C-Docks.
+- **Server-Speicher:** DDR4/DDR5 ECC RDIMM, Samsung PM983 Enterprise-SSDs.
+- **Akku-Werkzeug:** Makita und Bosch Professional, nur Sets mit Akku (Solo-Geräte sind ein anderer Markt).
+- **Konvolute und Laptops mit einfachem Makel** („ohne SSD“, „ohne Netzteil“): Hier gibt es keinen sinnvollen
+  Marktpreis, deshalb meldet der Deal-Watcher jede neue Anzeige unter einer Preisgrenze (`melden_bis`), nachdem er
+  Verkäufer und Beschreibung geprüft hat. Echte Mängel (Display-Sprung, BIOS-Passwort …) fliegen weiterhin raus. In der
+  Mail steht dann „Preisgrenzen-Treffer – Wert bitte selbst prüfen“.
+
+Die meisten neuen Suchen laufen nur jeden 2. oder 3. Lauf. Neue Suchen bauen ihre Preisbasis verteilt auf mehrere Läufe
+auf (höchstens 8 pro Lauf, `max_neue_suchen_pro_lauf`), damit kleinanzeigen nicht auf einmal viele Abrufe sieht.
+In den ersten Stunden nach dem Update kommen aus den neuen Kategorien also noch keine Mails, das ist normal.
+
 ## Anpassen
 
 `config.toml` im Browser öffnen → Stift-Symbol → ändern → **Commit changes**.
 - Mehr oder weniger Treffer: `min_rabatt_prozent` und `min_spielraum_eur` oben in der Datei.
-- Neuen Suchbegriff: einen `[[suche]]`-Block kopieren und anpassen.
+- Neuen Suchbegriff: einen `[[suche]]`-Block kopieren und anpassen. Mit `gruppe = "ssd"` (ram, hdd, nas, server,
+  gpu, cpu, laptop, minipc, psu) legt man fest, nach welcher Markenliste bewertet wird.
+- Billigware doch sehen: `noname_melden = true` (dann nur gegen andere Billigware verglichen).
+- Marken ergänzen oder umsortieren: `marken.toml` (Listen A, B, C je Gruppe). Fake-Mindestpreise: Blöcke
+  `[[preisboden]]` am Dateiende.
+- Strenge bei unklaren Beschreibungen: `soft_abzug` (Punkte Abzug, Standard 2).
+- Preisgrenze ändern (Konvolute, Makel-Laptops): `melden_bis` in der jeweiligen Suche. Mit `richtwert` (z. B. 300)
+  rechnet er den Spielraum gegen diesen Wiederverkaufswert, `aufwertung_eur` zieht die Kosten fürs Nachrüsten ab.
+- Nicht gewünschte Suche abschalten: den ganzen `[[suche]]`-Block löschen oder `alle = 1000` setzen.
 
 ## Optional: Popup auf dem PC statt nur Mail
 
@@ -103,7 +152,7 @@ Dann erscheint bei jedem Deal zusätzlich ein Windows-Popup, solange der Browser
 
 ## Updates einspielen (wichtig)
 
-Neue Versionen von `deal_watcher.py`, `config.toml` oder `deal-watcher.yml` einfach per
+Neue Versionen von `deal_watcher.py`, `config.toml`, `marken.toml` oder `deal-watcher.yml` einfach per
 **Add file → Upload files** hochladen (bzw. die yml im Ordner `.github/workflows`), alte Dateien werden ersetzt.
 
 **`state.json` nie erneut hochladen!** Darin sammelt der Deal-Watcher die Marktpreise und merkt sich,
@@ -117,7 +166,16 @@ Actions → Lauf → suche → **Angebote suchen**:
 - `(erster Lauf: nur Preisbasis)` – neue Suche, beim ersten Mal wird nur gesammelt, nichts gemeldet.
 - `Diagnose: kein Preis 28x` – kleinanzeigen hat das Seitenlayout geändert → Protokoll an Claude schicken.
 - `x … – nur Abholung / Defekt / Konto erst … Tage alt` – Kandidat geprüft und bewusst aussortiert.
+- `x … – Mangelhinweis: defekt („…Satz…“)` – in der Beschreibung steht ein Mangel, Anzeige aussortiert.
+- `x … – Marke „…“ = No-Name/Billigware (Stufe C)` – bewusst nicht gemeldet.
+- `x … – Beschreibung nicht lesbar` – Anzeige wird nicht blind gemeldet; bei vielen davon kommt eine Warnmail.
 - `Zugriff blockiert` – kleinanzeigen sperrt kurz; der Deal-Watcher pausiert automatisch.
+
+In der Mail steht bei jedem Deal die erkannte Marke samt Stufe, mit wie vielen Anzeigen verglichen wurde und
+ein Zitat aus der gelesenen Beschreibung.
+
+Eine einzelne Anzeige prüfen lassen (am eigenen Gerät): `python3 deal_watcher.py --explain 1234567890 --gruppe ssd`
+zeigt, wie sie bewertet wird. Selbsttest: `python3 test_dw.py` (muss mit „FEHLER: 0“ enden).
 
 Bei Laptops und PCs mischt der Marktpreis verschiedene Ausstattungen (i5/i7, 8/16 GB). Vor dem Kauf
 CPU, RAM und SSD kurz mit ähnlichen Anzeigen vergleichen – die Mail weist darauf hin.
