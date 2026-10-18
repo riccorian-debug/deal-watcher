@@ -381,8 +381,8 @@
   "3544411884": "2026-10-18",
   "3544555011": "2026-10-18"
  },
- "laeufe": 201,
- "letzter_lauf": "2026-10-18T14:25:01",
+ "laeufe": 202,
+ "letzter_lauf": "2026-10-18T14:38:40",
  "offen": {},
  "pools": {
   "Crucial P3 Plus 2TB": {},
@@ -850,8 +850,112 @@
    ]
   },
   "Sony WH-1000XM4/XM5": {},
-  "Synology DS220+": {},
-  "Synology DS220j": {},
+  "Synology DS220+": {
+   "3499704489": [
+    300.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology NAS ds 220 + plus"
+   ],
+   "3510443373": [
+    375.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DiskStation DS220+ NAS Server"
+   ],
+   "3525187967": [
+    250.0,
+    "2026-10-18",
+    "2026-10-18",
+    "NAS - Synology DiskStation DS220+ (Sehr guter Zustand)"
+   ],
+   "3540572891": [
+    255.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DS220+ NAS 2-Bay, 6 GB RAM, ohne Festplatten"
+   ],
+   "3543208777": [
+    300.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DS220+ NAS 2-Bay, 6 GB RAM, ohne Festplatten"
+   ],
+   "3543478484": [
+    225.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DS220+ NAS Server - gepflegter Zustand"
+   ]
+  },
+  "Synology DS220j": {
+   "3364022627": [
+    250.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology Diskstation DS220j NEU Unbenutzt und verpackt NAS Server"
+   ],
+   "3391285604": [
+    200.0,
+    "2026-10-18",
+    "2026-10-18",
+    "NAS - Synology DS220j  Netzwerkspeicher"
+   ],
+   "3481131698": [
+    102.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DiskStation DS220j NAS Server | 2-Bay Netzwerkspeicher ("
+   ],
+   "3487051674": [
+    145.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DS220j NAS Server"
+   ],
+   "3501998613": [
+    110.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DS220J-NAS/Netzwerkspeicher"
+   ],
+   "3504916017": [
+    150.0,
+    "2026-10-18",
+    "2026-10-18",
+    "NAS Synology Diskstation DS220J NEU & OVP"
+   ],
+   "3530046757": [
+    150.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DS220j (Cloud Server) (ca. 3 Jahre alt)"
+   ],
+   "3530188387": [
+    120.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DS220j"
+   ],
+   "3539852271": [
+    130.0,
+    "2026-10-18",
+    "2026-10-18",
+    "2-Bay Synology DiskStation DS220j NAS Mix-ID"
+   ],
+   "3543625884": [
+    100.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DiskStation DS220j – 2-Bay NAS, ohne Festplatten"
+   ],
+   "3544253158": [
+    90.0,
+    "2026-10-18",
+    "2026-10-18",
+    "Synology DS220J 2 Bay NAS ohne Festplatten in weiß"
+   ]
+  },
   "Synology DS920+": {},
   "Synology DS923+": {},
   "ThinkPad L14 Gen 3": {},
@@ -937,7 +1041,7 @@
  "zustand": {
   "leer_in_folge": 0,
   "letzte_warnung": "",
-  "pause_bis": "2026-10-17T21:47:23",
-  "pause_h": 12
+  "pause_bis": "2026-10-19T14:38:39",
+  "pause_h": 24
  }
 }
