@@ -380,21 +380,223 @@
   "3544407463": "2026-10-18",
   "3544411884": "2026-10-18",
   "3544555011": "2026-10-18",
-  "3545368413": "2026-10-21"
+  "3545368413": "2026-10-21",
+  "3546952316": "2026-10-21"
  },
- "laeufe": 203,
- "letzter_lauf": "2026-10-21T15:32:16",
+ "laeufe": 204,
+ "letzter_lauf": "2026-10-21T16:41:54",
  "offen": {},
  "pools": {
-  "Crucial P3 Plus 2TB": {},
+  "Crucial P3 Plus 2TB": {
+   "3504508010": [
+    200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial P3 Plus SSD 2TB M.2"
+   ],
+   "3504564454": [
+    160.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Festplatte, Crucial P3 Plus 2tb"
+   ],
+   "3506083039": [
+    175.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial P3 Plus 2 TB playstation kompatibel"
+   ],
+   "3519067318": [
+    245.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial P3 Plus SSD 2TB M.2 NVME und SSK USB4 case Mac Mini M4"
+   ],
+   "3539320630": [
+    200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial P3 plus, 2TB 5000mb/s"
+   ],
+   "3540652997": [
+    229.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial P3 Plus 2TB PCIe M.2 2280 SSD"
+   ],
+   "3546141591": [
+    225.0,
+    "2026-10-21",
+    "2026-10-21",
+    "2TB M.2 SSD crucial P3 Plus 2280"
+   ]
+  },
   "DDR4 ECC RDIMM 32GB": {},
   "DDR5 32GB 6000": {},
   "Dell Latitude 7420": {},
   "Dell UltraSharp U2722D": {},
   "Dell UltraSharp U2723QE": {},
   "EliteBook 840 G8": {},
-  "EliteBook RAM 16GB SO-DIMM": {},
-  "EliteBook RAM 32GB SO-DIMM": {},
+  "EliteBook RAM 16GB SO-DIMM": {
+   "3545813718": [
+    65.0,
+    "2026-10-21",
+    "2026-10-21",
+    "2x Samsung 8GB (16Gb insg) DDR4 SODIMM 3200MHz RAM"
+   ],
+   "3545894311": [
+    70.0,
+    "2026-10-21",
+    "2026-10-21",
+    "16 GB DDR4 RAM SODIMM 3200 MHZ von TeamGroup NEU"
+   ],
+   "3545909874": [
+    50.0,
+    "2026-10-21",
+    "2026-10-21",
+    "16 GB DDR4 RAM SODIMM Micron 3200ِAA"
+   ],
+   "3546056844": [
+    110.0,
+    "2026-10-21",
+    "2026-10-21",
+    "SK hynix 16GB DDR4 RAM 3200 MHz SO-DIMM – Laptop Arbeitsspeicher"
+   ],
+   "3546107267": [
+    65.0,
+    "2026-10-21",
+    "2026-10-21",
+    "SK hynix 16 GB Laptop-RAM – 2 × 8 GB DDR4-3200 SO-DIMM"
+   ],
+   "3546287276": [
+    89.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial 16GB DDR4-3200 SO-DIMM – Notebook RAM"
+   ],
+   "3546312515": [
+    65.0,
+    "2026-10-21",
+    "2026-10-21",
+    "16GB DDR4 PC4 3200 SODIMM Samsung"
+   ],
+   "3546842503": [
+    85.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial 16 GB RAM (2×8 GB) DDR4-3200 SO-DIMM – wenig benutzt"
+   ],
+   "3547478212": [
+    90.0,
+    "2026-10-21",
+    "2026-10-21",
+    "DDR4-3200 SO-DIMM 16GB RAM"
+   ]
+  },
+  "EliteBook RAM 32GB SO-DIMM": {
+   "3542116149": [
+    198.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Neu Arbeitsspeicher Mushkin Redline 32GB 2x16GB DDR4-3200 SODIMM"
+   ],
+   "3543316153": [
+    150.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial 32GB DDR4-3200 SODIMM RAM (CT32G4SFD832A)"
+   ],
+   "3543511489": [
+    150.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32GB RAM DDR4-3200 Crucial Sodimm"
+   ],
+   "3543928141": [
+    179.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32 GB RAM (2x16 GB) Samsung DDR4 SODIMM 3200MHz PC4-3200AA-SA2-11"
+   ],
+   "3544541929": [
+    100.0,
+    "2026-10-21",
+    "2026-10-21",
+    "KIT DDR4 32 GB Samsung (2X 16GB)3200MHz  SODIMM"
+   ],
+   "3544618457": [
+    200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Integral 32GB DDR4 RAM 3200MHz SODIMM"
+   ],
+   "3545045615": [
+    200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32 GB DDR4 3200 SO-DIMM CL22 RAM Notebook / Mini-PC"
+   ],
+   "3546077855": [
+    240.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Transcend / MICRON DDR4 RAM 32GB 3200MHz SODIMM ** Neu ungeöffnet"
+   ],
+   "3546094173": [
+    130.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32GB RAM Kit (2x 16GB) Samsung DDR4 SO-DIMM 3200MHz für Laptop"
+   ],
+   "3546319029": [
+    110.0,
+    "2026-10-21",
+    "2026-10-21",
+    "SKhynix Arbeitsspeicher 2x 16GB (32GB) DDR4 3200MHz SoDimm Laptop"
+   ],
+   "3546635200": [
+    139.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32GB (2x16GB) DDR4-3200 SO-DIMM SK hynix Laptop RAM"
+   ],
+   "3546763835": [
+    180.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Kingston FURY Impact 32GB DDR4 RAM (2x16GB) 3200MT/s sodimm"
+   ],
+   "3547069444": [
+    160.0,
+    "2026-10-21",
+    "2026-10-21",
+    "SAMSUNG RAM | 32GB (2x16) SO-DIMM DDR4| 3200 MHz"
+   ],
+   "3547253538": [
+    229.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Kingston 32GB DDR4-3200 SO-DIMM Laptop RAM – Neu"
+   ],
+   "3547254680": [
+    229.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Kingston 32GB DDR4-3200 SO-DIMM Laptop RAM – Neu"
+   ],
+   "3547557522": [
+    110.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial 32GB DDR4-3200 SODIMM Notebook RAM"
+   ],
+   "3547696225": [
+    115.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32GB DDR4 3200MHz (2 x 16GB Kit) SO-DIMM, Samsung/Wooposit"
+   ]
+  },
   "EliteBook ohne SSD/Netzteil": {},
   "Fluke 115/117 Multimeter": {},
   "Fluke 87V Multimeter": {},
@@ -411,8 +613,370 @@
   "Lenovo Thunderbolt 4 Dock": {},
   "MacBook Air M1": {},
   "MacBook Air M2": {},
-  "RTX 3060 12GB": {},
-  "RTX 3070": {},
+  "RTX 3060 12GB": {
+   "3527671827": [
+    280.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Zu verkaufen: NVIDIA GeForce RTX 3060 12GB"
+   ],
+   "3541712798": [
+    299.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gainward Nvidia GeForce RTX 3060 Ghost (12 GB)"
+   ],
+   "3541876466": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF GAMING GeForce RTX 3060 OC Edition 12GB NVIDIA"
+   ],
+   "3542059067": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ZOTAC GeForce RTX 3060 Twin Edge OC 12GB OVP + Kabel"
+   ],
+   "3542087596": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 3060 Gaming OC 12GB GDDR6 Rev 2.0"
+   ],
+   "3542207492": [
+    320.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte RTX 3060 12GB Dual Fan OC Grafikkarte"
+   ],
+   "3542374385": [
+    320.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS Dual GeForce RTX 3060 12GB OC Edition"
+   ],
+   "3542480955": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte RTX 3060 Eagle OC 12GB Rev 2.0 - getestet, Rechnung vorh"
+   ],
+   "3542503346": [
+    275.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI RTX 3060 VENTUS 2X OC – 12 GB GDDR6"
+   ],
+   "3543340986": [
+    280.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Palit GeForce RTX 3060 Dual OC 12GB Grafikkarte – Top Zustand!"
+   ],
+   "3543489314": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS GeForce RTX 3060 12GB Dual OC Edition"
+   ],
+   "3543996982": [
+    325.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 3060 Ventus 2X 12GB OC GDDR6 + OVP"
+   ],
+   "3544277931": [
+    320.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 3060 VENTUS 2X OC 12GB"
+   ],
+   "3544473678": [
+    340.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS GeForce RTX 3060 12GB GDDR6 Grafikkarte"
+   ],
+   "3544840797": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ZOTAC GAMING GeForce RTX 3060 AMP White Edition 12 GB"
+   ],
+   "3545024307": [
+    270.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Palit GeForce RTX 3060 Dual 12 GB GDDR6, voll funktionsfähig"
+   ],
+   "3545282751": [
+    330.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte NVIDIA RTX 3060 12GB"
+   ],
+   "3545285232": [
+    290.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Nvidia GeForce RTX 3060, Grafikkarte. 12gb."
+   ],
+   "3545307535": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Grafikkarten-Bundle: MSI RTX 3060 12GB OC + ASUS GTX 1660 SUPER"
+   ],
+   "3545671580": [
+    275.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GeForce RTX 3060 Grafikkarte, 12 GB, ITX"
+   ],
+   "3545701495": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 3060 12GB Grafikkarte"
+   ],
+   "3545792198": [
+    250.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI RTX 3060 12 GB OC Grafikkarte"
+   ],
+   "3546188629": [
+    230.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte AORUS GeForce RTX 3060 12GB Grafikkarte"
+   ],
+   "3546282906": [
+    330.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS RTX 3060 12gb OC"
+   ],
+   "3546634678": [
+    200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Grafikkarte rtx 3060 12gb"
+   ],
+   "3546832737": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS Dual GeForce RTX 3060 Mini OC Edition 12GB GDDR6"
+   ],
+   "3546947223": [
+    320.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 3060 12GB"
+   ],
+   "3547080178": [
+    320.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte RTX 3060 Vision OC 12GB"
+   ],
+   "3547115236": [
+    320.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 3060 Ventus 2X OC 12GB GDDR6"
+   ],
+   "3547118094": [
+    285.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Nvidia RTX 3060 12GB"
+   ],
+   "3547143166": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI  Geforce RTX 3060 Ventus 3x 12GB OC /OVP/"
+   ],
+   "3547211974": [
+    290.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA GeForce Rtx 3060 12Gb"
+   ],
+   "3547537602": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA GeForce RTX 3060 12GB – Grafikkarte zu verkaufen"
+   ],
+   "3547712336": [
+    295.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 3060 12GB – VB"
+   ]
+  },
+  "RTX 3070": {
+   "3545382213": [
+    310.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF Gaming NVIDIA GeForce RTX 3070"
+   ],
+   "3545496121": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Zotac Gaming GeForce RTX 3070 8GB Grafikkarte"
+   ],
+   "3545547592": [
+    280.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Inno 3D RTX 3070 TWIN X2 OC - 8GB VRAM"
+   ],
+   "3545733804": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS GeForce RTX 3070 # Top Zustand # FurMark+3D Mark getestet"
+   ],
+   "3545810858": [
+    279.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF RTX 3070 OC 8GB GDDR6 Grafikkarte mit OVP"
+   ],
+   "3545938713": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA GeForce RTX 3070 Founders Edition Neu OVP"
+   ],
+   "3546077053": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Palit RTX 3070 8gb OC Gamerock"
+   ],
+   "3546110829": [
+    290.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI Suprim RTX 3070"
+   ],
+   "3546151020": [
+    310.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Verkaufe RTX3070 Founders Edition"
+   ],
+   "3546165805": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GeForce RTX 3070"
+   ],
+   "3546242787": [
+    430.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA RTX 3070 OC 8GB - ASUS ROG STRIX White Edition (Mit OVP)"
+   ],
+   "3546274800": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI RTX 3070 Gaming X Trio Grafikkarte"
+   ],
+   "3546279405": [
+    320.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF Gaming GeForce RTX 3070 8GB OC Edition"
+   ],
+   "3546335928": [
+    339.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ROG Strix GeForce RTX 3070 OC"
+   ],
+   "3546468759": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "iChill GeForce RTX 3070 8GB"
+   ],
+   "3546570512": [
+    290.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Verkaufe RTX 3070 Asus Tuf OC Design"
+   ],
+   "3546768831": [
+    290.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 3070 Ventus 2X OC 8GB"
+   ],
+   "3547198520": [
+    299.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF RTX 3070 OC V2 LHR - 8 GB"
+   ],
+   "3547356157": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF GeForce RTX 3070 OC Edition"
+   ],
+   "3547451986": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Palit Geforce RTX 3070 GamingPro wie Neu + Silizium-Lotterie"
+   ],
+   "3547468143": [
+    295.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 3070 Palit GameRock 8Gb"
+   ],
+   "3547489609": [
+    329.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Palit GeForce RTX 3070 JetStream OC – 8 GB GDDR6"
+   ],
+   "3547549078": [
+    240.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte RTX 3070 8GB Grafikkarte"
+   ],
+   "3547553747": [
+    270.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA GeForce RTX 3070 AORUS Master 8GB Grafikkarte"
+   ],
+   "3547792443": [
+    270.0,
+    "2026-10-21",
+    "2026-10-21",
+    "KFA2 GeForce RTX 3070 8GB 1-Click OC LHR mit OVP"
+   ],
+   "3547853289": [
+    171.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF GeForce RTX 3070 OC Gaming 8GB GDDR6"
+   ]
+  },
   "RTX 3080": {},
   "RTX 4060 Ti": {},
   "RTX 4070": {},
@@ -1470,7 +2034,7 @@
     "WD Black SN850X PCIe GEN4 NVMe SSD 2TB 7300MB/s Gaming"
    ],
    "3546952316": [
-    240.0,
+    200.0,
     "2026-10-21",
     "2026-10-21",
     "WD_BLACK SN850X 2TB NVMe M.2 SSD – PCIe Gen4 High-End SSD"
