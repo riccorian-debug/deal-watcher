@@ -383,8 +383,8 @@
   "3545368413": "2026-10-21",
   "3546952316": "2026-10-21"
  },
- "laeufe": 205,
- "letzter_lauf": "2026-10-21T16:56:04",
+ "laeufe": 206,
+ "letzter_lauf": "2026-10-21T17:52:43",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {},
@@ -499,6 +499,18 @@
     "2026-10-21",
     "2026-10-21",
     "DDR4-3200 SO-DIMM 16GB RAM"
+   ],
+   "3547961128": [
+    70.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial CT16G4SFRA32A 16GB DDR4-3200 SODIMM CL22 RAM (Wie neu)"
+   ],
+   "3547961681": [
+    79.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial 16GB DDR4-3200 SO-DIMM RAM | CT16G4SFRA32A | NAS, NUC"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -995,6 +1007,12 @@
    ]
   },
   "RTX 3080": {
+   "3499306574": [
+    439.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte RTX 3080 10GB Aorus Xtreme mit OVP ►Händler◄"
+   ],
    "3533337077": [
     415.0,
     "2026-10-21",
@@ -1116,7 +1134,7 @@
     "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
    ],
    "3547709477": [
-    400.0,
+    350.0,
     "2026-10-21",
     "2026-10-21",
     "RTX 3080 10GB"
@@ -1364,6 +1382,12 @@
     "2026-10-21",
     "2026-10-21",
     "GeForce RTX 4070 Ventus 3X OC"
+   ],
+   "3547945003": [
+    427.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI NVIDIA GeForce RTX 4070 12GB Ventus 2X OC GDDR6X"
    ]
   },
   "RTX 4070 Super": {
@@ -1586,16 +1610,723 @@
     "ASUS TUF Gaming GeForce RTX 4070 Ti Super"
    ]
   },
-  "RTX 4080": {},
-  "RX 6800 XT": {},
-  "RX 7800 XT": {},
+  "RTX 4080": {
+   "3524690217": [
+    1299.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GIGABYTE AERO GeForce RTX 4080 SUPER mit Rechnung und OVP"
+   ],
+   "3526480481": [
+    1300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte AORUD RTX 4080 AERO OC - 16 GB- Weiß- sehr guter Zustand"
+   ],
+   "3527847693": [
+    1199.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 4080 Super AERO OC 16G"
+   ],
+   "3531365774": [
+    1300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Zotac GeForce RTX 4080 Super Trinity Black Edition 16 GB"
+   ],
+   "3536842370": [
+    1125.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Nvidia GeForce RTX 4080 - 16GB GDDR6X"
+   ],
+   "3537997330": [
+    1400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Asus ROG Strix RTX4080 Super Gaming OC 16GB"
+   ],
+   "3539940024": [
+    1111.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4080 SUPER 16G EXPERT"
+   ],
+   "3540270629": [
+    1400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ROG Strix GeForce RTX™ 4080 SUPER 16GB GDDR6X White OC Edition"
+   ],
+   "3540301793": [
+    1000.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4080 Gaming Trio X Grafikkarte"
+   ],
+   "3540336651": [
+    1250.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Nvidia ASUS ROG Strix RTX 4080 16 GB OC *repasted*"
+   ],
+   "3540527535": [
+    1099.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS PROART OC RTX 4080 Super 16GB GDDR6X"
+   ],
+   "3540538802": [
+    1100.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4080 SUPRIM 16GB"
+   ],
+   "3540665219": [
+    1100.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4080 Ventus 3X OC 16GB GDDR6X Grafikkarte"
+   ],
+   "3540761454": [
+    1025.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte NVIDIA Geforce RTX 4080"
+   ],
+   "3542481125": [
+    1050.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4080 SUPER Gaming X Slim – 16 GB"
+   ],
+   "3542569489": [
+    1200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GIGABYTE GeForce RTX 4080 Super 16GB"
+   ],
+   "3542927975": [
+    800.0,
+    "2026-10-21",
+    "2026-10-21",
+    "INNO3D GeForce RTX 4080 SUPER 16GB"
+   ],
+   "3543149123": [
+    1100.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA Rtx 4080 Gigabyte Aero OC"
+   ],
+   "3543946344": [
+    1500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS ROG STRIX RTX 4080 SUPER OC WHITE 16GB"
+   ],
+   "3543996954": [
+    1100.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4080 Super 16GB SUPRIM X NVIDIA GDDR6X"
+   ],
+   "3544120394": [
+    950.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI Nvidia GeForce Rtx 4080 Suprim x 16 gb"
+   ],
+   "3544561910": [
+    1200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4080 SUPRIM X"
+   ],
+   "3546314257": [
+    1100.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4080 SUPER Gaming X Slim - 16 GB"
+   ],
+   "3546947977": [
+    1250.0,
+    "2026-10-21",
+    "2026-10-21",
+    "PNY Geforce RTX 4080 Super Extrem Guter Zustand + OVP"
+   ],
+   "3547187961": [
+    750.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4080 16GB MSI GAMING X TRIO"
+   ],
+   "3547569106": [
+    900.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA GeForce RTX 4080 SUPER Founders Edition"
+   ],
+   "3547943148": [
+    999.0,
+    "2026-10-21",
+    "2026-10-21",
+    "msi rtx 4080 super"
+   ]
+  },
+  "RX 6800 XT": {
+   "3273449610": [
+    399.0,
+    "2026-10-21",
+    "2026-10-21",
+    "XFX speedstsr Radeon RX 6800 XT Grafikkarte"
+   ],
+   "3473649368": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "PowerColor Red Devil AMD Radeon RX 6800 XT Grafikkarte"
+   ],
+   "3495710531": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF Gaming AMD Radeon RX 6800 XT 16GB OC Edition"
+   ],
+   "3509492237": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD RADEON RX 6800 XT Red Dragon"
+   ],
+   "3510522681": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GIGABYTE Radeon RX 6800 XT OC 16GB mit OVP"
+   ],
+   "3514330568": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "OVP Rechnung 16GB Gigabyte Radeon RX 6800 XT Gaming OC"
+   ],
+   "3515122457": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RX 6800 XT Gigabyte Aorus Master"
+   ],
+   "3516331602": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Radeon RX 6800 XT SE Gaming OC 16GB GDDR6"
+   ],
+   "3518500656": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASRock Taichi RX 6800 XT 16GB"
+   ],
+   "3525731951": [
+    380.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Asus TUF RX6800xt 16GB RX 6800 xt"
+   ],
+   "3526522593": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASRock Phantom Gaming AMD Radeon RX 6800 XT 16GB OC Edition"
+   ],
+   "3527280170": [
+    425.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Powercolor Red Dragon RX 6800 XT 16GB Grafikkarte"
+   ],
+   "3530877359": [
+    280.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Rx 6800 bzw 6800xt"
+   ],
+   "3533607776": [
+    499.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RX 6800XT Asus Tuf Gaming + OVP"
+   ],
+   "3540278794": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF AMD Radeon RX 6800 XT 16G OC Edition | TUF-RX6800XT-O16G"
+   ],
+   "3540997456": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF Gaming AMD Radeon RX 6800 XT 16GB OC Edition-Grafikkarte"
+   ],
+   "3541817052": [
+    420.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD XFX Radeon RX 6800 XT Grafikkarte"
+   ],
+   "3542933163": [
+    495.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI Radeon RX 6800 XT Gaming X Trio"
+   ],
+   "3543368322": [
+    420.0,
+    "2026-10-21",
+    "2026-10-21",
+    "XFX Speedster MERC AMD Radeon RX 6800 XT 16GB Grafikkarte"
+   ],
+   "3544855467": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF Gaming AMD Radeon RX 6800 XT 16GB OC Edition-Grafikkarte"
+   ],
+   "3544894038": [
+    440.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Sapphire Nitro+ AMD RX 6800 XT"
+   ],
+   "3545071009": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "XFX Radeon RX 6800 XT MERC Grafikkarte"
+   ],
+   "3547272052": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF Gaming AMD Radeon RX 6800 XT 16GB Grafikkarte"
+   ]
+  },
+  "RX 7800 XT": {
+   "3212888001": [
+    530.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD RX 7800XT Power Color Hellhound Spectral White"
+   ],
+   "3416121046": [
+    539.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD RADEON RX 7800 XT SAPPHIRE PURE OC 16GB Grafikkarte"
+   ],
+   "3498563823": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "XFX Speedster MERC 319 AMD Radeon RX 7800 XT + OVP (Nur Abholung)"
+   ],
+   "3501661230": [
+    600.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Radeon RX 7800 XT 16GB Powercolor"
+   ],
+   "3507108486": [
+    489.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Sapphire Pulse Radeon RX 7800 XT 16GB Grafikkarte"
+   ],
+   "3507837078": [
+    490.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RX 7800 XT 16GB ASRock Radeon Steel Legend OC OVP"
+   ],
+   "3519594762": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Radeon RX 7800XT Gigabyte OC 16GB"
+   ],
+   "3521498972": [
+    520.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GigaByte Radeon RX 7800 XT GAMING OC 16G"
+   ],
+   "3525306138": [
+    650.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RX7800XT Hellhound Sakura (Limited Edition)"
+   ],
+   "3528151796": [
+    489.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Rx 7800xt xtx"
+   ],
+   "3528759265": [
+    525.0,
+    "2026-10-21",
+    "2026-10-21",
+    "XFX Speedster QICK 319 AMD Radeon RX 7800 XT 16GB"
+   ],
+   "3531944118": [
+    520.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RX 7800XT 16gb Grafikkarte"
+   ],
+   "3532661025": [
+    620.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Hellhound power color rx7800xt"
+   ],
+   "3535108060": [
+    650.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RX7800XT PowerColor Hellhound 16GB"
+   ],
+   "3536455814": [
+    600.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Grafikkarte AMD Radeon RX 7800 XT 16 GB"
+   ],
+   "3537563881": [
+    545.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Sapphire AMD Radeon RX 7800 XT Grafikkarte"
+   ],
+   "3538535150": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Amd radeon rx 7800 xt."
+   ],
+   "3538745507": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Radeon RX 7800 XT 16GB (Gigabyte Gaming OC 16G)"
+   ],
+   "3539143948": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Sapphire Pulse Radeon RX 7800 XT Gaming OC 16 GB mit OVP"
+   ],
+   "3539198255": [
+    545.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Sapphire Nitro+ AMD Radeon RX 7800 XT 16GB Grafikkarte"
+   ],
+   "3541172902": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASRock Radeon RX 7800 XT Steel Legend 16GB White - TOP Zustand OV"
+   ],
+   "3541225601": [
+    600.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Asus AMD Radeon RX 7800 XT 16GB TUF Gaming Grafikkarte"
+   ],
+   "3542391520": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Grafikkarte GIGABYTE RX 7800XT Gaming OC 16GB GPU"
+   ],
+   "3542980548": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Powercolor Radeon RX 7800 XT 16gb wie neu Top Zustand"
+   ],
+   "3543045165": [
+    490.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Sapphire Pulse AMD Radeon RX 7800 XT 16 GB DDR6 Grafikkarte"
+   ],
+   "3543655951": [
+    513.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASRock Radeon RX 7800 XT Challenger 16GB OC – komplett"
+   ],
+   "3545701156": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Sapphire NITRO+ Radeon RX 7800 XT OC"
+   ],
+   "3547174603": [
+    550.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Sapphire Pulse AMD Radeon RX 7800 XT Grafikkarte"
+   ],
+   "3547354085": [
+    470.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Radeon RX 7800 XT Grafikkarte 16 GB VRAM OVP"
+   ],
+   "3547540266": [
+    475.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Grafikkarte RX7800XT"
+   ],
+   "3547640955": [
+    600.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Radeon RX 7800 XT Sapphire"
+   ],
+   "3547813941": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Sapphire Pure AMD Radeon RX 7800 XT Grafikkarte"
+   ]
+  },
   "Raspberry Pi 5 16GB": {},
   "Raspberry Pi 5 8GB": {},
   "Rigol DHO800 Oszilloskop": {},
   "Rigol DS1054Z Oszilloskop": {},
   "Ryzen 7 5800X3D": {},
-  "Ryzen 7 7800X3D": {},
-  "Ryzen 7 9800X3D": {},
+  "Ryzen 7 7800X3D": {
+   "3333133289": [
+    280.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Prozessor Ryzen 7 7800X3D"
+   ],
+   "3442066115": [
+    260.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D"
+   ],
+   "3501532128": [
+    230.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D Prozessor kaufbeleg vorhanden. Box vorhanden."
+   ],
+   "3513240383": [
+    269.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D – starke Gaming-CPU – OVP"
+   ],
+   "3517577272": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D Processor – Wie neu / OVP"
+   ],
+   "3528382087": [
+    220.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ryzen 7 7800x3d"
+   ],
+   "3532616791": [
+    250.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D – Gaming-CPU"
+   ],
+   "3535209945": [
+    220.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800x3d"
+   ],
+   "3538424686": [
+    360.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D Prozessor mit 3D V-Cache"
+   ],
+   "3541153155": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Boxed AMD Ryzen 7 7800X3D"
+   ],
+   "3541819849": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D – AM5 – Boxed – Neuwertig – Restgarantie"
+   ],
+   "3542754263": [
+    250.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD RYZEN 7 7800X3D 8Kerne/16Threads 96MB L3 (AM5) - wie neu!"
+   ],
+   "3544378340": [
+    280.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Amd ryzen 7 7800x3d"
+   ],
+   "3544460281": [
+    280.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D"
+   ],
+   "3544952267": [
+    275.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D – AM5, 3D V-Cache, Top-Zustand"
+   ],
+   "3545689129": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D"
+   ],
+   "3546190743": [
+    270.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D – Gaming-CPU mit 3D V-Cache"
+   ],
+   "3547181047": [
+    230.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D – Einwandfreier Zustand"
+   ],
+   "3547447940": [
+    245.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D Tray Neu"
+   ],
+   "3547463597": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800x3d 6 Monate alt"
+   ],
+   "3547619563": [
+    220.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D Prozessor CPU"
+   ],
+   "3547757259": [
+    250.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D CPU | AM5 | inkl. OVP"
+   ]
+  },
+  "Ryzen 7 9800X3D": {
+   "3455434121": [
+    369.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800X3D 8 Cores/16 Unbridled Threads| Unbenutzt | NEU"
+   ],
+   "3495774701": [
+    359.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD ryzen 7 9800 x3d"
+   ],
+   "3502657704": [
+    330.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800X3D – OVP"
+   ],
+   "3536443860": [
+    399.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, Prozessor, Neu"
+   ],
+   "3537144530": [
+    380.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800X3D Prozessor - Nagelneu & OVP"
+   ],
+   "3538473467": [
+    390.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800 x3d Prozessor neu und original versiegelt"
+   ],
+   "3543860408": [
+    330.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800x3d"
+   ],
+   "3543947427": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800x3d CPU Prozessor"
+   ],
+   "3543999354": [
+    379.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800X3D - Gaming CPU - AM5 - 8 Kerne"
+   ],
+   "3544158990": [
+    399.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, Prozessor, Neu"
+   ],
+   "3545460052": [
+    380.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Ryzen 7 9800x3d"
+   ],
+   "3546260206": [
+    380.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 9800X3D Prozessor AM5 8 Core Neu & OVP"
+   ],
+   "3547930252": [
+    340.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Ryzen 7 9800x3d NEU sealed"
+   ]
+  },
   "Samsung 970 Evo Plus 2TB": {
    "3501067396": [
     250.0,
