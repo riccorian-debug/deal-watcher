@@ -383,8 +383,8 @@
   "3545368413": "2026-10-21",
   "3546952316": "2026-10-21"
  },
- "laeufe": 206,
- "letzter_lauf": "2026-10-21T17:52:43",
+ "laeufe": 207,
+ "letzter_lauf": "2026-10-21T19:04:38",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {},
@@ -437,7 +437,200 @@
   },
   "DDR4 ECC RDIMM 32GB": {},
   "DDR4 ECC RDIMM 64GB": {},
-  "DDR5 32GB 6000": {},
+  "DDR5 32GB 6000": {
+   "3543994716": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Corsair Vengeance RGB 32GB DDR5 6000MHz CL30 RAM Arbeitsspeicher"
+   ],
+   "3544019755": [
+    420.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Corsair Vengeance RGB RS DDR5 32GB 6000MHz – OVP Neu"
+   ],
+   "3544103292": [
+    445.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Corsair Venegance 32GB DDR5 Ram CL30 6000Mhz"
+   ],
+   "3544448987": [
+    329.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial 32 GB DDR5 6000 MHz RAM voll funktionsfähig"
+   ],
+   "3544582264": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Titel: Corsair Vengeance DDR5 RAM 32 GB (2×16 GB) 6000 MHz"
+   ],
+   "3544584760": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Titel: Corsair Vengeance DDR5 RAM 32 GB (2×16 GB) 6000 MHz"
+   ],
+   "3545080719": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32GB Kingston FURY Beast DDR5 RAM RGB  Arbeitsspeicher 6000MT/s"
+   ],
+   "3545313614": [
+    200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "T-Create 32 GB (2x16) DDR5 6000 RAM"
+   ],
+   "3545371584": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Corsair VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6000MHz Kit"
+   ],
+   "3545832169": [
+    449.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32Gb CORSAIR VENGEANCE DDR5 RAM, 6000MHz"
+   ],
+   "3546702206": [
+    440.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Patriot Viper Venom DDR5 RAM 32GB 6000MHz CL30 NEU & OVP"
+   ],
+   "3546705906": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NEU OVP DDR5 RAM Kingston Fury Beast White 32GB 6000 CL 36"
+   ],
+   "3546774272": [
+    480.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Viper Venom 32GB DDR5 RAM Kit (2x16GB) 6000MT/s"
+   ],
+   "3547022467": [
+    420.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Skill Ripjaws S5 weiß UDIMM 32GB Kit, DDR5-6000"
+   ],
+   "3547046177": [
+    479.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Lexar RGB DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL30"
+   ],
+   "3547114068": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Corsair Vengeance RGB DDR5 32GB 6000MHz CL30 White"
+   ],
+   "3547157577": [
+    470.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial Pro 32GB Kit DDR5 6000 CL36 RAM"
+   ],
+   "3547237310": [
+    480.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Patriot Viper Venom DDR5-6000 CL36 32GB Kit (2x16GB) - Unbenutzt"
+   ],
+   "3547329164": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Corsair Vengeance RGB DDR5 32GB (2×16GB) 6000MHz CL30 Weiß"
+   ],
+   "3547437006": [
+    360.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Patriot Viper Venom DDR5 32GB 6000MT/s CL36"
+   ],
+   "3547437991": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial Pro Series 32GB (2x16GB) DDR5-6000 MT/s Desktop RAM Kit"
+   ],
+   "3547441234": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Crucial Pro Series DDR5 32GB (2x16GB) 6000MT/s RAM Kit"
+   ],
+   "3547467590": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Kingston Fury Renegade DDR5 32GB (2x16GB) 6000MT/s"
+   ],
+   "3547557385": [
+    425.0,
+    "2026-10-21",
+    "2026-10-21",
+    "DDR5 AM5 PC6000 Kingston 32GB KIT (2x16GB) CL30 Fury B. RGB"
+   ],
+   "3547588294": [
+    429.0,
+    "2026-10-21",
+    "2026-10-21",
+    "G.Skill Trident Z5 32GB DDR5-6000 CL40 | Werkstattgeprüft"
+   ],
+   "3547589180": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "KingstonFURY Beast DDR5 RAM 32GB(2x16GB) 6000MHzEXPO/XMP CL303636"
+   ],
+   "3547598591": [
+    420.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Teamgroup T-Force Delta DDR5 32 GB 6000MHz RGB RAM"
+   ],
+   "3547616074": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Corsair Vengeance DDR5 32GB (2x16GB) 6000MT/s RAM Kit"
+   ],
+   "3547624353": [
+    485.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Corsair Vengeance DDR5 32GB 6000MHz CL30 RGB (2x16GB)  AMD EXPO"
+   ],
+   "3547826231": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Corsair Vengeance DDR5 6000Mhz 32 GB Cl36 Ram"
+   ],
+   "3547830032": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "G.Skill Trident Z5 Neo RGB, DDR5-6000, CL32, AMD EXPO - 32 GB Dua"
+   ],
+   "3547961215": [
+    399.0,
+    "2026-10-21",
+    "2026-10-21",
+    "DDR 5 RAM 32GB CL38 6000mhz von Lexar"
+   ]
+  },
   "DDR5 ECC RDIMM 32GB": {},
   "Dell Latitude 7420": {},
   "Dell UltraSharp U2719D": {},
@@ -615,6 +808,18 @@
     "2026-10-21",
     "2026-10-21",
     "32GB DDR4 3200MHz (2 x 16GB Kit) SO-DIMM, Samsung/Wooposit"
+   ],
+   "3548017383": [
+    80.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32 GB (2x 16 GB) Samsung DDR4-3200 SO-DIMM Laptop RAM auch einzel"
+   ],
+   "3548023043": [
+    80.0,
+    "2026-10-21",
+    "2026-10-21",
+    "32 GB (2x 16 GB) Micron DDR4-3200 SO-DIMM Laptop RAM auch einzeln"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -624,9 +829,90 @@
   "HP MicroServer Gen10 Plus": {},
   "HP Thunderbolt Dock G4": {},
   "Home Assistant Green/Yellow": {},
-  "Intel i5-13600K": {},
-  "Intel i7-12700K": {},
-  "Intel i7-14700K": {},
+  "Intel i5-13600K": {
+   "3347981783": [
+    230.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel i5 13600k 13th Gen CPU für Ddr 4 und 5 lga 1700 Sockel"
+   ],
+   "3436692523": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Asus ROG B760-F Gaming Intel LGA1700 i5 13600K 14 Core OVP wNeu"
+   ],
+   "3512910783": [
+    180.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel I5-13600K LGA 1700"
+   ],
+   "3533016033": [
+    210.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel core i5 13600k"
+   ],
+   "3541956462": [
+    210.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel Core i5-13600K Prozessor 13. Generation LGA1700"
+   ]
+  },
+  "Intel i7-12700K": {
+   "3517513797": [
+    230.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel Core i7-12700K – 12 Kerne / 20 Threads – LGA1700 – OVP"
+   ],
+   "3518857070": [
+    190.0,
+    "2026-10-21",
+    "2026-10-21",
+    "intel i7 12700k so 1700 top zustand"
+   ],
+   "3524821996": [
+    200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel Core i7 12700k LGA 1700 Prozessor / Cpu"
+   ],
+   "3542721248": [
+    180.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel Core i7-12700K – 12 Kerne / 20 Threads"
+   ],
+   "3544669242": [
+    200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel Core i7-12700K | 12 Kerne | 20 Threads | Gaming CPU"
+   ],
+   "3546439417": [
+    180.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel Core i7-12700K Prozessor CPU"
+   ]
+  },
+  "Intel i7-14700K": {
+   "3523016595": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel Core i7-14700K – Einwandfreier Zustand"
+   ],
+   "3547076890": [
+    290.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Intel core i7 14700k"
+   ]
+  },
   "Keychron Tastatur": {},
   "Konvolut Business-Laptops": {},
   "Konvolut RAM DDR4/DDR5": {},
@@ -846,6 +1132,12 @@
     "2026-10-21",
     "2026-10-21",
     "Gigabyte GeForce RTX 3060 12GB – VB"
+   ],
+   "3548037236": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "KFA2 GeForce RTX 3060 1-Click OC 12GB GDDR6 Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -1004,6 +1296,18 @@
     "2026-10-21",
     "2026-10-21",
     "ASUS TUF GeForce RTX 3070 OC Gaming 8GB GDDR6"
+   ],
+   "3548024928": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA RTX 3070"
+   ],
+   "3548052175": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Nvidia GeForce RTX 3070 Dual Fan 8GB"
    ]
   },
   "RTX 3080": {
@@ -1156,6 +1460,18 @@
     "2026-10-21",
     "2026-10-21",
     "NVIDIA GeForce RTX 3080 mit Alphacool Eisblock Aurora Plexi GPX-N"
+   ],
+   "3548037694": [
+    287.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA GeForce RTX 3080 FE Founders Edition"
+   ],
+   "3548055361": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 3080 Gaming Z Trio Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -1388,6 +1704,12 @@
     "2026-10-21",
     "2026-10-21",
     "MSI NVIDIA GeForce RTX 4070 12GB Ventus 2X OC GDDR6X"
+   ],
+   "3548016644": [
+    600.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Geforce RTX TUF 4070 OC"
    ]
   },
   "RTX 4070 Super": {
@@ -2112,7 +2434,44 @@
   "Raspberry Pi 5 8GB": {},
   "Rigol DHO800 Oszilloskop": {},
   "Rigol DS1054Z Oszilloskop": {},
-  "Ryzen 7 5800X3D": {},
+  "Ryzen 7 5800X3D": {
+   "3514071876": [
+    320.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 5800X3D CPU - Wie Neu & Originalverpackt"
+   ],
+   "3526896901": [
+    250.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ryzen 7 5800x3d"
+   ],
+   "3534274545": [
+    250.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 5800X3D 8-core 16 thread 3.4 GHz - Top Zustand"
+   ],
+   "3539229956": [
+    200.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Ryzen 7 5800x3d"
+   ],
+   "3543642204": [
+    299.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 5800X3D 10th Anniversary Edition Prozessor"
+   ],
+   "3548053778": [
+    310.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 5800X3D – Gaming-CPU zu verkaufen"
+   ]
+  },
   "Ryzen 7 7800X3D": {
    "3333133289": [
     280.0,
@@ -2245,6 +2604,12 @@
     "2026-10-21",
     "2026-10-21",
     "AMD Ryzen 7 7800X3D CPU | AM5 | inkl. OVP"
+   ],
+   "3548014827": [
+    279.0,
+    "2026-10-21",
+    "2026-10-21",
+    "AMD Ryzen 7 7800X3D – 8 Kerne / 16 Threads, OVP,  Top Zustand*"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -3377,6 +3742,12 @@
     "2026-10-21",
     "2026-10-21",
     "WD_BLACK SN850X 2TB NVMe M.2 SSD – PCIe Gen4 High-End SSD"
+   ],
+   "3548021627": [
+    270.0,
+    "2026-10-21",
+    "2026-10-21",
+    "WD_BLACK SN850X NVMe SSD 2TB Gen4 – NEU & unbenutzt (OVP)"
    ]
   },
   "WD Red Plus 4TB": {
