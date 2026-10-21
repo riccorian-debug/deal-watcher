@@ -383,10 +383,14 @@
   "3545368413": "2026-10-21",
   "3546952316": "2026-10-21"
  },
- "laeufe": 204,
- "letzter_lauf": "2026-10-21T16:41:54",
+ "laeufe": 205,
+ "letzter_lauf": "2026-10-21T16:56:04",
  "offen": {},
  "pools": {
+  "Arduino/ESP32 Starter-Set": {},
+  "Bosch GBH 18V-26": {},
+  "Bosch GSR 18V-60 Set": {},
+  "Bose QuietComfort": {},
   "Crucial P3 Plus 2TB": {
    "3504508010": [
     200.0,
@@ -432,10 +436,14 @@
    ]
   },
   "DDR4 ECC RDIMM 32GB": {},
+  "DDR4 ECC RDIMM 64GB": {},
   "DDR5 32GB 6000": {},
+  "DDR5 ECC RDIMM 32GB": {},
   "Dell Latitude 7420": {},
+  "Dell UltraSharp U2719D": {},
   "Dell UltraSharp U2722D": {},
   "Dell UltraSharp U2723QE": {},
+  "Dell WD19TB/WD22TB4": {},
   "EliteBook 840 G8": {},
   "EliteBook RAM 16GB SO-DIMM": {
    "3545813718": [
@@ -603,16 +611,25 @@
   "Fujitsu Primergy TX1320 M4": {},
   "HP MicroServer Gen10 Plus": {},
   "HP Thunderbolt Dock G4": {},
+  "Home Assistant Green/Yellow": {},
   "Intel i5-13600K": {},
   "Intel i7-12700K": {},
   "Intel i7-14700K": {},
+  "Keychron Tastatur": {},
   "Konvolut Business-Laptops": {},
   "Konvolut RAM DDR4/DDR5": {},
   "Konvolut SSD/Festplatten": {},
+  "Labornetzteil 30V 5A": {},
+  "Latitude ohne SSD": {},
   "Lenovo ThinkCentre M920q": {},
+  "Lenovo ThinkVision P27h": {},
   "Lenovo Thunderbolt 4 Dock": {},
+  "Lenovo USB-C Dock Gen 2": {},
   "MacBook Air M1": {},
   "MacBook Air M2": {},
+  "Makita DHP485 Set": {},
+  "Makita DTD153/172 Set": {},
+  "Pinecil Lötkolben": {},
   "RTX 3060 12GB": {
    "3527671827": [
     280.0,
@@ -977,11 +994,598 @@
     "ASUS TUF GeForce RTX 3070 OC Gaming 8GB GDDR6"
    ]
   },
-  "RTX 3080": {},
-  "RTX 4060 Ti": {},
-  "RTX 4070": {},
-  "RTX 4070 Super": {},
-  "RTX 4070 Ti Super": {},
+  "RTX 3080": {
+   "3533337077": [
+    415.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 3080 SUPRIM X 10GB – OVP – getestet"
+   ],
+   "3543751748": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 3080 Turbo 10G Grafikkarte"
+   ],
+   "3543973308": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI RTX 3080 10GB"
+   ],
+   "3544280204": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 3080 Gaming OC 10G – 10 GB – OVP"
+   ],
+   "3544798518": [
+    499.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Zotac RTX 3080 AMP Holo Black 10GB – OVP & Zubehör"
+   ],
+   "3544852789": [
+    360.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 3080 LHR ROG STRIX GAMING- OC Edition."
+   ],
+   "3545339073": [
+    380.0,
+    "2026-10-21",
+    "2026-10-21",
+    "EVGA GeForce RTX 3080 FTW3 10 GB"
+   ],
+   "3545339112": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GeForce RTX 3080 10GB | Palit Gaming Pro"
+   ],
+   "3545350524": [
+    360.0,
+    "2026-10-21",
+    "2026-10-21",
+    "rtx 3080 gigabyte"
+   ],
+   "3545355484": [
+    370.0,
+    "2026-10-21",
+    "2026-10-21",
+    "PNY RTX 3080 10GB  AIO"
+   ],
+   "3545807229": [
+    480.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Geforce RTX 3080 ROG Strix OC V2 White Edition 10 GB"
+   ],
+   "3546328399": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Asus tuf rtx 3080 10gb oc"
+   ],
+   "3546388708": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte NVIDIA GeForce RTX 3080 10GB Grafikkarte"
+   ],
+   "3546458818": [
+    440.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GAMING MSI RTX 3080 SUPRIM X 10GB LHR"
+   ],
+   "3546538589": [
+    419.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ZOTAC GeForce RTX 3080 Trinity 10GB GDDR6X | OVP  | Händler"
+   ],
+   "3546571961": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 3080 Ventus 3X Plus 12G OC Grafikkarte"
+   ],
+   "3546610622": [
+    380.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Nvidia RTX3080 Vision  10GB Gigabyte"
+   ],
+   "3546659728": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Manli NVIDIA RTX 3080 10GB Grafikkarte mit Deshroud Mod"
+   ],
+   "3546854479": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Asus Geforce RTX 3080 OC 10GB"
+   ],
+   "3547292396": [
+    430.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
+   ],
+   "3547709477": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 3080 10GB"
+   ],
+   "3547724571": [
+    429.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA GeForce RTX 3080 Founders Edition – 10 GB GDDR6X"
+   ],
+   "3547746160": [
+    480.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Zotac Gaming Nvidia Geforce RTX 3080 12GB VRAM neue Paste/Pads"
+   ],
+   "3547831284": [
+    430.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA GeForce RTX 3080 mit Alphacool Eisblock Aurora Plexi GPX-N"
+   ]
+  },
+  "RTX 4060 Ti": {
+   "3381234252": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Asus Dual GeForce Rtx 4060Ti OC White Edition"
+   ],
+   "3445287263": [
+    380.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GeForce RTX 4060 Ti 8GB"
+   ],
+   "3468409678": [
+    250.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Grafikkarte GeForce RTX 4060 Ti 16GB"
+   ],
+   "3471437189": [
+    389.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4060 Ti Ventus 2X Black 8G OC Grafikkarte"
+   ],
+   "3492052862": [
+    280.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GIGABYTE RTX 4060 Ti WINDFORCE OC 8GB Dual Fan Grafikkarte"
+   ],
+   "3501615363": [
+    310.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 4060 Ti Eagle OC 8G Grafikkarte"
+   ],
+   "3507261503": [
+    370.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4060 TI 8GB founders edition"
+   ],
+   "3511852340": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "KFA2 GeForce RTX 4060 Ti EX White 8GB Grafikkarte"
+   ],
+   "3513061964": [
+    400.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Rtx 4060 Ti 8gb"
+   ],
+   "3516966523": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Grafikkarte NVIDIA GeForce ASUS RTX 4060 Ti"
+   ],
+   "3519775645": [
+    370.0,
+    "2026-10-21",
+    "2026-10-21",
+    "KFA2 GeForce RTX 4060 Ti 8GB 1-Click OC Grafikkarte"
+   ],
+   "3527501027": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 4060 Ti AERO OC 8 GB – sehr guter Zustand"
+   ],
+   "3528180508": [
+    399.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS Dual GeForce RTX 4060 Ti White OC Edition 8GB"
+   ],
+   "3538965452": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 4060 Ti AERO OC 8GB (White)"
+   ],
+   "3540361425": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GeForce RTX 4060 TI"
+   ],
+   "3541870750": [
+    350.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Verkaufe meine RTX 4060 ti 8gb, Colorful igame Ultra version"
+   ],
+   "3542024453": [
+    330.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4060ti Gainward Pegasus Grafikkarte"
+   ],
+   "3543852244": [
+    420.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4060 TI 8GB Zotac"
+   ],
+   "3546454452": [
+    480.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 4060 Ti 16 GB WINDFORCE OC"
+   ],
+   "3546532885": [
+    450.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4060 Ti 8GB"
+   ],
+   "3546595457": [
+    480.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI Gaming X Slim White RTX 4060 Ti 16GB"
+   ],
+   "3547201829": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GIGABYTE GeForce RTX 4060 Ti"
+   ],
+   "3547411838": [
+    480.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA RTX 4060 TI AERO OC 8GB GIGABYTE"
+   ],
+   "3547664682": [
+    255.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ZOTAC Gaming GeForce RTX 4060 Ti 16GB Spider-Man"
+   ],
+   "3547703505": [
+    300.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Rtx 4060 TI 8GB"
+   ],
+   "3547912673": [
+    335.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Palit GeForce RTX 4060 Ti JetStream 16GB"
+   ]
+  },
+  "RTX 4070": {
+   "3541982608": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Rtx 4070 Dual"
+   ],
+   "3542262021": [
+    575.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Palit GeForce RTX 4070 Dual OC 12 GB – Rechnung vorhanden"
+   ],
+   "3543995767": [
+    620.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 4070 Gaming OC 12G Grafikkarte"
+   ],
+   "3545323400": [
+    580.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gainward GeForce RTX 4070 Ghost – 12 GB - gebraucht"
+   ],
+   "3545947009": [
+    650.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF RTX 4070 12GB"
+   ],
+   "3546260925": [
+    599.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 4070 WINDFORCE OC 12G Grafikkarte"
+   ],
+   "3546926681": [
+    630.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI GeForce RTX 4070 VENTUS 3X 12GB VRAM"
+   ],
+   "3547079834": [
+    599.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4070 msi Gaming x Slim | 12gb | ‼️"
+   ],
+   "3547410584": [
+    620.0,
+    "2026-10-21",
+    "2026-10-21",
+    "KFA2 GeForce RTX 4070 EX Gamer White 12GB Grafikkarte"
+   ],
+   "3547419230": [
+    600.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Asus ProArt GeForce RTX 4070 OC OVP"
+   ],
+   "3547520280": [
+    570.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GeForce RTX 4070 Ventus 3X OC"
+   ]
+  },
+  "RTX 4070 Super": {
+   "3523836107": [
+    700.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Rtx 4070 Super  Ventus 3x"
+   ],
+   "3524644492": [
+    500.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte RTX 4070 Super 12 GB OC"
+   ],
+   "3530990436": [
+    630.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte RTX 4070 Super Windforce OC 12 GB"
+   ],
+   "3531194161": [
+    799.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GeForce RTX 4070 Super 12GB Gaming-World of Warcraft Edition"
+   ],
+   "3531558453": [
+    700.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Rtx 4070 Super Grafikkarte"
+   ],
+   "3532429087": [
+    650.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS Prime GeForce RTX 4070 SUPER OC 12G Top Zustand"
+   ],
+   "3532451838": [
+    700.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Palit GeForce RTX 4070 Super 12GB Grafikkarte"
+   ],
+   "3534773685": [
+    680.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Palit NVIDIA GeForce RTX 4070 SUPER Grafikkarte"
+   ],
+   "3535814942": [
+    640.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 4070 Super Gaming OC 12GB"
+   ],
+   "3536838788": [
+    629.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI RTX 4070 SUPER 12G VENTUS 2X OC"
+   ],
+   "3538770921": [
+    750.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA RTX 4070 Super Gigabyte 12 GB"
+   ],
+   "3541097106": [
+    800.0,
+    "2026-10-21",
+    "2026-10-21",
+    "NVIDIA GeForce RTX 4070 Super Grafikkarte"
+   ],
+   "3541782734": [
+    800.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI RTX 4070 Super Gaming X Slim White 12GB"
+   ],
+   "3541894361": [
+    720.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Rtx 4070 Super 12gb -Golden Sample-Beschreibung lesen!!!- mit OVP"
+   ],
+   "3544854700": [
+    625.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Grafikkarte, Nvidia GeForce RTX 4070 SUPER 12G VENTUS 2X OC"
+   ],
+   "3545260973": [
+    600.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4070 SUPER Asus Prime OC 12 GB"
+   ],
+   "3547181816": [
+    600.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4070 Super Windforce OC"
+   ],
+   "3547945003": [
+    427.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI NVIDIA GeForce RTX 4070 Super 12GB Ventus 2X OC GDDR6X"
+   ]
+  },
+  "RTX 4070 Ti Super": {
+   "3332047194": [
+    980.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Gigabyte GeForce RTX 4070 Ti Super Windforce OC 16GB GDDR6X OVP"
+   ],
+   "3504174858": [
+    899.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4070 Ti Super 16gb Gamerock Edition"
+   ],
+   "3504871377": [
+    899.0,
+    "2026-10-21",
+    "2026-10-21",
+    "TUF Gaming RTX 4070 TI Super 16 GB RAM OC"
+   ],
+   "3510992616": [
+    999.0,
+    "2026-10-21",
+    "2026-10-21",
+    "KFA2 GeForce RTX 4070 Ti SUPER EX Gamer inkl. Razer eGPU Core X"
+   ],
+   "3516611482": [
+    779.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ZOTAC GeForce RTX 4070 Ti SUPER 16 GB Trinity Black Edition"
+   ],
+   "3521315703": [
+    750.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4070 Ti SUPER 16GB | ZOTAC AMP Holo | GETESTET"
+   ],
+   "3521537687": [
+    849.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4070 Ti SUPER Ventus 2X"
+   ],
+   "3522556302": [
+    950.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4070 Ti Super"
+   ],
+   "3523809753": [
+    920.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSi GeForce RTX 4070 Ti SUPER 16G GAMING X SLIM <"
+   ],
+   "3528792941": [
+    735.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4070 TI SUPER 16GB | ZOTAC AMP Holo GETESTET"
+   ],
+   "3535190096": [
+    950.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS ProArt GeForce RTX 4070 Ti Super 16GB"
+   ],
+   "3537345229": [
+    750.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI RTX4070 Ti SUPER VENTUS 2X OC 16Gb"
+   ],
+   "3540570186": [
+    799.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Zotac Gaming GeForce RTX 4070 Ti SUPER 16GB"
+   ],
+   "3542257556": [
+    899.0,
+    "2026-10-21",
+    "2026-10-21",
+    "GeForce RTX 4070 Ti Super OC"
+   ],
+   "3543504215": [
+    735.0,
+    "2026-10-21",
+    "2026-10-21",
+    "RTX 4070 TI SUPER 16GB | ZOTAC AMP Holo - Grafikkarte GPU"
+   ],
+   "3544444908": [
+    850.0,
+    "2026-10-21",
+    "2026-10-21",
+    "Rtx 4070 Ti Super Windforce OC 16GB"
+   ],
+   "3544927421": [
+    920.0,
+    "2026-10-21",
+    "2026-10-21",
+    "MSI Geforce RTX 4070 TI Super"
+   ],
+   "3547573812": [
+    950.0,
+    "2026-10-21",
+    "2026-10-21",
+    "ASUS TUF Gaming GeForce RTX 4070 Ti Super"
+   ]
+  },
   "RTX 4080": {},
   "RX 6800 XT": {},
   "RX 7800 XT": {},
@@ -1308,6 +1912,8 @@
     "Samsung 990 Pro 2 TB NEU"
    ]
   },
+  "Samsung PM983 1.92TB": {},
+  "Samsung PM983 3.84TB": {},
   "Seagate Exos 16TB": {
    "3453287341": [
     179.0,
@@ -1788,6 +2394,8 @@
     "Seagate IronWolf 8TB Festplatte HDD ST8000VN004"
    ]
   },
+  "Shelly Plus Plug S": {},
+  "Siglent SDS1104X-E": {},
   "Sony WH-1000XM4/XM5": {},
   "Synology DS220+": {
    "3499704489": [
@@ -2110,7 +2718,9 @@
     "WD Red Plus 8TB WD80EFZZ 5.4K 128MB SATA III 3.5''"
    ]
   },
-  "Weller WE1010": {}
+  "Weller WE1010": {},
+  "Weller WTCP-S": {},
+  "Zigbee-Stick": {}
  },
  "zustand": {
   "leer_in_folge": 0,
