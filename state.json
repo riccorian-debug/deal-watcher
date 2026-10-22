@@ -384,8 +384,8 @@
   "3546952316": "2026-10-21",
   "3547696225": "2026-10-22"
  },
- "laeufe": 210,
- "letzter_lauf": "2026-10-22T07:13:49",
+ "laeufe": 211,
+ "letzter_lauf": "2026-10-22T08:05:02",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {},
@@ -657,12 +657,326 @@
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
-  "Dell Latitude 7420": {},
+  "Dell Latitude 7420": {
+   "2722814947": [
+    300.0,
+    "2026-10-22",
+    "2026-10-22",
+    "⭐ Dell Latitude 7420 ⭐ 14\" Laptop | i5 1145G7 | 1TB / 512GB / 256GB SSD | 16GB DDR4 RAM | WLAN | Bluetooth | Windows 11 (Notebook, Office, Homeoffice, schneller, mit, für, gebrauchter, Zoll, 8 15 17)"
+   ],
+   "3242319017": [
+    285.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 / Laptop / Notebook / WIN 11 / i7 11th GEN"
+   ],
+   "3283149578": [
+    398.0,
+    "2026-10-22",
+    "2026-10-22",
+    "DELL LATITUDE 7420,I7-1185G7,16GB,256GB NVME"
+   ],
+   "3306118256": [
+    285.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 i5-1145G7 16GB RAM 512GB SSD14 Zoll Displau To"
+   ],
+   "3309176323": [
+    285.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 i5-1145G7 16GB RAM 512GB SSD14 Zoll FulHD 2in1"
+   ],
+   "3445512447": [
+    400.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude  7420Laptop Silber mit SD-Slot & Klinke"
+   ],
+   "3453865132": [
+    349.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 | 14\" | i5-1145G7 | 16 GB RAM | 256 GB SSD"
+   ],
+   "3497398134": [
+    350.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 – High-End Business"
+   ],
+   "3506899602": [
+    400.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 2in1 14\" i5 16GB Ram 512GB SSD Uni Office"
+   ],
+   "3517776680": [
+    310.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 Business Laptop-Sehr Gutem Zustand"
+   ],
+   "3520959159": [
+    349.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 | 14\" | i5-1145G7 | 16 GB RAM | 512 GB SSD"
+   ],
+   "3522494837": [
+    325.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 gewartet"
+   ],
+   "3525450715": [
+    150.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Laptop Latitude 7420"
+   ],
+   "3526094894": [
+    199.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 i5-1145G7 16GB RAM 256GB SSD"
+   ],
+   "3527200694": [
+    299.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420, 14‘‘ Core i7- 11.Gen 4,8GHz 16GB Ram, 256GB"
+   ],
+   "3528736281": [
+    320.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Notebook Dell Latitude 7420 i7 Intel 11th Gen 32GB Ram SSD Laptop"
+   ],
+   "3530100995": [
+    399.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 Touchscreen - intel i5 / 16GB / 256 GB"
+   ],
+   "3535522149": [
+    300.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Laptop Notebook Latitude 7420 i5 16GB 512GB FullHD-Touch"
+   ],
+   "3536757181": [
+    350.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell latitude 7420 i5 11, 16RAM 500GB touch"
+   ],
+   "3539877842": [
+    285.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell latitude 7420 i7   11 gen"
+   ],
+   "3540606553": [
+    150.0,
+    "2026-10-22",
+    "2026-10-22",
+    "DELL Latitude 7420 Notebook Intel i5-1145G7 256GB SSD Win 11 LTE"
+   ],
+   "3541170134": [
+    300.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 2-in-1 i7-1185G7 16GB 256GB 14\" FHD Win11 Stor"
+   ],
+   "3541830017": [
+    225.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 | i5-1135G7 | 16 GB RAM | 256 GB SSD | Win 11"
+   ],
+   "3541917863": [
+    285.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 Carbon i5-1145G7 - 8GB - 1 TB SSD"
+   ],
+   "3544198316": [
+    320.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Notebook Dell Latitude 7420 SSD256Gb 16Gb Ram"
+   ],
+   "3545921740": [
+    250.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 14\" i5 16GB 256SSD Business Office Schule Uni"
+   ],
+   "3546945121": [
+    139.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Dell Latitude 7420 Notebook i5/16/512GB + Mängel"
+   ]
+  },
   "Dell UltraSharp U2719D": {},
   "Dell UltraSharp U2722D": {},
   "Dell UltraSharp U2723QE": {},
   "Dell WD19TB/WD22TB4": {},
-  "EliteBook 840 G8": {},
+  "EliteBook 840 G8": {
+   "2627364366": [
+    435.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 - OVP - Windows 11 Ready"
+   ],
+   "3317950840": [
+    300.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 14\" Intel i5-1135G7 2,4GHz 16GB RAM 500GB SSD"
+   ],
+   "3461878280": [
+    260.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP Elitebook 840 G8 mit Windows 11 und MS Office"
+   ],
+   "3469562777": [
+    420.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP elitebook 840 G8 i5 11th gen 8 gb ram 256gb ssd Neu"
+   ],
+   "3494058663": [
+    340.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 Notebook"
+   ],
+   "3500625332": [
+    349.0,
+    "2026-10-22",
+    "2026-10-22",
+    "☑️ HP EliteBook 840 G8 ✨ Touch 14,0\" / 1920x1080 / i5-1145G7 / 8 GB / 256 GB"
+   ],
+   "3508543495": [
+    400.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 – i7-1185G7 – 16GB RAM – 512GB SSD – Win 11 P"
+   ],
+   "3513467149": [
+    350.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP Elitebook 840 G8 i5-1145G7 16GB RAM 512GB SSD Win 11 Pro"
+   ],
+   "3514002694": [
+    333.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 i7-1165G7 16GB DDR4 14\" FHD 512GB NVMe SSD B-Ware"
+   ],
+   "3514310478": [
+    369.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 |16GB|GARANTIE & RECHNUNG"
+   ],
+   "3515510179": [
+    300.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8"
+   ],
+   "3516128995": [
+    350.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 Touch mit LTE Stick + weiteres Zubehör"
+   ],
+   "3528908616": [
+    365.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP Elitebook 840 G8 - Sehr guter Zustand"
+   ],
+   "3533265821": [
+    350.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP 840 G8  Elitebook neuer Akku Win 11"
+   ],
+   "3533944030": [
+    300.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP elitebook 840 G8 i5 16GB"
+   ],
+   "3535476066": [
+    299.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8, i5,16 Gb,14 Zoll. 1000 Nits, Privacy Display"
+   ],
+   "3540335309": [
+    260.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP Elitebook 840 G8 14 Elitebook 840"
+   ],
+   "3540595848": [
+    255.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 – i5, 8 GB RAM, 512 GB SSD"
+   ],
+   "3541543763": [
+    300.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8, i5 11. Gen generalüberholt"
+   ],
+   "3541838544": [
+    459.0,
+    "2026-10-22",
+    "2026-10-22",
+    "♻️WIE NEU| HP EliteBook 840 G8 | 24M Garantie | 16GB | i5 11. Gen"
+   ],
+   "3545452890": [
+    299.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 - i7-1165G7 32GB RAM 500GB SSD 5G LTE 14inch"
+   ],
+   "3545563859": [
+    429.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 - i7-1165G7 32GB RAM 500GB SSD 5G LTE 14inch"
+   ],
+   "3545574484": [
+    479.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP EliteBook 840 G8 - i7-1165G7 32GB RAM 1000GB SSD 5G LTE 14inch"
+   ],
+   "3545583119": [
+    490.0,
+    "2026-10-22",
+    "2026-10-22",
+    "HP Elitebook 840 G8 - i7, 32gb RAM, 512gb SSD"
+   ],
+   "3546365486": [
+    250.0,
+    "2026-10-22",
+    "2026-10-22",
+    "!TOP! HP Elitebook 840 G8, i5 1146 G7, 16 GB, 256GB"
+   ]
+  },
   "EliteBook RAM 16GB SO-DIMM": {
    "3545813718": [
     65.0,
@@ -788,7 +1102,7 @@
    ],
    "3546094173": [
     130.0,
-    "2026-10-21",
+    "2026-10-22",
     "2026-10-21",
     "32GB RAM Kit (2x 16GB) Samsung DDR4 SO-DIMM 3200MHz für Laptop"
    ],
@@ -951,6 +1265,12 @@
     "2026-10-21",
     "Intel Core i7-14700K – Einwandfreier Zustand"
    ],
+   "3539859922": [
+    299.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Intel Core i7-14700K – LGA1700"
+   ],
    "3547076890": [
     290.0,
     "2026-10-22",
@@ -1047,8 +1367,424 @@
   "Lenovo ThinkVision P27h": {},
   "Lenovo Thunderbolt 4 Dock": {},
   "Lenovo USB-C Dock Gen 2": {},
-  "MacBook Air M1": {},
-  "MacBook Air M2": {},
+  "MacBook Air M1": {
+   "3515090478": [
+    479.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1 2020 | 2 TB SSD | 8 GB RAM | Akku 92% | 190 Zyklen"
+   ],
+   "3547288717": [
+    399.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1 / Silber / Top Zustand/ Nur 53 Ladezyklen"
+   ],
+   "3547378606": [
+    320.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 2020 – 13,3″ – 8 GB / 256 GB – Space Grau"
+   ],
+   "3547405228": [
+    450.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air (M1, 2020) - 8GB RAM, 256GB SSD"
+   ],
+   "3547415163": [
+    449.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air 13 Zoll M1 (2020) – Space Grau – Sehr guter Zustand"
+   ],
+   "3547521199": [
+    480.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 2020–8-256 GB–Akku 90%."
+   ],
+   "3547525975": [
+    400.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 13\" | 256/8 M1 Laptop Gold MGND3D/A QWERTY"
+   ],
+   "3547534856": [
+    480.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 2020 – 8 GB RAM / 256 GB SSD – Silber"
+   ],
+   "3547547603": [
+    550.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1"
+   ],
+   "3547640195": [
+    600.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 13.3 Zoll M1 Chip 8-Core CPU 7-Core GPU"
+   ],
+   "3547649716": [
+    425.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 2020 8GB 256GB Space Grau OVP"
+   ],
+   "3547660376": [
+    529.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 2020 | 8 GB | 256 GB | Spacegrau | OVP"
+   ],
+   "3547680680": [
+    499.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air 13 Zoll M1, 2020 256gb"
+   ],
+   "3547705920": [
+    560.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air 13\" M1 (2020) – 8 GB RAM, 256 GB SSD, Space Grau"
+   ],
+   "3547783816": [
+    500.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 (2020) – 13,3 Zoll & OVP"
+   ],
+   "3547818629": [
+    600.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air 13 (M1) 512GB"
+   ],
+   "3547828789": [
+    425.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1 – Top Zustand – Nur 16 Ladezyklen (100% Akku)"
+   ],
+   "3547851988": [
+    530.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 2020 | 8 GB RAM | 256 GB SSD | 90 % Akku"
+   ],
+   "3547883506": [
+    550.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1, 256 GB, sehr guter Zustand"
+   ],
+   "3547907784": [
+    500.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1 2020 245GB"
+   ],
+   "3547928798": [
+    490.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air 13\" M1 (2020) 256 GB"
+   ],
+   "3547943251": [
+    380.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 (2020)"
+   ],
+   "3547958922": [
+    480.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1, 8GB RAM, 256GB SSD"
+   ],
+   "3547985095": [
+    580.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 13  M1- Wie neu- 100% Batteriezustand"
+   ],
+   "3547999182": [
+    450.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1 256GB"
+   ],
+   "3548022374": [
+    550.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1"
+   ],
+   "3548072565": [
+    425.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air 2020 M1"
+   ],
+   "3548170970": [
+    530.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 – 8 GB RAM / 256 GB SSD"
+   ],
+   "3548171029": [
+    449.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1 | 8 GB RAM / 256 GB SSD | Space Grau | Top"
+   ],
+   "3548175741": [
+    370.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air m1 Model: A2337 8GB RAM 256GB SSD 87% Akku"
+   ],
+   "3548177919": [
+    400.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air m1 Model: A2337 8GB RAM 256GB SSD"
+   ],
+   "3548179708": [
+    400.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 – Silber – 8 GB RAM / 512 GB SSD"
+   ],
+   "3548213578": [
+    499.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1 13\" Gold | 62 Ladezyklen | 97% Akku"
+   ],
+   "3548218672": [
+    585.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 13\" M1 (2020) – 8 GB RAM – 256 GB SSD - Grau"
+   ],
+   "3548233619": [
+    449.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1 | 8 GB RAM | 256 GB SSD | Sehr gepflegt"
+   ]
+  },
+  "MacBook Air M2": {
+   "3543205072": [
+    600.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air 13'' M2 2022 8GB RAM 256 GB SSD + 1 TB SSD extern"
+   ],
+   "3546278174": [
+    850.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 2022 M2 13,6 Zoll"
+   ],
+   "3547303774": [
+    650.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 256GB 8GB"
+   ],
+   "3547371756": [
+    700.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 13,6 Zoll mit M2 Chip"
+   ],
+   "3547394980": [
+    649.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 (2022) – 256 GB – 8 GB – Midnight – OVP & RG"
+   ],
+   "3547412659": [
+    629.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 (2022) – 256 GB – 8 GB – SpaceGrau – OVP, RG"
+   ],
+   "3547467926": [
+    679.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 2022 | 256GB | 8GB | Akku 100% | OVP"
+   ],
+   "3547566110": [
+    600.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2"
+   ],
+   "3547569119": [
+    760.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 15 Zoll, 512GB, wie neu"
+   ],
+   "3547569638": [
+    550.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M2, 8GB RAM, 256 GB, 96% Batterie"
+   ],
+   "3547603811": [
+    700.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Macbook Air M2 13.3 Zoll 256 GB Ram 8 GB Batterie 98%"
+   ],
+   "3547622001": [
+    849.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple 2023 MacBook Air (M2) Laptop 15 inch OVP grau 8GB 256GB"
+   ],
+   "3547630377": [
+    899.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple 2023 MacBook Air (M2) Laptop 15 inch OVP Silber 8GB 512GB"
+   ],
+   "3547634040": [
+    700.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M2 13,6” | 256 GB | 100 % Akku"
+   ],
+   "3547722034": [
+    800.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 15“ M2"
+   ],
+   "3547818774": [
+    550.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2, 256GB SSD, 8GB RAM, Midnight"
+   ],
+   "3547821227": [
+    800.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2, 13,6 Zoll, 256 GB, wie neu"
+   ],
+   "3547855116": [
+    599.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 2022 | 13,6\" | 8GB RAM | 256GB SSD | Akku 97"
+   ],
+   "3547868734": [
+    700.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air 15” M2, 8gb ram, 256gb ssd, 99% akku"
+   ],
+   "3547873397": [
+    750.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 2022 Midnight"
+   ],
+   "3547915200": [
+    750.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M2 / 8 GB / 512 GB"
+   ],
+   "3547929768": [
+    580.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M2 8 GB / 256 GB"
+   ],
+   "3547955628": [
+    825.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air 15\" M2 (2023) – 8 GB / 256 GB – Mitternacht – OVP"
+   ],
+   "3548060872": [
+    649.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Macbook Air M2 8GB | 256GB SSD | Top Zustand"
+   ],
+   "3548070899": [
+    850.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook air m2 15”"
+   ],
+   "3548088145": [
+    650.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 (2022) - 13,6 Zoll - 8 GB RAM - 256 GB - OVP"
+   ],
+   "3548095230": [
+    790.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 - 16 GB RAM - Wie neu"
+   ],
+   "3548114550": [
+    850.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Mac Book Air m2 16gb RAM, 10 Core GPU 256 GB ssd"
+   ],
+   "3548118349": [
+    750.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 256GB, 8GB RAM , 100% Akku + Magic Mouse"
+   ],
+   "3548127139": [
+    800.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 2023 15“ M2 Chip 256GB Speicher"
+   ],
+   "3548131324": [
+    600.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 15\" M2 Chip, 8GB RAM, 256GB SSD, Modell A2941"
+   ],
+   "3548247711": [
+    600.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M2 (2022), 8GB RAM / 256GB SSD"
+   ],
+   "3548269753": [
+    700.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air 13“ M2"
+   ],
+   "3548277231": [
+    849.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 (2022) – 13,6 Zoll – 512 GB SSD – 98 % Akku"
+   ]
+  },
   "Makita DHP485 Set": {},
   "Makita DTD153/172 Set": {},
   "Pinecil Lötkolben": {},
@@ -1744,7 +2480,7 @@
     "RTX 4060ti Gainward Pegasus Grafikkarte"
    ],
    "3543852244": [
-    420.0,
+    390.0,
     "2026-10-22",
     "2026-10-21",
     "RTX 4060 TI 8GB Zotac"
@@ -1876,6 +2612,12 @@
     "2026-10-22",
     "2026-10-21",
     "Geforce RTX TUF 4070 OC"
+   ],
+   "3548167499": [
+    450.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Palit GeForce RTX 4070 GamingPro 12GB"
    ],
    "3548214682": [
     440.0,
