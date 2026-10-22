@@ -384,8 +384,8 @@
   "3546952316": "2026-10-21",
   "3547696225": "2026-10-22"
  },
- "laeufe": 211,
- "letzter_lauf": "2026-10-22T08:05:02",
+ "laeufe": 212,
+ "letzter_lauf": "2026-10-22T09:01:20",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {},
@@ -654,6 +654,18 @@
     "2026-10-22",
     "2026-10-22",
     "DDR5 32GB (2x 16GB) Corsair RAM Vengeance DDR5-6000 DIMM CL30"
+   ],
+   "3548306705": [
+    500.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Kingston FURY Beast RGB DDR5 32GB 6000 MHz Weiß – Wie neu"
+   ],
+   "3548324827": [
+    320.0,
+    "2026-10-22",
+    "2026-10-22",
+    "32GB DDR5 Kingston Fury Beast RAM 6000MHz 2x16Gb CL36"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1049,6 +1061,12 @@
     "2026-10-22",
     "2026-10-22",
     "TeamGroup Elite SO-DIMM 16GB DDR4 3200MHz Arbeitsspeicher (Neu)"
+   ],
+   "3548311906": [
+    80.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Crucial 16GB DDR4-3200 SO-DIMM Notebook RAM – getestet"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -1577,9 +1595,27 @@
     "2026-10-22",
     "2026-10-22",
     "Apple MacBook Air M1 | 8 GB RAM | 256 GB SSD | Sehr gepflegt"
+   ],
+   "3548287438": [
+    450.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M1, 8GB RAM , 256GB SSD | QWERTY US-Tastatur"
+   ],
+   "3548329490": [
+    499.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MacBook Air M1"
    ]
   },
   "MacBook Air M2": {
+   "3536576619": [
+    800.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air m2 13,6\" - 16gb RAM - 1TB SSD"
+   ],
    "3543205072": [
     600.0,
     "2026-10-22",
@@ -1783,6 +1819,12 @@
     "2026-10-22",
     "2026-10-22",
     "Apple MacBook Air M2 (2022) – 13,6 Zoll – 512 GB SSD – 98 % Akku"
+   ],
+   "3548325904": [
+    650.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Apple MacBook Air M2 (2022) 13,6 Zoll, 8GB RAM, 256GB SSD"
    ]
   },
   "Makita DHP485 Set": {},
@@ -1994,7 +2036,7 @@
     "Gigabyte GeForce RTX 3060 12GB – VB"
    ],
    "3548037236": [
-    300.0,
+    290.0,
     "2026-10-22",
     "2026-10-21",
     "KFA2 GeForce RTX 3060 1-Click OC 12GB GDDR6 Grafikkarte"
@@ -2016,6 +2058,12 @@
     "2026-10-22",
     "2026-10-22",
     "NVIDIA GeForce RTX 3060 12 GB Grafikkarte"
+   ],
+   "3548306469": [
+    285.0,
+    "2026-10-22",
+    "2026-10-22",
+    "NVIDIA GeForce RTX 3060 12GB – Gainward Ghost Gaming Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -2204,6 +2252,12 @@
     "2026-10-22",
     "2026-10-22",
     "GeForce RTX 3070"
+   ],
+   "3548282336": [
+    329.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Zotac Gaming GeForce RTX 3070 Twin Edge 8GB"
    ]
   },
   "RTX 3080": {
@@ -2374,6 +2428,18 @@
     "2026-10-22",
     "2026-10-22",
     "Pal it RTX 3080 10 GB - Top Zustand -"
+   ],
+   "3548280581": [
+    399.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MSI GeForce RTX 3080 Gaming X Trio 10GB Grafikkarte"
+   ],
+   "3548284189": [
+    300.0,
+    "2026-10-22",
+    "2026-10-22",
+    "ZOTAC Nvidia GeForce RTX 3080 Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -2532,6 +2598,18 @@
     "2026-10-21",
     "2026-10-21",
     "Palit GeForce RTX 4060 Ti JetStream 16GB"
+   ],
+   "3548307855": [
+    499.0,
+    "2026-10-22",
+    "2026-10-22",
+    "MSI GeForce RTX 4060 Ti Ventus 2X Black OC – 16 GB – Gaming & KI"
+   ],
+   "3548312474": [
+    500.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Geoforce RTX 4060 Ti 16gb von MSI"
    ]
   },
   "RTX 4070": {
@@ -2775,7 +2853,7 @@
    ],
    "3521537687": [
     849.0,
-    "2026-10-21",
+    "2026-10-22",
     "2026-10-21",
     "RTX 4070 Ti SUPER Ventus 2X"
    ],
@@ -3014,6 +3092,12 @@
     "2026-10-22",
     "2026-10-22",
     "RTX 4080 Aorus"
+   ],
+   "3548286467": [
+    980.0,
+    "2026-10-22",
+    "2026-10-22",
+    "ZOTAC GAMING RTX 4080 16GB"
    ]
   },
   "RX 6800 XT": {
@@ -5209,6 +5293,12 @@
     "2026-10-22",
     "2026-10-21",
     "WD_Black SN850x 2TB mit Heatsink *NEU* Western Digital SSD"
+   ],
+   "3539877260": [
+    229.0,
+    "2026-10-22",
+    "2026-10-22",
+    "WD_BLACK SN850X 2 TB – M.2 SSD"
    ],
    "3540732314": [
     225.0,
