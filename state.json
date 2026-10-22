@@ -384,8 +384,8 @@
   "3546952316": "2026-10-21",
   "3547696225": "2026-10-22"
  },
- "laeufe": 209,
- "letzter_lauf": "2026-10-22T05:53:56",
+ "laeufe": 210,
+ "letzter_lauf": "2026-10-22T07:13:49",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {},
@@ -567,13 +567,13 @@
    ],
    "3547441234": [
     450.0,
-    "2026-10-21",
+    "2026-10-22",
     "2026-10-21",
     "Crucial Pro Series DDR5 32GB (2x16GB) 6000MT/s RAM Kit"
    ],
    "3547467590": [
     450.0,
-    "2026-10-21",
+    "2026-10-22",
     "2026-10-21",
     "Kingston Fury Renegade DDR5 32GB (2x16GB) 6000MT/s"
    ],
@@ -729,6 +729,12 @@
     "2026-10-22",
     "2026-10-21",
     "Crucial 16GB DDR4-3200 SO-DIMM RAM | CT16G4SFRA32A | NAS, NUC"
+   ],
+   "3548210733": [
+    50.0,
+    "2026-10-22",
+    "2026-10-22",
+    "TeamGroup Elite SO-DIMM 16GB DDR4 3200MHz Arbeitsspeicher (Neu)"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -788,7 +794,7 @@
    ],
    "3546319029": [
     110.0,
-    "2026-10-21",
+    "2026-10-22",
     "2026-10-21",
     "SKhynix Arbeitsspeicher 2x 16GB (32GB) DDR4 3200MHz SoDimm Laptop"
    ],
@@ -1870,6 +1876,12 @@
     "2026-10-22",
     "2026-10-21",
     "Geforce RTX TUF 4070 OC"
+   ],
+   "3548214682": [
+    440.0,
+    "2026-10-22",
+    "2026-10-22",
+    "NVIDIA GeForce RTX 4070 (12 GB) – Top Zustand"
    ]
   },
   "RTX 4070 Super": {
@@ -2179,13 +2191,13 @@
    ],
    "3542481125": [
     1050.0,
-    "2026-10-21",
+    "2026-10-22",
     "2026-10-21",
     "MSI GeForce RTX 4080 SUPER Gaming X Slim – 16 GB"
    ],
    "3542569489": [
     1200.0,
-    "2026-10-21",
+    "2026-10-22",
     "2026-10-21",
     "GIGABYTE GeForce RTX 4080 Super 16GB"
    ],
@@ -4029,11 +4041,352 @@
     "Synology DiskStation DS923+ – vollausgestattet | 32 GB RAM | 10Gb"
    ]
   },
-  "ThinkPad L14 Gen 3": {},
-  "ThinkPad T14 Gen 2": {},
-  "ThinkPad T14 Gen 3": {},
-  "ThinkPad X1 Carbon Gen 10": {},
-  "ThinkPad X1 Carbon Gen 9": {},
+  "ThinkPad L14 Gen 3": {
+   "3311881065": [
+    549.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad L14 Gen 3 – Sehr gut"
+   ],
+   "3414685063": [
+    499.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad L14 Gen 3 – Gebraucht"
+   ],
+   "3513584406": [
+    470.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo Thinkpad L14 Gen 3 AMD Ryzen Pro 7"
+   ],
+   "3540239452": [
+    380.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad L14 Gen 3 | Ryzen 5 Pro | 16GB RAM | 512GB SSD"
+   ]
+  },
+  "ThinkPad T14 Gen 2": {
+   "3430684845": [
+    379.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 2 – i5 / 8GB / 256GB – Sehr gut"
+   ],
+   "3432166123": [
+    339.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 2 – i5 / 16GB / 256GB – gut"
+   ],
+   "3448656575": [
+    499.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen2 | i5 | 16GB | 256GB SSD | 24 Mon. Garant"
+   ],
+   "3478428743": [
+    414.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 2 | i7 16GB 512GB SSD Touch |QWERTY| Gara"
+   ],
+   "3509504085": [
+    404.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 2 | 16GB 512GB SSD | QWERTY | Garantie &"
+   ],
+   "3528880394": [
+    295.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 2 Notebook"
+   ],
+   "3533807180": [
+    400.0,
+    "2026-10-22",
+    "2026-10-22",
+    "ThinkPad T14 Gen 2, i7-1185G7, 32 GB RAM, 512 GB Speicher"
+   ],
+   "3534639944": [
+    464.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 2 | i7 16GB 512GB SSD |QWERTY| Garantie&R"
+   ],
+   "3534840999": [
+    300.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 G2 20W0-011YGE \ni5 11th Gen. 16GB RAM"
+   ],
+   "3539323537": [
+    320.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad  t14 (gen2)"
+   ],
+   "3540854425": [
+    365.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad P14s (T14) Gen2 Ryzen 5 5650U 16GB 87% Akku IPS"
+   ],
+   "3541024790": [
+    395.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad P14s T14 Gen2 Ryzen 7 5850U 16GB 400nits 86%Akku"
+   ],
+   "3541819354": [
+    449.0,
+    "2026-10-22",
+    "2026-10-22",
+    "♻️ WIE NEU | Lenovo ThinkPad T14 Gen2 | 24M Gar | 100% Akku |16GB"
+   ],
+   "3541825951": [
+    439.0,
+    "2026-10-22",
+    "2026-10-22",
+    "♻️ WIE NEU | Lenovo ThinkPad T14 Gen2 | 24M Gar | 89% Akku |16GB"
+   ],
+   "3541947323": [
+    169.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 2 – i5 – 16 GB RAM"
+   ],
+   "3546222441": [
+    400.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 2 – Ryzen 7 PRO, 32 GB RAM, 512 GB SSD"
+   ],
+   "3547585171": [
+    325.0,
+    "2026-10-22",
+    "2026-10-22",
+    "LENOVO ThinkPad T14 Gen 2"
+   ],
+   "3548040829": [
+    350.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 2 | i5-1135G7 | Windows 11 Pro"
+   ]
+  },
+  "ThinkPad T14 Gen 3": {
+   "3342897413": [
+    539.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo Thinkpad T14 Gen3 AMD - Ryzen 5 6650U - 16 GB - Laptop"
+   ],
+   "3494736368": [
+    439.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 3 – i5-1245U/16GB/256GB"
+   ],
+   "3500635188": [
+    609.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen3,14“ i5 12Gen. 250GB SSD 24GB RAM"
+   ],
+   "3513867011": [
+    499.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 3 – i5-1235U/16GB/512GB"
+   ],
+   "3513872993": [
+    599.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 3 – i7-1265U/32GB/256GB"
+   ],
+   "3525508874": [
+    449.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo Thinkpad T14 gen 3"
+   ],
+   "3528888890": [
+    474.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 3 | 16GB 512GB | WUXGA| QWERTY| Garantie&"
+   ],
+   "3530361724": [
+    689.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo Thinkpad T14 Gen 3 16 GB RAM - 2 TB SSD - Top + Rechnung"
+   ],
+   "3532612075": [
+    480.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 3 | Intel Core i5 | 14\" WUXGA"
+   ],
+   "3534560128": [
+    564.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad T14 Gen 3 | i7 16GB 512SSD | WUXGA| QWERTY| Garan"
+   ],
+   "3537777493": [
+    519.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo Thinkpad T14 Gen 3 - 512 GB SSD & Gewährleistung"
+   ],
+   "3545734406": [
+    470.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo Thinkpad T14 Gen3 intel core i7 1255U -16GB-512 GB ssd"
+   ],
+   "3546483666": [
+    699.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Thinkpad T14 Gen3 i7-1270P 48GB Ram 512GB SSD"
+   ]
+  },
+  "ThinkPad X1 Carbon Gen 10": {
+   "3450016805": [
+    550.0,
+    "2026-10-22",
+    "2026-10-22",
+    "lenovo X1 Carbon Gen10 mit Privacy Display"
+   ],
+   "3461041784": [
+    660.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad x1 Carbon Gen 10 |i7 16GB |GARANTIE&RECHNUNG"
+   ],
+   "3484218181": [
+    559.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad X1 Carbon Gen 10 – gebraucht"
+   ],
+   "3484219872": [
+    579.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad X1 Carbon Gen 10 – gut"
+   ],
+   "3516742210": [
+    500.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad x1 Carbon Gen 10 |14\"| i7 | 16GB RAM | 512 GB SSD"
+   ],
+   "3520418839": [
+    500.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad x1 Carbon Gen 10 |14\"| i7 | 16GB RAM | 512 GB SSD"
+   ],
+   "3543656011": [
+    700.0,
+    "2026-10-22",
+    "2026-10-22",
+    "X1 Carbon Gen10 - 32GB RAM - 512GB NVME (NEU!) - LTE - Touch"
+   ],
+   "3544690262": [
+    590.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo Thinkpad X1 Carbon Gen 10, 16GB RAM, 512GB"
+   ],
+   "3546583228": [
+    424.0,
+    "2026-10-22",
+    "2026-10-22",
+    "ThinkPad X1 Carbon Gen 10, i5, 16GB RAM, 250GB SSD, Touch, LTE"
+   ]
+  },
+  "ThinkPad X1 Carbon Gen 9": {
+   "3417836365": [
+    549.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad X1 Carbon Gen 9 – i5-1145G7/32GB/256GB"
+   ],
+   "3453917691": [
+    460.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad x1 Carbon Gen 9 | 16GB 512GB SSD Touch | Garantie"
+   ],
+   "3477831867": [
+    520.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad X1 Carbon Gen 9 Core i7-1185G7 16GB 512SSD"
+   ],
+   "3508971314": [
+    650.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad X1 Carbon G9 (i7 11th gen) Top Zustand"
+   ],
+   "3510021612": [
+    699.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo X1 Carbon Gen 9 i7-1185G7 16GB RAM 1TB NVMe Touch LTE 400 Nits Win11 Pro"
+   ],
+   "3516476641": [
+    399.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad X1 Carbon Gen 9-i5/8GB/256 GB SSD"
+   ],
+   "3522167239": [
+    550.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad X1 Carbon Gen 9 14 Zoll Ultrabook DE *VERSAND*"
+   ],
+   "3539394289": [
+    600.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo x1 Carbon Gen 9 | i7-1165G7|16GB RAM|1TB SSD|UHD+|LTE"
+   ],
+   "3539600517": [
+    299.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad X1 Carbon Gen 9 Intel Win 10 und 11 Pro 64"
+   ],
+   "3542699132": [
+    459.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Thinkpad X1 Carbon Gen 9 - Intel i5 2.4GHz 16GB RAM 512GB SSD"
+   ],
+   "3546891848": [
+    499.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Lenovo ThinkPad X1 Carbon Gen 9 – i5-1145G7, 32GB RAM, 256GB SSD"
+   ],
+   "3546980249": [
+    330.0,
+    "2026-10-22",
+    "2026-10-22",
+    "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
+   ]
+  },
   "ThinkPad ohne Netzteil": {},
   "ThinkPad ohne SSD": {},
   "WD Black SN850X 2TB": {
@@ -4210,7 +4563,7 @@
     "WD Red Plus 8TB WD80EFZZ 5.4K 128MB SATA III 3.5''"
    ],
    "3548129793": [
-    269.0,
+    249.0,
     "2026-10-22",
     "2026-10-22",
     "WD Red Plus 8TB WD80EFZZ – SMART geprüft NAS"
