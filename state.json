@@ -402,10 +402,11 @@
   "3549655796": "2026-10-23",
   "3549656239": "2026-10-23",
   "3549760400": "2026-10-23",
-  "3549775290": "2026-10-23"
+  "3549775290": "2026-10-23",
+  "3549910593": "2026-10-23"
  },
- "laeufe": 227,
- "letzter_lauf": "2026-10-23T19:04:01",
+ "laeufe": 228,
+ "letzter_lauf": "2026-10-23T19:51:48",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3596,7 +3597,7 @@
     "Verkaufe Macbook Air M1 - 90% Akku und sehr guter Zustand"
    ],
    "3548878732": [
-    490.0,
+    475.0,
     "2026-10-23",
     "2026-10-23",
     "Macbook Air M1 2020 | 8gb 256gb | 89% Akku"
@@ -3815,7 +3816,13 @@
     550.0,
     "2026-10-23",
     "2026-10-23",
-    "Apple MacBook Air M1, 8GB RAM, 1TB SSD"
+    "Apple MacBook Air M1, 8GB RAM, 1TB SSD + OVP"
+   ],
+   "3549906468": [
+    500.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 2020 | 8GB | 256GB"
    ]
   },
   "MacBook Air M2": {
@@ -4280,6 +4287,18 @@
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air M2 (2022) | 13 Zoll | 256 GB SSD | Top Zustand"
+   ],
+   "3549912818": [
+    670.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air M2 13,6\" (2022) 8 GB / 256 GB Space Grau"
+   ],
+   "3549920686": [
+    699.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2 2022 – 16 GB RAM – 256 GB SSD – Mitternacht"
    ]
   },
   "Makita DHP485 Set": {},
@@ -6777,6 +6796,18 @@
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen 7 5800X3D Prozessor"
+   ],
+   "3549902167": [
+    240.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen 7 5800X3D 10th Anniversary Edition – Neu & ungeöffnet"
+   ],
+   "3549916035": [
+    320.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Ryzen 7 5800x3d, AMD CPU, Festpreis"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -7655,6 +7686,12 @@
     "2026-10-23",
     "2026-10-23",
     "Seagate Exos X18 18TB unbenutzt – 450 €/St., 4 verfügbar"
+   ],
+   "3549910593": [
+    335.0,
+    "2026-10-23",
+    "2026-10-23",
+    "18TB Festplatte 3,5 Zoll HDD - Seagate EXOS Enterprise X18"
    ]
   },
   "Seagate Exos 20TB": {
@@ -8881,6 +8918,12 @@
     "2026-10-23",
     "2026-10-23",
     "Lenovo ThinkPad X1 Carbon Gen9 i5 8GB 256GB SD"
+   ],
+   "3549924286": [
+    650.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad X1 Carbon Gen 9 | i7 | 32 GB RAM | 512GB SSD"
    ]
   },
   "ThinkPad ohne Netzteil": {},
