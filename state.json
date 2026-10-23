@@ -394,13 +394,292 @@
   "3549364369": "2026-10-23",
   "3549371682": "2026-10-23",
   "3549379408": "2026-10-23",
-  "3549430008": "2026-10-23"
+  "3549430008": "2026-10-23",
+  "3549464471": "2026-10-23",
+  "3549501453": "2026-10-23"
  },
- "laeufe": 220,
- "letzter_lauf": "2026-10-23T11:57:06",
+ "laeufe": 221,
+ "letzter_lauf": "2026-10-23T13:07:38",
  "offen": {},
  "pools": {
-  "Arduino/ESP32 Starter-Set": {},
+  "Arduino/ESP32 Starter-Set": {
+   "2579740078": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Starter Kit Arduino"
+   ],
+   "3116087589": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Mikrocontroller Starter Kit Arduino Uno"
+   ],
+   "3285749563": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino UNO Starter Kit Lernpaket mit Zubehör"
+   ],
+   "3355071957": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino UNO R3 Starter Kit"
+   ],
+   "3371775956": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Allnet Starter Kit Arduino Einsteiger"
+   ],
+   "3378144207": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino TinkerKit Einsteiger StarterKit Konvolut wie neu 20 Teile"
+   ],
+   "3416391487": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit mit vielen Bauteilen"
+   ],
+   "3430177240": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ELEGOO UNO R3 Starter Kit Arduino kompatibel mit Zubehör"
+   ],
+   "3441108918": [
+    22.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Elegoo Arduino UNO R3 Starter Kit mit RFID-Modul"
+   ],
+   "3454972432": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino UNO R3 Starter Kit – Kuman Komplettset"
+   ],
+   "3460538167": [
+    53.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit mit Sensoren, Kabeln und Zubehör"
+   ],
+   "3464841923": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starterkit"
+   ],
+   "3475369496": [
+    29.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit - Anfängerlevel"
+   ],
+   "3477409729": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino ELEGOO UNO R3 Ultimate Starter Kit NEU"
+   ],
+   "3479032083": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit, Mega 2560 Project"
+   ],
+   "3480269803": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit mit Uno, Breadboard & Kabeln"
+   ],
+   "3494649349": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit UNO R3 – sehr guter Zustand"
+   ],
+   "3496934048": [
+    99.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Lern-Set: Elegoo Mega 2560 Starter Kit"
+   ],
+   "3500329842": [
+    48.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Neu!! Arduino UNO R3 ganzer starter kit  inkl. CD von Elegoo"
+   ],
+   "3504302040": [
+    39.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit Level Beginner"
+   ],
+   "3504594340": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ELEGOO Mega 2560 Starter Kit – Komplettset Arduino kompatibel Neu"
+   ],
+   "3509256396": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Elegoo Super Starter Kit Arduino UNO R3 Project"
+   ],
+   "3511992801": [
+    45.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit für Elektronik & Programmierung"
+   ],
+   "3513153932": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Starter Kit für Arduino – Mikroelektronik / Elektronik"
+   ],
+   "3515767935": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit Set"
+   ],
+   "3517568280": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Funduino Starter Kit für Arduino - Elektronik Lernset"
+   ],
+   "3520344608": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Original Arduino Starter-Kit mit Arduino UNO"
+   ],
+   "3520374674": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Unbenutzt Arduino Starter Kit und Raspberry Pi4 Model B"
+   ],
+   "3527159029": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ELEGOO UNO R3 Starter Set – Elektronik & Arduino Kit"
+   ],
+   "3527526359": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit"
+   ],
+   "3528050871": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino the most complete starter kit"
+   ],
+   "3530311620": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit Deutsch (K040007) – kaum benutzt, vollständig"
+   ],
+   "3533364994": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Neu Raspberry Pi Ultimate Starter Kit Freenove Arduino"
+   ],
+   "3535230899": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Elegoo Super Starter Kit für Arduino UNO R3"
+   ],
+   "3535864804": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Franzis Arduino Lernpaket / Starter Kit"
+   ],
+   "3537709967": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Elektronik Starter Kit für Arduino/Raspberry Pi unbenutzt"
+   ],
+   "3542181494": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ELEGOO UNO R3 Starter Set Arduino Kit"
+   ],
+   "3543419979": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Funduino Starter Kit, Arduino-Mikroelektronik, Programmieren"
+   ],
+   "3544040520": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit"
+   ],
+   "3546380881": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Funduino Starter Kit für Arduino - Neu"
+   ],
+   "3546834029": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Set ULTIMATE UNO R3 STARTER KIT"
+   ],
+   "3547657398": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit - Elektronik Lernset"
+   ],
+   "3548007147": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter Kit R3 - Deutsch"
+   ],
+   "3548501944": [
+    15.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ELEGOO UNO R3 Basic Starter Kit Arduino"
+   ],
+   "3548743807": [
+    45.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Elegoo Arduino Uno R3 Starter Kit mit extra Zubehör!"
+   ],
+   "3549216408": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino UNO R3 Starter KIT"
+   ]
+  },
   "Bosch GBH 18V-26": {},
   "Bosch GSR 18V-60 Set": {},
   "Bose QuietComfort": {},
@@ -762,6 +1041,24 @@
     "2026-10-23",
     "2026-10-23",
     "Corsair Vengeance 32GB Kit DDR5-6000 CL36"
+   ],
+   "3549475587": [
+    500.0,
+    "2026-10-23",
+    "2026-10-23",
+    "DDR5 RAM 32GB (2x16) 6000mhz CL30"
+   ],
+   "3549477507": [
+    490.0,
+    "2026-10-23",
+    "2026-10-23",
+    "DDR5 RAM 32GB (2x16GB) 6000mhz CL36"
+   ],
+   "3549516669": [
+    449.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Kingston Fury Beast 32GB DDR5 6000 CL30 2x16GB RAM"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1333,6 +1630,12 @@
     "2026-10-23",
     "2026-10-23",
     "G.Skill Ripjaws 16 GB DDR4 3200 SO-DIMM"
+   ],
+   "3549516148": [
+    59.0,
+    "2026-10-23",
+    "2026-10-23",
+    "16GB SK Hynix DDR4 RAM (SO-DIMM) 3200MHz für Laptop / Mini-PC"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -1497,6 +1800,12 @@
     "2026-10-23",
     "2026-10-23",
     "2x16GB DDR4 3200 SODIMM CT16G4SFRA32A laptop RAM 32GB"
+   ],
+   "3549501453": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "2x Kingston 16GB DDR4-3200 SO-DIMM also 32gb"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -1557,7 +1866,14 @@
    ]
   },
   "HP Thunderbolt Dock G4": {},
-  "Home Assistant Green/Yellow": {},
+  "Home Assistant Green/Yellow": {
+   "3548730394": [
+    116.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Home Assistant Green Smart Home Hub"
+   ]
+  },
   "Intel i5-13600K": {
    "3347981783": [
     230.0,
@@ -2160,7 +2476,7 @@
     "MacBook Air M1 / Neuwertig / Nur 53 Ladezyklen"
    ],
    "3549095018": [
-    550.0,
+    450.0,
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air M1"
@@ -2224,6 +2540,42 @@
     "2026-10-23",
     "2026-10-23",
     "Apple Macbook Air M1 256GB 8GB"
+   ],
+   "3549440951": [
+    460.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple Mac Book Air M1 + Magic Mouse"
+   ],
+   "3549445621": [
+    549.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air M1 (2020) - 16 GB RAM - 512 GB SSD - Rose Gold"
+   ],
+   "3549464471": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple Macbook Air M1"
+   ],
+   "3549468477": [
+    450.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 13,3\" / M1 Chip - 256GB SSD / 8GB / Garantie"
+   ],
+   "3549488145": [
+    550.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Macbook Air M1 256GB 8GB RAM in OVP Grau"
+   ],
+   "3549499131": [
+    580.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air 13 2020 M1 8GB RAM 512 SSD"
    ]
   },
   "MacBook Air M2": {
@@ -3175,6 +3527,12 @@
     "2026-10-23",
     "2026-10-23",
     "INNO3D GeForce RTX 3070 Twin X2 8GB"
+   ],
+   "3549471189": [
+    280.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Zotac Nvidia Gaming GeForce RTX 3070 Twin Edge OC Edition"
    ]
   },
   "RTX 3080": {
@@ -3429,6 +3787,12 @@
     "2026-10-23",
     "2026-10-23",
     "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
+   ],
+   "3549481694": [
+    500.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MSI RTX 3080 SEA HAWK X 10G – AiO Wasserkühlung Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -4019,6 +4383,12 @@
     "2026-10-23",
     "2026-10-23",
     "ASUS ProArt RTX 4070 Ti SUPER OC 16GB"
+   ],
+   "3549514751": [
+    950.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Gigabyte RTX 4070 Ti Super Eagle 16GB OVP & Rechnung"
    ]
   },
   "RTX 4080": {
@@ -4176,7 +4546,7 @@
     750.0,
     "2026-10-23",
     "2026-10-21",
-    "RTX 4080 16GB MSI GAMING X TRIO"
+    "RTX 4080 16GB MSI GAMING X TRIO Grafikkarte Nvidia"
    ],
    "3547569106": [
     900.0,
@@ -4589,6 +4959,12 @@
     "2026-10-23",
     "2026-10-23",
     "16GB PowerColor Radeon RX 7800 XT Hellhound"
+   ],
+   "3549511405": [
+    449.0,
+    "2026-10-23",
+    "2026-10-23",
+    "PowerColor AMD Radeon RX 7800 XT Fighter 16GB"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -4668,7 +5044,7 @@
    ],
    "3514782718": [
     229.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 8GB Set + RasTech Kühler + WLAN"
    ],
@@ -4805,7 +5181,7 @@
     "Raspberry Pi 5 8GB Starter Kit + Netzteil + Gehäuse"
    ],
    "3548799660": [
-    170.0,
+    160.0,
     "2026-10-23",
     "2026-10-23",
     "Raspberry Pi 5 8GB RAM, Netzteil Micro-HDMI zu HDMI, Gehäuse"
@@ -5481,6 +5857,12 @@
     "2026-10-23",
     "2026-10-23",
     "Samsung 990 PRO SSD PS5 mit 2 TB Speicher Heatsink"
+   ],
+   "3549496271": [
+    250.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Samsung SSD 2TB Festplatte 990 Pro PC Playstation 5 Slim Pro PS5"
    ]
   },
   "Samsung PM983 1.92TB": {},
@@ -6007,10 +6389,83 @@
     "8TB Festplatte Seagate IronWolf"
    ]
   },
-  "Shelly Plus Plug S": {},
+  "Shelly Plus Plug S": {
+   "3296809025": [
+    21.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly · Plug & Play \"Plug S Gen3 WLAN Matter\" white"
+   ],
+   "3296967584": [
+    29.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Plug & Play \"Outdoor Plug 3 S Gen3\" Zwischenstecker für dr"
+   ],
+   "3317071166": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Plug S Wi-Fi Bluetooth Plug 220-230 V"
+   ],
+   "3471525078": [
+    19.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Plug S Weiß - WLAN Smarte Steckdose, Leistungsmessung"
+   ],
+   "3486078270": [
+    21.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Outdoor Plug S Gen3 – Smarte Außensteckdose (Matter/WLAN)"
+   ],
+   "3486689945": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Plug S Gen3 Smart Wi-Fi & Bluetooth Stecker"
+   ],
+   "3486690811": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Outdoor Plug S Gen3 Smart Plug - Mocha"
+   ],
+   "3494989272": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Plus Plug S - Intelligente Steckdose mit Strommessung"
+   ],
+   "3520530940": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "EcoFlow x Shelly Smart Plug S MTR Gen3 Typ F"
+   ],
+   "3527539300": [
+    24.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Plug & Play Outdoor Plug S Gen3 Zwischenstecker für drauße"
+   ],
+   "3527839520": [
+    15.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Plus Plug S - Intelligente Steckdose Funktioniert mit Alex"
+   ],
+   "3547921157": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Smart Home Set: Plug S+Wall Switch WS1 +Steckdosen +Rahmen"
+   ]
+  },
   "Siglent SDS1104X-E": {
    "3538986564": [
-    450.0,
+    440.0,
     "2026-10-23",
     "2026-10-23",
     "Siglent SDS 1104X-E Digitales Oszilloskop 100MHz, wie neu"
@@ -6958,6 +7413,12 @@
     "2026-10-23",
     "2026-10-23",
     "Western Digital 4 TB WD Red Plus"
+   ],
+   "3549464427": [
+    190.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Western Digital WD Red Plus 4TB NAS Festplatte - Neu"
    ]
   },
   "WD Red Plus 8TB": {
@@ -7230,7 +7691,266 @@
     "Weller WTCP-S Lötstation Lötkolben Lötzin"
    ]
   },
-  "Zigbee-Stick": {}
+  "Zigbee-Stick": {
+   "1679316906": [
+    8.0,
+    "2026-10-23",
+    "2026-10-23",
+    "E18-2G4U04B USB-Stick CC2531 Zigbee FHEM ioBroker OpenHAB Koenkk"
+   ],
+   "1922763739": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Smart Home Base mit ZigBee Stick"
+   ],
+   "2637492097": [
+    22.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Telekom Magenta Smarthome QIVICON Home Base  inkl ZigBee Stick"
+   ],
+   "2842632671": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Conbee 2 Zigbee USB Stick"
+   ],
+   "3288913945": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Phoscon ConBee II Zigbee USB Stick"
+   ],
+   "3309801031": [
+    15.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Qivicon Home Base Smart Home Zentrale inkl. ZigBee USB-Stick"
+   ],
+   "3312523877": [
+    12.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Magenta SmartHome Tür-/Fensterkontakt magnetisch und ZigBee Stick"
+   ],
+   "3330363008": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Zigbee Coordinator Dongle USB Stick Zigbee2MQTT Antenne"
+   ],
+   "3331777106": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Conbee 2 Zigbee USB Stick"
+   ],
+   "3334097441": [
+    9.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ConBee Zigbee USB-Stick (1. Generation) – Smart Home Gateway"
+   ],
+   "3354640566": [
+    13.0,
+    "2026-10-23",
+    "2026-10-23",
+    "CC2538+CC2592 PA Zigbee Stick"
+   ],
+   "3412468980": [
+    12.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Conbee 2 Zigbee Stick Gateway"
+   ],
+   "3412891800": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bitron Smart Home Außensirene + QIVICON ZigBee Stick"
+   ],
+   "3425192789": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Deconz Conbee II Zigbee USB-Stick für Smart Home"
+   ],
+   "3443342452": [
+    9.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Qivicon ZigBee USB Stick für Smart Home"
+   ],
+   "3449984223": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Smarthome Home Base Station : Qivicon Base mit ZigBee Stick"
+   ],
+   "3458082930": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MOEs Tuya ZigBee USB-Stick (Signal Verstärker / Repeater)"
+   ],
+   "3463339000": [
+    12.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ConBee II Zigbee USB-Stick"
+   ],
+   "3471209282": [
+    16.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ConBee II Zigbee USB-Gateway Stick für Smart Home"
+   ],
+   "3472990316": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "SMLIGHT SLZB-06U Zigbee LAN PoE Stick Zigbee2MQTT ZHA neu ❤️"
+   ],
+   "3473544591": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "SMLIGHT SLZB-06 Zigbee LAN PoE Stick Zigbee2MQTT ZHA ❤️"
+   ],
+   "3474844946": [
+    15.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Magenta SmartHome Home Base & QIVICON ZigBee Stick"
+   ],
+   "3483993250": [
+    15.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ZigStar Zigbee USB Stick CC2652P (RF-BM-2652P2) mit Antenne"
+   ],
+   "3485896815": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ConBee 2 II Zigbee USB-Stick – Voll funktionsfähig, Top Zustand"
+   ],
+   "3497853215": [
+    19.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ConBee II USB Stick - Phoscon Zigbee-Gateway (deCONZ etc.)"
+   ],
+   "3502339119": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Smart Home Deutsche Telekom Quivicon Base + ZigBee Stick Angebot"
+   ],
+   "3505766409": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "NEU: Telekom Magenta SmartHome Set: Home Base, ZigBee Stick + ..."
+   ],
+   "3507173909": [
+    15.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ConBee II Zigbee Gateway USB Stick"
+   ],
+   "3511686159": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Slae.sh CC2652R Zigbee USB-Stick"
+   ],
+   "3515756507": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "USB Stick CC2652P Sonoff ZigBee 3.0 - gebraucht"
+   ],
+   "3518160497": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Magenta SmartHome Tür-/Fensterkontakt (2x) + Qivicon ZigBee Stick"
+   ],
+   "3522073915": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "CC2531 Zigbee2mqtt Smart Home Stick"
+   ],
+   "3522520519": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Phoscon ConBee II Zigbee USB-Gateway / Stick (inkl. OVP)"
+   ],
+   "3523466504": [
+    16.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Phoscon ConBee II Zigbee USB-Stick Gateway mit OVP"
+   ],
+   "3527690983": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Qivicon Zigbee Stick USB Smarthome"
+   ],
+   "3531255965": [
+    12.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ConBee II Zigbee USB Gateway Stick"
+   ],
+   "3533969163": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Rademacher Home Pilot USB Stick Zigbee 3.0 Erweiterung Smart Home"
+   ],
+   "3536381767": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Qivicon Mome Base mit Zigbee Stick"
+   ],
+   "3537961030": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ConBee II Zigbee Gateway USB-Stick"
+   ],
+   "3545000964": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "CC2531 Zigbee USB Stick mit externer Antenne (für Home Assistant)"
+   ],
+   "3547397711": [
+    15.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Phosconn RaspBee II 2 Raspberry Zigbee Stick"
+   ],
+   "3547822941": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sonoff Zigbee Stick 3.0"
+   ],
+   "3549079254": [
+    15.0,
+    "2026-10-23",
+    "2026-10-23",
+    "CC2531 Zigbee USB Stick für Zigbee2MQTT"
+   ]
+  }
  },
  "zustand": {
   "leer_in_folge": 0,
