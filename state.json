@@ -391,10 +391,13 @@
   "3549137600": "2026-10-23",
   "3549164880": "2026-10-23",
   "3549304688": "2026-10-23",
-  "3549364369": "2026-10-23"
+  "3549364369": "2026-10-23",
+  "3549371682": "2026-10-23",
+  "3549379408": "2026-10-23",
+  "3549430008": "2026-10-23"
  },
- "laeufe": 219,
- "letzter_lauf": "2026-10-23T10:54:54",
+ "laeufe": 220,
+ "letzter_lauf": "2026-10-23T11:57:06",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {},
@@ -939,8 +942,106 @@
    ]
   },
   "Dell UltraSharp U2719D": {},
-  "Dell UltraSharp U2722D": {},
-  "Dell UltraSharp U2723QE": {},
+  "Dell UltraSharp U2722D": {
+   "3502886245": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2722D 27 Zoll 2560x1440 (QHD) - wie neu und OVP"
+   ],
+   "3511921163": [
+    205.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2722D – 27 Zoll QHD IPS Monitor #1"
+   ],
+   "3511936378": [
+    205.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2722D – 27 Zoll QHD IPS Monitor #2"
+   ],
+   "3519304078": [
+    99.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell U2722D Monitor 27 Zoll"
+   ],
+   "3528398403": [
+    329.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2722D – 27\" QHD – NEU & OVP"
+   ],
+   "3528477578": [
+    190.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp 27\" Monitor (U2722D) – Top Zustand & OVP"
+   ],
+   "3538512823": [
+    159.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2722D 27 Zoll QHD IPS Monitor"
+   ],
+   "3538982989": [
+    185.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2722D 27 Zoll QHD LED Monitor"
+   ],
+   "3546203226": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2722D 27\" WQHD Monitor -2560x1440-"
+   ]
+  },
+  "Dell UltraSharp U2723QE": {
+   "3470525919": [
+    400.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Monitor U2723QE"
+   ],
+   "3487223208": [
+    390.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Monitor Dell Ultra Sharp U2723QE"
+   ],
+   "3521986166": [
+    349.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2723QE 27\" 4K Monitor"
+   ],
+   "3524659316": [
+    399.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell U2723QE (4K UHD Monitor, 27 Zoll)"
+   ],
+   "3536430191": [
+    300.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2723QE | 27 Zoll 4K USB-C Monitor"
+   ],
+   "3541045733": [
+    375.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell U2723QE Monitor 27 Zoll 4K"
+   ],
+   "3549198208": [
+    310.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell U2723QE Monitor 27 Zoll"
+   ]
+  },
   "Dell WD19TB/WD22TB4": {},
   "EliteBook 840 G8": {
    "2627364366": [
@@ -1220,6 +1321,18 @@
     "2026-10-23",
     "2026-10-23",
     "Crucial 16gb ddr4-3200 sodimm Laptop Arbeitsspeicher"
+   ],
+   "3549387144": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Micron 16 GB (2×8 GB) DDR4 SO-DIMM 3200 MHz"
+   ],
+   "3549425336": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "G.Skill Ripjaws 16 GB DDR4 3200 SO-DIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -1378,6 +1491,12 @@
     "2026-10-23",
     "2026-10-23",
     "Crucial 1x 32GB DDR4-3200 SODIMM CL22 RAM (CT32G4SFD832A)"
+   ],
+   "3549417728": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "2x16GB DDR4 3200 SODIMM CT16G4SFRA32A laptop RAM 32GB"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -2087,6 +2206,24 @@
     "2026-10-23",
     "2026-10-23",
     "MacBook Air M1 256GB"
+   ],
+   "3549394685": [
+    600.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 2020 M1, 8GB RAM, 512GB SSD, neue Tastatur/Akku"
+   ],
+   "3549421577": [
+    479.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 – 13,3 Zoll – 256 GB SSD – Space Grau"
+   ],
+   "3549430008": [
+    369.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple Macbook Air M1 256GB 8GB"
    ]
   },
   "MacBook Air M2": {
@@ -2437,6 +2574,24 @@
     "2026-10-23",
     "2026-10-23",
     "MacBook Air M2 (2022) 13,6\" | 8 GB | [256] GB | Neuwertig | Akku"
+   ],
+   "3549417052": [
+    850.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air 15\" M2 (2023) – 8 GB RAM – 256 GB SSD – Neuwertig"
+   ],
+   "3549436744": [
+    749.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 15 Zoll M2 (2023) – 8 GB RAM / 256 GB SSD – Akk"
+   ],
+   "3549437394": [
+    650.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air M2 2022 8GB Ram 512 GB SSD 13’’"
    ]
   },
   "Makita DHP485 Set": {},
@@ -2700,6 +2855,12 @@
     "2026-10-23",
     "2026-10-23",
     "Palit RTX 3060 12 GB Grafikkarte – Top Zustand"
+   ],
+   "3549433601": [
+    300.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ASUS TUF Gaming GeForce RTX 3060 12GB – OVP – Top Zustand"
    ]
   },
   "RTX 3070": {
@@ -3002,6 +3163,18 @@
     "2026-10-23",
     "2026-10-23",
     "NVIDIA GeForce RTX 3070 Gaming OC mit 8 GB"
+   ],
+   "3549402285": [
+    280.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MSI GeForce RTX 3070 Gaming X Trio Grafikkarte"
+   ],
+   "3549423642": [
+    206.0,
+    "2026-10-23",
+    "2026-10-23",
+    "INNO3D GeForce RTX 3070 Twin X2 8GB"
    ]
   },
   "RTX 3080": {
@@ -3474,6 +3647,12 @@
     "2026-10-23",
     "2026-10-23",
     "GEFORCE RTX 4060TI"
+   ],
+   "3549379408": [
+    250.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ASUS Dual Geforce RTX 4060 Ti 16GB"
    ]
   },
   "RTX 4070": {
@@ -4836,7 +5015,7 @@
     "AMD Ryzen 7 7800X3D CPU | AM5 | inkl. OVP"
    ],
    "3548014827": [
-    279.0,
+    269.0,
     "2026-10-23",
     "2026-10-21",
     "AMD Ryzen 7 7800X3D – 8 Kerne / 16 Threads, OVP,  Top Zustand*"
@@ -5422,7 +5601,7 @@
     "Seagate Exos X16 16TB Festplatten - Neu in Folie (nicht RMA!)"
    ],
    "3548615660": [
-    419.0,
+    399.0,
     "2026-10-23",
     "2026-10-23",
     "NEUE! 16TB Seagate Exos X24 Festplatte | HDD 3,5 Zoll | SATA"
@@ -5522,7 +5701,7 @@
     "Seagate Exos X20 20TB"
    ],
    "3502979293": [
-    525.0,
+    600.0,
     "2026-10-23",
     "2026-10-18",
     "Seagate Exos X24 20TB / ST20000NM002H / NAS / Storage / SATA"
@@ -5837,7 +6016,242 @@
     "Siglent SDS 1104X-E Digitales Oszilloskop 100MHz, wie neu"
    ]
   },
-  "Sony WH-1000XM4/XM5": {},
+  "Sony WH-1000XM4/XM5": {
+   "3331517354": [
+    125.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Noise Cancelling Kopfhörer schwarz"
+   ],
+   "3520037602": [
+    169.0,
+    "2026-10-23",
+    "2026-10-23",
+    "sony WH-1000XM5 Bluetooh Over Ear (126183)"
+   ],
+   "3540007690": [
+    169.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Kopfhörer"
+   ],
+   "3540188309": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony Over Ear Kopfhörer WH-1000XM5"
+   ],
+   "3540554301": [
+    139.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH 1000XM5"
+   ],
+   "3540825033": [
+    175.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Noise-Cancelling Kopfhörer beige"
+   ],
+   "3541224220": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 in Schwarz"
+   ],
+   "3541241958": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Over-Ear Bluetooth Kopfhörer"
+   ],
+   "3541541921": [
+    250.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Kopfhörer - Schwarz - Wie neu"
+   ],
+   "3542088332": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH1000XM5"
+   ],
+   "3542101076": [
+    179.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Kopfhörer Noise Cancelling schwarz mit Tasche"
+   ],
+   "3542105388": [
+    180.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Bluetooth kopfhörer"
+   ],
+   "3542200671": [
+    167.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5"
+   ],
+   "3542349000": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Schwarz"
+   ],
+   "3542398817": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Kopfhörer – Top Zustand"
+   ],
+   "3542414589": [
+    250.0,
+    "2026-10-23",
+    "2026-10-23",
+    "SONY WH-1000 XM5"
+   ],
+   "3542565823": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Kopfhörer Schwarz"
+   ],
+   "3542584213": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony Overear Kopfhörer WH-1000XM5 Noice Canceling"
+   ],
+   "3542718732": [
+    179.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Noise Cancelling Kopfhörer schwarz"
+   ],
+   "3543045161": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony wh1000xm5"
+   ],
+   "3543462273": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony Wh 1000xm5 Kopfhörer"
+   ],
+   "3543953860": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 – Noise Cancelling – OVP – Weiß/Silber"
+   ],
+   "3544136591": [
+    270.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Kopfhörer - Neu in OVP"
+   ],
+   "3544159166": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5"
+   ],
+   "3544460353": [
+    199.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Noise Cancelling Kopfhörer midnight blau"
+   ],
+   "3544703048": [
+    149.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Noise Cancelling Kopfhörer Schwarz – neuwertig"
+   ],
+   "3545583388": [
+    125.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 premium"
+   ],
+   "3545850353": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Kopfhörer schwarz NUR BIS FREITAG"
+   ],
+   "3546040870": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Kopfhörer - Neu in OVP"
+   ],
+   "3547135500": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Noise Cancelling Kopfhörer Sony WH-1000XM5"
+   ],
+   "3547804841": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH 1000 XM5 Beige Top Zustand!"
+   ],
+   "3547904754": [
+    130.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5"
+   ],
+   "3548425567": [
+    220.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 in Black (XM5)"
+   ],
+   "3548595237": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "SONY WH1000XM5 Bluetooth Kopfhörer"
+   ],
+   "3548791927": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Over-Ear Kopfhörer Noise Cancelling schwarz"
+   ],
+   "3548969043": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 – Premium Bluetooth-Kopfhörer zu verkaufen"
+   ],
+   "3549110314": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5"
+   ],
+   "3549147582": [
+    140.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Over-Ear Kopfhörer – Schwarz"
+   ],
+   "3549400112": [
+    95.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Noise canceling Kopfhörer"
+   ]
+  },
   "Synology DS220+": {
    "3499704489": [
     300.0,
@@ -6206,7 +6620,7 @@
     "Lenovo Thinkpad T14 Gen 3 - 512 GB SSD & Gewährleistung"
    ],
    "3545734406": [
-    470.0,
+    440.0,
     "2026-10-23",
     "2026-10-22",
     "Lenovo Thinkpad T14 Gen3 intel core i7 1255U -16GB-512 GB ssd"
@@ -6334,6 +6748,12 @@
     "2026-10-23",
     "2026-10-22",
     "Lenovo ThinkPad X1 Carbon Gen 9 14 Zoll Ultrabook DE *VERSAND*"
+   ],
+   "3530976537": [
+    400.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad X1 Carbon Gen 9 – i7"
    ],
    "3539394289": [
     600.0,
@@ -6532,6 +6952,12 @@
     "2026-10-23",
     "2026-10-18",
     "Western Digital WD Red Plus 4TB NAS Festplatte NEU OVP"
+   ],
+   "3549371682": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Western Digital 4 TB WD Red Plus"
    ]
   },
   "WD Red Plus 8TB": {
