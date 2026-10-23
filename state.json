@@ -400,10 +400,12 @@
   "3549501453": "2026-10-23",
   "3549571790": "2026-10-23",
   "3549655796": "2026-10-23",
-  "3549656239": "2026-10-23"
+  "3549656239": "2026-10-23",
+  "3549760400": "2026-10-23",
+  "3549775290": "2026-10-23"
  },
- "laeufe": 224,
- "letzter_lauf": "2026-10-23T16:00:14",
+ "laeufe": 225,
+ "letzter_lauf": "2026-10-23T16:59:54",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -682,11 +684,108 @@
     "2026-10-23",
     "2026-10-23",
     "Arduino UNO R3 Starter KIT"
+   ],
+   "3549563527": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino Starter-Kit mit Projektbuch und Zubehör"
    ]
   },
   "Bosch GBH 18V-26": {},
   "Bosch GSR 18V-60 Set": {},
-  "Bose QuietComfort": {},
+  "Bose QuietComfort": {
+   "3548290890": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Headphones hellblau inkl. Case"
+   ],
+   "3548309484": [
+    200.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose Quietcomfort Ultra Kopfhörer"
+   ],
+   "3548472091": [
+    225.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Ultra Bluetooth-Kopfhörer (2. Gen.) Neu"
+   ],
+   "3548594743": [
+    280.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Ultra Kopfhörer mit Case und Kabeln"
+   ],
+   "3548633093": [
+    255.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Ultra 2. Generation"
+   ],
+   "3548829899": [
+    250.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Ultra Headphones Kopfhörer 2 Gen. Weiß Neuw."
+   ],
+   "3548899972": [
+    290.0,
+    "2026-10-23",
+    "2026-10-23",
+    "BOSE QUIETCOMFORT ULTRA KOPFHÖRER 2nd GEN WHITE WEISS NEU"
+   ],
+   "3548910243": [
+    189.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Ultra Kopfhörer"
+   ],
+   "3548912663": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Headphones - Neu & OVP"
+   ],
+   "3549072643": [
+    249.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Ultra 2. Generation – Weiß – TOP-Zustand"
+   ],
+   "3549206712": [
+    250.0,
+    "2026-10-23",
+    "2026-10-23",
+    "bose  QUIETCOMFORT ULTRA  2nd GEN  FAST NEU"
+   ],
+   "3549305733": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort 45 – schwarz, wie neu, mit Case"
+   ],
+   "3549394697": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Ultra – Premium-Kopfhörer ohne OVP"
+   ],
+   "3549582537": [
+    225.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose Quietcomfort Ultra (1st Gen)"
+   ],
+   "3549773695": [
+    200.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Headphones - Noise Cancelling - OVP"
+   ]
+  },
   "Crucial P3 Plus 2TB": {
    "3504508010": [
     200.0,
@@ -1363,7 +1462,32 @@
     "Dell Latitude 7420 Notebook mit i7 , 16 GB Ram"
    ]
   },
-  "Dell UltraSharp U2719D": {},
+  "Dell UltraSharp U2719D": {
+   "3455862472": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2719D"
+   ],
+   "3531208267": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2719D Monitor 27“"
+   ],
+   "3533939578": [
+    119.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell UltraSharp U2719D 27 Zoll QHD IPS"
+   ],
+   "3540866668": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell u2719d 27 Zoll QHD Monitor 2.560 x 1.440 IPS mit USB HUB"
+   ]
+  },
   "Dell UltraSharp U2722D": {
    "3502886245": [
     350.0,
@@ -1621,6 +1745,12 @@
     "2026-10-23",
     "2026-10-23",
     "HP EliteBook 840 G8, i5,16 Gb,14 Zoll. 1000 Nits, Privacy Display"
+   ],
+   "3549765116": [
+    289.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Elitebook 840 G8 , Intel Core i5 - 1145G7  16GB/256GB SSD"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -1773,6 +1903,12 @@
     "2026-10-23",
     "2026-10-23",
     "2x SK Hynix DDR4 SO-DIMM RAM 16GB + 8GB 3200MHz"
+   ],
+   "3549789769": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "16 GB DDR4-3200 SO-DIMM RAM CL22 – Notebook / Mini-PC"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -2360,7 +2496,284 @@
     "Intel core i7 14700k"
    ]
   },
-  "Keychron Tastatur": {},
+  "Keychron Tastatur": {
+   "3543727692": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 Mechanische Tastatur (wie neu)"
+   ],
+   "3543760212": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Tastatur Keychron K2 QWERTY, Tactile Switches"
+   ],
+   "3543828936": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron V4 mechanische Tastatur QWERTZ"
+   ],
+   "3543913612": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron v1 knob"
+   ],
+   "3544139729": [
+    115.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron Q2 Max QMK/VIA Wireless Mechanische Tastatur ISO Layout"
+   ],
+   "3544358054": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K6 RGB Mechanische Tastatur + Holz-Handballenauflage"
+   ],
+   "3544572073": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 - Mechanische Tastatur"
+   ],
+   "3544574176": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 mechanische Tastatur, Gateron Brown, QWERTZ Bluetooth"
+   ],
+   "3544576254": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K7 Pro mechanische Tastatur Brown Switch"
+   ],
+   "3544610019": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 mechanische Tastatur - Brown Switches"
+   ],
+   "3544684282": [
+    95.0,
+    "2026-10-23",
+    "2026-10-23",
+    "(OVP) Keychron K3 - mechanische Tastatur QWERTZ"
+   ],
+   "3544918052": [
+    119.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K4 V3 Wireless Mechanische Tastatur – UK Layout – OVP"
+   ],
+   "3544918264": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron Q1 Pro ISO-DE Silber"
+   ],
+   "3545004332": [
+    58.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K1 Bluetooth Mechanische Tastatur US Layout Brown Keys"
+   ],
+   "3545049224": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K8 - Tastaur"
+   ],
+   "3545180226": [
+    85.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 Max Mechanische Tastatur mit Tasche"
+   ],
+   "3545573617": [
+    90.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K10 Max Mechanische Tastatur, Banana Switches, neuwertig"
+   ],
+   "3545757727": [
+    159.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 HE Concrete Edition Magnetische 75% Tastatur"
+   ],
+   "3545783254": [
+    118.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 Kabellose Mechanische Tastatur (ISO-DE) - Version 2"
+   ],
+   "3545898574": [
+    69.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K8 Pro (ISO-DE & Gateron Red) - Top Zustand & Zubehör"
+   ],
+   "3545905211": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychrone k3 V2 Low-Profile, red switches, UK-Layout"
+   ],
+   "3546185889": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K3 Tastatur Low Profile"
+   ],
+   "3546262002": [
+    109.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K5 Max Ultra-Slim (brauner Switch) inkl. Silikonauflage"
+   ],
+   "3546264535": [
+    109.0,
+    "2026-10-23",
+    "2026-10-23",
+    "KEYCHRON K10 HE mit magnetischen Schaltern"
+   ],
+   "3546601241": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K8 C3 ISO-Layout Deutsch (Apple Keys)"
+   ],
+   "3546687615": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K4 V2 Mechanical Keyboard Backlight Red Switches"
+   ],
+   "3546882418": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 Pro Mechanische Tastatur, Black Switches"
+   ],
+   "3546885880": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron Q3 Pro TKL Mechanische Tastatur ISO Brown Switches"
+   ],
+   "3546988311": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K8-A3 Wireless Keyboard Gateron G Pro Mechanical Brown"
+   ],
+   "3547103465": [
+    45.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K3 V2 RGB Tastatur Mechanisch 75% - US, Brown Low Profil"
+   ],
+   "3547162007": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K6 mechanische Tastatur, QWERTY, braune Switches"
+   ],
+   "3547209645": [
+    95.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron V3 QMK/VIA Custom Tastatur - Knob Version - Neuwertig"
+   ],
+   "3547523526": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron Q2 Knob, Mechanische Tastatur, Weiss, ANSI"
+   ],
+   "3547744438": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron V1 Max Mechanische Gaming Tastatur Modded US QWERTY"
+   ],
+   "3547747830": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K1 Pro Low Profile Tastatur, QWERTY, rote Switches"
+   ],
+   "3547825843": [
+    79.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K8 Pro Deutsch Gateron Red"
+   ],
+   "3547917359": [
+    180.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Custom Mechanical Keyboard | Keychron Q2 Pro 65% ISO"
+   ],
+   "3547926377": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 Pro Wireless Keyboard"
+   ],
+   "3547997158": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron Q1 (ANSI) Space Grey / Gateron Mochi Switch / Hand-Lubed"
+   ],
+   "3548287100": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K3 Ultra-schlanke mechanische wireless Tastatur"
+   ],
+   "3548831478": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K17 Pro Wireless Mechanische Tastatur"
+   ],
+   "3549158399": [
+    89.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K1 Pro - gelubed und gedämmt - wie neu-"
+   ],
+   "3549178722": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron Q1 QMK V2 ANSI Layout - Neuwertig"
+   ],
+   "3549239724": [
+    45.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K7 Mechanische Tastatur"
+   ],
+   "3549241778": [
+    45.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K7 Kompakte mechanische Tastatur"
+   ],
+   "3549366559": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K1 V3 Mechanische Tastatur – Wireless, RGB, Full-Size"
+   ]
+  },
   "Konvolut Business-Laptops": {},
   "Konvolut RAM DDR4/DDR5": {},
   "Konvolut SSD/Festplatten": {},
@@ -2525,7 +2938,110 @@
     "Lenovo thinkcentre m920q i5 Vpro ,mini pc super Zustand"
    ]
   },
-  "Lenovo ThinkVision P27h": {},
+  "Lenovo ThinkVision P27h": {
+   "2831523417": [
+    165.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Monitor 27\" Zoll (68,58 cm) 2K ( WQHD) Lenovo ThinkVision P27H-10"
+   ],
+   "2926583767": [
+    325.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ThinkVision P27h-28 Flat Panel Monitor NEU original verpackt"
+   ],
+   "3359283875": [
+    190.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-30 68,6 cm (27 Zoll)"
+   ],
+   "3433009962": [
+    190.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-30 68,6 cm (27 Zoll)"
+   ],
+   "3469690208": [
+    235.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-20 - LED Monitor"
+   ],
+   "3482101504": [
+    175.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-30 27\" QHD USB-C Monitor"
+   ],
+   "3503133281": [
+    205.0,
+    "2026-10-23",
+    "2026-10-23",
+    "(Neu) Lenovo ThinkVision P27h-28 Monitor 27 Zoll WQHD 2560x1440"
+   ],
+   "3519923326": [
+    190.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-20 Monitor"
+   ],
+   "3519924303": [
+    190.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-20 Monitor"
+   ],
+   "3522007885": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Thinkvision P27h-20 rotierender Monitor"
+   ],
+   "3527799358": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-20 – 27Zoll QHD-Monitor, USB-C, OVP"
+   ],
+   "3528563431": [
+    95.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-10 - 27 Zoll WQHD Monitor schwarz"
+   ],
+   "3533877504": [
+    240.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Thinkvision p27h-20 zu verkaufen"
+   ],
+   "3536985905": [
+    300.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-30 27 Zoll USB-C Docking Büro Monitor"
+   ],
+   "3541237225": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-10 Monitor"
+   ],
+   "3549040381": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkVision P27h-20 27 Zoll QHD Monitor Lautsprecher OVP"
+   ],
+   "3549258909": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "PC Bildschirm Lenovo ThinkVision P27h-30"
+   ]
+  },
   "Lenovo Thunderbolt 4 Dock": {
    "3386773760": [
     170.0,
@@ -3101,7 +3617,7 @@
     "Apple MacBook Air 13,3\" / M1 Chip - 256GB SSD / 8GB / Garantie"
    ],
    "3549488145": [
-    550.0,
+    500.0,
     "2026-10-23",
     "2026-10-23",
     "Macbook Air M1 256GB 8GB RAM in OVP Grau"
@@ -3179,6 +3695,12 @@
     "2026-10-22",
     "2026-10-22",
     "Apple MacBook Air m2 13,6\" - 16gb RAM - 1TB SSD"
+   ],
+   "3536984741": [
+    800.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air 2023 15” M2"
    ],
    "3541071019": [
     600.0,
@@ -3587,12 +4109,30 @@
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air 13,6\" (2022) |M2 |96% Akku|8GB RAM |256GB SSD"
+   ],
+   "3549755786": [
+    630.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air M2 (2022) | 8GB RAM | 512GB SSD Top Zustand"
+   ],
+   "3549790050": [
+    629.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air 13,6\" M2 · 8 GB · 256 GB · Space Grau · Akku 90 %"
    ]
   },
   "Makita DHP485 Set": {},
   "Makita DTD153/172 Set": {},
   "Pinecil Lötkolben": {},
   "RTX 3060 12GB": {
+   "3499291371": [
+    284.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Inno3D RTX 3060 12GB Twin X2  ►Händler◄"
+   ],
    "3527671827": [
     280.0,
     "2026-10-21",
@@ -3871,6 +4411,12 @@
    ]
   },
   "RTX 3070": {
+   "3499310583": [
+    299.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Asus RTX 3070 8GB ROG Strix Gaming OC ►Händler◄"
+   ],
    "3545382213": [
     310.0,
     "2026-10-21",
@@ -3966,6 +4512,12 @@
     "2026-10-21",
     "2026-10-21",
     "Verkaufe RTX 3070 Asus Tuf OC Design"
+   ],
+   "3546663794": [
+    290.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Gigabyte Gforce RTX 3070"
    ],
    "3546768831": [
     290.0,
@@ -4200,6 +4752,12 @@
     "2026-10-23",
     "2026-10-23",
     "Palit Geforce RTX 3070 GamingPro wie Neu + Silizium-Lotterie"
+   ],
+   "3549770281": [
+    220.0,
+    "2026-10-23",
+    "2026-10-23",
+    "EVGA GeForce RTX 3070 FTW3 Ultra – 8GB GDDR6 (Top-Zustand)"
    ]
   },
   "RTX 3080": {
@@ -4848,6 +5406,12 @@
     "2026-10-23",
     "2026-10-23",
     "KFA2 GeForce RTX 4070 EX Gamer 12 GB GDDR6X – getestet"
+   ],
+   "3549776266": [
+    400.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Palit GeForce RTX 4070 12GB Grafikkarte"
    ]
   },
   "RTX 4070 Super": {
@@ -5310,6 +5874,12 @@
     "2026-10-23",
     "2026-10-23",
     "Zotac Gaming Geforce RTX 4080 Super Trinity Black Edition"
+   ],
+   "3549760400": [
+    660.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ASUS ROG Strix GeForce RTX 4080 16GB GDDR6X OC Edition"
    ]
   },
   "RX 6800 XT": {
@@ -6244,6 +6814,12 @@
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen 7 9800X3D CPU - AM5 - 4,7GHz - 8 Kerne"
+   ],
+   "3549698865": [
+    329.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen 7 9800X3D"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -6287,7 +6863,7 @@
     170.0,
     "2026-10-23",
     "2026-10-21",
-    "Samsung 970 EVO Plus 2TB NVMe SSD"
+    "2 TB Samsung 970 EVO Plus NVMe SSD"
    ],
    "3541068708": [
     200.0,
@@ -6608,6 +7184,12 @@
     "2026-10-23",
     "2026-10-23",
     "Samsung 990 Pro mit Heatsink 2TB NVMe SSD - Neu & OVP"
+   ],
+   "3549789251": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Samsung 990 Pro Nvme M.2 SSD 2TB PCIe 4.0 PS5 Speicher Kühlkörper"
    ]
   },
   "Samsung PM983 1.92TB": {},
@@ -7224,11 +7806,17 @@
     "2026-10-23",
     "2026-10-23",
     "Shelly Smart Home Set: Plug S+Wall Switch WS1 +Steckdosen +Rahmen"
+   ],
+   "3549775290": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Shelly Plug S MTR Smarthome Steckdose 3 Gen"
    ]
   },
   "Siglent SDS1104X-E": {
    "3538986564": [
-    440.0,
+    460.0,
     "2026-10-23",
     "2026-10-23",
     "Siglent SDS 1104X-E Digitales Oszilloskop 100MHz, wie neu"
