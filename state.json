@@ -405,8 +405,8 @@
   "3549775290": "2026-10-23",
   "3549910593": "2026-10-23"
  },
- "laeufe": 228,
- "letzter_lauf": "2026-10-23T19:51:48",
+ "laeufe": 229,
+ "letzter_lauf": "2026-10-23T20:58:39",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -691,6 +691,12 @@
     "2026-10-23",
     "2026-10-23",
     "Arduino Starter-Kit mit Projektbuch und Zubehör"
+   ],
+   "3549810637": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arduino The Most Complete Starter Kit UNO R3 Project"
    ]
   },
   "Bosch GBH 18V-26": {},
@@ -785,6 +791,12 @@
     "2026-10-23",
     "2026-10-23",
     "Bose QuietComfort Headphones - Noise Cancelling - OVP"
+   ],
+   "3549821487": [
+    290.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Bose QuietComfort Ultra 2 - Neu & OVP"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -1290,6 +1302,18 @@
     "2026-10-23",
     "2026-10-23",
     "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL48 | NEU & OVP"
+   ],
+   "3549952177": [
+    440.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Corsari Vengeance DDR5 32GB (2x16 GB) 6000MHz"
+   ],
+   "3549953686": [
+    300.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz CL30"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1601,7 +1625,152 @@
     "Dell U2723QE Monitor 27 Zoll"
    ]
   },
-  "Dell WD19TB/WD22TB4": {},
+  "Dell WD19TB/WD22TB4": {
+   "3116688559": [
+    90.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Thunderbolt Dockingstation Top Zustand"
+   ],
+   "3152814126": [
+    95.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB  Thunderbolt 3 Docking Station"
+   ],
+   "3386265009": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Thunderbolt Dock - WD19TB Dockingstation inkl. 180W Netzteil"
+   ],
+   "3405589419": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Thunderbolt Dock mit Netzteil"
+   ],
+   "3447956867": [
+    130.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB / WD19DCS Thunderbolt Dock – Neu & OVP"
+   ],
+   "3456529963": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Thunderbolt 3 Dockingstation WD19TB 130W VESA 100 Halterung"
+   ],
+   "3491888823": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Dockingstation 180W"
+   ],
+   "3494806110": [
+    69.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Thunderbolt Dockingstation inkl. 180W Netzteil"
+   ],
+   "3502366321": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Docking Station WD19TB Thunderbolt"
+   ],
+   "3510885261": [
+    98.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Thunderbolt Dock - WD19TB"
+   ],
+   "3519808229": [
+    141.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Thunderbolt Dock WD19TB 180W, DELL-WD19TB (180W) NEU"
+   ],
+   "3522773832": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Thunderbolt Dockingstation"
+   ],
+   "3524609223": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Dockingstation Thunderbolt/HDMI/D-Port/180W NT"
+   ],
+   "3527356254": [
+    79.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Thunderbolt Dockingstation inkl. 180W Netzteil"
+   ],
+   "3529593519": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Thunderbolt Dock WD19TB 180W, DELL-WD19TB (180W)"
+   ],
+   "3536829124": [
+    90.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Docking Station WD19TB inklusive Netzteil"
+   ],
+   "3537452545": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "DELL Dockingstation WD19TBs oder WD19TB Dock"
+   ],
+   "3537777075": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dockingstation Dell WD19TB"
+   ],
+   "3538240589": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Dockingstation inkl. 180W Netzteil"
+   ],
+   "3545798629": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Thunderbolt Docking Station WD19TB / K20A + 180W Netzteil"
+   ],
+   "3546402676": [
+    78.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Thunderbolt Dockingstation mit 180W Netzteil"
+   ],
+   "3546432771": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell WD19TB Thunderbolt 3 Dockingstation – USB-C Dock"
+   ],
+   "3547591518": [
+    42.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Dockingstation WD19TB Thunderbolt 3"
+   ],
+   "3549611589": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Dockingstation WD19TB Thunderbolt mit 180W Netzteil"
+   ]
+  },
   "EliteBook 840 G8": {
    "2627364366": [
     435.0,
@@ -2739,7 +2908,7 @@
     "Keychron K2 Pro Wireless Keyboard"
    ],
    "3547997158": [
-    160.0,
+    120.0,
     "2026-10-23",
     "2026-10-23",
     "Keychron Q1 (ANSI) Space Grey / Gateron Mochi Switch / Hand-Lubed"
@@ -2785,6 +2954,12 @@
     "2026-10-23",
     "2026-10-23",
     "Keychron K1 V3 Mechanische Tastatur – Wireless, RGB, Full-Size"
+   ],
+   "3549859321": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Keychron K2 wireless Gaming Tastatur"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -3280,9 +3455,280 @@
     "2026-10-23",
     "2026-10-23",
     "LENOVO ThinkPad Thunderbolt 4 Dock 40B0 mit USB-C Netzteil 135 W"
+   ],
+   "3549920255": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ThinkPad Universal Thunderbolt 4 Dock Docking Station Lenovo"
    ]
   },
-  "Lenovo USB-C Dock Gen 2": {},
+  "Lenovo USB-C Dock Gen 2": {
+   "3264313296": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo USB-C Travel hub GEN 2 Dock adapter NEU | L0HC451"
+   ],
+   "3390859559": [
+    79.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Produktname: ThinkPad USB-C Dock Gen 2"
+   ],
+   "3496162105": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2"
+   ],
+   "3498305339": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "LENOVO 40AS0090EU THINKPAD USB-C DOCK GEN2 Dockingstation"
+   ],
+   "3503828437": [
+    39.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (40AS)"
+   ],
+   "3507963683": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 90W Docking Station für Lenovo m"
+   ],
+   "3509905108": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "LENOVO THINKPAD USB-C DOCK GEN2 LDC-G2 USB HDMI DISPLAY PORTS"
+   ],
+   "3510234205": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2"
+   ],
+   "3511911914": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo thinkpad usb-c Dock Gen2"
+   ],
+   "3513033610": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (Modell 40AS)"
+   ],
+   "3513676154": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (Typ 40AS)"
+   ],
+   "3515892231": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) mit 90W Netzteil"
+   ],
+   "3515894151": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen2 mit 90W Netzteil (Type 40AS)"
+   ],
+   "3517219716": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 Dockingstation – Sehr guter Zust"
+   ],
+   "3517358642": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2"
+   ],
+   "3518251091": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "lenovo think pad usb-c dock gen 2"
+   ],
+   "3518819254": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen2 90W Dock 40AS0090EU NEU"
+   ],
+   "3518847260": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2"
+   ],
+   "3519544021": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 40AS + Netzteil"
+   ],
+   "3519723549": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ThingPad USB-C Dock Gen2 Dockingstation (Lenovo)"
+   ],
+   "3521181451": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 90W Docking Station für Lenovo m"
+   ],
+   "3521540230": [
+    99.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (40AS0090)"
+   ],
+   "3522263871": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 – 40AS0090EU – neuwertig"
+   ],
+   "3523018651": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 – Typ 40AS"
+   ],
+   "3524123888": [
+    49.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo  USB C Dock Gen2"
+   ],
+   "3524795182": [
+    69.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Dockingstation Gen 2 – Modell 40AS"
+   ],
+   "3525836179": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (40 AS) - Neuwertig"
+   ],
+   "3528596756": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 40AS0090EU – NEU OVP versiegelt"
+   ],
+   "3529709431": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 * Type: 40AS"
+   ],
+   "3530793648": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen2 (Type 40AS)"
+   ],
+   "3531775488": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo thinkpad usb-c Dock gen2"
+   ],
+   "3534131709": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 40AS – NEU/UNBENUTZT – OVP"
+   ],
+   "3539275603": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen2 40AS"
+   ],
+   "3539433451": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo USB-C Dock Gen 2 (Modell 40AS) Dockingstation"
+   ],
+   "3540248757": [
+    140.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2"
+   ],
+   "3540504364": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Universal USB-C Dock Gen2 mit OVP"
+   ],
+   "3540740966": [
+    45.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) Dockingstation Docking"
+   ],
+   "3541938398": [
+    79.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 mit 90W Netzteil"
+   ],
+   "3543250699": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "lenovo Thinkpad usb c Dock  gen 2"
+   ],
+   "3544258273": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (Typ 40AS) ohne USB-C Kabel"
+   ],
+   "3545399525": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell P2719H 27-Zoll-Monitor + Lenovo USB-C Dock Gen 2 – Set"
+   ],
+   "3546654733": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Thinkpad USB-C Dock Gen 2"
+   ],
+   "3549547617": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen 2 – Modell 40A9 Top Zustand"
+   ],
+   "3549806221": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad USB-C Dock Gen2 LDC-G2 40AS Laptop Dockingstation"
+   ]
+  },
   "MacBook Air M1": {
    "3515090478": [
     479.0,
@@ -4592,6 +5038,12 @@
     "2026-10-23",
     "2026-10-23",
     "Gigabyte GeForce RTX 3060 EAGLE OC 12GB (Rev. 2.0) - Top Zustand"
+   ],
+   "3549836289": [
+    310.0,
+    "2026-10-23",
+    "2026-10-23",
+    "GeForce RTX 3060 12GB"
    ]
   },
   "RTX 3070": {
@@ -5268,6 +5720,12 @@
     "2026-10-23",
     "2026-10-23",
     "Grafikkarte ASUS TUF Gaming GeForce RTX 3080 10GB GDDR6X"
+   ],
+   "3549957092": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Zotac Gaming GeForce RTX 3080 Grafikkarte 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -6112,6 +6570,18 @@
     "2026-10-23",
     "2026-10-23",
     "Nvidea GeForce Rtx MSI 4080 Super Gaming X Slim 16 Gb"
+   ],
+   "3549954691": [
+    1100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Asus Rog Strix RTX 4080"
+   ],
+   "3549957088": [
+    900.0,
+    "2026-10-23",
+    "2026-10-23",
+    "RTX 4080 Gainward Phantom GS"
    ]
   },
   "RX 6800 XT": {
@@ -6164,7 +6634,7 @@
     "AMD Radeon RX 6800 XT SE Gaming OC 16GB GDDR6"
    ],
    "3518500656": [
-    500.0,
+    450.0,
     "2026-10-23",
     "2026-10-21",
     "ASRock Taichi RX 6800 XT 16GB"
@@ -6720,10 +7190,23 @@
     "2026-10-23",
     "2026-10-23",
     "Raspberry Pi 5 8GB"
+   ],
+   "3549966642": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Raspberry Pi 5 8GB, ARM Cortex-A76, 2,4GHz Desktop PC"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
-  "Rigol DS1054Z Oszilloskop": {},
+  "Rigol DS1054Z Oszilloskop": {
+   "3548059763": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Rigol DS1054Z"
+   ]
+  },
   "Ryzen 7 5800X3D": {
    "3514071876": [
     320.0,
@@ -6804,10 +7287,16 @@
     "AMD Ryzen 7 5800X3D 10th Anniversary Edition – Neu & ungeöffnet"
    ],
    "3549916035": [
-    320.0,
+    250.0,
     "2026-10-23",
     "2026-10-23",
     "Ryzen 7 5800x3d, AMD CPU, Festpreis"
+   ],
+   "3549944678": [
+    190.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen7 5800X3D"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -7094,6 +7583,12 @@
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen 7 9800X3D"
+   ],
+   "3549952649": [
+    330.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen 7 9800X3D 8-Core AM5 Gaming Prozessor 3D V-Cache"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -8320,7 +8815,7 @@
     "Sony WH-1000XM5 Over-Ear Kopfhörer Noise Cancelling schwarz"
    ],
    "3548969043": [
-    160.0,
+    140.0,
     "2026-10-23",
     "2026-10-23",
     "Sony WH-1000XM5 – Premium Bluetooth-Kopfhörer zu verkaufen"
@@ -8366,6 +8861,12 @@
     "2026-10-23",
     "2026-10-23",
     "Sony Wh 1000 XM5 Kopfhörer"
+   ],
+   "3549880524": [
+    140.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5 Premium Noise Cancelling Kopfhörer"
    ]
   },
   "Synology DS220+": {
