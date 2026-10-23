@@ -391,8 +391,8 @@
   "3549137600": "2026-10-23",
   "3549164880": "2026-10-23"
  },
- "laeufe": 216,
- "letzter_lauf": "2026-10-23T08:02:13",
+ "laeufe": 217,
+ "letzter_lauf": "2026-10-23T08:58:49",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {},
@@ -739,6 +739,12 @@
     "2026-10-23",
     "2026-10-23",
     "Corsair Dominator Titanium RGB 32GB DDR5-6000 CL30"
+   ],
+   "3549185518": [
+    410.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Crucial Pro DDR5 (32GB / 6000MHZ)"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1072,6 +1078,12 @@
     "2026-10-22",
     "2026-10-22",
     "!TOP! HP Elitebook 840 G8, i5 1146 G7, 16 GB, 256GB"
+   ],
+   "3549149706": [
+    299.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP EliteBook 840 G8, i5,16 Gb,14 Zoll. 1000 Nits, Privacy Display"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -1334,6 +1346,12 @@
     "2026-10-23",
     "2026-10-23",
     "Neu Arbeitsspeicher Mushkin Redline 32GB 2x16GB DDR4-3200 SODIMM"
+   ],
+   "3549224730": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "KIT DDR4 Samsung 32GB(2X 16GB)3200MHz SODIMM"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -1495,7 +1513,80 @@
   "Konvolut Business-Laptops": {},
   "Konvolut RAM DDR4/DDR5": {},
   "Konvolut SSD/Festplatten": {},
-  "Labornetzteil 30V 5A": {},
+  "Labornetzteil 30V 5A": {
+   "3272312102": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Trafo Labornetzteil Korad KD3005D 0-30V, 0-5A begrenzbar"
+   ],
+   "3300484697": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Statron DDR Labornetzteil Typ 32211 Gleichspannung max 30V / 1,5A"
+   ],
+   "3349279070": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MC Power LAB3005 Labornetzteil regelbar 30V / 5A Top wie neu"
+   ],
+   "3404499486": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Labornetzteil voltcraft 30V 2,5A"
+   ],
+   "3495285552": [
+    25.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Labornetzteil Veltron 30V/ 1,5A"
+   ],
+   "3497773576": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Labornetzteil Toellner TOE 8031-7 30 V / 5 A"
+   ],
+   "3501776446": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Labornetzteil Gleichspannungsregler 2x30V/1,5A 3222 + Schaltplan"
+   ],
+   "3531556730": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Voltcraft Labornetzteil 0-30V , 0-2,5A ca. 1980"
+   ],
+   "3533389618": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Voltcraft TNG 35 Labornetzteil / Netzgerät (0-30V / 2.5A)"
+   ],
+   "3540047778": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Voltcraft Labornetzteil 0-30V, 0-2,5A"
+   ],
+   "3546799930": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Labornetzteil QJ3005T 0–30V / 0–5A mit Handy-Reparaturkabel"
+   ],
+   "3547993967": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "STATRON TYP3222 Labornetzteil 2 Kanal 0-30V 0-1,5A"
+   ]
+  },
   "Latitude ohne SSD": {},
   "Lenovo ThinkCentre M920q": {
    "2821911947": [
@@ -2272,6 +2363,12 @@
     "2026-10-23",
     "2026-10-23",
     "13,6 MacBook Air mit Apple M2 Chip"
+   ],
+   "3549193473": [
+    799.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2 2022 | 16 GB RAM | 512 GB SSD | OVP"
    ]
   },
   "Makita DHP485 Set": {},
@@ -3061,6 +3158,18 @@
     "2026-10-23",
     "2026-10-23",
     "Gigabyte GeForce RTX 3080 10gb Grafikkarte"
+   ],
+   "3549192470": [
+    400.0,
+    "2026-10-23",
+    "2026-10-23",
+    "GeForce RTX 3080 10GB Grafikkarte"
+   ],
+   "3549221688": [
+    420.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -3138,7 +3247,7 @@
    ],
    "3527501027": [
     350.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-21",
     "Gigabyte GeForce RTX 4060 Ti AERO OC 8 GB – sehr guter Zustand"
    ],
@@ -3377,6 +3486,12 @@
     "2026-10-23",
     "2026-10-23",
     "MSI GeForce RTX 4070 Ventus 12GB Grafikkarte"
+   ],
+   "3549204371": [
+    550.0,
+    "2026-10-23",
+    "2026-10-23",
+    "KFA2 GeForce RTX 4070 EX Gamer 12 GB GDDR6X – getestet"
    ]
   },
   "RTX 4070 Super": {
@@ -3874,7 +3989,7 @@
    ],
    "3518500656": [
     500.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-21",
     "ASRock Taichi RX 6800 XT 16GB"
    ],
@@ -4172,49 +4287,49 @@
   "Raspberry Pi 5 16GB": {
    "3497595908": [
     299.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 16GB, 128GB SD Karte, Gehäuse + weiteres Zubehör"
    ],
    "3528612489": [
     299.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 16gb"
    ],
    "3530088665": [
     319.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 – 16 GB RAM – DeskPi Lite + Zubehör – getestet"
    ],
    "3533187268": [
     285.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 16GB Kit mit Zubehör, Netzteil & WiFi"
    ],
    "3533660025": [
     290.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 Set 16 GB | ❗Mit Gratis Versand ❗"
    ],
    "3543566727": [
     350.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 (16GB RAM) inkl. Gehäuse, Netzteil und AI Camera"
    ],
    "3544984544": [
     275.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry PI 5 16GB Model B Rev 1.1 + Case + Kühler + Netzteil"
    ],
    "3545343946": [
     330.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 Starterkit 16GB RAM"
    ],
@@ -4252,25 +4367,25 @@
    ],
    "3519347332": [
     149.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 8GB RAM mit Gehäuse, Lüfter und Kühlkörper"
    ],
    "3524509090": [
     175.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 8GB + 52Pi N16 Quad NVMe"
    ],
    "3528613819": [
     179.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "raspberry pi 5 8gb wasserkühlung"
    ],
    "3529857470": [
     200.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 8GB + Argon NEO 5 M.2 NVMe PCIe Case"
    ],
@@ -4282,15 +4397,21 @@
    ],
    "3536993251": [
     180.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 8GB + Gehäuse, Active Cooler, Netzteil & 128GB SD"
    ],
    "3539185309": [
     199.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "GeeekPi Starter Kit Raspberry Pi 5 8GB RAM Neu & OVP"
+   ],
+   "3543752130": [
+    155.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Raspberry Pi5 8GB Neu und versiegelt"
    ],
    "3544041579": [
     199.0,
@@ -4300,7 +4421,7 @@
    ],
    "3544245293": [
     180.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 (8 GB RAM) + 128 GB SD-Karte + Original Zubehör"
    ],
@@ -4312,31 +4433,31 @@
    ],
    "3544884946": [
     180.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 8GB RAM - Neu & OVP"
    ],
    "3545918432": [
-    190.0,
-    "2026-10-22",
+    180.0,
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 8GB RAM Set mit 27W Netzteil & Speicherkarte"
    ],
    "3546322230": [
     150.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi5 8GB Neu versiegelte OVP"
    ],
    "3546529414": [
     190.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 (8GB RAM) mit Gehäuse und Netzteil"
    ],
    "3546850057": [
-    219.0,
-    "2026-10-22",
+    195.0,
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 8GB Set inkl. 27W Netzteil & GeeekPi Gehäuse"
    ],
@@ -4348,7 +4469,7 @@
    ],
    "3547708153": [
     209.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Raspberry Pi 5 8 GB + Waveshare POE M.2 HAT+ + Netzteil (original"
    ],
@@ -4357,6 +4478,36 @@
     "2026-10-22",
     "2026-10-22",
     "Raspberry Pi 5 – 8 GB RAM – BerryBase Starter Kit mit 128 GB SD"
+   ],
+   "3548245143": [
+    189.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Raspberry Pi 5 8GB Starter Kit Netzteil Gehäuse"
+   ],
+   "3548245996": [
+    179.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Raspberry Pi 5 8GB Starter Kit Netzteil"
+   ],
+   "3548246838": [
+    189.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Raspberry Pi 5 8GB Starter Kit + Netzteil + Gehäuse"
+   ],
+   "3548799660": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Raspberry Pi 5 8GB RAM, Netzteil Micro-HDMI zu HDMI, Gehäuse"
+   ],
+   "3549186455": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Raspberry Pi 5 8GB"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -5211,7 +5362,7 @@
     "Seagate Exos X20 18 TB Interne 3,5 Zoll Festplatte"
    ],
    "3544203420": [
-    600.0,
+    560.0,
     "2026-10-23",
     "2026-10-18",
     "Seagate Exos X18 18TB Festplatte"
@@ -5532,7 +5683,14 @@
    ]
   },
   "Shelly Plus Plug S": {},
-  "Siglent SDS1104X-E": {},
+  "Siglent SDS1104X-E": {
+   "3538986564": [
+    450.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Siglent SDS 1104X-E Digitales Oszilloskop 100MHz, wie neu"
+   ]
+  },
   "Sony WH-1000XM4/XM5": {},
   "Synology DS220+": {
    "3499704489": [
@@ -6276,7 +6434,224 @@
     "Weller WE1010 Digitale 1-Kanal-Lötstation 70 W mit WEP70"
    ]
   },
-  "Weller WTCP-S": {},
+  "Weller WTCP-S": {
+   "2634927123": [
+    95.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Lötstation WTCP 51"
+   ],
+   "2952233588": [
+    85.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Magnastat Lötstation 50W"
+   ],
+   "3067874334": [
+    79.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Profi Weller WTCP-S Lötstation Lötkolben Halter Magnastat"
+   ],
+   "3068259436": [
+    72.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Profi Weller WTCP-S Lötstation Lötkolben Halter Magnastat"
+   ],
+   "3096293908": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP-S Lötkolben"
+   ],
+   "3211051229": [
+    59.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Lötspitzen für WTCP Lötstation"
+   ],
+   "3280355990": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP-S Lötstaton"
+   ],
+   "3280975293": [
+    39.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Profi Weller WTCP-S Station Trafo Einheit ohne Lötkolben"
+   ],
+   "3280975618": [
+    44.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Profi Weller WTCP 51 Station Trafo Einheit ohne Lötkolben"
+   ],
+   "3301611455": [
+    109.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Profi Weller WTCP-S Lötstation Lötkolben Halter Magnastat"
+   ],
+   "3301633684": [
+    109.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Profi Weller WTCP 50 Lötstation Lötkolben Halter Magnastat"
+   ],
+   "3326303798": [
+    130.0,
+    "2026-10-23",
+    "2026-10-23",
+    "WELLER WTCP-S Lötstation in sauberen Zustand"
+   ],
+   "3326316689": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "WELLER WTCP-S Lötstation - Guter Zustand"
+   ],
+   "3329881661": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Lötkolben wtcp-5"
+   ],
+   "3375653476": [
+    85.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller 24V Niederspannungslötkolben für WTCP-S Lötstation neu"
+   ],
+   "3397556899": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Versorgungsteil PU-S für Lötkolben WTCP-S Baujahr 08 88 OK"
+   ],
+   "3403238078": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP 50 Profi Lötstation Magnastat mit Zubehör"
+   ],
+   "3410833342": [
+    95.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP S Lötstation"
+   ],
+   "3411496506": [
+    130.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP-S Lötstation – Top Zustand, kaum genutzt!"
+   ],
+   "3447538940": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP-S mit Lötkolben und Halterung"
+   ],
+   "3468660349": [
+    89.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Lötstation WTCP-50 +Weller Lötkolben +Stativ 4Spitzen"
+   ],
+   "3499901802": [
+    115.0,
+    "2026-10-23",
+    "2026-10-23",
+    "WELLER WTCP-S Lötstation - Ganz guter Zustand"
+   ],
+   "3515172337": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Magnastat-Lötstation Modell WTCP"
+   ],
+   "3516166303": [
+    85.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP-S Lötstation + TCP-S 24V Lötkolben,Halterung  Nr. A8"
+   ],
+   "3517864758": [
+    45.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP Magnastat Lötstation 24V 50W Lötkolben,  4 Spitzen"
+   ],
+   "3534683255": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Lötstation WTCP 50"
+   ],
+   "3538405914": [
+    79.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lötkolben Weller WTCP-S"
+   ],
+   "3542870508": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP-S Lötstation * funktionsfähig"
+   ],
+   "3543658726": [
+    95.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Magnastat Lötstation WTCP-S"
+   ],
+   "3543706957": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP-S Lötstation mit Lötkolben und Halterung"
+   ],
+   "3544525208": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Lötstation WTCP-S"
+   ],
+   "3545995689": [
+    125.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Lötstation WTCP-51, Magnastat Lötkolben, Zubehör"
+   ],
+   "3546300917": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP-S Netzteilmit Ablage"
+   ],
+   "3546783508": [
+    55.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Lötstation WTCP-S Magnastat  Lötkolben"
+   ],
+   "3547067523": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller Lötstation WTCP-S 50W 24V kaum benutzt mit OVP"
+   ],
+   "3548921513": [
+    30.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Weller WTCP-S Lötstation Lötkolben Lötzin"
+   ]
+  },
   "Zigbee-Stick": {}
  },
  "zustand": {
