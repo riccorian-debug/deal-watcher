@@ -391,8 +391,8 @@
   "3549137600": "2026-10-23",
   "3549164880": "2026-10-23"
  },
- "laeufe": 217,
- "letzter_lauf": "2026-10-23T08:58:49",
+ "laeufe": 218,
+ "letzter_lauf": "2026-10-23T09:57:42",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {},
@@ -1200,6 +1200,12 @@
     "2026-10-23",
     "2026-10-23",
     "Arbeitsspeicher Samsung DDR4 RAM 16GB 2rx8 PC4-3200AA SODIMM"
+   ],
+   "3549294874": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Crucial 16gb ddr4-3200 sodimm Laptop Arbeitsspeicher"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -1352,6 +1358,12 @@
     "2026-10-23",
     "2026-10-23",
     "KIT DDR4 Samsung 32GB(2X 16GB)3200MHz SODIMM"
+   ],
+   "3549250444": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Crucial 1x 32GB DDR4-3200 SODIMM CL22 RAM (CT32G4SFD832A)"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -1925,7 +1937,7 @@
     "Apple MacBook Air 13 Zoll M1 Chip 8GB RAM 256GB SSD"
    ],
    "3548630371": [
-    390.0,
+    380.0,
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air M1, 8GB RAM, 256GB SSD Spacegrey"
@@ -2037,6 +2049,12 @@
     "2026-10-23",
     "2026-10-23",
     "Festpreis  Apple MacBook Air 2020 M1 256GB Festpreis"
+   ],
+   "3549255619": [
+    450.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air (M1, 2020)"
    ]
   },
   "MacBook Air M2": {
@@ -2369,6 +2387,12 @@
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air M2 2022 | 16 GB RAM | 512 GB SSD | OVP"
+   ],
+   "3549248794": [
+    659.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2 | 13,6 Zoll | Akku 100% | Neuwertig"
    ]
   },
   "Makita DHP485 Set": {},
@@ -2916,6 +2940,12 @@
     "2026-10-23",
     "2026-10-23",
     "ASUS ROG Strix GeForce RTX 3070 OC 8GB GDDR6 Grafikkarte"
+   ],
+   "3549282306": [
+    320.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Nvidia Geforce RTX 3070 GPU Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -3154,7 +3184,7 @@
     "NVIDIA RTX 3080 Aorus Xtreme Grafikkarte"
    ],
    "3549175849": [
-    450.0,
+    430.0,
     "2026-10-23",
     "2026-10-23",
     "Gigabyte GeForce RTX 3080 10gb Grafikkarte"
@@ -3376,6 +3406,12 @@
     "2026-10-23",
     "2026-10-23",
     "MSI GeForce RTX 4060 Ti Ventus 2X Black 8G OC"
+   ],
+   "3549286337": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "RTX 4060 TI 16GB"
    ]
   },
   "RTX 4070": {
@@ -3614,6 +3650,12 @@
     "2026-10-23",
     "2026-10-23",
     "Grafikkarte in Weiß RTX 4070 SUPER  12 GB GIGABYTE AERO"
+   ],
+   "3549272350": [
+    650.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ASUS RTX 4070 Super"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -4282,6 +4324,18 @@
     "2026-10-23",
     "2026-10-23",
     "Sapphire Nitro+ AMD Radeon RX 7800 XT"
+   ],
+   "3549276153": [
+    475.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Radeon RX 7800 XT Hellhound Spectral White"
+   ],
+   "3549293940": [
+    460.0,
+    "2026-10-23",
+    "2026-10-23",
+    "16GB PowerColor Radeon RX 7800 XT Hellhound"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -5496,6 +5550,12 @@
     "2026-10-23",
     "2026-10-23",
     "Seagate IronWolf 12TB NAS HDD 7200 RPM SMART geprüft"
+   ],
+   "3549295034": [
+    355.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Seagate IronWolf 12TB NAS HDD 7200 RPM SMART geprüft"
    ]
   },
   "Seagate IronWolf 4TB": {
@@ -6138,6 +6198,12 @@
     "2026-10-23",
     "2026-10-23",
     "Lenovo ThinkPad X1 Carbon Gen 10 i7-1255U / 16 GB / 512 GB SSD"
+   ],
+   "3549279533": [
+    650.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo X1 Carbon Gen 10 i7 512GB NVMe DDR5 32GB LTE TOUCH-DISPLAY"
    ]
   },
   "ThinkPad X1 Carbon Gen 9": {
