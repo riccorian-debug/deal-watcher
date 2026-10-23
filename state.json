@@ -404,8 +404,8 @@
   "3549760400": "2026-10-23",
   "3549775290": "2026-10-23"
  },
- "laeufe": 225,
- "letzter_lauf": "2026-10-23T16:59:54",
+ "laeufe": 226,
+ "letzter_lauf": "2026-10-23T17:53:57",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1277,6 +1277,12 @@
     "2026-10-23",
     "2026-10-23",
     "Corsair Vengeance DDR5, 32GB 2x16GB, CMH32GX5M2B6000C40W"
+   ],
+   "3549806342": [
+    420.0,
+    "2026-10-23",
+    "2026-10-23",
+    "G.Skill [SERIE] 32 GB Kit (2x16 GB) DDR5-6000 CL36 – F5-6000J3636"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2356,7 +2362,7 @@
     "HP thunderbolt G4 dock 280W + Netzteil OvP neu"
    ],
    "3546973139": [
-    100.0,
+    90.0,
     "2026-10-23",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 – Dockingstation"
@@ -2774,9 +2780,96 @@
     "Keychron K1 V3 Mechanische Tastatur – Wireless, RGB, Full-Size"
    ]
   },
-  "Konvolut Business-Laptops": {},
-  "Konvolut RAM DDR4/DDR5": {},
-  "Konvolut SSD/Festplatten": {},
+  "Konvolut Business-Laptops": {
+   "3514436959": [
+    190.0,
+    "2026-10-23",
+    "2026-10-23",
+    "7x Lenovo ThinkPad Konvolut – T60, T61, T400, X220, W520 + Kabel"
+   ],
+   "3535661190": [
+    72.0,
+    "2026-10-23",
+    "2026-10-23",
+    "9x Lenovo ThinkPad Dockingstationen – Laptop Docks Konvolut"
+   ],
+   "3537011908": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Akku Konvolut viele verschiedene Modelle"
+   ],
+   "3539596065": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Laptop-Netzteile / Ladegeräte mit Kabeln – Konvolut"
+   ],
+   "3544895054": [
+    300.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad L15 E15 L13 Konvolut"
+   ],
+   "3546675154": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Konvolut 2x Laptop T410; Dock; DVD; Mainboard"
+   ],
+   "3547830623": [
+    199.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Retro Vintage ⭐ Notebook Konvolut ⭐ IBM Thinkpad 386"
+   ],
+   "3549502165": [
+    295.0,
+    "2026-10-23",
+    "2026-10-23",
+    "95x Laptoptastaturen Dell Acer Lenovo Notebook keyboard Konvolut"
+   ]
+  },
+  "Konvolut RAM DDR4/DDR5": {
+   "3411403880": [
+    10.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ADATA 2GB SODIMM DDR4 2400 RAM Arbeitsspeicher Riegel Konvolut"
+   ],
+   "3481674065": [
+    53.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Konvolut  6x 16GB DDR4 RDIMM UDIMM LRDIMM server speicher"
+   ],
+   "3545685230": [
+    35.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Konvolut  RAM Arbeitsspeicher Module DDR3 DDR4"
+   ]
+  },
+  "Konvolut SSD/Festplatten": {
+   "2392961056": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "SATA III Kabel Konvolut intern HDD SSD Datenkabel gerade - winkel"
+   ],
+   "3511898548": [
+    40.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Konvolut RAM & SSD (2x 8GB DDR3L, 240GB M.2 SSD uvm.)"
+   ],
+   "3547865496": [
+    20.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Großes Konvolut an SSD Festplatten 2,5 Zoll"
+   ]
+  },
   "Labornetzteil 30V 5A": {
    "3272312102": [
     70.0,
@@ -2926,13 +3019,13 @@
     "✅ Lenovo ThinkCentre M920q| 8/16 RAM| 256/512 SSD| i7-8"
    ],
    "3543765417": [
-    320.0,
+    310.0,
     "2026-10-23",
     "2026-10-22",
     "Lenovo M920q i7-8700T 6C/12T , 16GB RAM , Win 11 Pro, 230w, riser"
    ],
    "3549598656": [
-    115.0,
+    125.0,
     "2026-10-23",
     "2026-10-23",
     "Lenovo thinkcentre m920q i5 Vpro ,mini pc super Zustand"
@@ -3687,6 +3780,18 @@
     "2026-10-23",
     "2026-10-23",
     "Apple, MacBook Air 13\" M1 2020- 8GB RAM 256 GB SSD Gold"
+   ],
+   "3549797861": [
+    450.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 13\" M1 | 8 GB | 256 GB | Space Grau | inkl. OVP"
+   ],
+   "3549828144": [
+    490.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 2020, 13“, 8 GB RAM, 256 GB SSD, Top Zustand"
    ]
   },
   "MacBook Air M2": {
@@ -4105,7 +4210,7 @@
     "MacBook Air 13“ (2022) A2681 | Apple M2 | 8 GB | 256 GB | Mitter"
    ],
    "3549710418": [
-    699.0,
+    599.0,
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air 13,6\" (2022) |M2 |96% Akku|8GB RAM |256GB SSD"
@@ -4121,6 +4226,30 @@
     "2026-10-23",
     "2026-10-23",
     "MacBook Air 13,6\" M2 · 8 GB · 256 GB · Space Grau · Akku 90 %"
+   ],
+   "3549811885": [
+    749.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2 13,6 Zoll 8GB RAM 256GB SSD – Top Zustand"
+   ],
+   "3549825936": [
+    550.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 15″ (M2) – Akku 91 %"
+   ],
+   "3549827394": [
+    800.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2 13,6 Zoll 16GB"
+   ],
+   "3549832386": [
+    720.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2 (2022) | 13 Zoll | 256 GB SSD | Top Zustand"
    ]
   },
   "Makita DHP485 Set": {},
@@ -4408,6 +4537,12 @@
     "2026-10-23",
     "2026-10-23",
     "Nvidia RTX 3060 Ventus 2x 12GB OC"
+   ],
+   "3549815974": [
+    260.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Gigabyte GeForce RTX 3060 EAGLE OC 12GB (Rev. 2.0) - Top Zustand"
    ]
   },
   "RTX 3070": {
@@ -4758,6 +4893,12 @@
     "2026-10-23",
     "2026-10-23",
     "EVGA GeForce RTX 3070 FTW3 Ultra – 8GB GDDR6 (Top-Zustand)"
+   ],
+   "3549796788": [
+    430.0,
+    "2026-10-23",
+    "2026-10-23",
+    "NVIDIA RTX 3070 MSI Ventus 2x OC"
    ]
   },
   "RTX 3080": {
@@ -5060,6 +5201,18 @@
     "2026-10-23",
     "2026-10-23",
     "ASUS ROG Strix RTX 3080 OC White Edition 10GB – OVP"
+   ],
+   "3549816896": [
+    399.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MSI GeForce RTX 3080 Suprim X Grafikkarte"
+   ],
+   "3549829965": [
+    220.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Grafikkarte ASUS TUF Gaming GeForce RTX 3080 10GB GDDR6X"
    ]
   },
   "RTX 4060 Ti": {
@@ -5540,6 +5693,12 @@
     "2026-10-23",
     "2026-10-23",
     "ASUS RTX 4070 Super + Netzteil 850 Watt MSI"
+   ],
+   "3549838207": [
+    355.0,
+    "2026-10-23",
+    "2026-10-23",
+    "RTX 4070 SUPER OC 12G"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -5668,6 +5827,12 @@
     "2026-10-23",
     "2026-10-23",
     "Gigabyte RTX 4070 Ti Super Eagle 16GB OVP & Rechnung"
+   ],
+   "3549804075": [
+    900.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Inno3D GeForce RTX 4070 Ti Super 16GB"
    ]
   },
   "RTX 4080": {
@@ -6546,6 +6711,12 @@
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen 7 5800X3D – Gaming-Prozessor für AM4"
+   ],
+   "3549819375": [
+    205.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen 7 5800X3D"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -6710,6 +6881,12 @@
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen 7 7800X3D"
+   ],
+   "3549796750": [
+    250.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Ryzen 7 7800 X3D"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -7180,7 +7357,7 @@
     "Samsung 990 Pro 2TB SSD - Neu!!"
    ],
    "3549692539": [
-    300.0,
+    280.0,
     "2026-10-23",
     "2026-10-23",
     "Samsung 990 Pro mit Heatsink 2TB NVMe SSD - Neu & OVP"
@@ -7190,6 +7367,12 @@
     "2026-10-23",
     "2026-10-23",
     "Samsung 990 Pro Nvme M.2 SSD 2TB PCIe 4.0 PS5 Speicher Kühlkörper"
+   ],
+   "3549813890": [
+    280.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Samsung 990 Pro 2TB - Neu!"
    ]
   },
   "Samsung PM983 1.92TB": {},
@@ -8062,6 +8245,24 @@
     "2026-10-23",
     "2026-10-23",
     "SONY WH-1000XM5 - Bluetooth Kopfhörer - Neuwertig in OVP"
+   ],
+   "3549697135": [
+    70.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH1000XM5, Over-Ear Kopfhörer, Schwarz"
+   ],
+   "3549782198": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony WH-1000XM5"
+   ],
+   "3549834974": [
+    141.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sony Wh 1000 XM5 Kopfhörer"
    ]
   },
   "Synology DS220+": {
@@ -8450,7 +8651,7 @@
     "Thinkpad T14 Gen3 i7-1270P 48GB Ram 512GB SSD"
    ],
    "3548776848": [
-    450.0,
+    430.0,
     "2026-10-23",
     "2026-10-23",
     "☆☆☆Lenovo Thinkpad T14 gen.3 i5 ddr4  nvme"
