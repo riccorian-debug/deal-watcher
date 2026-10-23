@@ -396,10 +396,11 @@
   "3549379408": "2026-10-23",
   "3549430008": "2026-10-23",
   "3549464471": "2026-10-23",
-  "3549501453": "2026-10-23"
+  "3549501453": "2026-10-23",
+  "3549571790": "2026-10-23"
  },
- "laeufe": 221,
- "letzter_lauf": "2026-10-23T13:07:38",
+ "laeufe": 222,
+ "letzter_lauf": "2026-10-23T14:01:16",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2524,7 +2525,7 @@
     "MacBook Air M1 256GB"
    ],
    "3549394685": [
-    600.0,
+    550.0,
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air 2020 M1, 8GB RAM, 512GB SSD, neue Tastatur/Akku"
@@ -2576,6 +2577,42 @@
     "2026-10-23",
     "2026-10-23",
     "MacBook Air 13 2020 M1 8GB RAM 512 SSD"
+   ],
+   "3549539631": [
+    499.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 13,3 Zoll M1 (2020) | Space Grau | OVP"
+   ],
+   "3549545799": [
+    600.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air M1 | 256 GB | 13 Zoll"
+   ],
+   "3549555244": [
+    500.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 – 16 GB RAM / 256 GB SSD"
+   ],
+   "3549570837": [
+    550.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 2020 M1 8GB RAM 512SSD Silber"
+   ],
+   "3549571526": [
+    479.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 2020 8GB 256GB nur 47 Ladezyklen OVP"
+   ],
+   "3549575383": [
+    499.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air M1 13\" Gold | 62 Ladezyklen | 97% Akku"
    ]
   },
   "MacBook Air M2": {
@@ -2944,6 +2981,18 @@
     "2026-10-23",
     "2026-10-23",
     "MacBook Air M2 2022 8GB Ram 512 GB SSD 13’’"
+   ],
+   "3549523904": [
+    800.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 13” M2 – 8 GB RAM / 256 GB SSD"
+   ],
+   "3549538219": [
+    679.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 13,6“ M2 Chip 8GB Speicher Jahr 2022 [256GB SSD,Midnight] • Neuwertig • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:7603"
    ]
   },
   "Makita DHP485 Set": {},
@@ -3213,6 +3262,12 @@
     "2026-10-23",
     "2026-10-23",
     "ASUS TUF Gaming GeForce RTX 3060 12GB – OVP – Top Zustand"
+   ],
+   "3549526737": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ASUS DUAL GeForce RTX 3060 OC Edition 12GB GDDR6"
    ]
   },
   "RTX 3070": {
@@ -3511,7 +3566,7 @@
     "Nvidia Geforce RTX 3070 GPU Grafikkarte"
    ],
    "3549284766": [
-    290.0,
+    250.0,
     "2026-10-23",
     "2026-10-23",
     "NVIDIA GeForce RTX 3070 Gaming OC mit 8 GB"
@@ -3533,6 +3588,12 @@
     "2026-10-23",
     "2026-10-23",
     "Zotac Nvidia Gaming GeForce RTX 3070 Twin Edge OC Edition"
+   ],
+   "3549583498": [
+    290.0,
+    "2026-10-23",
+    "2026-10-23",
+    "GeForce RTX 3070 ROG Strix OC 8GB"
    ]
   },
   "RTX 3080": {
@@ -3793,6 +3854,12 @@
     "2026-10-23",
     "2026-10-23",
     "MSI RTX 3080 SEA HAWK X 10G – AiO Wasserkühlung Grafikkarte"
+   ],
+   "3549530013": [
+    429.0,
+    "2026-10-23",
+    "2026-10-23",
+    "​MSI GeForce RTX 3080 Gaming X Trio 10GB – Top Zustand | OVP"
    ]
   },
   "RTX 4060 Ti": {
@@ -4331,7 +4398,7 @@
     "RTX 4070 TI SUPER 16GB | ZOTAC AMP Holo GETESTET"
    ],
    "3535190096": [
-    930.0,
+    1000.0,
     "2026-10-23",
     "2026-10-21",
     "ASUS ProArt GeForce RTX 4070 Ti Super 16GB"
@@ -4385,7 +4452,7 @@
     "ASUS ProArt RTX 4070 Ti SUPER OC 16GB"
    ],
    "3549514751": [
-    950.0,
+    870.0,
     "2026-10-23",
     "2026-10-23",
     "Gigabyte RTX 4070 Ti Super Eagle 16GB OVP & Rechnung"
@@ -4812,7 +4879,7 @@
    ],
    "3531944118": [
     520.0,
-    "2026-10-21",
+    "2026-10-23",
     "2026-10-21",
     "RX 7800XT 16gb Grafikkarte"
    ],
@@ -4961,7 +5028,7 @@
     "16GB PowerColor Radeon RX 7800 XT Hellhound"
    ],
    "3549511405": [
-    449.0,
+    549.0,
     "2026-10-23",
     "2026-10-23",
     "PowerColor AMD Radeon RX 7800 XT Fighter 16GB"
@@ -5413,6 +5480,12 @@
     "2026-10-23",
     "2026-10-23",
     "Gaming-CPU: AMD Ryzen 7 7800X3D (inkl. OVP)"
+   ],
+   "3549571790": [
+    199.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen 7 7800X3D"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -5863,6 +5936,12 @@
     "2026-10-23",
     "2026-10-23",
     "Samsung SSD 2TB Festplatte 990 Pro PC Playstation 5 Slim Pro PS5"
+   ],
+   "3549530705": [
+    290.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Samsung 990 Pro 2TB SSD - Neu!!"
    ]
   },
   "Samsung PM983 1.92TB": {},
@@ -6387,6 +6466,12 @@
     "2026-10-23",
     "2026-10-22",
     "8TB Festplatte Seagate IronWolf"
+   ],
+   "3549518665": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Seagate IronWolf 8TB NAS HDD ST8000VN002"
    ]
   },
   "Shelly Plus Plug S": {
@@ -7247,7 +7332,7 @@
     "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
    ],
    "3549137600": [
-    350.0,
+    300.0,
     "2026-10-23",
     "2026-10-23",
     "Lenovo ThinkPad X1 Carbon Gen9 i5 8GB 256GB SD"
