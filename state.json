@@ -397,10 +397,12 @@
   "3549430008": "2026-10-23",
   "3549464471": "2026-10-23",
   "3549501453": "2026-10-23",
-  "3549571790": "2026-10-23"
+  "3549571790": "2026-10-23",
+  "3549655796": "2026-10-23",
+  "3549656239": "2026-10-23"
  },
- "laeufe": 222,
- "letzter_lauf": "2026-10-23T14:01:16",
+ "laeufe": 223,
+ "letzter_lauf": "2026-10-23T15:02:11",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -728,7 +730,98 @@
     "2TB M.2 SSD crucial P3 Plus 2280"
    ]
   },
-  "DDR4 ECC RDIMM 32GB": {},
+  "DDR4 ECC RDIMM 32GB": {
+   "3457792850": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "32GB 2x16 GB DDR4 Ram A-Tech 2Rx4 1.2V ECC RDIMM"
+   ],
+   "3483424899": [
+    78.0,
+    "2026-10-23",
+    "2026-10-23",
+    "32 GB DDR4-2133 RDIMM ECC Server RAM Bundle ID37"
+   ],
+   "3496551688": [
+    99.0,
+    "2026-10-23",
+    "2026-10-23",
+    "32 GB kit Samsung 2x16GB DDR4 ECC RDIMM PC4-2933Y für Workstation"
+   ],
+   "3500863748": [
+    130.0,
+    "2026-10-23",
+    "2026-10-23",
+    "32GB DDR4 ECC RDIMM"
+   ],
+   "3510963678": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Micron 32GB (4X8) DDR4-2666 ECC Registered (RDIMM)"
+   ],
+   "3512012353": [
+    200.0,
+    "2026-10-23",
+    "2026-10-23",
+    "32GB (2x16GB) Crucial DDR4-2933 ECC Registered RDIMM Server RAM"
+   ],
+   "3528260819": [
+    149.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo 32GB DDR4-2666 ECC RDIMM Server RAM NEU 7X77A01304"
+   ],
+   "3529300167": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Kingston 32GB DDR4 ECC Server RAM 2133MHz RDIMM KVR21L15D4/32"
+   ],
+   "3531099906": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "32GB (2x 16GB) HP / Micron DDR4-2133 Server RAM ECC RDIMM"
+   ],
+   "3531102658": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "32GB (2x 16GB) HP / Samsung DDR4-2133 Server RAM ECC RDIMM"
+   ],
+   "3535788978": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Samsung RAM - 32GB KIT (4x8GB) DDR4 RAM ECC RDIMM 2133MHz"
+   ],
+   "3541040632": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HPE Micron 32GB DDR4 2666V ECC RDIMM Server-RAM"
+   ],
+   "3542496271": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "SK hynix Arbeitsspeicher RAM R-DIMM ECC DDR4 HMA82GR7AFR8N 32GB"
+   ],
+   "3547179185": [
+    140.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Samsung 32GB DDR4-2666 ECC RDIMM"
+   ],
+   "3549622654": [
+    99.0,
+    "2026-10-23",
+    "2026-10-23",
+    "32GB (2x 16GB) Micron Supermicro DDR4-2666V ECC RDIMM Server RAM"
+   ]
+  },
   "DDR4 ECC RDIMM 64GB": {},
   "DDR5 32GB 6000": {
    "3543994716": [
@@ -1060,6 +1153,12 @@
     "2026-10-23",
     "2026-10-23",
     "Kingston Fury Beast 32GB DDR5 6000 CL30 2x16GB RAM"
+   ],
+   "3549519899": [
+    310.0,
+    "2026-10-23",
+    "2026-10-23",
+    "KINGSTON FURY BEAST RGB 32 GB (2 × 16 GB) DDR5 CL30 6000 MHz"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1237,6 +1336,12 @@
     "2026-10-23",
     "2026-10-23",
     "14\" Dell Latitude 7420 i7/16GB RAM/256GB NVMe CH/EUR Keyboard"
+   ],
+   "3549625545": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dell Latitude 7420 Notebook mit i7 , 16 GB Ram"
    ]
   },
   "Dell UltraSharp U2719D": {},
@@ -1328,7 +1433,7 @@
     "Dell UltraSharp U2723QE | 27 Zoll 4K USB-C Monitor"
    ],
    "3541045733": [
-    375.0,
+    345.0,
     "2026-10-23",
     "2026-10-23",
     "Dell U2723QE Monitor 27 Zoll 4K"
@@ -1637,6 +1742,18 @@
     "2026-10-23",
     "2026-10-23",
     "16GB SK Hynix DDR4 RAM (SO-DIMM) 3200MHz für Laptop / Mini-PC"
+   ],
+   "3549607683": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Samsung 16GB DDR4 SO-DIMM 3200MHz RAM für Laptop / Mini-PC (2Rx8)"
+   ],
+   "3549656239": [
+    50.0,
+    "2026-10-23",
+    "2026-10-23",
+    "2x SK Hynix DDR4 SO-DIMM RAM 16GB + 8GB 3200MHz"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -1807,6 +1924,18 @@
     "2026-10-23",
     "2026-10-23",
     "2x Kingston 16GB DDR4-3200 SO-DIMM also 32gb"
+   ],
+   "3549605933": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "KIT DDR4 SK hynix 32GB(2X 16GB)3200MHz SODIMM"
+   ],
+   "3549638141": [
+    220.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Teamgroup SO-DIMM 32GB Kit (2x 16GB) DDR4-3200"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -1866,7 +1995,242 @@
     "HP Microserver Gen10 Plus"
    ]
   },
-  "HP Thunderbolt Dock G4": {},
+  "HP Thunderbolt Dock G4": {
+   "3255298759": [
+    85.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 -120 W - bis 3 Monitore"
+   ],
+   "3292987743": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt USB C Dock G4 inklusive Netzteil 280W"
+   ],
+   "3336972786": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 120W G4 – Modell HSN-IX03"
+   ],
+   "3346336073": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 – Dockingstation (B-Ware)"
+   ],
+   "3395502177": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt G4 280W Dockstation"
+   ],
+   "3401491208": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 Neu OVP"
+   ],
+   "3414609398": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 120W mit Netzteil"
+   ],
+   "3493597319": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 mit Netzteil."
+   ],
+   "3495979896": [
+    90.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280 G4 Dockingstation"
+   ],
+   "3506298499": [
+    149.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 120 W G4"
+   ],
+   "3507877566": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 120W Dockingstation – NEU & OVP!"
+   ],
+   "3508521804": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 120W G4 docking station"
+   ],
+   "3511515612": [
+    89.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 230W Dockingstation Thunderbolt 4"
+   ],
+   "3517433301": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock | G4 | 120W"
+   ],
+   "3518571125": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt 280W G4 Dock, 4J0G4AA, NEU, OVP, ungeöffnet !!!"
+   ],
+   "3520677372": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "die HP Thunderbolt Dock 120W in schwarz G4 gebraucht"
+   ],
+   "3521328009": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 280W Thunderbolt 4"
+   ],
+   "3524891034": [
+    180.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 Dockingstation"
+   ],
+   "3525758165": [
+    139.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 Dockingstation inkl. Netzteil"
+   ],
+   "3525891708": [
+    65.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 Dockingstation – HSN-IX03"
+   ],
+   "3531638905": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dockingstation 280W Dock G4"
+   ],
+   "3532143316": [
+    90.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280 G4 Dockingstation"
+   ],
+   "3535556389": [
+    115.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4"
+   ],
+   "3536230599": [
+    165.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 (M88252-001) mit Kombikabel - Neu"
+   ],
+   "3537396894": [
+    28.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 Dockingstation"
+   ],
+   "3537471980": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "hp thunderbolt dock g4 280w dockingstation"
+   ],
+   "3539619763": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Inc. Thunderbolt Dock G4"
+   ],
+   "3539681157": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 (HSN-IX03) inkl. Netzteil. DGUV geprüft"
+   ],
+   "3542186271": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP USB-C Thunderbolt Dock 120W G4 mit Netzteil Dockingstation"
+   ],
+   "3543374653": [
+    77.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP G4 280W Dock Dockingstation Thunderbolt"
+   ],
+   "3546019638": [
+    90.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280 G4 Dockingstation"
+   ],
+   "3546211036": [
+    89.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 + Netzteil HSN-IX03 Kombinationskabel"
+   ],
+   "3546351357": [
+    180.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP thunderbolt G4 dock 280W + Netzteil OvP neu"
+   ],
+   "3546973139": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 – Dockingstation"
+   ],
+   "3549037468": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 mit Netzteil, HSN-IX03"
+   ],
+   "3549117504": [
+    90.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dockingstation HP Thunderbolt Dock 120W G4 – NEU & OVP"
+   ],
+   "3549238391": [
+    75.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 280W inkl. 280W Original Netzteil"
+   ],
+   "3549547068": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock G4 – USB-C Dockingstation"
+   ],
+   "3549660948": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "HP Thunderbolt Dock 280W G4 (4J0G4AA)"
+   ]
+  },
   "Home Assistant Green/Yellow": {
    "3548730394": [
     116.0,
@@ -2128,10 +2492,155 @@
     "2026-10-23",
     "2026-10-22",
     "Lenovo M920q i7-8700T 6C/12T , 16GB RAM , Win 11 Pro, 230w, riser"
+   ],
+   "3549598656": [
+    115.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo thinkcentre m920q i5 Vpro ,mini pc super Zustand"
    ]
   },
   "Lenovo ThinkVision P27h": {},
-  "Lenovo Thunderbolt 4 Dock": {},
+  "Lenovo Thunderbolt 4 Dock": {
+   "3386773760": [
+    170.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Dock (40B0) + 135 Netzteil -NEU!"
+   ],
+   "3393779710": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Universal Thunderbolt 4 Dock Schwarz - NEU"
+   ],
+   "3455929600": [
+    125.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Notebook Thunderbolt 4 Dock - Top Zustand"
+   ],
+   "3467910898": [
+    140.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Workstation Dock (Neuwertig)"
+   ],
+   "3496819340": [
+    175.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Dock Gen 2 (Typ 40B0),135W"
+   ],
+   "3501867128": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Dock DK2131 + 300W Netzteil"
+   ],
+   "3512629047": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Thunderbolt 4 Dock 40B00135EU mit Zubehör"
+   ],
+   "3518808308": [
+    160.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 40B00300EU NEU"
+   ],
+   "3518874802": [
+    135.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Universal Thunderbolt 4 Dock – 135W – NEU & OVP"
+   ],
+   "3520631315": [
+    80.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Universal Thunderbolt 4 Dock"
+   ],
+   "3524384690": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Universal Thunderbolt 4 Dock DK2131 mit Netzteil"
+   ],
+   "3524530261": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Dock mit 170W Netzteil"
+   ],
+   "3526044257": [
+    99.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Dockingstation Lenovo ThinkPad Thunderbolt 4 Dock"
+   ],
+   "3527086158": [
+    175.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 DOCK ungeöffnete OVP"
+   ],
+   "3527891315": [
+    180.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Thunderbolt 4 Workstation Dock"
+   ],
+   "3530128075": [
+    155.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Workstation Dock"
+   ],
+   "3532362683": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo Universal Thunderbolt 4 Dock"
+   ],
+   "3533776389": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 WorkStation Dock 300 W, top Zustand"
+   ],
+   "3542286697": [
+    89.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Dock mit Kabel und 135W Netzteil"
+   ],
+   "3543754892": [
+    120.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Dock 40B0 mit 135W Netzteil"
+   ],
+   "3544425933": [
+    100.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 40B0 – 300W"
+   ],
+   "3548159345": [
+    110.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 300W + OVP"
+   ],
+   "3548467480": [
+    89.0,
+    "2026-10-23",
+    "2026-10-23",
+    "LENOVO ThinkPad Thunderbolt 4 Dock 40B0 mit USB-C Netzteil 135 W"
+   ]
+  },
   "Lenovo USB-C Dock Gen 2": {},
   "MacBook Air M1": {
    "3515090478": [
@@ -2555,7 +3064,7 @@
     "MacBook Air M1 (2020) - 16 GB RAM - 512 GB SSD - Rose Gold"
    ],
    "3549464471": [
-    350.0,
+    330.0,
     "2026-10-23",
     "2026-10-23",
     "Apple Macbook Air M1"
@@ -2613,6 +3122,18 @@
     "2026-10-23",
     "2026-10-23",
     "MacBook Air M1 13\" Gold | 62 Ladezyklen | 97% Akku"
+   ],
+   "3549599379": [
+    499.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 13” M1 2020 | 8 GB RAM | 256 GB SSD | Silber"
+   ],
+   "3549642703": [
+    630.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 mit OVP **NEUWERTIG**"
    ]
   },
   "MacBook Air M2": {
@@ -2983,7 +3504,7 @@
     "MacBook Air M2 2022 8GB Ram 512 GB SSD 13’’"
    ],
    "3549523904": [
-    800.0,
+    790.0,
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air 13” M2 – 8 GB RAM / 256 GB SSD"
@@ -2993,6 +3514,24 @@
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air 13,6“ M2 Chip 8GB Speicher Jahr 2022 [256GB SSD,Midnight] • Neuwertig • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:7603"
+   ],
+   "3549634723": [
+    700.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air 15” M2, 8gb ram, 256gb ssd, 99% akku"
+   ],
+   "3549637141": [
+    700.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air 15” M2, 8gb ram, 256gb ssd, 99% akku"
+   ],
+   "3549655796": [
+    500.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2 – 13 Zoll – 8 GB RAM – 256 GB SSD – OVP"
    ]
   },
   "Makita DHP485 Set": {},
@@ -3778,7 +4317,7 @@
     "ZOTAC Nvidia GeForce RTX 3080 Grafikkarte"
    ],
    "3548710875": [
-    500.0,
+    450.0,
     "2026-10-23",
     "2026-10-23",
     "GeForce RTX 3080 SUPRIM 10G"
@@ -3860,6 +4399,30 @@
     "2026-10-23",
     "2026-10-23",
     "​MSI GeForce RTX 3080 Gaming X Trio 10GB – Top Zustand | OVP"
+   ],
+   "3549616333": [
+    300.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ASUS ROG Strix Gaming GeForce RTX 3080 10GB Grafikkarte"
+   ],
+   "3549626660": [
+    399.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ASUS TUF Gaming RTX 3080 – Funktioniert einwandfrei – OVP"
+   ],
+   "3549634441": [
+    449.0,
+    "2026-10-23",
+    "2026-10-23",
+    "EVGA GeForce RTX 3080 FTW3 Ultra Gaming 10 Gb  GDDR6X OVP"
+   ],
+   "3549644509": [
+    449.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Gainward GeForce RTX 3080 GameRock 10 Gb GDDR6X"
    ]
   },
   "RTX 4060 Ti": {
@@ -4301,7 +4864,7 @@
    ],
    "3547181816": [
     600.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-21",
     "RTX 4070 Super Windforce OC"
    ],
@@ -4357,7 +4920,7 @@
    ],
    "3516611482": [
     779.0,
-    "2026-10-21",
+    "2026-10-23",
     "2026-10-21",
     "ZOTAC GeForce RTX 4070 Ti SUPER 16 GB Trinity Black Edition"
    ],
@@ -5010,7 +5573,7 @@
     "AMD Radeon RX 7800 XT Sapphire Pure White"
    ],
    "3548748536": [
-    480.0,
+    420.0,
     "2026-10-23",
     "2026-10-23",
     "Sapphire Nitro+ AMD Radeon RX 7800 XT"
@@ -5032,6 +5595,12 @@
     "2026-10-23",
     "2026-10-23",
     "PowerColor AMD Radeon RX 7800 XT Fighter 16GB"
+   ],
+   "3549637237": [
+    450.0,
+    "2026-10-23",
+    "2026-10-23",
+    "XFX RX 7800 XT 16GB Speedster"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -6790,6 +7359,12 @@
     "2026-10-23",
     "2026-10-23",
     "Sony WH-1000XM5 Noise canceling Kopfhörer"
+   ],
+   "3549547689": [
+    109.0,
+    "2026-10-23",
+    "2026-10-23",
+    "SONY WH-1000XM5 - Bluetooth Kopfhörer - Neuwertig in OVP"
    ]
   },
   "Synology DS220+": {
@@ -6942,6 +7517,12 @@
     "2026-10-23",
     "2026-10-23",
     "Synology DiskStation DS923+ NAS 32GB RAM - OVP - Restgarantie"
+   ],
+   "3549637519": [
+    600.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Synology DS923+ NAS *32GB RAM* *10GbE*"
    ]
   },
   "ThinkPad L14 Gen 3": {
