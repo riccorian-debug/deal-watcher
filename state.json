@@ -405,8 +405,8 @@
   "3549775290": "2026-10-23",
   "3549910593": "2026-10-23"
  },
- "laeufe": 229,
- "letzter_lauf": "2026-10-23T20:58:39",
+ "laeufe": 230,
+ "letzter_lauf": "2026-10-23T21:54:00",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1187,7 +1187,7 @@
     500.0,
     "2026-10-23",
     "2026-10-23",
-    "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz CL28 EXPO"
+    "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz CL28 EXPO/ XMP"
    ],
    "3548692155": [
     300.0,
@@ -1241,7 +1241,7 @@
     410.0,
     "2026-10-23",
     "2026-10-23",
-    "Crucial Pro DDR5 (32GB / 6000MHZ)"
+    "Neu, ungeöffnet Crucial Pro DDR5 Ram 32GB / 6000MHZ)"
    ],
    "3549304688": [
     253.0,
@@ -1314,6 +1314,12 @@
     "2026-10-23",
     "2026-10-23",
     "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz CL30"
+   ],
+   "3549980309": [
+    320.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Crucial DDR5 Pro RAM 32GB 6000MHz UDIMM"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4269,6 +4275,18 @@
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air M1 2020 | 8GB | 256GB"
+   ],
+   "3549972617": [
+    470.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 (2020) – 13,3 Zoll – 256 GB -Gold"
+   ],
+   "3549978735": [
+    250.0,
+    "2026-10-23",
+    "2026-10-23",
+    "macbook air m1 13‘‘"
    ]
   },
   "MacBook Air M2": {
@@ -6578,7 +6596,7 @@
     "Asus Rog Strix RTX 4080"
    ],
    "3549957088": [
-    900.0,
+    899.0,
     "2026-10-23",
     "2026-10-23",
     "RTX 4080 Gainward Phantom GS"
@@ -7589,6 +7607,12 @@
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen 7 9800X3D 8-Core AM5 Gaming Prozessor 3D V-Cache"
+   ],
+   "3549981286": [
+    335.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen 7 9800X3D Prozessor - OVP & Rechnung"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -8985,6 +9009,12 @@
     "2026-10-23",
     "2026-10-21",
     "Synology DS220j 2-Bay NAS Server"
+   ],
+   "3549971931": [
+    119.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Synology DS220j NAS Server in OVP"
    ]
   },
   "Synology DS920+": {
@@ -9173,6 +9203,12 @@
     "2026-10-23",
     "2026-10-23",
     "Lenovo ThinkPad T14 Gen 2 | i7-1165G7|  24 GB RAM | 256 GB SSD M.2   | WIN 11 Pro"
+   ],
+   "3549988171": [
+    325.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad T14 Gen 2 | Intel i5 | 16 GB RAM | Touch | Win 11"
    ]
   },
   "ThinkPad T14 Gen 3": {
