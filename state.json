@@ -387,10 +387,12 @@
   "3547696225": "2026-10-22",
   "3548488909": "2026-10-23",
   "3548522749": "2026-10-23",
-  "3548728203": "2026-10-23"
+  "3548728203": "2026-10-23",
+  "3549137600": "2026-10-23",
+  "3549164880": "2026-10-23"
  },
- "laeufe": 215,
- "letzter_lauf": "2026-10-23T07:10:46",
+ "laeufe": 216,
+ "letzter_lauf": "2026-10-23T08:02:13",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {},
@@ -1180,6 +1182,12 @@
     "2026-10-23",
     "2026-10-23",
     "Arbeitssoeicher 16GB DDR4 RAM SO-DIMM 3200MHz"
+   ],
+   "3549138273": [
+    60.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Arbeitsspeicher Samsung DDR4 RAM 16GB 2rx8 PC4-3200AA SODIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -1926,6 +1934,18 @@
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook  Air M1 (90% Akku )"
+   ],
+   "3549155697": [
+    550.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 2020 8GB-256GB"
+   ],
+   "3549162318": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Festpreis  Apple MacBook Air 2020 M1 256GB Festpreis"
    ]
   },
   "MacBook Air M2": {
@@ -1934,6 +1954,12 @@
     "2026-10-22",
     "2026-10-22",
     "Apple MacBook Air m2 13,6\" - 16gb RAM - 1TB SSD"
+   ],
+   "3541071019": [
+    600.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2, 8GB RAM, 256GB SSD"
    ],
    "3543205072": [
     600.0,
@@ -2787,6 +2813,12 @@
     "2026-10-23",
     "2026-10-23",
     "INNO3D GeForce RTX 3070 Twin X2 OC - 8 GB DDR6"
+   ],
+   "3549173992": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ASUS ROG Strix GeForce RTX 3070 OC 8GB GDDR6 Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -3017,6 +3049,18 @@
     "2026-10-23",
     "2026-10-23",
     "NVIDIA GeForce RTX 3080 OC Grafikkarte"
+   ],
+   "3549156948": [
+    500.0,
+    "2026-10-23",
+    "2026-10-23",
+    "NVIDIA RTX 3080 Aorus Xtreme Grafikkarte"
+   ],
+   "3549175849": [
+    450.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Gigabyte GeForce RTX 3080 10gb Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -3282,7 +3326,7 @@
    ],
    "3547419230": [
     600.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-21",
     "Asus ProArt GeForce RTX 4070 OC OVP"
    ],
@@ -3496,7 +3540,7 @@
    ],
    "3521537687": [
     849.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-21",
     "RTX 4070 Ti SUPER Ventus 2X"
    ],
@@ -3696,7 +3740,7 @@
    ],
    "3543996954": [
     1100.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-21",
     "MSI GeForce RTX 4080 Super 16GB SUPRIM X NVIDIA GDDR6X"
    ],
@@ -4361,7 +4405,7 @@
     "AMD Ryzen 7 5800X3D – 8-Core Gaming-Prozessor"
    ],
    "3548903986": [
-    350.0,
+    300.0,
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen 7 5800X3D"
@@ -4371,6 +4415,12 @@
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen7 5800X3D"
+   ],
+   "3549136740": [
+    289.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen 7 5800X3D – Gaming-Prozessor für AM4"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -5085,6 +5135,18 @@
     "2026-10-23",
     "2026-10-23",
     "NEUE! 16TB Seagate Exos X24 Festplatte | HDD 3,5 Zoll | SATA"
+   ],
+   "3549164880": [
+    285.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Seagate Exos X18 16TB HDD Enterprise Festplatte (SATA, 3.5\")"
+   ],
+   "3549170435": [
+    499.0,
+    "2026-10-23",
+    "2026-10-23",
+    "16 TB Seagate Exos X18 ST16000NM000J HDD Festplatte + Rechnung"
    ]
   },
   "Seagate Exos 18TB": {
@@ -5707,7 +5769,7 @@
    ],
    "3539323537": [
     320.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "Lenovo ThinkPad  t14 (gen2)"
    ],
@@ -5998,6 +6060,12 @@
     "2026-10-23",
     "2026-10-23",
     "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
+   ],
+   "3549137600": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lenovo ThinkPad X1 Carbon Gen9 i5 8GB 256GB SD"
    ]
   },
   "ThinkPad ohne Netzteil": {},
