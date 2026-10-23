@@ -206,6 +206,7 @@
   "3534037986": "2026-10-07",
   "3534038436": "2026-10-07",
   "3534126539": "2026-10-07",
+  "3534274545": "2026-10-23",
   "3534278986": "2026-10-08",
   "3534306955": "2026-10-08",
   "3534346354": "2026-10-08",
@@ -401,8 +402,8 @@
   "3549655796": "2026-10-23",
   "3549656239": "2026-10-23"
  },
- "laeufe": 223,
- "letzter_lauf": "2026-10-23T15:02:11",
+ "laeufe": 224,
+ "letzter_lauf": "2026-10-23T16:00:14",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1064,6 +1065,12 @@
     "2026-10-23",
     "G.Skill Flare X5 32GB Kit DDR5-6000 CL30  F5-6000J3038F16GX2-FX5"
    ],
+   "3548555922": [
+    350.0,
+    "2026-10-23",
+    "2026-10-23",
+    "32Gb DDR5 Ram 6000mhz cl36 Neu"
+   ],
    "3548680310": [
     500.0,
     "2026-10-23",
@@ -1159,6 +1166,18 @@
     "2026-10-23",
     "2026-10-23",
     "KINGSTON FURY BEAST RGB 32 GB (2 × 16 GB) DDR5 CL30 6000 MHz"
+   ],
+   "3549668695": [
+    299.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz CL36"
+   ],
+   "3549699696": [
+    210.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Corsair Vengeance DDR5, 32GB 2x16GB, CMH32GX5M2B6000C40W"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1936,6 +1955,12 @@
     "2026-10-23",
     "2026-10-23",
     "Teamgroup SO-DIMM 32GB Kit (2x 16GB) DDR4-3200"
+   ],
+   "3549725030": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Lexar 32 GB (2×16 GB) DDR4-3200 SO-DIMM Laptop RAM Kit"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -3109,7 +3134,7 @@
     550.0,
     "2026-10-23",
     "2026-10-23",
-    "Apple MacBook Air 2020 M1 8GB RAM 512SSD Silber"
+    "Apple MacBook Air 13 2020 M1 8GB RAM 512SSD Silber"
    ],
    "3549571526": [
     479.0,
@@ -3134,6 +3159,18 @@
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air M1 mit OVP **NEUWERTIG**"
+   ],
+   "3549684056": [
+    539.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1, 16GB RAM, 512GB SSD"
+   ],
+   "3549732805": [
+    490.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple, MacBook Air 13\" M1 2020- 8GB RAM 256 GB SSD Gold"
    ]
   },
   "MacBook Air M2": {
@@ -3532,6 +3569,24 @@
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air M2 – 13 Zoll – 8 GB RAM – 256 GB SSD – OVP"
+   ],
+   "3549697446": [
+    800.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2 (2022) – 13,6 Zoll – 8 GB RAM – 256 GB SSD"
+   ],
+   "3549707694": [
+    795.0,
+    "2026-10-23",
+    "2026-10-23",
+    "MacBook Air 13“ (2022) A2681 | Apple M2 | 8 GB | 256 GB | Mitter"
+   ],
+   "3549710418": [
+    699.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air 13,6\" (2022) |M2 |96% Akku|8GB RAM |256GB SSD"
    ]
   },
   "Makita DHP485 Set": {},
@@ -3807,6 +3862,12 @@
     "2026-10-23",
     "2026-10-23",
     "ASUS DUAL GeForce RTX 3060 OC Edition 12GB GDDR6"
+   ],
+   "3549728083": [
+    240.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Nvidia RTX 3060 Ventus 2x 12GB OC"
    ]
   },
   "RTX 3070": {
@@ -4133,6 +4194,12 @@
     "2026-10-23",
     "2026-10-23",
     "GeForce RTX 3070 ROG Strix OC 8GB"
+   ],
+   "3549687401": [
+    290.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Palit Geforce RTX 3070 GamingPro wie Neu + Silizium-Lotterie"
    ]
   },
   "RTX 3080": {
@@ -4423,6 +4490,18 @@
     "2026-10-23",
     "2026-10-23",
     "Gainward GeForce RTX 3080 GameRock 10 Gb GDDR6X"
+   ],
+   "3549709586": [
+    450.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Gainward GeForce RTX 3080 GamingPro 10GB GDDR6X"
+   ],
+   "3549713957": [
+    479.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ASUS ROG Strix RTX 3080 OC White Edition 10GB – OVP"
    ]
   },
   "RTX 4060 Ti": {
@@ -4647,6 +4726,12 @@
     "2026-10-23",
     "2026-10-23",
     "ASUS Dual Geforce RTX 4060 Ti 16GB"
+   ],
+   "3549682043": [
+    240.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Grafikkarte Rtx 4060ti 8gb"
    ]
   },
   "RTX 4070": {
@@ -4828,7 +4913,7 @@
    ],
    "3538770921": [
     750.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-21",
     "NVIDIA RTX 4070 Super Gigabyte 12 GB"
    ],
@@ -5845,7 +5930,7 @@
     "ryzen 7 5800x3d"
    ],
    "3534274545": [
-    250.0,
+    220.0,
     "2026-10-23",
     "2026-10-21",
     "AMD Ryzen 7 5800X3D 8-core 16 thread 3.4 GHz - Top Zustand"
@@ -6434,6 +6519,12 @@
     "2026-10-21",
     "Samsung 990 PRO SSD PS5 mit 2 TB Speicher Heatsink"
    ],
+   "3545669483": [
+    250.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Samsung 990 Pro 2tb"
+   ],
    "3545850511": [
     275.0,
     "2026-10-23",
@@ -6441,7 +6532,7 @@
     "Samsung 990 PRO 2TB NVMe M.2 SSD"
    ],
    "3546031570": [
-    275.0,
+    299.0,
     "2026-10-23",
     "2026-10-21",
     "Samsung 990 Pro 2TB Heatsink (PS5 + PS5 Pro kompatibel)"
@@ -6511,6 +6602,12 @@
     "2026-10-23",
     "2026-10-23",
     "Samsung 990 Pro 2TB SSD - Neu!!"
+   ],
+   "3549692539": [
+    300.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Samsung 990 Pro mit Heatsink 2TB NVMe SSD - Neu & OVP"
    ]
   },
   "Samsung PM983 1.92TB": {},
@@ -6691,6 +6788,12 @@
     "2026-10-23",
     "2026-10-18",
     "NEU: Seagate Exos 18TB Enterprise X18 HDD + Versicherung"
+   ],
+   "3533054223": [
+    549.0,
+    "2026-10-23",
+    "2026-10-23",
+    "18TB Festplatte Seagate Exos X18 ST18000NM004J (NEU & OVP)"
    ],
    "3537146852": [
     280.0,
@@ -6949,6 +7052,12 @@
     "2026-10-23",
     "2026-10-21",
     "Seagate IronWolf 4TB NAS HDD Festplatte ST4000VN006"
+   ],
+   "3549692017": [
+    150.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Seagate IronWolf Festplatte 4TB"
    ]
   },
   "Seagate IronWolf 8TB": {
