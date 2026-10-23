@@ -404,8 +404,8 @@
   "3549760400": "2026-10-23",
   "3549775290": "2026-10-23"
  },
- "laeufe": 226,
- "letzter_lauf": "2026-10-23T17:53:57",
+ "laeufe": 227,
+ "letzter_lauf": "2026-10-23T19:04:01",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1283,6 +1283,12 @@
     "2026-10-23",
     "2026-10-23",
     "G.Skill [SERIE] 32 GB Kit (2x16 GB) DDR5-6000 CL36 – F5-6000J3636"
+   ],
+   "3549860160": [
+    400.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL48 | NEU & OVP"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1616,7 +1622,7 @@
    ],
    "3469562777": [
     420.0,
-    "2026-10-22",
+    "2026-10-23",
     "2026-10-22",
     "HP elitebook 840 G8 i5 11th gen 8 gb ram 256gb ssd Neu"
    ],
@@ -3590,7 +3596,7 @@
     "Verkaufe Macbook Air M1 - 90% Akku und sehr guter Zustand"
    ],
    "3548878732": [
-    500.0,
+    490.0,
     "2026-10-23",
     "2026-10-23",
     "Macbook Air M1 2020 | 8gb 256gb | 89% Akku"
@@ -3792,6 +3798,24 @@
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air M1 2020, 13“, 8 GB RAM, 256 GB SSD, Top Zustand"
+   ],
+   "3549856702": [
+    530.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 2020 | 16 GB RAM | 256 GB SSD | Gut"
+   ],
+   "3549868594": [
+    549.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1 (2020) Gold - Top Zustand"
+   ],
+   "3549887687": [
+    550.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M1, 8GB RAM, 1TB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -3818,6 +3842,12 @@
     "2026-10-23",
     "2026-10-22",
     "MacBook Air 13'' M2 2022 8GB RAM 256 GB SSD + 1 TB SSD extern"
+   ],
+   "3544950075": [
+    690.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Apple MacBook Air M2 13,6” – 100 % Akku – Top Zustand – OVP"
    ],
    "3546145494": [
     600.0,
@@ -4246,7 +4276,7 @@
     "Apple MacBook Air M2 13,6 Zoll 16GB"
    ],
    "3549832386": [
-    720.0,
+    699.0,
     "2026-10-23",
     "2026-10-23",
     "Apple MacBook Air M2 (2022) | 13 Zoll | 256 GB SSD | Top Zustand"
@@ -4899,6 +4929,12 @@
     "2026-10-23",
     "2026-10-23",
     "NVIDIA RTX 3070 MSI Ventus 2x OC"
+   ],
+   "3549884515": [
+    330.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Grafikkarte Nvidia 3070 RTX Gigabyte"
    ]
   },
   "RTX 3080": {
@@ -5203,7 +5239,7 @@
     "ASUS ROG Strix RTX 3080 OC White Edition 10GB – OVP"
    ],
    "3549816896": [
-    399.0,
+    390.0,
     "2026-10-23",
     "2026-10-23",
     "MSI GeForce RTX 3080 Suprim X Grafikkarte"
@@ -5565,6 +5601,12 @@
     "2026-10-23",
     "2026-10-23",
     "Palit GeForce RTX 4070 12GB Grafikkarte"
+   ],
+   "3549872238": [
+    400.0,
+    "2026-10-23",
+    "2026-10-23",
+    "ZOTAC Gaming GeForce RTX 4070 Twin Edge OC Edition 12GB"
    ]
   },
   "RTX 4070 Super": {
@@ -6045,6 +6087,12 @@
     "2026-10-23",
     "2026-10-23",
     "ASUS ROG Strix GeForce RTX 4080 16GB GDDR6X OC Edition"
+   ],
+   "3549887665": [
+    920.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Nvidea GeForce Rtx MSI 4080 Super Gaming X Slim 16 Gb"
    ]
   },
   "RX 6800 XT": {
@@ -6421,6 +6469,12 @@
     "2026-10-23",
     "2026-10-23",
     "XFX RX 7800 XT 16GB Speedster"
+   ],
+   "3549875456": [
+    500.0,
+    "2026-10-23",
+    "2026-10-23",
+    "Sapphire Nitro+ AMD Radeon RX 7800 XT 16GB"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -6717,6 +6771,12 @@
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen 7 5800X3D"
+   ],
+   "3549864684": [
+    230.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen 7 5800X3D Prozessor"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -6821,6 +6881,12 @@
     "2026-10-23",
     "2026-10-21",
     "AMD Ryzen 7 7800X3D – Gaming-CPU mit 3D V-Cache"
+   ],
+   "3546315008": [
+    235.0,
+    "2026-10-23",
+    "2026-10-23",
+    "AMD Ryzen 7 7800X3D Prozessor"
    ],
    "3547181047": [
     230.0,
