@@ -386,6 +386,7 @@
   "3546947223": "2026-10-23",
   "3546952316": "2026-10-21",
   "3547696225": "2026-10-22",
+  "3548226505": "2026-10-24",
   "3548488909": "2026-10-23",
   "3548522749": "2026-10-23",
   "3548728203": "2026-10-23",
@@ -403,10 +404,12 @@
   "3549656239": "2026-10-23",
   "3549760400": "2026-10-23",
   "3549775290": "2026-10-23",
-  "3549910593": "2026-10-23"
+  "3549910593": "2026-10-23",
+  "3550139886": "2026-10-24",
+  "3550156154": "2026-10-24"
  },
- "laeufe": 233,
- "letzter_lauf": "2026-10-24T07:55:21",
+ "laeufe": 234,
+ "letzter_lauf": "2026-10-24T08:55:23",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1339,6 +1342,24 @@
     "2026-10-24",
     "2026-10-23",
     "Crucial DDR5 Pro RAM 32GB 6000MHz UDIMM"
+   ],
+   "3550117962": [
+    500.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Crucial Pro DDR5 32GB (2x16GB) 6000MHz CL 36 RAM Kit"
+   ],
+   "3550167199": [
+    390.0,
+    "2026-10-24",
+    "2026-10-24",
+    "32 GB DDR5 Crucial Pro 6000"
+   ],
+   "3550190147": [
+    480.0,
+    "2026-10-24",
+    "2026-10-24",
+    "G.SKILL Ripjaws S5 32GB DDR5-6000 CL30 RAM Kit (2x16GB)"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2094,7 +2115,7 @@
     "G.Skill Ripjaws 16 GB DDR4 3200 SO-DIMM"
    ],
    "3549516148": [
-    59.0,
+    60.0,
     "2026-10-24",
     "2026-10-23",
     "16GB SK Hynix DDR4 RAM (SO-DIMM) 3200MHz für Laptop / Mini-PC"
@@ -2128,6 +2149,30 @@
     "2026-10-24",
     "2026-10-24",
     "Samsung SODIMM 16GB PC4 3200 DDR4 RAM 1Rx8"
+   ],
+   "3550118962": [
+    50.0,
+    "2026-10-24",
+    "2026-10-24",
+    "SK Hynix 16GB DDR4 SO-DIMM RAM 3200MHz 2Rx8 Lenovo, ungeprüft"
+   ],
+   "3550139886": [
+    35.0,
+    "2026-10-24",
+    "2026-10-24",
+    "16GB DDR4 RAM 3200 MHz TAKEFUNG SO-DIMM Notebook Arbeitsspeicher"
+   ],
+   "3550186088": [
+    130.0,
+    "2026-10-24",
+    "2026-10-24",
+    "2x Crucial 16GB DDR4-3200 SODIMM Arbeitsspeicher"
+   ],
+   "3550188829": [
+    70.0,
+    "2026-10-24",
+    "2026-10-24",
+    "16 GB DDR4 RAM SODIMM 3200 MHZ von TeamGroup NEU"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4819,6 +4864,12 @@
     "2026-10-23",
     "Apple MacBook Air M2 (2022) | 13 Zoll | 256 GB SSD | Top Zustand"
    ],
+   "3549853571": [
+    750.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air 13 Zoll M2 blau"
+   ],
    "3549912818": [
     670.0,
     "2026-10-24",
@@ -4848,6 +4899,24 @@
     "2026-10-24",
     "2026-10-24",
     "MacBook Air M2 2022 100% Batterie, 256 SSD GB RAM"
+   ],
+   "3550130854": [
+    629.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air 13,6\" M2 · 8 GB · 256 GB · Space Grau · Akku 90 %"
+   ],
+   "3550143609": [
+    630.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M2 (2022)"
+   ],
+   "3550145854": [
+    685.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M2 15″ Sehr Gut | M2 | 8 GB RAM | 256 GB"
    ]
   },
   "Makita DHP485 Set": {},
@@ -5485,7 +5554,7 @@
     250.0,
     "2026-10-24",
     "2026-10-23",
-    "NVIDIA GeForce RTX 3070 Gaming OC mit 8 GB"
+    "NVIDIA GeForce RTX 3070 Gaming OC mit 8 GB Triple Fan"
    ],
    "3549402285": [
     280.0,
@@ -5546,6 +5615,18 @@
     "2026-10-24",
     "2026-10-24",
     "Gigabyte GeForce RTX 3070 Gaming OC 8G Grafikkarte"
+   ],
+   "3550155332": [
+    399.0,
+    "2026-10-24",
+    "2026-10-24",
+    "GeForce RTX 3070 Founders Edition"
+   ],
+   "3550183943": [
+    295.0,
+    "2026-10-24",
+    "2026-10-24",
+    "RTX 3070 Gigabyte 8GB wegen Upgrade zu verkaufen"
    ]
   },
   "RTX 3080": {
@@ -6037,6 +6118,12 @@
     "2026-10-21",
     "Palit GeForce RTX 4060 Ti JetStream 16GB"
    ],
+   "3548226505": [
+    269.0,
+    "2026-10-24",
+    "2026-10-24",
+    "NVIDEA RTX 4060 TI 8GB DDR6 STORMX"
+   ],
    "3548307855": [
     499.0,
     "2026-10-23",
@@ -6358,6 +6445,12 @@
     "2026-10-23",
     "2026-10-23",
     "RTX 4070 SUPER OC 12G"
+   ],
+   "3550185268": [
+    700.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Rtx 4070 Super Grafikkarte"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -6387,7 +6480,7 @@
    ],
    "3516611482": [
     779.0,
-    "2026-10-23",
+    "2026-10-24",
     "2026-10-21",
     "ZOTAC GeForce RTX 4070 Ti SUPER 16 GB Trinity Black Edition"
    ],
@@ -6728,6 +6821,12 @@
     "2026-10-24",
     "2026-10-24",
     "rtx 4080 asus rog strix"
+   ],
+   "3550129561": [
+    1200.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Nvidia GeForce RTX 4080 - 16GB GDDR6X"
    ]
   },
   "RX 6800 XT": {
@@ -7994,7 +8093,7 @@
    ],
    "3540624076": [
     230.0,
-    "2026-10-23",
+    "2026-10-24",
     "2026-10-21",
     "Samsung 990 Pro 2TB NVMe SSD"
    ],
@@ -8393,6 +8492,12 @@
     335.0,
     "2026-10-23",
     "2026-10-23",
+    "18TB Festplatte 3,5 Zoll HDD - Seagate EXOS Enterprise X18"
+   ],
+   "3550156154": [
+    335.0,
+    "2026-10-24",
+    "2026-10-24",
     "18TB Festplatte 3,5 Zoll HDD - Seagate EXOS Enterprise X18"
    ]
   },
@@ -9270,6 +9375,12 @@
     "2026-10-24",
     "2026-10-22",
     "Lenovo ThinkPad L14 Gen 3 | Ryzen 5 Pro | 16GB RAM | 512GB SSD"
+   ],
+   "3550188220": [
+    349.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo Thinkpad L14 Gen3 AZERTY i5-1235U+8GB RAM+256GB SSD"
    ]
   },
   "ThinkPad T14 Gen 2": {
@@ -9604,7 +9715,7 @@
     "Lenovo ThinkPad X1 Carbon Gen 9 14 Zoll Ultrabook DE *VERSAND*"
    ],
    "3530976537": [
-    400.0,
+    450.0,
     "2026-10-24",
     "2026-10-23",
     "Lenovo ThinkPad X1 Carbon Gen 9 – i7"
