@@ -422,8 +422,8 @@
   "3550874306": "2026-10-24",
   "3550891756": "2026-10-24"
  },
- "laeufe": 246,
- "letzter_lauf": "2026-10-24T20:49:27",
+ "laeufe": 247,
+ "letzter_lauf": "2026-10-24T21:52:50",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1088,6 +1088,12 @@
     "2026-10-24",
     "2026-10-24",
     "Crucial P3 Plus PCIe 4.0 NVMe M.2 SSD 2TB"
+   ],
+   "3551094968": [
+    199.0,
+    "2026-10-24",
+    "2026-10-24",
+    "SSD Crucial P3 Plus M.2 SSD NVMe, 2 TB"
    ]
   },
   "DDR4 ECC RDIMM 32GB": {
@@ -1588,7 +1594,7 @@
     "Crucial DDR5 Pro RAM 32GB 6000MHz UDIMM"
    ],
    "3550115751": [
-    475.0,
+    435.0,
     "2026-10-24",
     "2026-10-24",
     "NEU - Corsair Vengeance DDR5 32GB (2x16GB) 6000MHz"
@@ -1664,6 +1670,12 @@
     "2026-10-24",
     "2026-10-24",
     "Patriot Viper Venom DDR5 32GB (2×16GB) 6000MHz CL30 – Neu"
+   ],
+   "3551102000": [
+    459.0,
+    "2026-10-24",
+    "2026-10-24",
+    "G.Skill Trident Z5 32GB (2x16GB) 6000MHz CL40 DDR5 RAM Speicher"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1847,6 +1859,12 @@
     "2026-10-24",
     "2026-10-23",
     "Dell Latitude 7420 Notebook mit i7 , 16 GB Ram"
+   ],
+   "3551075537": [
+    230.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Dell Latitude 7420"
    ]
   },
   "Dell UltraSharp U2719D": {
@@ -2519,6 +2537,12 @@
     "2026-10-24",
     "2026-10-24",
     "Kingston 16GB DDR4 RAM 3200 MHz SO-DIMM Laptop Arbeitsspeicher"
+   ],
+   "3551092636": [
+    70.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Samsung 16GB DDR4 SO-DIMM 3200MHz RAM Modul"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -3164,6 +3188,12 @@
     "2026-10-24",
     "2026-10-24",
     "Intel i7 14700K"
+   ],
+   "3551094220": [
+    250.0,
+    "2026-10-24",
+    "2026-10-24",
+    "CPU Intel Core i7-14700K NEU"
    ]
   },
   "Keychron Tastatur": {
@@ -5000,7 +5030,7 @@
     "MacBook Air 2020 M1 8/256 Rose Gold"
    ],
    "3550610994": [
-    629.0,
+    609.0,
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air 2020 M1, 8GB RAM, 256GB SSD, Rosé Gold"
@@ -5046,6 +5076,24 @@
     "2026-10-24",
     "2026-10-24",
     "MacBook Air 13,5 Zoll M1 Top Zustand"
+   ],
+   "3551090241": [
+    390.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M1 – 8 GB RAM – Silber – Sehr guter Zustand"
+   ],
+   "3551097149": [
+    550.0,
+    "2026-10-24",
+    "2026-10-24",
+    "APPLE MACBOOK AIR M1 (2020)"
+   ],
+   "3551100625": [
+    600.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M1 512gb Neu und eingeschweißt ungeöffnet."
    ]
   },
   "MacBook Air M2": {
@@ -5684,6 +5732,12 @@
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air 13\" M2 (2022)"
+   ],
+   "3551106663": [
+    700.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M2 (2022) – 16 GB RAM / 256 GB SSD – 13,6\""
    ]
   },
   "Makita DHP485 Set": {
@@ -7457,7 +7511,7 @@
    ],
    "3536838788": [
     629.0,
-    "2026-10-21",
+    "2026-10-24",
     "2026-10-21",
     "MSI RTX 4070 SUPER 12G VENTUS 2X OC"
    ],
@@ -10536,6 +10590,18 @@
     "2026-10-24",
     "2026-10-24",
     "Sony WH-1000XM5 Kopfhörer mit Noise Cancelling"
+   ],
+   "3551040703": [
+    109.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Sony WH-1000XM5"
+   ],
+   "3551043614": [
+    139.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Sony WH-1000XM5 NEU"
    ]
   },
   "Synology DS220+": {
