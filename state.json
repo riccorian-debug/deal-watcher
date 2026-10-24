@@ -410,10 +410,11 @@
   "3550168237": "2026-10-24",
   "3550268613": "2026-10-24",
   "3550416187": "2026-10-24",
-  "3550454194": "2026-10-24"
+  "3550454194": "2026-10-24",
+  "3550575634": "2026-10-24"
  },
- "laeufe": 237,
- "letzter_lauf": "2026-10-24T11:55:10",
+ "laeufe": 238,
+ "letzter_lauf": "2026-10-24T13:04:41",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2575,6 +2576,12 @@
     "2026-10-24",
     "2026-10-23",
     "Multimeter Fluke 87 V, mit Zubehör, neuwertig"
+   ],
+   "3550320064": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "fluke 87 v, 87 5, neuwertig,  Multimeter"
    ]
   },
   "Fujitsu Primergy TX1320 M4": {
@@ -2937,6 +2944,12 @@
     "2026-10-24",
     "2026-10-23",
     "Intel core i7 14700k"
+   ],
+   "3550543986": [
+    290.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Intel i7 14700K"
    ]
   },
   "Keychron Tastatur": {
@@ -3740,6 +3753,18 @@
     "2026-10-24",
     "2026-10-23",
     "ThinkPad Universal Thunderbolt 4 Dock Docking Station Lenovo"
+   ],
+   "3550452503": [
+    129.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkPad Universal Thunderbolt 4 Dock + 135W Netzteil"
+   ],
+   "3550575634": [
+    80.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkPad Thunderbolt 4 Workstation Dockstation"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -4680,6 +4705,12 @@
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air M1 256GB SSD 8GB RAM"
+   ],
+   "3550517416": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Macbook air M1 300€ Festpreis nur heute"
    ]
   },
   "MacBook Air M2": {
@@ -5240,6 +5271,12 @@
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air M2 – 8 GB RAM / 128 GB SSD – Mitternacht"
+   ],
+   "3550495059": [
+    600.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M2 13,6 Zoll 2022 | 8 GB RAM | 256 GB | Mitternacht"
    ]
   },
   "Makita DHP485 Set": {
@@ -5461,7 +5498,7 @@
    ],
    "3545792198": [
     250.0,
-    "2026-10-23",
+    "2026-10-24",
     "2026-10-21",
     "MSI RTX 3060 12 GB OC Grafikkarte"
    ],
@@ -5632,6 +5669,12 @@
     "2026-10-24",
     "2026-10-24",
     "NVIDIA GeForce RTX 3060 12GB TOP Zustand"
+   ],
+   "3550492023": [
+    350.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte GeForce RTX 3060 12GB Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -6054,6 +6097,12 @@
     "2026-10-24",
     "2026-10-24",
     "Gigabyte RTX 3070 Eagle OC"
+   ],
+   "3550539739": [
+    320.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Asus Tuf Gaming GeForce RTX 3070 OC Edition"
    ]
   },
   "RTX 3080": {
@@ -7286,7 +7335,7 @@
     "rtx 4080 asus rog strix"
    ],
    "3550129561": [
-    1200.0,
+    1150.0,
     "2026-10-24",
     "2026-10-24",
     "Nvidia GeForce RTX 4080 - 16GB GDDR6X"
@@ -8247,6 +8296,12 @@
     "2026-10-24",
     "2026-10-23",
     "Ryzen 7 7800 X3D"
+   ],
+   "3550569843": [
+    265.0,
+    "2026-10-24",
+    "2026-10-24",
+    "AMD Ryzen 7 7800X3D Prozessor - Neu & OVP"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -8751,6 +8806,18 @@
     "2026-10-24",
     "2026-10-24",
     "Samsung 990 PRO 2TB NVMe SSD - Neu"
+   ],
+   "3550484984": [
+    160.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Samsung SSD 990 Pro 2 TB NVMe M.2"
+   ],
+   "3550532233": [
+    320.0,
+    "2026-10-24",
+    "2026-10-24",
+    "SAMSUNG Speicher MZ-V9P2T0G 990 PRO interne SSD mit 2TB Kühlkörpe"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -9602,7 +9669,7 @@
     "Sony WH-1000XM5 Kopfhörer schwarz NUR BIS FREITAG"
    ],
    "3546040870": [
-    170.0,
+    165.0,
     "2026-10-24",
     "2026-10-23",
     "Sony WH-1000XM5 Kopfhörer - Neu in OVP"
@@ -9644,8 +9711,8 @@
     "Sony WH-1000XM5 Over-Ear Kopfhörer Noise Cancelling schwarz"
    ],
    "3548969043": [
-    140.0,
-    "2026-10-23",
+    150.0,
+    "2026-10-24",
     "2026-10-23",
     "Sony WH-1000XM5 – Premium Bluetooth-Kopfhörer zu verkaufen"
    ],
@@ -9686,7 +9753,7 @@
     "Sony WH-1000XM5"
    ],
    "3549834974": [
-    141.0,
+    139.0,
     "2026-10-24",
     "2026-10-23",
     "Sony Wh 1000 XM5 Kopfhörer"
@@ -9708,6 +9775,18 @@
     "2026-10-24",
     "2026-10-24",
     "Sony WH1000XM5 Over-Ear-Kopfhörer"
+   ],
+   "3550404607": [
+    119.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Sony WH-1000XM5 Kopfhörer schwarz"
+   ],
+   "3550569222": [
+    200.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Sony WH-1000XM5 Over-Ear ANC Bluetooth Wireless Kopfhörer Neu OVP"
    ]
   },
   "Synology DS220+": {
@@ -9945,7 +10024,7 @@
    ],
    "3533807180": [
     400.0,
-    "2026-10-23",
+    "2026-10-24",
     "2026-10-22",
     "ThinkPad T14 Gen 2, i7-1185G7, 32 GB RAM, 512 GB Speicher"
    ],
@@ -10037,7 +10116,7 @@
   "ThinkPad T14 Gen 3": {
    "3342897413": [
     539.0,
-    "2026-10-23",
+    "2026-10-24",
     "2026-10-22",
     "Lenovo Thinkpad T14 Gen3 AMD - Ryzen 5 6650U - 16 GB - Laptop"
    ],
@@ -10433,6 +10512,12 @@
     "2026-10-24",
     "2026-10-24",
     "Western Digital WD_BLACK SN850X 2TB NVMe SSD PCIe 4.0"
+   ],
+   "3550538227": [
+    220.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Western Digital WD_BLACK SN850X NVMe SSD (2 TB)"
    ]
   },
   "WD Red Plus 4TB": {
