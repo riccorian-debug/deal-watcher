@@ -410,8 +410,8 @@
   "3550168237": "2026-10-24",
   "3550268613": "2026-10-24"
  },
- "laeufe": 235,
- "letzter_lauf": "2026-10-24T09:55:10",
+ "laeufe": 236,
+ "letzter_lauf": "2026-10-24T10:52:59",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1375,11 +1375,23 @@
     "2026-10-24",
     "G.SKILL Ripjaws S5 32GB DDR5-6000 CL30 RAM Kit (2x16GB)"
    ],
+   "3550236430": [
+    400.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Patriot Viper Venom DDR5 32GB Kit (2x16GB) 6000MT/s"
+   ],
    "3550255024": [
     450.0,
     "2026-10-24",
     "2026-10-24",
     "Team Group T-Force Delta RGB 32GB (2x16GB) DDR5-6000 CL38"
+   ],
+   "3550368409": [
+    500.0,
+    "2026-10-24",
+    "2026-10-24",
+    "G.Skill Trident Z5 Neo RGB 32GB DDR5-6000 CL30 – Gaming RAM – RGB"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4467,6 +4479,30 @@
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air M1 2020"
+   ],
+   "3550288658": [
+    450.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air 13,3\" M1 | 16 GB"
+   ],
+   "3550334236": [
+    465.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M1 | 13,3\" | 8 GB RAM | 256 GB SSD"
+   ],
+   "3550338107": [
+    450.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air 13\" M1 8/256GB Space Grau + Ladegerät OVP TOP"
+   ],
+   "3550346108": [
+    479.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M1 2020 13” | 8 GB RAM | 256 GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -4991,6 +5027,30 @@
     "2026-10-24",
     "2026-10-24",
     "MacBook Air 2022 mit M2 Chip"
+   ],
+   "3550277086": [
+    890.0,
+    "2026-10-24",
+    "2026-10-24",
+    "15“ MacBook Air mit Apple M2 Chip"
+   ],
+   "3550291868": [
+    599.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M2 (2022) – neu, unbenutzt, Akku 100 %, OVP"
+   ],
+   "3550319823": [
+    750.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M2 - 13\" - 256GB Speicher - 100% Akku"
+   ],
+   "3550356756": [
+    400.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M2 (2022) – 16 GB RAM – 256 GB SSD"
    ]
   },
   "Makita DHP485 Set": {},
@@ -5682,7 +5742,7 @@
     250.0,
     "2026-10-24",
     "2026-10-24",
-    "ZOTAC GAMING GeForce RTX 3070 AMP HoloBlack"
+    "NVIDIA GeForce RTX 3070 HoloBlack"
    ],
    "3550015584": [
     350.0,
@@ -6051,6 +6111,12 @@
     "2026-10-24",
     "2026-10-24",
     "Nvidia GeForce rtx 3080 10gb MSI Suprim X"
+   ],
+   "3550316923": [
+    399.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MSI GeForce RTX 3080 Gaming Z Trio Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -6555,6 +6621,12 @@
     "2026-10-24",
     "2026-10-24",
     "Rtx 4070 Super Grafikkarte"
+   ],
+   "3550296787": [
+    650.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte GeForce RTX 4070 Super Windforce OC 12GB"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -6578,7 +6650,7 @@
    ],
    "3510992616": [
     999.0,
-    "2026-10-21",
+    "2026-10-24",
     "2026-10-21",
     "KFA2 GeForce RTX 4070 Ti SUPER EX Gamer inkl. Razer eGPU Core X"
    ],
@@ -6692,6 +6764,12 @@
    ]
   },
   "RTX 4080": {
+   "3431275466": [
+    1299.0,
+    "2026-10-24",
+    "2026-10-24",
+    "ASUS RTX 4080 SUPER 16GB Noctua OC Edition Flüssigmetall Upsiren"
+   ],
    "3524690217": [
     1299.0,
     "2026-10-21",
@@ -7077,6 +7155,12 @@
     "2026-10-24",
     "2026-10-23",
     "AMD XFX Radeon RX 6800 XT Grafikkarte"
+   ],
+   "3550324605": [
+    400.0,
+    "2026-10-24",
+    "2026-10-24",
+    "TUF AMD READEON RX6800 XT 16GB"
    ]
   },
   "RX 7800 XT": {
@@ -7813,7 +7897,7 @@
    ],
    "3547619563": [
     220.0,
-    "2026-10-22",
+    "2026-10-24",
     "2026-10-21",
     "AMD Ryzen 7 7800X3D Prozessor CPU"
    ],
@@ -8843,6 +8927,18 @@
     "2026-10-24",
     "2026-10-23",
     "Seagate IronWolf Festplatte 4TB"
+   ],
+   "3550309811": [
+    115.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Seagate IRONWOLF 4TB HD 3,5Zoll interne Festplatte"
+   ],
+   "3550312474": [
+    115.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Seagate IRONWOLF 4TB HD 3,5Zoll interne Festplatte"
    ]
   },
   "Seagate IronWolf 8TB": {
@@ -10020,6 +10116,12 @@
     "2026-10-24",
     "2026-10-23",
     "WD Black SN850X SSD 2TB Neu"
+   ],
+   "3550277605": [
+    310.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Western Digital WD_BLACK SN850X 2TB NVMe SSD PCIe 4.0"
    ]
   },
   "WD Red Plus 4TB": {
