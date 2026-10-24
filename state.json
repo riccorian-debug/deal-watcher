@@ -421,8 +421,8 @@
   "3550874306": "2026-10-24",
   "3550891756": "2026-10-24"
  },
- "laeufe": 243,
- "letzter_lauf": "2026-10-24T17:49:05",
+ "laeufe": 244,
+ "letzter_lauf": "2026-10-24T18:57:43",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1645,6 +1645,12 @@
     "2026-10-24",
     "2026-10-24",
     "Corsair Vengeance DDR5 RAM 32Gb 6000 MHz"
+   ],
+   "3550977057": [
+    480.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Patriot Viper Venom DDR5 32GB (2×16GB) 6000MHz CL30 – Neu"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2700,6 +2706,12 @@
     "2026-10-24",
     "2026-10-24",
     "SK hynix 32GB DDR4 3200MHz SO-DIMM Laptop RAM"
+   ],
+   "3550962598": [
+    149.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Samsung 32GB (2x 16GB) DDR4 SO-DIMM RAM 3200 MHz Dual Channel"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -2929,7 +2941,7 @@
     "HP Inc. Thunderbolt Dock G4"
    ],
    "3539681157": [
-    80.0,
+    75.0,
     "2026-10-24",
     "2026-10-23",
     "HP Thunderbolt Dock G4 (HSN-IX03) inkl. Netzteil. DGUV geprüft"
@@ -3051,6 +3063,12 @@
     "2026-10-24",
     "2026-10-21",
     "Intel Core i5-13600K Prozessor 13. Generation LGA1700"
+   ],
+   "3550990246": [
+    150.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Intel Core I5 13600K"
    ]
   },
   "Intel i7-12700K": {
@@ -3089,6 +3107,12 @@
     "2026-10-24",
     "2026-10-21",
     "Intel Core i7-12700K Prozessor CPU"
+   ],
+   "3550974863": [
+    199.0,
+    "2026-10-24",
+    "2026-10-24",
+    "CPU Intel I7 12700k"
    ]
   },
   "Intel i7-14700K": {
@@ -3954,6 +3978,12 @@
     "2026-10-24",
     "2026-10-24",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dockstation"
+   ],
+   "3551010067": [
+    120.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B00135EU TOP"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -4936,6 +4966,12 @@
     "2026-10-24",
     "2026-10-24",
     "MacBook Air M1 (2020) 16 GB / 512 GB, neues Display, Space Grau"
+   ],
+   "3550998917": [
+    399.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M1 2020, 8GB RAM, 256GB, Space Grau"
    ]
   },
   "MacBook Air M2": {
@@ -5967,6 +6003,12 @@
     "2026-10-24",
     "NVIDIA GeForce RTX 3060 12GB TOP Zustand"
    ],
+   "3550472044": [
+    350.0,
+    "2026-10-24",
+    "2026-10-24",
+    "EVGA GeForce RTX 3060  XC GAMING 12GB Grafikkarte"
+   ],
    "3550492023": [
     350.0,
     "2026-10-24",
@@ -6002,6 +6044,12 @@
     "2026-10-24",
     "2026-10-24",
     "Gigabyte GeForce RTX 3060 Gaming OC 12GB Grafikkarte OVP"
+   ],
+   "3550950203": [
+    280.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gaming-Grafikkarte GeForce RTX 3060 12 GB zu verkaufen"
    ]
   },
   "RTX 3070": {
@@ -6460,6 +6508,24 @@
     "2026-10-24",
     "2026-10-24",
     "Gigabyte GeForce RTX 3070 Vision OC 8GB (Weiß)"
+   ],
+   "3550974953": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MSI GeForce RTX 3070 Ventus 3X 8G OC LHR | 8GB GDDR6 Abholung"
+   ],
+   "3550987616": [
+    339.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Asus Dual RTX 3070 8GB"
+   ],
+   "3551002732": [
+    330.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Grafikkart MSI RTX 3070"
    ]
   },
   "RTX 3080": {
@@ -7204,6 +7270,12 @@
     "2026-10-24",
     "2026-10-24",
     "Rtx 4070 founders Edition"
+   ],
+   "3551008294": [
+    400.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Zotac Gaming GeForce RTX 4070 Twin Edge OC Edition"
    ]
   },
   "RTX 4070 Super": {
@@ -7885,6 +7957,12 @@
     "2026-10-23",
     "AMD XFX Radeon RX 6800 XT Grafikkarte"
    ],
+   "3550275023": [
+    350.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Grafik AS Rock RX 6800 XT"
+   ],
    "3550324605": [
     350.0,
     "2026-10-24",
@@ -8144,6 +8222,12 @@
     "2026-10-24",
     "2026-10-24",
     "ASRock Radeon RX 7800 XT Phantom Gaming 16GB OC Grafikkarte"
+   ],
+   "3550992347": [
+    370.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte AMD Radeon RX 7800 XT Gaming RGB OC 16 GB GDDR6"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -8859,6 +8943,12 @@
     "2026-10-24",
     "2026-10-24",
     "AMD Ryzen 7 9800x3d CPU Prozessor AM5"
+   ],
+   "3550984807": [
+    450.0,
+    "2026-10-24",
+    "2026-10-24",
+    "AMD Ryzen 7 9800X3D Prozessor CPU"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -9183,7 +9273,7 @@
     "Samsung SSD 990 PRO 2TB - NEU"
    ],
    "3547733082": [
-    275.0,
+    270.0,
     "2026-10-24",
     "2026-10-21",
     "Samsung m.2 990 PRO 2TB NVMe SSD - neuwertig"
@@ -10612,6 +10702,12 @@
     "2026-10-24",
     "2026-10-24",
     "⭐️LENOVO THINKPAD T14 GEN2 24GB 512GB DOCKINGSTATION ⭐️"
+   ],
+   "3550979986": [
+    315.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkPad T14 Gen 2 · Core i5 · 16 GB · 256 GB SSD · Win11✅"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -10990,6 +11086,12 @@
     "2026-10-21",
     "Western Digital WD_BLACK SN850X 2TB NVMe SSD"
    ],
+   "3541852143": [
+    259.0,
+    "2026-10-24",
+    "2026-10-24",
+    "WD_BLACK SN850X NVMe SSD 2TB"
+   ],
    "3542989179": [
     235.0,
     "2026-10-22",
@@ -11077,7 +11179,7 @@
     "Western Digital 4 TB WD Red Plus"
    ],
    "3549464427": [
-    190.0,
+    185.0,
     "2026-10-24",
     "2026-10-23",
     "Western Digital WD Red Plus 4TB NAS Festplatte - Neu"
