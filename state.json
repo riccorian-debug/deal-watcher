@@ -408,10 +408,12 @@
   "3550139886": "2026-10-24",
   "3550156154": "2026-10-24",
   "3550168237": "2026-10-24",
-  "3550268613": "2026-10-24"
+  "3550268613": "2026-10-24",
+  "3550416187": "2026-10-24",
+  "3550454194": "2026-10-24"
  },
- "laeufe": 236,
- "letzter_lauf": "2026-10-24T10:52:59",
+ "laeufe": 237,
+ "letzter_lauf": "2026-10-24T11:55:10",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -625,6 +627,12 @@
     "2026-10-23",
     "Franzis Arduino Lernpaket / Starter Kit"
    ],
+   "3536146687": [
+    33.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Elegoo Starter Kit MEGA Arduino 2560"
+   ],
    "3537709967": [
     10.0,
     "2026-10-24",
@@ -705,7 +713,92 @@
    ]
   },
   "Bosch GBH 18V-26": {},
-  "Bosch GSR 18V-60 Set": {},
+  "Bosch GSR 18V-60 Set": {
+   "3139321988": [
+    179.0,
+    "2026-10-24",
+    "2026-10-24",
+    "BOSCH BOHRSCHRAUBER GSR 18V-60C SET AKKU KOFFER WERSTATT"
+   ],
+   "3156704953": [
+    119.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch pro blau GSR 18V-60C brushless inkl. BT und Wera Rapidaptor"
+   ],
+   "3391949728": [
+    139.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Akkuschrauber GSR 18V-60 mit L-Boxx und 4 Ah Akku"
+   ],
+   "3394565783": [
+    150.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional 18V GSR 18V-60 C Akkuschrauber Akkubohrschraub"
+   ],
+   "3448642755": [
+    110.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch GSR 18V-60C mit 4Ah Akku+Koffer+Rechnung"
+   ],
+   "3473698006": [
+    99.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch GSR 18V-60C mit neuem GBA 18V 4Ah Akku und Ladegerät"
+   ],
+   "3511629733": [
+    141.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional GSR 18V-60 FC Akku Schrauber FlexiClick"
+   ],
+   "3528173519": [
+    320.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch GSR 18V-60 FC Akkubohrschrauber im Koffer"
+   ],
+   "3534892022": [
+    90.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional gsr 18v-60"
+   ],
+   "3542124934": [
+    180.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Bohrschrauber 'GSR 18V-60 C Professional"
+   ],
+   "3542191177": [
+    115.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Akkuschrauber 18V (GSR 18V-60 C) inkl. 2 Akkus & Lader"
+   ],
+   "3546307311": [
+    250.0,
+    "2026-10-24",
+    "2026-10-24",
+    "BOSCH GSR 18V 60 FC mit viel Zubehör"
+   ],
+   "3549018421": [
+    100.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch GSR 18V-60 C Akku-Bohrschrauber L-Boxx Akkuschrauber NEU"
+   ],
+   "3549721520": [
+    142.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional GSR 18V-60 FC Akku Schrauber FlexiClick"
+   ]
+  },
   "Bose QuietComfort": {
    "3548290890": [
     150.0,
@@ -808,6 +901,12 @@
     "2026-10-24",
     "2026-10-24",
     "BOSE QUIETCOMFORT ULTRA 2 nd GEN FAST NEU"
+   ],
+   "3550174265": [
+    249.95,
+    "2026-10-24",
+    "2026-10-24",
+    "Bose Quietcomfort 45"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -1357,8 +1456,14 @@
     "2026-10-23",
     "Crucial DDR5 Pro RAM 32GB 6000MHz UDIMM"
    ],
+   "3550115751": [
+    475.0,
+    "2026-10-24",
+    "2026-10-24",
+    "NEU - Corsair Vengeance DDR5 32GB (2x16GB) 6000MHz"
+   ],
    "3550117962": [
-    500.0,
+    499.0,
     "2026-10-24",
     "2026-10-24",
     "Crucial Pro DDR5 32GB (2x16GB) 6000MHz CL 36 RAM Kit"
@@ -1392,6 +1497,18 @@
     "2026-10-24",
     "2026-10-24",
     "G.Skill Trident Z5 Neo RGB 32GB DDR5-6000 CL30 – Gaming RAM – RGB"
+   ],
+   "3550385735": [
+    500.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Corsair Vengeance RGB 32GB DDR5 6000MHz CL30 RAM Arbeitsspeicher"
+   ],
+   "3550414793": [
+    450.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Viper Gaming Venom DDR5 32GB (2x16GB) 6000MT/s RAM Kit"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1729,10 +1846,10 @@
     "Dell WD19TB Thunderbolt Dock mit Netzteil"
    ],
    "3447956867": [
-    130.0,
+    59.0,
     "2026-10-24",
     "2026-10-23",
-    "Dell WD19TB / WD19DCS Thunderbolt Dock – Neu & OVP"
+    "Dell WD19TB Thunderbolt Dock – Neu in OVP"
    ],
    "3456529963": [
     60.0,
@@ -3104,6 +3221,18 @@
     "2026-10-24",
     "2026-10-23",
     "Keychron K2 wireless Gaming Tastatur"
+   ],
+   "3550276879": [
+    55.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Keychron K3 V2 - Braune Switches"
+   ],
+   "3550399397": [
+    199.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Keychron Q5 Max – 96% Alu-Tastatur, kabellos (2,4 GHz/BT), QMK/VI"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -3459,6 +3588,12 @@
     "2026-10-24",
     "2026-10-23",
     "PC Bildschirm Lenovo ThinkVision P27h-30"
+   ],
+   "3550454194": [
+    120.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkVision P27h-10,  27\""
    ]
   },
   "Lenovo Thunderbolt 4 Dock": {
@@ -3837,7 +3972,7 @@
     "Lenovo ThinkPad USB-C Dock Gen 2 mit 90W Netzteil"
    ],
    "3543250699": [
-    65.0,
+    60.0,
     "2026-10-24",
     "2026-10-23",
     "lenovo Thinkpad usb c Dock  gen 2"
@@ -3871,6 +4006,30 @@
     "2026-10-24",
     "2026-10-23",
     "Lenovo ThinkPad USB-C Dock Gen2 LDC-G2 40AS Laptop Dockingstation"
+   ],
+   "3550190968": [
+    49.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkPad USB-C Dock Gen 2 mit 90W Netzteil"
+   ],
+   "3550236638": [
+    40.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) inkl. Netzteil 90W"
+   ],
+   "3550370239": [
+    40.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkPad USB-C Dock Gen2 (40AS0090EU)"
+   ],
+   "3550428485": [
+    25.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkPad USB-C Dock Gen2 Docking Station"
    ]
   },
   "MacBook Air M1": {
@@ -4503,6 +4662,24 @@
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air M1 2020 13” | 8 GB RAM | 256 GB SSD"
+   ],
+   "3550383874": [
+    500.0,
+    "2026-10-24",
+    "2026-10-24",
+    "M1 Macbook Air 16gb 512gb"
+   ],
+   "3550423557": [
+    460.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M1, 16GB RAM, 256GB SSD, Spacegrey,sehr guter Zustand"
+   ],
+   "3550432260": [
+    400.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M1 256GB SSD 8GB RAM"
    ]
   },
   "MacBook Air M2": {
@@ -5051,10 +5228,90 @@
     "2026-10-24",
     "2026-10-24",
     "MacBook Air M2 (2022) – 16 GB RAM – 256 GB SSD"
+   ],
+   "3550378186": [
+    625.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M2 13 Zoll | 256 GB | 8 GB RAM | Mitternacht | OVP"
+   ],
+   "3550453362": [
+    700.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M2 – 8 GB RAM / 128 GB SSD – Mitternacht"
    ]
   },
-  "Makita DHP485 Set": {},
-  "Makita DTD153/172 Set": {},
+  "Makita DHP485 Set": {
+   "3438546227": [
+    240.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita DHP485RTJ 2x5Ah Akku"
+   ],
+   "3439223304": [
+    125.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita Werkzeugkoffer DHP 485"
+   ],
+   "3461896836": [
+    220.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita Schlagbohrschrauber DHP 485 RFE - Unbenutzt -"
+   ],
+   "3519685358": [
+    70.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita DHP485 Akku-Schlagbohrschrauber"
+   ],
+   "3524699465": [
+    129.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita DHP485 18V"
+   ],
+   "3538518516": [
+    219.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita DHP485RTJ Akku-Schlagbohrschrauber im Set"
+   ]
+  },
+  "Makita DTD153/172 Set": {
+   "2603285051": [
+    255.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita DTD172 Akku Schlagschrauber 18 V Steckschlüssel Handschuhe"
+   ],
+   "2969793318": [
+    349.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita 1/4 Zoll Akku Schlagschrauber DTD 172 RTJ mit 2 Akkus 5,0"
+   ],
+   "3518898578": [
+    149.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita DTD172 Schlagschrauber – sehr guter Zustand"
+   ],
+   "3536206225": [
+    120.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita Schlagschrauber DTD172 BL (180 Nm / 18V / 1/4\" )"
+   ],
+   "3548252388": [
+    330.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita Akku-Schlagschrauber DTD172RTJ + kostenlosem BIT-Set"
+   ]
+  },
   "Pinecil Lötkolben": {
    "3549997068": [
     75.0,
@@ -5785,6 +6042,18 @@
     "2026-10-24",
     "2026-10-24",
     "SOYO Ace Dragon Nvidia GeForce RTX 3070 8GB GDDR6 Grafikkarte 3DP"
+   ],
+   "3550390242": [
+    350.0,
+    "2026-10-24",
+    "2026-10-24",
+    "GeForce RTX 3070 Founders Edition | OVP"
+   ],
+   "3550414664": [
+    280.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte RTX 3070 Eagle OC"
    ]
   },
   "RTX 3080": {
@@ -6117,6 +6386,12 @@
     "2026-10-24",
     "2026-10-24",
     "MSI GeForce RTX 3080 Gaming Z Trio Grafikkarte"
+   ],
+   "3550438090": [
+    500.0,
+    "2026-10-24",
+    "2026-10-24",
+    "GeForce RTX 3080 12gb"
    ]
   },
   "RTX 4060 Ti": {
@@ -6187,7 +6462,7 @@
     "KFA2 GeForce RTX 4060 Ti 8GB 1-Click OC Grafikkarte"
    ],
    "3520552937": [
-    450.0,
+    400.0,
     "2026-10-24",
     "2026-10-23",
     "ASUS DUAL Grafikkarte weiß RTX4060TI"
@@ -6337,7 +6612,7 @@
     "RTX 4060 TI 16GB"
    ],
    "3549358317": [
-    400.0,
+    380.0,
     "2026-10-24",
     "2026-10-23",
     "GEFORCE RTX 4060TI"
@@ -6481,6 +6756,12 @@
     "2026-10-24",
     "2026-10-23",
     "ZOTAC Gaming GeForce RTX 4070 Twin Edge OC Edition 12GB"
+   ],
+   "3550392503": [
+    620.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte GeForce RTX 4070 Gaming OC 12G Grafikkarte"
    ]
   },
   "RTX 4070 Super": {
@@ -7403,6 +7684,12 @@
     "2026-10-24",
     "2026-10-24",
     "RX 7800 xt"
+   ],
+   "3550373301": [
+    650.0,
+    "2026-10-24",
+    "2026-10-24",
+    "XFX Speedster QICK 319 AMD Radeon RX 7800 XT - 16GB (OVP)"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -7459,6 +7746,12 @@
     "2026-10-22",
     "2026-10-22",
     "Raspberry Pi 5 16GB  mit Gehäuse und Netzteil"
+   ],
+   "3550418248": [
+    149.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Raspberry Pi 5 16 GB mit Zubehör"
    ]
   },
   "Raspberry Pi 5 8GB": {
@@ -7665,6 +7958,18 @@
     "2026-10-24",
     "2026-10-24",
     "Raspberry Pi 5 8GB Starter Kit Netzteil"
+   ],
+   "3550387453": [
+    199.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Raspberry Pi 5 8GB + Argon NEO 5 Alu-Gehäuse + offizielles 27W-Ne"
+   ],
+   "3550434795": [
+    170.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Raspberry Pi 5 – 8 GB RAM – OVP"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -8823,6 +9128,12 @@
     "2026-10-24",
     "2026-10-23",
     "Seagate IronWolf 12TB NAS HDD 7200 RPM SMART geprüft"
+   ],
+   "3550416187": [
+    220.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Seagate IronWolf 12 TB NAS HDD – 9.376 Std. – SMART-Langzeittest"
    ]
   },
   "Seagate IronWolf 4TB": {
@@ -10698,10 +11009,16 @@
     "Sonoff Zigbee Stick 3.0"
    ],
    "3549079254": [
-    15.0,
+    10.0,
     "2026-10-24",
     "2026-10-23",
     "CC2531 Zigbee USB Stick für Zigbee2MQTT"
+   ],
+   "3550433995": [
+    39.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Home Assistant Connect ZBT-1 (SkyConnect) Zigbee Thread USB-Stick"
    ]
   }
  },
