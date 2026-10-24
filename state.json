@@ -415,10 +415,12 @@
   "3550607978": "2026-10-24",
   "3550621056": "2026-10-24",
   "3550625103": "2026-10-24",
-  "3550648514": "2026-10-24"
+  "3550648514": "2026-10-24",
+  "3550744484": "2026-10-24",
+  "3550806197": "2026-10-24"
  },
- "laeufe": 240,
- "letzter_lauf": "2026-10-24T14:51:24",
+ "laeufe": 241,
+ "letzter_lauf": "2026-10-24T15:56:01",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -715,9 +717,118 @@
     "2026-10-24",
     "2026-10-23",
     "Arduino The Most Complete Starter Kit UNO R3 Project"
+   ],
+   "3550527397": [
+    40.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Arduino Grover Starter Kit"
    ]
   },
-  "Bosch GBH 18V-26": {},
+  "Bosch GBH 18V-26": {
+   "3368482000": [
+    160.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch gbh 18 v-26"
+   ],
+   "3397057884": [
+    400.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch,Professional Akku-Bohrhammer GBH 18V-26"
+   ],
+   "3457804860": [
+    180.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional Bohrmaschine Bohrhammer GBH 18V-26 SDS plus"
+   ],
+   "3476493907": [
+    240.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional GBH 18v 26F in Lboxx"
+   ],
+   "3481269854": [
+    160.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional Bohrhammer GBH 18V-26 mit Akku und Ladegerät"
+   ],
+   "3496380630": [
+    200.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional GBH 18V-26 F"
+   ],
+   "3505187939": [
+    310.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch GBH 18V-26 Akkubohrhammer Kombihammer Stemmhammer"
+   ],
+   "3506968282": [
+    400.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Bohrmaschine Professional  GBH 18v- 26 mit diversen Zubehör"
+   ],
+   "3518304295": [
+    180.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch GBH 18 V 26 Akku Bohrhammer"
+   ],
+   "3524298673": [
+    200.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch GBH 18V-26 D Professional Akku-Bohrhammer - Neu"
+   ],
+   "3529071118": [
+    269.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional Akku-Bohrhammer / Kombihammer GBH 18 V-26 D"
+   ],
+   "3534652530": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional GBH 18V-26"
+   ],
+   "3538036552": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch professional GBH 18V 26"
+   ],
+   "3538136542": [
+    279.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch GBH 18V-26 F Akku-Bohrhammer + GDE 18V-16 Absaugung L-Boxx"
+   ],
+   "3544662246": [
+    150.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Akku Bohrhammer GBH 18V-26"
+   ],
+   "3546818213": [
+    250.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Bohrhammer GBH 18V-26 inkl. 8.0 Ah ProCORE Akku"
+   ],
+   "3549690217": [
+    203.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Bosch Professional Akku Bohrhammer GBH 18V-26F"
+   ]
+  },
   "Bosch GSR 18V-60 Set": {
    "3139321988": [
     179.0,
@@ -1526,6 +1637,12 @@
     "2026-10-24",
     "2026-10-24",
     "32GB Kingston Fury Beast RGB 6000MHz CL36 DDR5 RAM 2x 16GB"
+   ],
+   "3550771684": [
+    500.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Corsair Vengeance DDR5 RAM 32Gb 6000 MHz"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1831,7 +1948,7 @@
     "Dell U2723QE Monitor 27 Zoll 4K"
    ],
    "3549198208": [
-    310.0,
+    300.0,
     "2026-10-24",
     "2026-10-23",
     "Dell U2723QE Monitor 27 Zoll"
@@ -2151,6 +2268,12 @@
     "2026-10-24",
     "2026-10-24",
     "Laptop HP EliteBook 840 G8, Intel i5 11. Gen, 16GB RAM, 500GB SSD"
+   ],
+   "3550751178": [
+    200.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Hp Elitebook 840 G8 i5 11gen 16GB RAM 500SSD Windows 11 Lesen"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -2868,6 +2991,12 @@
     "2026-10-24",
     "2026-10-24",
     "HP Thunderbolt Dock G4 120W"
+   ],
+   "3550693140": [
+    100.0,
+    "2026-10-24",
+    "2026-10-24",
+    "HP Thunderbolt Dock 120W G4 – Neu & OVP (Originalverpackung)"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -2981,6 +3110,12 @@
    ]
   },
   "Keychron Tastatur": {
+   "3521646576": [
+    125.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Keychron K5 Max Full Size Wireless Mechanical Keyboard"
+   ],
    "3543727692": [
     55.0,
     "2026-10-23",
@@ -3274,6 +3409,12 @@
     "2026-10-24",
     "2026-10-24",
     "Keychron Q5 Max – 96% Alu-Tastatur, kabellos (2,4 GHz/BT), QMK/VI"
+   ],
+   "3550503079": [
+    105.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Keychron K5 Max Red Switch"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -3410,7 +3551,7 @@
     "Labornetzteil Gleichspannungsregler 2x30V/1,5A 3222 + Schaltplan"
    ],
    "3531556730": [
-    60.0,
+    55.0,
     "2026-10-24",
     "2026-10-23",
     "Voltcraft Labornetzteil 0-30V , 0-2,5A ca. 1980"
@@ -4757,6 +4898,18 @@
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air M1 2020 – Silber – 99 % Akku"
+   ],
+   "3550806197": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M1, 8GB RAM, 256GB SSD, Silber"
+   ],
+   "3550811150": [
+    390.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M1 2020 13'' 8GB/512GB SSD Spacegrau"
    ]
   },
   "MacBook Air M2": {
@@ -5341,6 +5494,18 @@
     "2026-10-24",
     "2026-10-24",
     "APPLE MACBOOK AIR 13 ZOLL M2  8 GB RAM 256 GB SSD"
+   ],
+   "3550761021": [
+    750.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air 13,6 Zoll M2 8GB/256GB Mitternacht"
+   ],
+   "3550819620": [
+    780.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air 15‘‘ M2 (2023) 99% Akku Kapazität"
    ]
   },
   "Makita DHP485 Set": {
@@ -5379,6 +5544,18 @@
     "2026-10-24",
     "2026-10-24",
     "Makita DHP485RTJ Akku-Schlagbohrschrauber im Set"
+   ],
+   "3550735093": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita Akku-Bohrschrauber DHP485RTJ"
+   ],
+   "3550818353": [
+    75.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Makita DHP485 Akku-Schlagbohrschrauber 18V"
    ]
   },
   "Makita DTD153/172 Set": {
@@ -5751,6 +5928,18 @@
     "2026-10-24",
     "2026-10-24",
     "MSI GeForce RTX 3060 12GB"
+   ],
+   "3550771804": [
+    350.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Zotac Gaming GeForce RTX 3060 Twin Edge 12GB GDDR6"
+   ],
+   "3550811370": [
+    330.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte NVIDIA GeForce RTX 3060 Gaming OC 12GB"
    ]
   },
   "RTX 3070": {
@@ -6203,6 +6392,12 @@
     "2026-10-24",
     "2026-10-24",
     "Gigabyte GeForce RTX 3070 Vision OC 8GB (Weiß)"
+   ],
+   "3550742413": [
+    295.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte GeForce RTX 3070 Vision OC 8GB (Weiß)"
    ]
   },
   "RTX 3080": {
@@ -6541,6 +6736,12 @@
     "2026-10-24",
     "2026-10-24",
     "GeForce RTX 3080 12gb"
+   ],
+   "3550778785": [
+    400.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Nvidia GeForce RTX 3080 Turbo 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -6783,6 +6984,12 @@
     "2026-10-24",
     "2026-10-24",
     "RTX 4060TI 8gb"
+   ],
+   "3550806692": [
+    240.0,
+    "2026-10-24",
+    "2026-10-24",
+    "ASUS Dual GeForce RTX 4060 Ti OC Edition 16GB"
    ]
   },
   "RTX 4070": {
@@ -6917,6 +7124,12 @@
     "2026-10-24",
     "2026-10-24",
     "Gigabyte GeForce RTX 4070 Gaming OC 12G Grafikkarte"
+   ],
+   "3550803324": [
+    450.0,
+    "2026-10-24",
+    "2026-10-24",
+    "GeForce RTX 4070"
    ]
   },
   "RTX 4070 Super": {
@@ -8125,6 +8338,18 @@
     "2026-10-24",
     "2026-10-24",
     "Raspberry Pi 5 – 8 GB RAM – OVP"
+   ],
+   "3550465454": [
+    230.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Raspberry Pi 5 8GB mit Gehäuse - 250GB Samsung 980 NVME"
+   ],
+   "3550811718": [
+    150.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Raspberry Pi5 8GB RAM Neu und versiegelte OVP"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -8226,6 +8451,12 @@
     "2026-10-23",
     "2026-10-23",
     "AMD Ryzen7 5800X3D"
+   ],
+   "3550744484": [
+    180.0,
+    "2026-10-24",
+    "2026-10-24",
+    "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor CPU"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -8317,7 +8548,7 @@
     275.0,
     "2026-10-24",
     "2026-10-21",
-    "AMD Ryzen 7 7800X3D – AM5, 3D V-Cache, Top-Zustand (boxed)"
+    "AMD Ryzen 7 7800X3D – AM5, 3D V-Cache, Top-Zustand (boxed) OVP"
    ],
    "3545689129": [
     300.0,
@@ -9823,7 +10054,7 @@
     "SONY WH1000XM5 Bluetooth Kopfhörer"
    ],
    "3548791927": [
-    160.0,
+    140.0,
     "2026-10-24",
     "2026-10-23",
     "Sony WH-1000XM5 Over-Ear Kopfhörer Noise Cancelling schwarz"
@@ -9905,6 +10136,30 @@
     "2026-10-24",
     "2026-10-24",
     "Sony WH-1000XM5 Over-Ear ANC Bluetooth Wireless Kopfhörer Neu OVP"
+   ],
+   "3550721380": [
+    180.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Sony WH-1000XM5 Schwarz – Top-Zustand, fast wie neu im Full Set"
+   ],
+   "3550724189": [
+    170.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Sony WH-1000XM5 Wireless Noise Cancelling Headphones Kopfhörer"
+   ],
+   "3550737036": [
+    150.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Verkaufe neue, ungeöffnete Sony WH-1000XM5 Kopfhörer"
+   ],
+   "3550817418": [
+    135.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Sony WH-1000XM5 Kopfhörer mit Noise Cancelling"
    ]
   },
   "Synology DS220+": {
