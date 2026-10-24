@@ -417,10 +417,12 @@
   "3550625103": "2026-10-24",
   "3550648514": "2026-10-24",
   "3550744484": "2026-10-24",
-  "3550806197": "2026-10-24"
+  "3550806197": "2026-10-24",
+  "3550874306": "2026-10-24",
+  "3550891756": "2026-10-24"
  },
- "laeufe": 241,
- "letzter_lauf": "2026-10-24T15:56:01",
+ "laeufe": 242,
+ "letzter_lauf": "2026-10-24T16:53:28",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2480,6 +2482,18 @@
     "2026-10-24",
     "2026-10-24",
     "Samsung 16GB DDR4 SODIMM PC4 3200Mhz Dell Lenovo HP"
+   ],
+   "3550865139": [
+    60.0,
+    "2026-10-24",
+    "2026-10-24",
+    "16GB DDR4 RAM SK hynix 3200MHz SO-DIMM Laptop Arbeitsspeicher"
+   ],
+   "3550884748": [
+    65.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Kingston 16GB DDR4 RAM 3200 MHz SO-DIMM Laptop Arbeitsspeicher"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4910,6 +4924,18 @@
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air M1 2020 13'' 8GB/512GB SSD Spacegrau"
+   ],
+   "3550863604": [
+    450.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M1, 13,3 Zoll, 8GB RAM, 512GB SSD, Space Grau"
+   ],
+   "3550884148": [
+    575.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M1 (2020) 16 GB / 512 GB, neues Display, Space Grau"
    ]
   },
   "MacBook Air M2": {
@@ -5484,7 +5510,7 @@
     "Mac Book air 13.6 M2 98% Batterie"
    ],
    "3550594261": [
-    650.0,
+    690.0,
     "2026-10-24",
     "2026-10-24",
     "MacBook Air 13,6 M2. 8gb,512 gb Mit Zubehör.Top Zustand"
@@ -5506,6 +5532,12 @@
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air 15‘‘ M2 (2023) 99% Akku Kapazität"
+   ],
+   "3550883570": [
+    648.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air 13,6\" M2 Space Grau 8GB 256GB mit OVP"
    ]
   },
   "Makita DHP485 Set": {
@@ -5940,6 +5972,12 @@
     "2026-10-24",
     "2026-10-24",
     "Gigabyte NVIDIA GeForce RTX 3060 Gaming OC 12GB"
+   ],
+   "3550891630": [
+    299.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte GeForce RTX 3060 Gaming OC 12GB Grafikkarte OVP"
    ]
   },
   "RTX 3070": {
@@ -6391,7 +6429,7 @@
     300.0,
     "2026-10-24",
     "2026-10-24",
-    "Gigabyte GeForce RTX 3070 Vision OC 8GB (Weiß)"
+    "Gigabyte GeForce RTX 3070 Vision OC 8GB (Weiß)2.karte"
    ],
    "3550742413": [
     295.0,
@@ -7658,6 +7696,12 @@
     "2026-10-24",
     "2026-10-24",
     "Nvidia GeForce RTX 4080 - 16GB GDDR6X"
+   ],
+   "3550875278": [
+    1000.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MSI RTX 4080 Gaming x Trio"
    ]
   },
   "RX 6800 XT": {
@@ -7711,7 +7755,7 @@
    ],
    "3518500656": [
     450.0,
-    "2026-10-23",
+    "2026-10-24",
     "2026-10-21",
     "ASRock Taichi RX 6800 XT 16GB"
    ],
@@ -8058,6 +8102,12 @@
     "2026-10-24",
     "2026-10-24",
     "XFX Speedster QICK 319 AMD Radeon RX 7800 XT - 16GB (OVP)"
+   ],
+   "3550840122": [
+    500.0,
+    "2026-10-24",
+    "2026-10-24",
+    "ASRock Radeon RX 7800 XT Phantom Gaming 16GB OC Grafikkarte"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -9161,6 +9211,12 @@
     "2026-10-24",
     "2026-10-24",
     "SAMSUNG Speicher MZ-V9P2T0G 990 PRO interne SSD mit 2TB Kühlkörpe"
+   ],
+   "3550859320": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Samsung 990 PRO 2TB NVMe M.2 SSD mit Heatsink Neu und OVP"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -9550,6 +9606,12 @@
     "2026-10-24",
     "2026-10-24",
     "Seagate IronWolf 12 TB NAS HDD – 9.376 Std. – SMART-Langzeittest"
+   ],
+   "3550891756": [
+    160.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Seagate Ironwolf 12TB NAS HDD Festplatte"
    ]
   },
   "Seagate IronWolf 4TB": {
@@ -10490,6 +10552,12 @@
     "2026-10-24",
     "2026-10-24",
     "Lenovo ThinkPad T14 Gen2"
+   ],
+   "3550874306": [
+    270.0,
+    "2026-10-24",
+    "2026-10-24",
+    "⭐️LENOVO THINKPAD T14 GEN2 24GB 512GB DOCKINGSTATION ⭐️"
    ]
   },
   "ThinkPad T14 Gen 3": {
