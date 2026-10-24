@@ -406,10 +406,12 @@
   "3549775290": "2026-10-23",
   "3549910593": "2026-10-23",
   "3550139886": "2026-10-24",
-  "3550156154": "2026-10-24"
+  "3550156154": "2026-10-24",
+  "3550168237": "2026-10-24",
+  "3550268613": "2026-10-24"
  },
- "laeufe": 234,
- "letzter_lauf": "2026-10-24T08:55:23",
+ "laeufe": 235,
+ "letzter_lauf": "2026-10-24T09:55:10",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -948,6 +950,18 @@
     "2026-10-24",
     "2026-10-23",
     "32GB (2x 16GB) Micron Supermicro DDR4-2666V ECC RDIMM Server RAM"
+   ],
+   "3550204915": [
+    110.0,
+    "2026-10-24",
+    "2026-10-24",
+    "32GB Samsung DDR4-2400T ECC RDIMM Server RAM"
+   ],
+   "3550230244": [
+    120.0,
+    "2026-10-24",
+    "2026-10-24",
+    "HPE Micron 32GB DDR4 2666V ECC RDIMM Server-RAM"
    ]
   },
   "DDR4 ECC RDIMM 64GB": {
@@ -1317,7 +1331,7 @@
     420.0,
     "2026-10-24",
     "2026-10-23",
-    "G.Skill [SERIE] 32 GB Kit (2x16 GB) DDR5-6000 CL36 – F5-6000J3636"
+    "G.Skill 32 GB Kit (2x16 GB) DDR5-6000 CL36 – F5-6000J3636F16G"
    ],
    "3549860160": [
     400.0,
@@ -1360,6 +1374,12 @@
     "2026-10-24",
     "2026-10-24",
     "G.SKILL Ripjaws S5 32GB DDR5-6000 CL30 RAM Kit (2x16GB)"
+   ],
+   "3550255024": [
+    450.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Team Group T-Force Delta RGB 32GB (2x16GB) DDR5-6000 CL38"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2173,6 +2193,12 @@
     "2026-10-24",
     "2026-10-24",
     "16 GB DDR4 RAM SODIMM 3200 MHZ von TeamGroup NEU"
+   ],
+   "3550268613": [
+    50.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Samsung 16 GB (2×8 GB) DDR4-3200 SO-DIMM Laptop-RAM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -2367,6 +2393,18 @@
     "2026-10-24",
     "2026-10-24",
     "Crucial 32GB DDR4 3200 SODIMM Arbeitsspeicher"
+   ],
+   "3550192559": [
+    120.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Samsung 32GB DDR4 3200MHz SO-DIMM Laptop RAM"
+   ],
+   "3550193096": [
+    120.0,
+    "2026-10-24",
+    "2026-10-24",
+    "SK hynix 32GB DDR4 3200MHz SO-DIMM Laptop RAM"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -2614,7 +2652,7 @@
     "HP Thunderbolt Dock 280 G4 Dockingstation"
    ],
    "3546211036": [
-    84.0,
+    79.0,
     "2026-10-24",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 + Netzteil HSN-IX03 Kombinationskabel"
@@ -2660,6 +2698,12 @@
     "2026-10-24",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 (4J0G4AA)"
+   ],
+   "3550168237": [
+    50.0,
+    "2026-10-24",
+    "2026-10-24",
+    "HP Thunderbolt Dock G4 120W"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -4399,6 +4443,30 @@
     "2026-10-24",
     "2026-10-24",
     "MacBook Air 2020 M1 - Rosa"
+   ],
+   "3550207373": [
+    600.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Mac Book Air M1"
+   ],
+   "3550219960": [
+    529.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air M1 2020 sehr guter Zustand mit OVP"
+   ],
+   "3550259634": [
+    460.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M1 – 13,3 Zoll – 256 GB SSD – Space Grau"
+   ],
+   "3550270312": [
+    580.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M1 2020"
    ]
   },
   "MacBook Air M2": {
@@ -4917,6 +4985,12 @@
     "2026-10-24",
     "2026-10-24",
     "MacBook Air M2 15″ Sehr Gut | M2 | 8 GB RAM | 256 GB"
+   ],
+   "3550269689": [
+    850.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MacBook Air 2022 mit M2 Chip"
    ]
   },
   "Makita DHP485 Set": {},
@@ -5627,6 +5701,30 @@
     "2026-10-24",
     "2026-10-24",
     "RTX 3070 Gigabyte 8GB wegen Upgrade zu verkaufen"
+   ],
+   "3550217547": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "ASUS Dual GeForce RTX 3070 OC Edition 8GB Grafikkarte"
+   ],
+   "3550249960": [
+    299.0,
+    "2026-10-24",
+    "2026-10-24",
+    "PNY GeForce RTX 3070 XLR8 Gaming REVEL EPIC-X RGB 8GB OVP Top"
+   ],
+   "3550252901": [
+    260.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gainward Phoenix RTX 3070"
+   ],
+   "3550256737": [
+    270.0,
+    "2026-10-24",
+    "2026-10-24",
+    "SOYO Ace Dragon Nvidia GeForce RTX 3070 8GB GDDR6 Grafikkarte 3DP"
    ]
   },
   "RTX 3080": {
@@ -5947,6 +6045,12 @@
     "2026-10-23",
     "2026-10-23",
     "Zotac Gaming GeForce RTX 3080 Grafikkarte 10GB"
+   ],
+   "3550220978": [
+    450.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Nvidia GeForce rtx 3080 10gb MSI Suprim X"
    ]
   },
   "RTX 4060 Ti": {
@@ -6376,7 +6480,7 @@
    ],
    "3538770921": [
     750.0,
-    "2026-10-23",
+    "2026-10-24",
     "2026-10-21",
     "NVIDIA RTX 4070 Super Gigabyte 12 GB"
    ],
@@ -7020,7 +7124,7 @@
    ],
    "3521498972": [
     520.0,
-    "2026-10-21",
+    "2026-10-24",
     "2026-10-21",
     "GigaByte Radeon RX 7800 XT GAMING OC 16G"
    ],
@@ -7032,7 +7136,7 @@
    ],
    "3528151796": [
     489.0,
-    "2026-10-21",
+    "2026-10-24",
     "2026-10-21",
     "Rx 7800xt xtx"
    ],
@@ -7209,6 +7313,12 @@
     "2026-10-24",
     "2026-10-23",
     "Sapphire Nitro+ AMD Radeon RX 7800 XT 16GB"
+   ],
+   "3550249232": [
+    550.0,
+    "2026-10-24",
+    "2026-10-24",
+    "RX 7800 xt"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -9185,6 +9295,12 @@
     "2026-10-24",
     "2026-10-24",
     "Sony WH-1000XM5 Schwarz, Noise Cancelling, mit Travel Box"
+   ],
+   "3550125305": [
+    140.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Sony WH1000XM5 Over-Ear-Kopfhörer"
    ]
   },
   "Synology DS220+": {
@@ -9766,7 +9882,7 @@
     650.0,
     "2026-10-24",
     "2026-10-23",
-    "Lenovo ThinkPad X1 Carbon Gen 9 | i7 | 32 GB RAM | 512GB SSD"
+    "Lenovo ThinkPad X1 Carbon Gen 9 -LTE | i7 | 32 GB RAM | 512GB SSD"
    ],
    "3550051577": [
     450.0,
