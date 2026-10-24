@@ -421,8 +421,8 @@
   "3550874306": "2026-10-24",
   "3550891756": "2026-10-24"
  },
- "laeufe": 242,
- "letzter_lauf": "2026-10-24T16:53:28",
+ "laeufe": 243,
+ "letzter_lauf": "2026-10-24T17:49:05",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1545,7 +1545,7 @@
     "Corsair Vengeance DDR5, 32GB 2x16GB, CMH32GX5M2B6000C40W"
    ],
    "3549806342": [
-    420.0,
+    400.0,
     "2026-10-24",
     "2026-10-23",
     "G.Skill 32 GB Kit (2x16 GB) DDR5-6000 CL36 – F5-6000J3636F16G"
@@ -2152,7 +2152,7 @@
     "HP Elitebook 840 G8 i5-1145G7 16GB RAM 512GB SSD Win 11 Pro"
    ],
    "3514002694": [
-    333.0,
+    353.0,
     "2026-10-24",
     "2026-10-22",
     "HP EliteBook 840 G8 i7-1165G7 16GB DDR4 14\" FHD 512GB NVMe SSD B-Ware"
@@ -5538,6 +5538,30 @@
     "2026-10-24",
     "2026-10-24",
     "Apple MacBook Air 13,6\" M2 Space Grau 8GB 256GB mit OVP"
+   ],
+   "3550911611": [
+    850.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M2 2022 | 512 GB | 8 GB RAM | 100% Akku"
+   ],
+   "3550947151": [
+    800.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air 15,3” M2 (2023)"
+   ],
+   "3550948940": [
+    825.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air 15,3” M2 (2023) – 512 GB SSD – Polarstern"
+   ],
+   "3550950514": [
+    800.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air 15,3” M2 (2023)"
    ]
   },
   "Makita DHP485 Set": {
@@ -5968,7 +5992,7 @@
     "Zotac Gaming GeForce RTX 3060 Twin Edge 12GB GDDR6"
    ],
    "3550811370": [
-    330.0,
+    300.0,
     "2026-10-24",
     "2026-10-24",
     "Gigabyte NVIDIA GeForce RTX 3060 Gaming OC 12GB"
@@ -7168,6 +7192,18 @@
     "2026-10-24",
     "2026-10-24",
     "GeForce RTX 4070"
+   ],
+   "3550818914": [
+    520.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MSI GeForce RTX 4070 Ventus 3X 12G OC mit OVP"
+   ],
+   "3550931555": [
+    555.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Rtx 4070 founders Edition"
    ]
   },
   "RTX 4070 Super": {
@@ -7232,7 +7268,7 @@
     "MSI RTX 4070 SUPER 12G VENTUS 2X OC"
    ],
    "3538770921": [
-    750.0,
+    700.0,
     "2026-10-24",
     "2026-10-21",
     "NVIDIA RTX 4070 Super Gigabyte 12 GB"
@@ -8507,6 +8543,12 @@
     "2026-10-24",
     "2026-10-24",
     "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor CPU"
+   ],
+   "3550916228": [
+    125.0,
+    "2026-10-24",
+    "2026-10-24",
+    "AMD Ryzen 7 5800X3D – 8-Core Gaming CPU – AM4"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -9217,6 +9259,12 @@
     "2026-10-24",
     "2026-10-24",
     "Samsung 990 PRO 2TB NVMe M.2 SSD mit Heatsink Neu und OVP"
+   ],
+   "3550925870": [
+    250.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Samsung 990 Pro 2tb NVME m.2 SSD"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -10260,6 +10308,12 @@
     "2026-10-24",
     "2026-10-18",
     "Synology DS220+ NAS Server - gepflegter Zustand"
+   ],
+   "3550945473": [
+    500.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Synology DS220+ NAS Server"
    ]
   },
   "Synology DS220j": {
