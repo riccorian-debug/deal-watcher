@@ -417,8 +417,8 @@
   "3550625103": "2026-10-24",
   "3550648514": "2026-10-24"
  },
- "laeufe": 239,
- "letzter_lauf": "2026-10-24T13:51:22",
+ "laeufe": 240,
+ "letzter_lauf": "2026-10-24T14:51:24",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1520,6 +1520,12 @@
     "2026-10-24",
     "2026-10-24",
     "G.Skill DIMM 32 GB DDR5-6000 (2x 16 GB) Dual-Kit, Arbeitsspeicher"
+   ],
+   "3550727214": [
+    360.0,
+    "2026-10-24",
+    "2026-10-24",
+    "32GB Kingston Fury Beast RGB 6000MHz CL36 DDR5 RAM 2x 16GB"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2345,6 +2351,12 @@
     "2026-10-24",
     "2026-10-24",
     "Samsung 16 GB (2×8 GB) DDR4-3200 SO-DIMM Laptop-RAM"
+   ],
+   "3550703926": [
+    75.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Samsung 16GB DDR4 SODIMM PC4 3200Mhz Dell Lenovo HP"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4739,6 +4751,12 @@
     "2026-10-24",
     "2026-10-24",
     "MacBook Air 2020 M1 8/256 Rose Gold"
+   ],
+   "3550682617": [
+    450.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Apple MacBook Air M1 2020 – Silber – 99 % Akku"
    ]
   },
   "MacBook Air M2": {
@@ -5306,6 +5324,12 @@
     "2026-10-24",
     "MacBook Air M2 13,6 Zoll 2022 | 8 GB RAM | 256 GB | Mitternacht"
    ],
+   "3550552373": [
+    665.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Mac Book air 13.6 M2 98% Batterie"
+   ],
    "3550594261": [
     650.0,
     "2026-10-24",
@@ -5715,6 +5739,18 @@
     "2026-10-24",
     "2026-10-24",
     "Gigabyte GeForce RTX 3060 12GB Grafikkarte"
+   ],
+   "3550668381": [
+    279.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte NVIDIA GeForce RTX 3060 Gaming OC 12GB"
+   ],
+   "3550704919": [
+    320.0,
+    "2026-10-24",
+    "2026-10-24",
+    "MSI GeForce RTX 3060 12GB"
    ]
   },
   "RTX 3070": {
@@ -6149,6 +6185,24 @@
     "2026-10-24",
     "2026-10-24",
     "INNO3D RTX 3070 TWIN X2 LHR 8GB Grafikkarte"
+   ],
+   "3550666493": [
+    280.0,
+    "2026-10-24",
+    "2026-10-24",
+    "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC 8GB GDDR6"
+   ],
+   "3550676656": [
+    320.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte Rtx 3070 8gb vram"
+   ],
+   "3550735581": [
+    300.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Gigabyte GeForce RTX 3070 Vision OC 8GB (Weiß)"
    ]
   },
   "RTX 3080": {
@@ -6723,6 +6777,12 @@
     "2026-10-24",
     "2026-10-23",
     "Grafikkarte Rtx 4060ti 8gb"
+   ],
+   "3550678579": [
+    350.0,
+    "2026-10-24",
+    "2026-10-24",
+    "RTX 4060TI 8gb"
    ]
   },
   "RTX 4070": {
@@ -7769,7 +7829,7 @@
     "XFX RX 7800 XT 16GB Speedster"
    ],
    "3549875456": [
-    500.0,
+    480.0,
     "2026-10-24",
     "2026-10-23",
     "Sapphire Nitro+ AMD Radeon RX 7800 XT 16GB"
@@ -8257,7 +8317,7 @@
     275.0,
     "2026-10-24",
     "2026-10-21",
-    "AMD Ryzen 7 7800X3D – AM5, 3D V-Cache, Top-Zustand"
+    "AMD Ryzen 7 7800X3D – AM5, 3D V-Cache, Top-Zustand (boxed)"
    ],
    "3545689129": [
     300.0,
@@ -8308,7 +8368,7 @@
     "AMD Ryzen 7 7800X3D CPU | AM5 | inkl. OVP"
    ],
    "3548014827": [
-    269.0,
+    259.0,
     "2026-10-24",
     "2026-10-21",
     "AMD Ryzen 7 7800X3D – 8 Kerne / 16 Threads, OVP,  Top Zustand*"
@@ -8470,6 +8530,12 @@
     "2026-10-24",
     "2026-10-23",
     "AMD Ryzen 7 9800X3D Prozessor - OVP & Rechnung"
+   ],
+   "3550731623": [
+    320.0,
+    "2026-10-24",
+    "2026-10-24",
+    "AMD Ryzen 7 9800x3d CPU Prozessor AM5"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -10163,6 +10229,12 @@
     "2026-10-24",
     "2026-10-23",
     "Lenovo ThinkPad T14 Gen 2 | Intel i5 | 16 GB RAM | Touch | Win 11"
+   ],
+   "3550662348": [
+    400.0,
+    "2026-10-24",
+    "2026-10-24",
+    "Lenovo ThinkPad T14 Gen2"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -10255,6 +10327,12 @@
     "2026-10-24",
     "2026-10-24",
     "Lenovo ThinkPad T14 Gen 3, i7 12. Gen, 32GB RAM, 500GB SSD"
+   ],
+   "3550722114": [
+    430.0,
+    "2026-10-24",
+    "2026-10-24",
+    "☆☆☆Lenovo Thinkpad T14 gen3 i5 1245u ddr4"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -10411,7 +10489,7 @@
     "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
    ],
    "3549137600": [
-    300.0,
+    250.0,
     "2026-10-24",
     "2026-10-23",
     "Lenovo ThinkPad X1 Carbon Gen9 i5 8GB 256GB SD"
