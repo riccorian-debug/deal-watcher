@@ -424,8 +424,8 @@
   "3551126811": "2026-10-25",
   "3551185593": "2026-10-25"
  },
- "laeufe": 250,
- "letzter_lauf": "2026-10-25T07:56:57",
+ "laeufe": 251,
+ "letzter_lauf": "2026-10-25T08:54:38",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2807,7 +2807,7 @@
     "KIT DDR4 SK hynix 32GB(2X 16GB)3200MHz SODIMM"
    ],
    "3549638141": [
-    220.0,
+    215.0,
     "2026-10-25",
     "2026-10-23",
     "Teamgroup SO-DIMM 32GB Kit (2x 16GB) DDR4-3200"
@@ -2847,6 +2847,12 @@
     "2026-10-25",
     "2026-10-25",
     "32GB DDR4 3200MHz SO-DIMM RAM Modul (phs memory / Samsung Chips)"
+   ],
+   "3551228305": [
+    150.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Crucial 32GB (2x16GB) DDR4 3200 SODIMM RAM"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -5222,6 +5228,18 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air M1 (2020) / 8GB / 256GB „Space Grau“ Top Zustan"
+   ],
+   "3551230462": [
+    412.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M1, 8GB RAM, 256GB SSD, sehr guter Zustand"
+   ],
+   "3551284501": [
+    540.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M1 13“ - 8GB/256GB - wie neu"
    ]
   },
   "MacBook Air M2": {
@@ -5872,6 +5890,12 @@
     "2026-10-25",
     "2026-10-25",
     "MacBook Air 13' M2 256GB 8GB"
+   ],
+   "3551234242": [
+    700.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M2 (2022) - 83 Ladezyklen"
    ]
   },
   "Makita DHP485 Set": {
@@ -6754,7 +6778,7 @@
     "SOYO Ace Dragon Nvidia GeForce RTX 3070 8GB GDDR6 Grafikkarte 3DP"
    ],
    "3550390242": [
-    350.0,
+    320.0,
     "2026-10-25",
     "2026-10-24",
     "GeForce RTX 3070 Founders Edition | OVP"
@@ -6856,10 +6880,16 @@
     "NVIDIA RTX 3070 Gaming X Trio 8GB"
    ],
    "3551220819": [
-    279.0,
+    379.0,
     "2026-10-25",
     "2026-10-25",
     "ASUS TUF Gaming GeForce RTX 3070 OC – 8 GB – OVP"
+   ],
+   "3551250653": [
+    295.0,
+    "2026-10-25",
+    "2026-10-25",
+    "RTX 3070 Gigabyte 8GB wegen Upgrade zu verkaufen"
    ]
   },
   "RTX 3080": {
@@ -8332,6 +8362,12 @@
     "2026-10-25",
     "2026-10-25",
     "ASRock AMD Radeon RX 6800 XT Phantom D OC 16GB GDDR6"
+   ],
+   "3551287058": [
+    300.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MSI RX 6800 xt gaming z trio"
    ]
   },
   "RX 7800 XT": {
@@ -8391,13 +8427,13 @@
    ],
    "3528151796": [
     489.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-21",
     "Rx 7800xt xtx"
    ],
    "3528759265": [
     525.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-21",
     "XFX Speedster QICK 319 AMD Radeon RX 7800 XT 16GB"
    ],
@@ -9027,6 +9063,12 @@
     "2026-10-24",
     "2026-10-24",
     "AMD Ryzen 7 5800X3D – 8-Core Gaming CPU – AM4"
+   ],
+   "3551273807": [
+    230.0,
+    "2026-10-25",
+    "2026-10-25",
+    "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -9643,7 +9685,7 @@
     "Samsung 990 PRO 2TB SSD (Nur Abholun"
    ],
    "3545664016": [
-    300.0,
+    270.0,
     "2026-10-25",
     "2026-10-21",
     "Samsung 990 PRO SSD PS5 mit 2 TB Speicher Heatsink"
@@ -9870,13 +9912,13 @@
     "Seagate Exos 16TB HDD – ST16000NM001G – SATA 6Gb/s – 7200 Neue"
    ],
    "3544135100": [
-    420.0,
+    415.0,
     "2026-10-25",
     "2026-10-18",
     "Seagate Exos 16TB Festplatte HDD ST16000NM001G #1"
    ],
    "3544444305": [
-    415.0,
+    410.0,
     "2026-10-25",
     "2026-10-18",
     "Seagate Exos 16TB Festplatte HDD  ST16000NM001G - #2"
@@ -9900,7 +9942,7 @@
     "Seagate 16TB Exos X16, 3.5\" Enterprise ST16000NM001G NAS FP"
    ],
    "3546466876": [
-    475.0,
+    469.0,
     "2026-10-25",
     "2026-10-21",
     "Seagate 16TB Festplatte HDD Exos X20 ST16000NM000D #3"
@@ -11611,6 +11653,12 @@
     "2026-10-24",
     "2026-10-24",
     "SanDisk WD BLACK SN850X 2TB NVMe SSD PCIe Gen4 7300MB/s"
+   ],
+   "3551274396": [
+    349.0,
+    "2026-10-25",
+    "2026-10-25",
+    "WD_BLACK SN850X 2TB NVMe SSD mit Kühlkörper – unbenutzt"
    ]
   },
   "WD Red Plus 4TB": {
