@@ -438,10 +438,11 @@
   "3551873210": "2026-10-25",
   "3551885346": "2026-10-25",
   "3552042369": "2026-10-25",
-  "3552062551": "2026-10-25"
+  "3552062551": "2026-10-25",
+  "3552165437": "2026-10-25"
  },
- "laeufe": 257,
- "letzter_lauf": "2026-10-25T14:55:13",
+ "laeufe": 258,
+ "letzter_lauf": "2026-10-25T15:52:48",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1892,6 +1893,12 @@
     "2026-10-25",
     "2026-10-25",
     "32GB DDR5 6000MHz"
+   ],
+   "3552165437": [
+    350.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Patriot DIMM 32 GB DDR5-6000mhz (2x 16 GB) Dual-Kit,"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2827,7 +2834,7 @@
     "Kingston 16GB DDR4 RAM 3200 MHz SO-DIMM"
    ],
    "3551980618": [
-    50.0,
+    45.0,
     "2026-10-25",
     "2026-10-25",
     "TeamGroup Elite SO-DIMM 16GB DDR4 3200MHz Arbeitsspeicher (Neu)"
@@ -5666,7 +5673,7 @@
     "Apple MacBook Air M1 2020 8GB/256GB Space Grau (türk. Tastatur)"
    ],
    "3551923103": [
-    420.0,
+    410.0,
     "2026-10-25",
     "2026-10-25",
     "MacBook Air M1, 8GB RAM, 256GB SSD"
@@ -5700,6 +5707,30 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air M1 8GB 256GB"
+   ],
+   "3552085083": [
+    430.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M1"
+   ],
+   "3552131799": [
+    550.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air Notebook M1"
+   ],
+   "3552143525": [
+    479.0,
+    "2026-10-25",
+    "2026-10-25",
+    "13“ MacBook Air mit Apple M1-Chip (2020)"
+   ],
+   "3552159700": [
+    500.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air 13  M1- Wie neu- 100% Batteriezustand"
    ]
   },
   "MacBook Air M2": {
@@ -6370,7 +6401,7 @@
     "MacBook Air 13 M2 8 GB 256 GB Space Grau Akku 90 Prozent"
    ],
    "3551510672": [
-    800.0,
+    780.0,
     "2026-10-25",
     "2026-10-25",
     "Wie Neu‼️ Apple MacBook Air 2022 M2, 99% AkkuKapa, 256GB, Zubehör"
@@ -6422,6 +6453,18 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air 15,3“ M2 (2023) | 8GB RAM | 256GB SSD"
+   ],
+   "3552139970": [
+    780.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Wie Neu‼️ Apple MacBook Air 2022 M2, 99% AkkuKapa, 256GB, Zubehör"
+   ],
+   "3552172189": [
+    650.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air 2022 M2 13,6 Zoll 256 GB"
    ]
   },
   "Makita DHP485 Set": {
@@ -7512,6 +7555,18 @@
     "2026-10-25",
     "2026-10-25",
     "Gigabyte GeForce RTX 3070 | 8gb VRAM"
+   ],
+   "3552130702": [
+    295.0,
+    "2026-10-25",
+    "2026-10-25",
+    "NVIDIA RTX 3070"
+   ],
+   "3552187842": [
+    180.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Nvidia RTX 3070 8GB"
    ]
   },
   "RTX 3080": {
@@ -8164,6 +8219,12 @@
     "2026-10-25",
     "2026-10-25",
     "MSI GeForce RTX 4060 Ti 16GB"
+   ],
+   "3552013222": [
+    350.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Geforce RTX 4060 Ti Eagle OC 8 Gb"
    ]
   },
   "RTX 4070": {
@@ -8494,7 +8555,7 @@
     "Gigabyte GeForce RTX 4070 Super Grafikkarte mit 12GB"
    ],
    "3551920673": [
-    800.0,
+    780.0,
     "2026-10-25",
     "2026-10-25",
     "Kfa2 RTX 4070 Super oc limited edition in Pink"
@@ -8910,6 +8971,12 @@
     "2026-10-25",
     "2026-10-25",
     "Gigabyte Geforce RTX 4080 Super Windforce V2"
+   ],
+   "3552121993": [
+    1400.0,
+    "2026-10-25",
+    "2026-10-25",
+    "ASUS ROG Strix Gaming GeForce RTX 4080 16GB"
    ]
   },
   "RX 6800 XT": {
@@ -9076,7 +9143,7 @@
     "Grafik AS Rock RX 6800 XT"
    ],
    "3551125467": [
-    449.0,
+    429.0,
     "2026-10-25",
     "2026-10-25",
     "ASRock AMD Radeon RX 6800 XT Phantom D OC 16GB GDDR6"
@@ -9372,7 +9439,7 @@
     "16GB XFX Radeon RX 7800 XT"
    ],
    "3552048017": [
-    515.0,
+    435.0,
     "2026-10-25",
     "2026-10-25",
     "AMD Radeon RX 7800 XT Sapphire Pulse"
@@ -9886,6 +9953,12 @@
     "2026-10-21",
     "AMD Ryzen 7 7800X3D Prozessor mit 3D V-Cache"
    ],
+   "3539047771": [
+    270.0,
+    "2026-10-25",
+    "2026-10-25",
+    "AMD Ryzen 7 7800X3D | AM5 | 8-Core Gaming CPU | OVP"
+   ],
    "3541153155": [
     300.0,
     "2026-10-25",
@@ -10013,10 +10086,10 @@
     "AMD Ryzen 7 7800X3D Prozessor - Neu & OVP"
    ],
    "3551025694": [
-    280.0,
+    250.0,
     "2026-10-25",
     "2026-10-25",
-    "AMD Ryzen 7 7800X3D (rechnung / OVP)"
+    "AMD Ryzen 7 7800X3D (rechnung / OVP) 6 Monate alt"
    ],
    "3551055866": [
     250.0,
@@ -11900,6 +11973,12 @@
     "2026-10-24",
     "2026-10-23",
     "Synology DS923+ NAS *32GB RAM* *10GbE*"
+   ],
+   "3552170005": [
+    380.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Synology DS923+, 4GB, ohne HDDs, komplett OVP"
    ]
   },
   "ThinkPad L14 Gen 3": {
@@ -12563,6 +12642,12 @@
     "2026-10-25",
     "2026-10-25",
     "WD_BLACK SN850X 2TB NVMe SSD mit Kühlkörper – unbenutzt"
+   ],
+   "3552152344": [
+    269.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Western Digital WD_BLACK SN850X NVMe SSD 2TB"
    ]
   },
   "WD Red Plus 4TB": {
