@@ -430,8 +430,8 @@
   "3551631871": "2026-10-25",
   "3551654390": "2026-10-25"
  },
- "laeufe": 254,
- "letzter_lauf": "2026-10-25T11:50:56",
+ "laeufe": 255,
+ "letzter_lauf": "2026-10-25T13:03:31",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1804,6 +1804,12 @@
     "2026-10-25",
     "2026-10-25",
     "Corsair Vengeance RGB 32GB (2x16 GB) DDR5-6000 - CL30-36-36-76"
+   ],
+   "3551788680": [
+    499.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Crucial Pro Series DDR5 32GB (2x16GB) 6000MT/s RAM Kit NEU&OVP ✅"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -1935,10 +1941,10 @@
     "DELL Latitude 7420 Notebook Intel i5-1145G7 256GB SSD Win 11 LTE"
    ],
    "3541170134": [
-    300.0,
+    330.0,
     "2026-10-25",
     "2026-10-22",
-    "Dell Latitude 7420 2-in-1 i7-1185G7 16GB 256GB 14\" FHD Win11 Stor"
+    "Dell Latitude 7420 2-in-1 i7-1185G7 16GB 512GB 14\" FHD Win11 Stor"
    ],
    "3541830017": [
     225.0,
@@ -2725,6 +2731,12 @@
     "2026-10-25",
     "2026-10-25",
     "Crucial 16 GB DDR4-3200 SODIMM"
+   ],
+   "3551708826": [
+    69.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Kingston 16GB DDR4 RAM 3200 MHz SO-DIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4038,6 +4050,12 @@
     "2026-10-25",
     "2026-10-25",
     "Lenovo ThinkCentre M920q Tiny PC / Intel i5 / Windows 11"
+   ],
+   "3551771734": [
+    125.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo ThinkCentre M920q und M80q i5 16GB 256GB"
    ]
   },
   "Lenovo ThinkVision P27h": {
@@ -5470,7 +5488,7 @@
     "Top Zustan MacBook Air M1 2020 94% Akku | 8/256 GB"
    ],
    "3551614404": [
-    470.0,
+    390.0,
     "2026-10-25",
     "2026-10-25",
     "Macbook Air M1 2020"
@@ -5480,6 +5498,12 @@
     "2026-10-25",
     "2026-10-25",
     "MacBook Air 13\" M1 (2020)"
+   ],
+   "3551681257": [
+    450.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M1 2020 8GB/256GB Space Grau (türk. Tastatur)"
    ]
   },
   "MacBook Air M2": {
@@ -6172,6 +6196,24 @@
     "2026-10-25",
     "2026-10-25",
     "MacBook Air M2 2022 - 13,6 Zoll - 8 GB - 256 GB - Midnight"
+   ],
+   "3551688980": [
+    889.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M2 13\" 24 GB 512 GB 99% Akku A2681 QWERTZ"
+   ],
+   "3551806249": [
+    625.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M2 (13\", 2022) Polarstern - 8GB - 98% Akku"
+   ],
+   "3551831035": [
+    750.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air 2022 M2 Silber 265 GB - 100% Batterie"
    ]
   },
   "Makita DHP485 Set": {
@@ -7203,11 +7245,23 @@
     "2026-10-25",
     "Gigabyte GeForce RTX 3070 Gaming OC 8G Grafikkarte"
    ],
+   "3551604238": [
+    275.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte GeForce RTX 3070 Gaming OC 8G – gebraucht, mit OVP"
+   ],
    "3551642519": [
     320.0,
     "2026-10-25",
     "2026-10-25",
     "MSI GeForce RTX 3070 Ventus – 8GB GDDR6 – OVP – Top Zustand"
+   ],
+   "3551714592": [
+    320.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Zotac Twin Edge GeForce RTX 3070 Grafikkarte OPV"
    ]
   },
   "RTX 3080": {
@@ -7812,6 +7866,12 @@
     "2026-10-24",
     "2026-10-24",
     "ASUS Dual GeForce RTX 4060 Ti OC Edition 16GB"
+   ],
+   "3551680633": [
+    249.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MSI GeForce RTX 4060 Ti 16GB"
    ]
   },
   "RTX 4070": {
@@ -8710,6 +8770,12 @@
     "2026-10-25",
     "2026-10-25",
     "AMD Radeon RX 6800 XT 16GB – Dell / Alienware OEM – Triple Fan"
+   ],
+   "3551612763": [
+    275.0,
+    "2026-10-25",
+    "2026-10-25",
+    "GAMING 16GB Radeon RX 6800 XT X TRIO"
    ]
   },
   "RX 7800 XT": {
@@ -8976,6 +9042,12 @@
     "2026-10-25",
     "2026-10-25",
     "AMD Radeon RX 7800 XT Powercolor Hellhound Grafikkarte"
+   ],
+   "3551709548": [
+    500.0,
+    "2026-10-25",
+    "2026-10-25",
+    "16GB XFX Radeon RX 7800 XT"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -9411,6 +9483,12 @@
     "2026-10-25",
     "2026-10-25",
     "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
+   ],
+   "3551782750": [
+    200.0,
+    "2026-10-25",
+    "2026-10-25",
+    "AMD Ryzen7 5800X3D"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -9559,7 +9637,7 @@
     "AMD Ryzen 7 7800X3D – 8 Kerne / 16 Threads, OVP,  Top Zustand*"
    ],
    "3548157189": [
-    235.0,
+    230.0,
     "2026-10-25",
     "2026-10-22",
     "AMD Ryzen 7 7800X3D AMD CPU Prozessor 8 Kerne / 16 Threads Gaming"
@@ -9611,6 +9689,12 @@
     "2026-10-25",
     "2026-10-25",
     "AMD Ryzen 7 7800x3D Series Prozessor mit 3D V-Cache"
+   ],
+   "3551754157": [
+    180.0,
+    "2026-10-25",
+    "2026-10-25",
+    "AMD Ryzen 7 7800X3D"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -10175,6 +10259,12 @@
     "2026-10-25",
     "2026-10-25",
     "Samsung 990 PRO 2TB NVMe SSD mit Heatsink – NEU & OVP versiegelt"
+   ],
+   "3551808773": [
+    280.0,
+    "2026-10-25",
+    "2026-10-25",
+    "SSD Nvme Samsung 990 PRO / 2TB"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -11346,6 +11436,12 @@
     "2026-10-25",
     "2026-10-23",
     "Synology DS220j NAS Server in OVP"
+   ],
+   "3551823029": [
+    120.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Synology DS220j 2-Bay NAS"
    ]
   },
   "Synology DS920+": {
