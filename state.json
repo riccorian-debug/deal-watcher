@@ -426,10 +426,12 @@
   "3551185593": "2026-10-25",
   "3551275331": "2026-10-25",
   "3551369157": "2026-10-25",
-  "3551384033": "2026-10-25"
+  "3551384033": "2026-10-25",
+  "3551631871": "2026-10-25",
+  "3551654390": "2026-10-25"
  },
- "laeufe": 253,
- "letzter_lauf": "2026-10-25T10:56:31",
+ "laeufe": 254,
+ "letzter_lauf": "2026-10-25T11:50:56",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1790,6 +1792,18 @@
     "2026-10-25",
     "2026-10-25",
     "Klevv Fit V 32GB DDR5-6000 CL30 RAM Kit in Ceramic White"
+   ],
+   "3551623467": [
+    400.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Crucial Pro Series DDR5 RAM 32GB (2x16GB) 6000 MT/s NEU"
+   ],
+   "3551654390": [
+    300.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Corsair Vengeance RGB 32GB (2x16 GB) DDR5-6000 - CL30-36-36-76"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2688,6 +2702,12 @@
     "2026-10-24",
     "Samsung 16GB DDR4 SO-DIMM 3200MHz RAM Modul"
    ],
+   "3551096849": [
+    125.0,
+    "2026-10-25",
+    "2026-10-25",
+    "2x Rayson 16GB DDR4-3200 RAM Arbeitsspeicher SO-DIMM"
+   ],
    "3551191421": [
     65.0,
     "2026-10-25",
@@ -2994,7 +3014,7 @@
   },
   "HP MicroServer Gen10 Plus": {
    "3429561341": [
-    870.0,
+    860.0,
     "2026-10-25",
     "2026-10-22",
     "HP Microserver Gen10 Plus"
@@ -4012,6 +4032,12 @@
     "2026-10-25",
     "2026-10-24",
     "Lenovo M920q i5-9500T"
+   ],
+   "3551631871": [
+    175.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo ThinkCentre M920q Tiny PC / Intel i5 / Windows 11"
    ]
   },
   "Lenovo ThinkVision P27h": {
@@ -5418,6 +5444,42 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air M1,2020,13,3\", 8GB RAM, 256GB SSD, Gold"
+   ],
+   "3551567343": [
+    440.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Macbook air M1 2020"
+   ],
+   "3551600451": [
+    450.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple Mac Book Air M1 + Apple Magic Mouse"
+   ],
+   "3551602095": [
+    550.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M1 (2020) 16/512"
+   ],
+   "3551605051": [
+    480.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Top Zustan MacBook Air M1 2020 94% Akku | 8/256 GB"
+   ],
+   "3551614404": [
+    470.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Macbook Air M1 2020"
+   ],
+   "3551644646": [
+    440.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air 13\" M1 (2020)"
    ]
   },
   "MacBook Air M2": {
@@ -6092,6 +6154,24 @@
     "2026-10-25",
     "2026-10-25",
     "Wie Neu‼️ Apple MacBook Air 2022 M2, 99% AkkuKapa, 256GB, Zubehör"
+   ],
+   "3551594162": [
+    599.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M2 13\" Polarstern - 8GB - Kaum genutzt - Top Zustand"
+   ],
+   "3551653260": [
+    500.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M2 2022"
+   ],
+   "3551663203": [
+    720.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M2 2022 - 13,6 Zoll - 8 GB - 256 GB - Midnight"
    ]
   },
   "Makita DHP485 Set": {
@@ -7016,7 +7096,7 @@
     "Gigabyte Rtx 3070 8gb vram"
    ],
    "3550735581": [
-    300.0,
+    290.0,
     "2026-10-25",
     "2026-10-24",
     "Gigabyte GeForce RTX 3070 Vision OC 8GB (Weiß)2.karte"
@@ -7100,7 +7180,7 @@
     "Nvidia Geforce  RTX 3070 8GB  / 300€ VB"
    ],
    "3551429956": [
-    350.0,
+    270.0,
     "2026-10-25",
     "2026-10-25",
     "NVIDIA GeForce RTX 3070 8GB | Gaming Grafikkarte | Top Leistung |"
@@ -7122,6 +7202,12 @@
     "2026-10-25",
     "2026-10-25",
     "Gigabyte GeForce RTX 3070 Gaming OC 8G Grafikkarte"
+   ],
+   "3551642519": [
+    320.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MSI GeForce RTX 3070 Ventus – 8GB GDDR6 – OVP – Top Zustand"
    ]
   },
   "RTX 3080": {
@@ -7472,6 +7558,12 @@
     "2026-10-24",
     "2026-10-24",
     "Nvidia RTX 3080 Founders Edition"
+   ],
+   "3551555058": [
+    440.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MSI GeForce RTX 3080 SUPRIM X 10GB – einwandfrei, mit OVP"
    ]
   },
   "RTX 4060 Ti": {
@@ -7549,7 +7641,7 @@
    ],
    "3527501027": [
     350.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-21",
     "Gigabyte GeForce RTX 4060 Ti AERO OC 8 GB – sehr guter Zustand"
    ],
@@ -7881,7 +7973,7 @@
    ],
    "3551008294": [
     400.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-24",
     "Zotac Gaming GeForce RTX 4070 Twin Edge OC Edition"
    ]
@@ -8030,6 +8122,12 @@
     "2026-10-25",
     "2026-10-24",
     "Gigabyte GeForce RTX 4070 Super Windforce OC 12GB"
+   ],
+   "3551585992": [
+    520.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte GeForce RTX 4070 Super Grafikkarte mit 12GB"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -8169,7 +8267,7 @@
     950.0,
     "2026-10-25",
     "2026-10-25",
-    "RTX 4070 TI Super"
+    "RTX 4070 TI Super 16GB - sehr wenig genutzt"
    ]
   },
   "RTX 4080": {
@@ -8659,7 +8757,7 @@
    ],
    "3521498972": [
     520.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-21",
     "GigaByte Radeon RX 7800 XT GAMING OC 16G"
    ],
@@ -9626,7 +9724,7 @@
    ],
    "3549952649": [
     330.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-23",
     "AMD Ryzen 7 9800X3D 8-Core AM5 Gaming Prozessor 3D V-Cache"
    ],
@@ -10616,10 +10714,10 @@
     "Seagate IronWolf 8 TB NAS-Festplatte – neu/ungeöffnet"
    ],
    "3532199576": [
-    300.0,
+    222.0,
     "2026-10-25",
     "2026-10-18",
-    "Seagate IRONWOLF NAS 8TB (ST8000VN0022)"
+    "Heute REDUZIERT! Seagate IRONWOLF NAS 8TB (ST8000VN0022)"
    ],
    "3533124717": [
     180.0,
@@ -11320,6 +11418,12 @@
     "2026-10-25",
     "2026-10-24",
     "Lenovo Thinkpad L14 Gen3 AZERTY i5-1235U+8GB RAM+256GB SSD"
+   ],
+   "3551616865": [
+    369.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo thinkpad L14 Gen 3"
    ]
   },
   "ThinkPad T14 Gen 2": {
