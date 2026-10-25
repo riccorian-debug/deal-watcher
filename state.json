@@ -451,8 +451,8 @@
   "3552443325": "2026-10-25",
   "3552496203": "2026-10-25"
  },
- "laeufe": 262,
- "letzter_lauf": "2026-10-25T19:49:03",
+ "laeufe": 263,
+ "letzter_lauf": "2026-10-25T20:50:47",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1951,6 +1951,18 @@
     "2026-10-25",
     "2026-10-25",
     "Kingston FURY Beast RGB 32GB DDR5-6000 CL36 – 2x16GB"
+   ],
+   "3552551745": [
+    450.0,
+    "2026-10-25",
+    "2026-10-25",
+    "32gb DDR 5 2x 16GB RAM mit RGB 6000mhz CL30"
+   ],
+   "3552571602": [
+    450.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Corsair Vengeance 32GB (2x16GB) DDR5 6000MT/s RAM weiß"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -5462,7 +5474,7 @@
    ],
    "3549642703": [
     630.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-23",
     "Apple MacBook Air M1 mit OVP **NEUWERTIG**"
    ],
@@ -5927,6 +5939,24 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air M1 (2020) – sehr gepflegt"
+   ],
+   "3552533310": [
+    380.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Macbook Air M1"
+   ],
+   "3552556937": [
+    349.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air 13\" M1 (2020) – 8 GB / 256 GB – OVP – TOP Zusta"
+   ],
+   "3552572164": [
+    450.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M1 ⭐️TOP ZUSTAND ⭐️"
    ]
   },
   "MacBook Air M2": {
@@ -6679,6 +6709,12 @@
     "2026-10-25",
     "2026-10-25",
     "Macbook Air M2 15 Zoll 2023"
+   ],
+   "3552527145": [
+    700.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air 13 M2 8/256 100% AKKU Midnight OVP TOP Zustand"
    ]
   },
   "Makita DHP485 Set": {
@@ -7811,6 +7847,24 @@
     "2026-10-25",
     "2026-10-25",
     "Nvidia GeForce RTX 3070 Grafikkarte"
+   ],
+   "3552539327": [
+    300.0,
+    "2026-10-25",
+    "2026-10-25",
+    "NVIDIA GeForce RTX 3070 Founders Edition 8 GB"
+   ],
+   "3552543756": [
+    300.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Nvidia RTX 3070 Founders Edition"
+   ],
+   "3552564121": [
+    240.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte AORUS NVIDIA GeForce RTX 3070 8GB"
    ]
   },
   "RTX 3080": {
@@ -8199,7 +8253,7 @@
     "AORUS RTX 3080 Gaming Box (Rev. 2.0) externe Grafikkarte (eGPU)"
    ],
    "3551995424": [
-    360.0,
+    350.0,
     "2026-10-25",
     "2026-10-25",
     "ASUS TUF Gaming GeForce RTX 3080 10GB OC"
@@ -8239,6 +8293,12 @@
     "2026-10-25",
     "2026-10-25",
     "Nvidia GeForce RTX 3080 10GB Grafikkarte"
+   ],
+   "3552555640": [
+    480.0,
+    "2026-10-25",
+    "2026-10-25",
+    "EVGA GeForce RTX 3080 FTW3 ULTRA GAMING – 10GB GDDR6X"
    ]
   },
   "RTX 4060 Ti": {
@@ -8682,6 +8742,12 @@
     "2026-10-25",
     "RTX 4070 OC 12GB"
    ],
+   "3552442709": [
+    620.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MSI GeForce RTX 4070 Gaming X Trio 12GB GDDR6X"
+   ],
    "3552514457": [
     600.0,
     "2026-10-25",
@@ -8841,7 +8907,7 @@
     "Gigabyte GeForce RTX 4070 Super Grafikkarte mit 12GB"
    ],
    "3551920673": [
-    780.0,
+    765.0,
     "2026-10-25",
     "2026-10-25",
     "Kfa2 RTX 4070 Super oc limited edition in Pink"
@@ -8851,6 +8917,18 @@
     "2026-10-25",
     "2026-10-25",
     "NVIDIA GeForce RTX 4070 Super - Neuwertig in OVP"
+   ],
+   "3552524284": [
+    699.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gainward NVIDIA RTX 4070 Super 12GB GDDR6 mit Adapterkabel"
+   ],
+   "3552529254": [
+    800.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MSI GeForce RTX 4070 Super Gaming X Slim White (12GB)"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -8991,6 +9069,12 @@
     "2026-10-25",
     "2026-10-25",
     "RTX 4070 TI Super 16GB - sehr wenig genutzt"
+   ],
+   "3552087614": [
+    750.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Zotac GeForce RTX 4070 Ti Super Trinity Black Edition 16GB"
    ]
   },
   "RTX 4080": {
@@ -9753,6 +9837,12 @@
     "2026-10-25",
     "2026-10-25",
     "GIGABYTE RX7800XT Gaming OC"
+   ],
+   "3552563747": [
+    600.0,
+    "2026-10-25",
+    "2026-10-25",
+    "PowerColor Hellhound Spectral White RX 7800 XT 16GB"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -10594,6 +10684,12 @@
     "2026-10-25",
     "2026-10-25",
     "AMD Ryzen 7 9800X3D CPU 8 Kerne AM5 3D V-Cache im Blister"
+   ],
+   "3552569656": [
+    350.0,
+    "2026-10-25",
+    "2026-10-25",
+    "AMD Ryzen 7 9800X3D – OVP - Rechnung"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -11036,6 +11132,12 @@
     "2026-10-25",
     "2026-10-25",
     "Samsung 990 PRO 2TB NVMe M.2 SSD 99% health Crystaldiskinfo"
+   ],
+   "3552542903": [
+    320.0,
+    "2026-10-25",
+    "2026-10-25",
+    "2TB SSD Samsung 990Pro PCIE 4.0 nvme m.2"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -11261,7 +11363,7 @@
     "Seagate Exos X20 18 TB Interne 3,5 Zoll Festplatte"
    ],
    "3544203420": [
-    560.0,
+    520.0,
     "2026-10-25",
     "2026-10-18",
     "Seagate Exos X18 18TB Festplatte"
@@ -12605,6 +12707,12 @@
     "2026-10-25",
     "2026-10-25",
     "Lenovo ThinkPad P14s (T14) Gen2 Ryzen 5 5650U 16GB 87% Akku IPS"
+   ],
+   "3552520502": [
+    325.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo ThinkPad T14 Gen 2 | Intel i5 | 16 GB RAM | Touch | Win 11"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -13066,6 +13174,12 @@
     "2026-10-25",
     "2026-10-25",
     "Western Digital WD_BLACK SN850X NVMe SSD 2TB"
+   ],
+   "3552542266": [
+    250.0,
+    "2026-10-25",
+    "2026-10-25",
+    "WD BLACK SN850X / 2TB / M.2 Nvme / SSD /Gen4"
    ]
   },
   "WD Red Plus 4TB": {
