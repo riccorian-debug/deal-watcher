@@ -451,8 +451,8 @@
   "3552443325": "2026-10-25",
   "3552496203": "2026-10-25"
  },
- "laeufe": 263,
- "letzter_lauf": "2026-10-25T20:50:47",
+ "laeufe": 264,
+ "letzter_lauf": "2026-10-25T21:50:51",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2920,6 +2920,12 @@
     "2026-10-25",
     "2026-10-25",
     "Crucial 16GB DDR4-3200 SODIMM Arbeitsspeicher RAM"
+   ],
+   "3552594435": [
+    85.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Crucial 16GB DDR4-3200 SODIMM Speicher"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4355,7 +4361,7 @@
     "Lenovo ThinkCentre M920q und M80q i5 16GB 256GB"
    ],
    "3552296015": [
-    150.0,
+    185.0,
     "2026-10-25",
     "2026-10-25",
     "Lenovo ThinkCentre M920q i5-9500T 8GB Ram 256GB nvme SSD"
@@ -5957,6 +5963,12 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air M1 ⭐️TOP ZUSTAND ⭐️"
+   ],
+   "3552577372": [
+    350.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Macbook air m1"
    ]
   },
   "MacBook Air M2": {
@@ -6003,7 +6015,7 @@
     "MacBook Air 15 Zoll M2 8GB"
    ],
    "3546278174": [
-    850.0,
+    825.0,
     "2026-10-25",
     "2026-10-22",
     "Apple MacBook Air 2022 M2 13,6 Zoll"
@@ -6715,6 +6727,18 @@
     "2026-10-25",
     "2026-10-25",
     "MacBook Air 13 M2 8/256 100% AKKU Midnight OVP TOP Zustand"
+   ],
+   "3552591561": [
+    700.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M2 mit OVP"
+   ],
+   "3552601948": [
+    550.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M2 (2022) - 13,6 Zoll - 8 RAM - 256 GB - OVP"
    ]
   },
   "Makita DHP485 Set": {
@@ -7233,6 +7257,12 @@
     "2026-10-25",
     "2026-10-25",
     "Gigabyte GeForce RTX 3060 Vision OC 12G – Rev. 2.0 – 12GB"
+   ],
+   "3552575362": [
+    350.0,
+    "2026-10-25",
+    "2026-10-25",
+    "RTX 3060 12GB | MSI Geforce | Trio"
    ]
   },
   "RTX 3070": {
@@ -7865,6 +7895,12 @@
     "2026-10-25",
     "2026-10-25",
     "Gigabyte AORUS NVIDIA GeForce RTX 3070 8GB"
+   ],
+   "3552601800": [
+    315.0,
+    "2026-10-25",
+    "2026-10-25",
+    "ASUS TUF Gaming GeForce RTX 3070"
    ]
   },
   "RTX 3080": {
@@ -8299,6 +8335,12 @@
     "2026-10-25",
     "2026-10-25",
     "EVGA GeForce RTX 3080 FTW3 ULTRA GAMING – 10GB GDDR6X"
+   ],
+   "3552579585": [
+    350.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Zotac RTX 3080 AMP Holo 10GB – getestet, mit OVP & Zubehör"
    ]
   },
   "RTX 4060 Ti": {
