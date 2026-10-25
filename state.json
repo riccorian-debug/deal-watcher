@@ -428,10 +428,14 @@
   "3551369157": "2026-10-25",
   "3551384033": "2026-10-25",
   "3551631871": "2026-10-25",
-  "3551654390": "2026-10-25"
+  "3551654390": "2026-10-25",
+  "3551668559": "2026-10-25",
+  "3551870310": "2026-10-25",
+  "3551873210": "2026-10-25",
+  "3551885346": "2026-10-25"
  },
- "laeufe": 255,
- "letzter_lauf": "2026-10-25T13:03:31",
+ "laeufe": 256,
+ "letzter_lauf": "2026-10-25T13:53:27",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1810,6 +1814,18 @@
     "2026-10-25",
     "2026-10-25",
     "Crucial Pro Series DDR5 32GB (2x16GB) 6000MT/s RAM Kit NEU&OVP ✅"
+   ],
+   "3551854404": [
+    400.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Corsair Vengeance RGB 32GB Kit DDR5 6000 CL 30-36-36-76 (2x16GB)"
+   ],
+   "3551870310": [
+    325.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Patriot DIMM 32 GB DDR5-6000 (2x 16 GB) Dual-Kit, Arbeitsspeicher"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2072,7 +2088,7 @@
    ],
    "3538512823": [
     159.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-23",
     "Dell UltraSharp U2722D 27 Zoll QHD IPS Monitor"
    ],
@@ -2139,10 +2155,16 @@
     "Dell U2723QE Monitor 27 Zoll"
    ],
    "3551329309": [
-    349.0,
+    329.0,
     "2026-10-25",
     "2026-10-25",
     "Dell UltraSharp U2723QE 27\" 4K USB-C Monitor – Rechnung vorhanden"
+   ],
+   "3551668559": [
+    250.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Dell U2723QE UltraSharp 27 Zoll 4K USB-C Hub-Monitor"
    ]
   },
   "Dell WD19TB/WD22TB4": {
@@ -3278,6 +3300,12 @@
     "2026-10-25",
     "2026-10-24",
     "HP Thunderbolt Dock 120W G4 – Neu & OVP (Originalverpackung)"
+   ],
+   "3551755362": [
+    119.0,
+    "2026-10-25",
+    "2026-10-25",
+    "HP Thunderbolt Dock G4 mit 280W Netzteil"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -3812,6 +3840,12 @@
     "2026-10-25",
     "2026-10-23",
     "95x Laptoptastaturen Dell Acer Lenovo Notebook keyboard Konvolut"
+   ],
+   "3551665617": [
+    50.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo Konvolut 2x Laptop T410; Dock; DVD; Mainboard"
    ]
   },
   "Konvolut RAM DDR4/DDR5": {
@@ -4336,6 +4370,12 @@
     "2026-10-25",
     "2026-10-25",
     "Lenovo ThinkPad Thunderbolt 4 Dock + 300W und 170W Netzteil"
+   ],
+   "3551672874": [
+    190.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo ThinkPad Universal Thunderbolt 4 Dock (40B00135EU)"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -5504,6 +5544,12 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air M1 2020 8GB/256GB Space Grau (türk. Tastatur)"
+   ],
+   "3551923103": [
+    420.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M1, 8GB RAM, 256GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -6690,6 +6736,18 @@
     "2026-10-25",
     "2026-10-25",
     "Gigabyte RTX 3060 Gaming OC 12GB | OVP + Rechnung"
+   ],
+   "3551854703": [
+    270.0,
+    "2026-10-25",
+    "2026-10-25",
+    "ASUS Geforce RTX 3060 12 GB Phoenix V2 Grafikkarte"
+   ],
+   "3551885346": [
+    200.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Kfa2 Rtx 3060 12 gb"
    ]
   },
   "RTX 3070": {
@@ -7262,6 +7320,18 @@
     "2026-10-25",
     "2026-10-25",
     "Zotac Twin Edge GeForce RTX 3070 Grafikkarte OPV"
+   ],
+   "3551887222": [
+    300.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte GeForce RTX 3070 Gaming OC 8GB – OVP & Rechnung"
+   ],
+   "3551931716": [
+    339.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Asus Dual Geforce RTX 3070 8GB mit OVP"
    ]
   },
   "RTX 3080": {
@@ -7618,6 +7688,24 @@
     "2026-10-25",
     "2026-10-25",
     "MSI GeForce RTX 3080 SUPRIM X 10GB – einwandfrei, mit OVP"
+   ],
+   "3551847946": [
+    419.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte GeForce RTX 3080 10GB | Geprüft | 12 Monate Gewährl."
+   ],
+   "3551898346": [
+    310.0,
+    "2026-10-25",
+    "2026-10-25",
+    "ASUS ROG Strix Gaming GeForce RTX 3080 10GB Grafikkarte"
+   ],
+   "3551898564": [
+    380.0,
+    "2026-10-25",
+    "2026-10-25",
+    "ASUS TUF Gaming GeForce RTX 3080 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -8036,6 +8124,12 @@
     "2026-10-25",
     "2026-10-24",
     "Zotac Gaming GeForce RTX 4070 Twin Edge OC Edition"
+   ],
+   "3551868795": [
+    375.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Zotac Gaming GeForce RTX 4070 Twin Edge OC Edition"
    ]
   },
   "RTX 4070 Super": {
@@ -8188,6 +8282,12 @@
     "2026-10-25",
     "2026-10-25",
     "Gigabyte GeForce RTX 4070 Super Grafikkarte mit 12GB"
+   ],
+   "3551920673": [
+    800.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Kfa2 RTX 4070 Super oc limited edition in Pink"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -9489,6 +9589,12 @@
     "2026-10-25",
     "2026-10-25",
     "AMD Ryzen7 5800X3D"
+   ],
+   "3551883414": [
+    230.0,
+    "2026-10-25",
+    "2026-10-25",
+    "AM4 Prozessor Ryzen 7 5800X3D AMD CPU"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -9695,6 +9801,12 @@
     "2026-10-25",
     "2026-10-25",
     "AMD Ryzen 7 7800X3D"
+   ],
+   "3551852156": [
+    275.0,
+    "2026-10-25",
+    "2026-10-25",
+    "AMD Ryzen 7 7800X3D | AM5 | 8-Core Gaming CPU | OVP"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -10265,6 +10377,12 @@
     "2026-10-25",
     "2026-10-25",
     "SSD Nvme Samsung 990 PRO / 2TB"
+   ],
+   "3551877453": [
+    200.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Samsung 990 PRO 2 TB – Nur Abholung"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -10874,6 +10992,12 @@
     "2026-10-25",
     "2026-10-23",
     "Seagate IronWolf 8TB NAS HDD ST8000VN002"
+   ],
+   "3551873210": [
+    150.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Seagate IronWolf 8TB NAS HDD – 3,5 Zoll SATA, 5.974 Stunden"
    ]
   },
   "Shelly Plus Plug S": {
@@ -11266,7 +11390,7 @@
     "Sony WH-1000XM5 Wireless Noise Cancelling Headphones Kopfhörer"
    ],
    "3550737036": [
-    150.0,
+    130.0,
     "2026-10-25",
     "2026-10-24",
     "Verkaufe neue, ungeöffnete Sony WH-1000XM5 Kopfhörer"
@@ -11306,6 +11430,48 @@
     "2026-10-25",
     "2026-10-25",
     "Sony WH-1000XM5 Kopfhörer Over-Ear Active Noise Cancelling"
+   ],
+   "3551713907": [
+    75.0,
+    "2026-10-25",
+    "2026-10-25",
+    "sony kopfhörer wh-1000xm5"
+   ],
+   "3551724088": [
+    110.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Sony WH-1000XM5"
+   ],
+   "3551777651": [
+    149.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Sony WH-1000XM5"
+   ],
+   "3551790550": [
+    139.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Sony WH-1000XM5"
+   ],
+   "3551802515": [
+    149.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Sony WH-1000XM5"
+   ],
+   "3551811199": [
+    120.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Sony WH-1000XM5 Kopfhörer - Wie Neu in OVP"
+   ],
+   "3551921563": [
+    130.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Sony WH1000 XM5"
    ]
   },
   "Synology DS220+": {
@@ -11962,10 +12128,16 @@
     "Lenovo ThinkPad X1 Carbon Gen 9"
    ],
    "3551384033": [
-    295.0,
+    345.0,
     "2026-10-25",
     "2026-10-25",
-    "Lenovo ThinkPad X1 Carbon Gen 9 Intel Win 10 und 11 Pro 64"
+    "Lenovo ThinkPad X1 Carbon Gen 9 Intel LTE Win 10 und 11 Pro 64"
+   ],
+   "3551866095": [
+    290.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo Thinkpad X1 Carbon gen9"
    ]
   },
   "ThinkPad ohne Netzteil": {},
@@ -12117,7 +12289,7 @@
     "Western Digital WD_BLACK SN850X NVMe SSD (2 TB)"
    ],
    "3550625103": [
-    215.0,
+    210.0,
     "2026-10-25",
     "2026-10-24",
     "Western Digital WD_BLACK SN850X 2TB NVMe SSD PCIe 4.0"
