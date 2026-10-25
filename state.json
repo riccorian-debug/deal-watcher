@@ -422,10 +422,11 @@
   "3550874306": "2026-10-24",
   "3550891756": "2026-10-24",
   "3551126811": "2026-10-25",
-  "3551185593": "2026-10-25"
+  "3551185593": "2026-10-25",
+  "3551384033": "2026-10-25"
  },
- "laeufe": 251,
- "letzter_lauf": "2026-10-25T08:54:38",
+ "laeufe": 252,
+ "letzter_lauf": "2026-10-25T09:53:37",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1744,6 +1745,12 @@
     "2026-10-25",
     "2026-10-25",
     "32GB DDR5 Kingston Fury Beast RAM 6000MHz 2x16Gb CL3"
+   ],
+   "3551325076": [
+    430.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Klevv Fit V 32GB DDR5-6000 CL30 RAM Kit in Ceramic White"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2629,6 +2636,12 @@
     "2026-10-25",
     "2026-10-25",
     "Crucial 16GB DDR4-3200 SO-DIMM RAM 1x16GB"
+   ],
+   "3551387571": [
+    70.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Samsung 16GB DDR4 Speicher 3200 SO-Dimm"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -5896,6 +5909,12 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air M2 (2022) - 83 Ladezyklen"
+   ],
+   "3551374583": [
+    749.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple Mac Air M2 (2022) 100% Akku - neuwertig"
    ]
   },
   "Makita DHP485 Set": {
@@ -6366,6 +6385,12 @@
     "2026-10-25",
     "2026-10-25",
     "ASUS TUF Gaming GeForce RTX 3060 OC – 12 GB – OVP"
+   ],
+   "3551341528": [
+    300.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte RTX 3060 Gaming OC 12GB | OVP + Rechnung"
    ]
   },
   "RTX 3070": {
@@ -6890,6 +6915,12 @@
     "2026-10-25",
     "2026-10-25",
     "RTX 3070 Gigabyte 8GB wegen Upgrade zu verkaufen"
+   ],
+   "3551351686": [
+    300.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Nvidia Geforce  RTX 3070 8GB  / 300€ VB"
    ]
   },
   "RTX 3080": {
@@ -7936,7 +7967,7 @@
   },
   "RTX 4080": {
    "3431275466": [
-    1299.0,
+    1399.0,
     "2026-10-25",
     "2026-10-24",
     "ASUS RTX 4080 SUPER 16GB Noctua OC Edition Flüssigmetall Upsiren"
@@ -9247,7 +9278,7 @@
     "Ryzen 7 7800 X3D"
    ],
    "3550569843": [
-    265.0,
+    255.0,
     "2026-10-25",
     "2026-10-24",
     "AMD Ryzen 7 7800X3D Prozessor - Neu & OVP"
@@ -10873,7 +10904,7 @@
    ],
    "3510443373": [
     375.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-18",
     "Synology DiskStation DS220+ NAS Server"
    ],
@@ -10911,7 +10942,7 @@
   "Synology DS220j": {
    "3364022627": [
     250.0,
-    "2026-10-18",
+    "2026-10-25",
     "2026-10-18",
     "Synology Diskstation DS220j NEU Unbenutzt und verpackt NAS Server"
    ],
@@ -11320,6 +11351,12 @@
     "2026-10-25",
     "2026-10-24",
     "☆☆☆Lenovo Thinkpad T14 gen3 i5 1245u ddr4"
+   ],
+   "3551361329": [
+    590.0,
+    "2026-10-25",
+    "2026-10-25",
+    "ThinkPad T14 Gen 3 | Ryzen 5 pro | 16 GB DDR5 | WIE NEU‼️✅"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -11492,6 +11529,12 @@
     "2026-10-25",
     "2026-10-24",
     "Lenovo ThinkPad X1 Carbon Gen 9"
+   ],
+   "3551384033": [
+    295.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo ThinkPad X1 Carbon Gen 9 Intel Win 10 und 11 Pro 64"
    ]
   },
   "ThinkPad ohne Netzteil": {},
