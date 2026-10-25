@@ -444,8 +444,8 @@
   "3552221833": "2026-10-25",
   "3552296015": "2026-10-25"
  },
- "laeufe": 259,
- "letzter_lauf": "2026-10-25T16:55:42",
+ "laeufe": 260,
+ "letzter_lauf": "2026-10-25T17:49:43",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -7626,7 +7626,7 @@
     "Nvidia RTX 3070 8GB"
    ],
    "3552237145": [
-    210.0,
+    240.0,
     "2026-10-25",
     "2026-10-25",
     "Nvidia GeForce RTX 3070 Grafikkarte"
@@ -8018,7 +8018,7 @@
     "AORUS RTX 3080 Gaming Box (Rev. 2.0) externe Grafikkarte (eGPU)"
    ],
    "3551995424": [
-    380.0,
+    365.0,
     "2026-10-25",
     "2026-10-25",
     "ASUS TUF Gaming GeForce RTX 3080 10GB OC"
@@ -8482,6 +8482,12 @@
     "2026-10-25",
     "2026-10-25",
     "ZOTAC Gaming GeForce RTX 4070 12GB Grafikkarte"
+   ],
+   "3552378503": [
+    385.0,
+    "2026-10-25",
+    "2026-10-25",
+    "RTX 4070 OC 12GB"
    ]
   },
   "RTX 4070 Super": {
@@ -9054,10 +9060,22 @@
     "Gigabyte Geforce RTX 4080 Super Windforce V2"
    ],
    "3552121993": [
-    1400.0,
+    1300.0,
     "2026-10-25",
     "2026-10-25",
     "ASUS ROG Strix Gaming GeForce RTX 4080 16GB"
+   ],
+   "3552365798": [
+    1000.0,
+    "2026-10-25",
+    "2026-10-25",
+    "NVIDIA GeForce RTX 4080 (Gigabyte)"
+   ],
+   "3552377945": [
+    899.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte RTX 4080 AERO OC – Wie neu + OVP"
    ]
   },
   "RX 6800 XT": {
