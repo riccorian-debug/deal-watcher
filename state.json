@@ -446,11 +446,13 @@
   "3552221833": "2026-10-25",
   "3552296015": "2026-10-25",
   "3552313994": "2026-10-25",
+  "3552409959": "2026-10-25",
   "3552419054": "2026-10-25",
-  "3552443325": "2026-10-25"
+  "3552443325": "2026-10-25",
+  "3552496203": "2026-10-25"
  },
- "laeufe": 261,
- "letzter_lauf": "2026-10-25T19:00:34",
+ "laeufe": 262,
+ "letzter_lauf": "2026-10-25T19:49:03",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1353,7 +1355,7 @@
     "Samsung 32GB DDR4-2666 ECC RDIMM"
    ],
    "3549622654": [
-    109.0,
+    119.0,
     "2026-10-25",
     "2026-10-23",
     "32GB (2x 16GB) Micron Supermicro DDR4-2666V ECC RDIMM Server RAM"
@@ -1381,6 +1383,12 @@
     "2026-10-25",
     "2026-10-25",
     "32GB SK Hynix Supermicro DDR4-2400T ECC RDIMM Server RAM"
+   ],
+   "3552467502": [
+    100.0,
+    "2026-10-25",
+    "2026-10-25",
+    "SK hynix 32GB DDR4 ECC RDIMM - PC4-2400T - Server RAM 2Rx4"
    ]
   },
   "DDR4 ECC RDIMM 64GB": {
@@ -2894,6 +2902,12 @@
     "2026-10-25",
     "2026-10-25",
     "RAM DDR4 16 GB 3200 MHz SO-DIMM"
+   ],
+   "3552487792": [
+    89.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Crucial 16GB DDR4-3200 SODIMM Arbeitsspeicher RAM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -3118,6 +3132,12 @@
     "2026-10-25",
     "2026-10-25",
     "Crucial 32GB (2x16GB) DDR4 3200 SODIMM RAM"
+   ],
+   "3552482758": [
+    110.0,
+    "2026-10-25",
+    "2026-10-25",
+    "32GB DDR4 RAM 3200MHz (2 x 16GB Kit) SO-DIMM, Samsung/Wooposit"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -4079,6 +4099,12 @@
     "2026-10-25",
     "2026-10-23",
     "Konvolut  RAM Arbeitsspeicher Module DDR3 DDR4"
+   ],
+   "3552409959": [
+    28.0,
+    "2026-10-25",
+    "2026-10-25",
+    "DDR4 RAM Konvolut 17× 8GB SO-DIMM"
    ]
   },
   "Konvolut SSD/Festplatten": {
@@ -4305,7 +4331,7 @@
     "Lenovo M920q i5-9500T"
    ],
    "3551631871": [
-    175.0,
+    160.0,
     "2026-10-25",
     "2026-10-25",
     "Lenovo ThinkCentre M920q Tiny PC / Intel i5 / Windows 11"
@@ -4460,7 +4486,7 @@
    ],
    "3496819340": [
     175.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Dock Gen 2 (Typ 40B0),135W"
    ],
@@ -5889,6 +5915,18 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air M1 (2020) 13,3 Zoll, 8GB RAM, 256GB SSD"
+   ],
+   "3552466946": [
+    550.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M1 in Originalverpackung"
+   ],
+   "3552496203": [
+    340.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M1 (2020) – sehr gepflegt"
    ]
   },
   "MacBook Air M2": {
@@ -6625,7 +6663,7 @@
     "Wie Neu‼️ Apple MacBook Air 2022 M2, 99% AkkuKapa, 256GB, Zubehör"
    ],
    "3552172189": [
-    650.0,
+    620.0,
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air 2022 M2 13,6 Zoll 256 GB"
@@ -6635,6 +6673,12 @@
     "2026-10-25",
     "2026-10-25",
     "MacBook Air M2 - wie neu - inkl. Verpackung und Netzteil"
+   ],
+   "3552516912": [
+    750.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Macbook Air M2 15 Zoll 2023"
    ]
   },
   "Makita DHP485 Set": {
@@ -7141,6 +7185,18 @@
     "2026-10-25",
     "2026-10-25",
     "Kfa2 Rtx 3060 12 gb"
+   ],
+   "3552484538": [
+    350.0,
+    "2026-10-25",
+    "2026-10-25",
+    "ASUS GeForce Dual RTX 3060 12GB V2 OC Edition Grafikkarte"
+   ],
+   "3552507262": [
+    295.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte GeForce RTX 3060 Vision OC 12G – Rev. 2.0 – 12GB"
    ]
   },
   "RTX 3070": {
@@ -8625,6 +8681,12 @@
     "2026-10-25",
     "2026-10-25",
     "RTX 4070 OC 12GB"
+   ],
+   "3552514457": [
+    600.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte RTX 4070 12GB"
    ]
   },
   "RTX 4070 Super": {
@@ -10162,6 +10224,12 @@
     "2026-10-25",
     "2026-10-25",
     "AMD Ryzen 7 5800x3D"
+   ],
+   "3552509764": [
+    300.0,
+    "2026-10-25",
+    "2026-10-25",
+    "AMD Ryzen 7 5800X3D (AM4 CPU/Prozessor)"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -10376,7 +10444,7 @@
     "AMD Ryzen 7 7800X3D"
    ],
    "3551852156": [
-    275.0,
+    270.0,
     "2026-10-25",
     "2026-10-25",
     "AMD Ryzen 7 7800X3D | AM5 | 8-Core Gaming CPU | OVP"
@@ -12117,6 +12185,18 @@
     "2026-10-25",
     "2026-10-25",
     "Sony WH-1000XM5 Noise Cancelling Kopfhörer - Grau"
+   ],
+   "3552425190": [
+    175.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Sony WH-1000XM5 Kopfhörer - Neu & ungeöffnet!"
+   ],
+   "3552455867": [
+    170.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Sony WH-1000XM5 Noise Cancelling Kopfhörer - Neu & OVP"
    ]
   },
   "Synology DS220+": {
