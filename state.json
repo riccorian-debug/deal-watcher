@@ -391,6 +391,7 @@
   "3548488909": "2026-10-23",
   "3548522749": "2026-10-23",
   "3548728203": "2026-10-23",
+  "3549040381": "2026-10-25",
   "3549137600": "2026-10-23",
   "3549164880": "2026-10-23",
   "3549304688": "2026-10-23",
@@ -441,11 +442,15 @@
   "3552042369": "2026-10-25",
   "3552062551": "2026-10-25",
   "3552165437": "2026-10-25",
+  "3552214102": "2026-10-25",
   "3552221833": "2026-10-25",
-  "3552296015": "2026-10-25"
+  "3552296015": "2026-10-25",
+  "3552313994": "2026-10-25",
+  "3552419054": "2026-10-25",
+  "3552443325": "2026-10-25"
  },
- "laeufe": 260,
- "letzter_lauf": "2026-10-25T17:49:43",
+ "laeufe": 261,
+ "letzter_lauf": "2026-10-25T19:00:34",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -894,6 +899,12 @@
     "2026-10-25",
     "2026-10-25",
     "Bosch Bohrhammer GBH 18V-26, Professional, SDS+"
+   ],
+   "3552250840": [
+    180.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Bosch GBH 18V-26F Brushless Boschhammer SDS Plus"
    ]
   },
   "Bosch GSR 18V-60 Set": {
@@ -1186,6 +1197,18 @@
     "2026-10-25",
     "2026-10-25",
     "Bose QuietComfort 45 Bluetooth over-ear Kopfhörer"
+   ],
+   "3552326160": [
+    180.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Bose QuietComfort QC 45 Kopfhörer - Neu & unbenutzt"
+   ],
+   "3552443325": [
+    130.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Bose QC45 QuietComfort ANC Bluetooth Kopfhörer"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -1820,7 +1843,7 @@
     "32GB Kingston Fury Beast RGB 6000MHz CL36 DDR5 RAM 2x 16GB"
    ],
    "3550771684": [
-    500.0,
+    450.0,
     "2026-10-25",
     "2026-10-24",
     "Corsair Vengeance DDR5 RAM 32Gb 6000 MHz"
@@ -1914,6 +1937,12 @@
     "2026-10-25",
     "2026-10-25",
     "Corsair Vengeance RGB 32GB DDR5 RAM Kit CL36, 6000MTs"
+   ],
+   "3552420082": [
+    450.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Kingston FURY Beast RGB 32GB DDR5-6000 CL36 – 2x16GB"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2853,6 +2882,18 @@
     "2026-10-25",
     "2026-10-25",
     "TeamGroup Elite SO-DIMM 16GB DDR4 3200MHz Arbeitsspeicher (Neu)"
+   ],
+   "3552429169": [
+    60.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Ramaxel 16GB DDR4 SO-DIMM Arbeitsspeicher PC4-3200AA"
+   ],
+   "3552458413": [
+    50.0,
+    "2026-10-25",
+    "2026-10-25",
+    "RAM DDR4 16 GB 3200 MHz SO-DIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -3920,6 +3961,42 @@
     "2026-10-25",
     "2026-10-25",
     "Keychron Q3 mechanische Tastatrur für Windows und Mac"
+   ],
+   "3552119376": [
+    70.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K2 (US ANSI Layout) Top Zustand"
+   ],
+   "3552214102": [
+    30.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K8 MX Brown TKL"
+   ],
+   "3552313994": [
+    52.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K1 Bluetooth Mechanische Tastatur US Layout Brown Keys"
+   ],
+   "3552327325": [
+    85.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K3 v3 Mechanische Tastatur Low Profile"
+   ],
+   "3552329711": [
+    80.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K10 Pro Wireless"
+   ],
+   "3552346146": [
+    120.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron Q1 Knob Version Tastatur Shell White Gateron Brown"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -4102,6 +4179,18 @@
     "2026-10-25",
     "2026-10-25",
     "Labornetzteil 30V 5A PS-305D"
+   ],
+   "3552091073": [
+    49.0,
+    "2026-10-25",
+    "2026-10-25",
+    "PeakTech 6225 A – Labornetzteil 0- 30V / 0- 5A DC Labornetzgerät"
+   ],
+   "3552184801": [
+    50.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Labornetzteil Peak Tech 0-30V 0-5A"
    ]
   },
   "Latitude ohne SSD": {
@@ -4326,7 +4415,7 @@
     "Lenovo ThinkVision P27h-10 Monitor"
    ],
    "3549040381": [
-    150.0,
+    140.0,
     "2026-10-25",
     "2026-10-23",
     "Lenovo ThinkVision P27h-20 27 Zoll QHD Monitor Lautsprecher OVP"
@@ -4840,10 +4929,16 @@
     "Lenovo ThinkPad USB-C Dock Gen 2 (40AS)|2x DP|HDMI|Universal"
    ],
    "3551695201": [
-    55.0,
+    50.0,
     "2026-10-25",
     "2026-10-25",
     "Lenovo ThinkPad USB-C Dock Gen2"
+   ],
+   "3552207655": [
+    69.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo ThinkPad  USB-C Dock Gen 2 inkl. 90W Netzteil & USB-C/HDMI"
    ]
   },
   "MacBook Air M1": {
@@ -5745,7 +5840,7 @@
     430.0,
     "2026-10-25",
     "2026-10-25",
-    "MacBook Air M1"
+    "MacBook Air M1 256GB"
    ],
    "3552131799": [
     499.0,
@@ -5782,6 +5877,18 @@
     "2026-10-25",
     "2026-10-25",
     "MacBook Air M1, 13\", 8 GB RAM, 512 GB SSD, 8-Core-GPU, Akku 92 %"
+   ],
+   "3552419054": [
+    320.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M1 8gb ram 256gb"
+   ],
+   "3552462973": [
+    500.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M1 (2020) 13,3 Zoll, 8GB RAM, 256GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -6476,7 +6583,7 @@
     "Apple MacBook Air M2 2022"
    ],
    "3551663203": [
-    720.0,
+    690.0,
     "2026-10-25",
     "2026-10-25",
     "MacBook Air M2 2022 - 13,6 Zoll - 8 GB - 256 GB - Midnight"
@@ -6522,6 +6629,12 @@
     "2026-10-25",
     "2026-10-25",
     "Apple MacBook Air 2022 M2 13,6 Zoll 256 GB"
+   ],
+   "3552422249": [
+    690.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M2 - wie neu - inkl. Verpackung und Netzteil"
    ]
   },
   "Makita DHP485 Set": {
@@ -6561,6 +6674,12 @@
     "2026-10-24",
     "Makita DHP485RTJ Akku-Schlagbohrschrauber im Set"
    ],
+   "3542907402": [
+    69.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Makita DHP485 Akkuschrauber 18V - sehr guter Zustand"
+   ],
    "3550735093": [
     300.0,
     "2026-10-25",
@@ -6574,10 +6693,16 @@
     "Makita DHP485 Akku-Schlagbohrschrauber 18V"
    ],
    "3551558262": [
-    90.0,
+    85.0,
     "2026-10-25",
     "2026-10-25",
     "Makita DHP485 Akku Schlagbohrschrauber kaum benutzt"
+   ],
+   "3552193204": [
+    275.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Makita DGA 511 Winkelschleifer + DHP 485 Schlagbohrschrauber Set"
    ]
   },
   "Makita DTD153/172 Set": {
@@ -8018,7 +8143,7 @@
     "AORUS RTX 3080 Gaming Box (Rev. 2.0) externe Grafikkarte (eGPU)"
    ],
    "3551995424": [
-    365.0,
+    360.0,
     "2026-10-25",
     "2026-10-25",
     "ASUS TUF Gaming GeForce RTX 3080 10GB OC"
@@ -8046,6 +8171,18 @@
     "2026-10-25",
     "2026-10-25",
     "Nvidia RTX3080 Vision White 10GB"
+   ],
+   "3552390801": [
+    285.0,
+    "2026-10-25",
+    "2026-10-25",
+    "ZOTAC Gaming GeForce RTX 3080 Trinity OC 12GB GDDR6X"
+   ],
+   "3552439421": [
+    390.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Nvidia GeForce RTX 3080 10GB Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -9542,6 +9679,18 @@
     "2026-10-25",
     "2026-10-25",
     "AMD Radeon RX 7800 XT Sapphire Pulse"
+   ],
+   "3552389930": [
+    680.0,
+    "2026-10-25",
+    "2026-10-25",
+    "XFX RX 7800 XT 16GB Grafikkarte"
+   ],
+   "3552421308": [
+    545.0,
+    "2026-10-25",
+    "2026-10-25",
+    "GIGABYTE RX7800XT Gaming OC"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -9552,7 +9701,7 @@
     "Raspberry Pi 5 16GB, 128GB SD Karte, Gehäuse + weiteres Zubehör"
    ],
    "3528612489": [
-    299.0,
+    290.0,
     "2026-10-25",
     "2026-10-22",
     "Raspberry Pi 5 16gb"
@@ -9656,7 +9805,7 @@
     "Raspberry Pi 5 8GB + 52Pi N16 Quad NVMe"
    ],
    "3528613819": [
-    179.0,
+    170.0,
     "2026-10-25",
     "2026-10-22",
     "raspberry pi 5 8gb wasserkühlung"
@@ -9864,6 +10013,18 @@
     "2026-10-25",
     "2026-10-25",
     "Raspberry Pi5 8GB RAM Neu und versiegelt"
+   ],
+   "3552078409": [
+    229.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Raspberry Pi 5 8GB 64GB SSD Active Cooler Netzteil"
+   ],
+   "3552202543": [
+    237.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Raspberry Pi 5 (8Gb RAM) Starter Kit mit 10 Zoll Touchdisplay"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -10048,7 +10209,7 @@
    ],
    "3535209945": [
     220.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-21",
     "AMD Ryzen 7 7800x3d"
    ],
@@ -10665,7 +10826,7 @@
     "Samsung 990 Pro 2TB Heatsink (PS5 + PS5 Pro kompatibel)"
    ],
    "3546717876": [
-    270.0,
+    260.0,
     "2026-10-25",
     "2026-10-21",
     "Samsung 990 PRO NVME M.2 SSD 2TB"
@@ -11126,7 +11287,7 @@
     "Seagate Ironwolf 12TB NAS HDD Festplatte"
    ],
    "3514892275": [
-    400.0,
+    390.0,
     "2026-10-25",
     "2026-10-18",
     "Seagate IronWolf 12TB Festplatte"
@@ -11434,6 +11595,12 @@
     "2026-10-25",
     "2026-10-25",
     "Seagate IronWolf 8TB NAS HDD – 3,5 Zoll SATA, 5.974 Stunden"
+   ],
+   "3552403809": [
+    200.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Festplatte 8TB Seagate IronWolf NAS"
    ]
   },
   "Shelly Plus Plug S": {
@@ -12346,6 +12513,18 @@
     "2026-10-25",
     "2026-10-25",
     "⭐️LENOVO THINKPAD T14 GEN2 24GB 512GB DOCKINGSTATION ⭐️"
+   ],
+   "3552430728": [
+    395.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo ThinkPad P14s T14 Gen2 Ryzen 7 5850U 16GB 400nits 86%Akku"
+   ],
+   "3552431276": [
+    365.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo ThinkPad P14s (T14) Gen2 Ryzen 5 5650U 16GB 87% Akku IPS"
    ]
   },
   "ThinkPad T14 Gen 3": {
