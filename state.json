@@ -218,6 +218,7 @@
   "3534632761": "2026-10-08",
   "3534644804": "2026-10-08",
   "3534669039": "2026-10-08",
+  "3534683255": "2026-10-25",
   "3534744204": "2026-10-08",
   "3534753066": "2026-10-08",
   "3534819528": "2026-10-08",
@@ -423,10 +424,12 @@
   "3550891756": "2026-10-24",
   "3551126811": "2026-10-25",
   "3551185593": "2026-10-25",
+  "3551275331": "2026-10-25",
+  "3551369157": "2026-10-25",
   "3551384033": "2026-10-25"
  },
- "laeufe": 252,
- "letzter_lauf": "2026-10-25T09:53:37",
+ "laeufe": 253,
+ "letzter_lauf": "2026-10-25T10:56:31",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -841,7 +844,7 @@
     "Bosch Professional GBH 18V-26 Akku-Bohrhammer"
    ],
    "3551059648": [
-    165.0,
+    145.0,
     "2026-10-25",
     "2026-10-25",
     "Bosch Professional Kombihammer Bohrhammer GBH 18V-26F in L-Boxx"
@@ -851,6 +854,12 @@
     "2026-10-25",
     "2026-10-25",
     "BOSCH AKKU BOHRMASCHINE GBH 18V-26 F"
+   ],
+   "3551372197": [
+    150.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Bosch Professional GBH 18V-26 Akku-Bohrhammer im Koffer"
    ]
   },
   "Bosch GSR 18V-60 Set": {
@@ -939,10 +948,16 @@
     "Bosch Professional GSR 18V-60 FC Akku Schrauber FlexiClick"
    ],
    "3551067246": [
-    150.0,
+    130.0,
     "2026-10-25",
     "2026-10-25",
     "Bosch Professional Bohrschrauber GSR 18V- 60 FC mit Zubehör"
+   ],
+   "3551456882": [
+    180.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Bosch Bohrschrauber 'GSR 18V-60 C Professional"
    ]
   },
   "Bose QuietComfort": {
@@ -1073,7 +1088,7 @@
     "Neu Bose QuietComfort Ultra Headphones seltene Farbe Sandstone"
    ],
    "3551167643": [
-    290.0,
+    280.0,
     "2026-10-25",
     "2026-10-25",
     "Bose QuietComfort Ultra Bluetooth-Kopfhörer 2. Gen., NEU+OVP"
@@ -1083,6 +1098,30 @@
     "2026-10-25",
     "2026-10-25",
     "Bose QuietComfort Ultra Kopfhörer mit Noise Cancelling"
+   ],
+   "3551275331": [
+    109.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Bose QuietComfort 45 Kopfhörer - Sehr guter Zustand"
+   ],
+   "3551369157": [
+    150.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Bose QuietComfort 45 Kopfhörer"
+   ],
+   "3551423705": [
+    255.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Bose QuietComfort Ultra Kopfhörer - Sehr guter Zustand"
+   ],
+   "3551520941": [
+    75.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Bose QuietComfort Headphones - Blau - Mit Case & Zubehör"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -2078,6 +2117,12 @@
     "2026-10-25",
     "2026-10-23",
     "Dell U2723QE Monitor 27 Zoll"
+   ],
+   "3551329309": [
+    349.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Dell UltraSharp U2723QE 27\" 4K USB-C Monitor – Rechnung vorhanden"
    ]
   },
   "Dell WD19TB/WD22TB4": {
@@ -2224,6 +2269,12 @@
     "2026-10-25",
     "2026-10-23",
     "Dell Dockingstation WD19TB Thunderbolt mit 180W Netzteil"
+   ],
+   "3551385188": [
+    69.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Dell Dockingstation WD19TB 180W Thunderbolt HDMI DP LAN Netzteil"
    ]
   },
   "EliteBook 840 G8": {
@@ -2406,6 +2457,12 @@
     "2026-10-25",
     "2026-10-24",
     "HP EliteBook 840 G8 | i5-1135G7 | 14-Zoll"
+   ],
+   "3551531129": [
+    289.0,
+    "2026-10-25",
+    "2026-10-25",
+    "HP Elitebook 840 G8 , Intel Core i5 - 1145G7  16GB/256GB SSD"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -2642,6 +2699,12 @@
     "2026-10-25",
     "2026-10-25",
     "Samsung 16GB DDR4 Speicher 3200 SO-Dimm"
+   ],
+   "3551515986": [
+    60.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Crucial 16 GB DDR4-3200 SODIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -2875,6 +2938,12 @@
     "2026-10-25",
     "2026-10-23",
     "Fluke 117 Digitales Multimeter Neu"
+   ],
+   "3548904866": [
+    250.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Fluke Promotion 117/323 EUR Combo Kit"
    ]
   },
   "Fluke 87V Multimeter": {
@@ -3185,6 +3254,12 @@
     "2026-10-24",
     "2026-10-23",
     "Home Assistant Green Smart Home Hub"
+   ],
+   "3551253007": [
+    112.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Home Assistant Green Smart Home Hub – Neuwertig"
    ]
   },
   "Intel i5-13600K": {
@@ -3625,6 +3700,36 @@
     "2026-10-25",
     "2026-10-24",
     "Keychron Q10 QWERTY"
+   ],
+   "3551244008": [
+    80.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K8 TKL mechanische Tastatur"
+   ],
+   "3551260805": [
+    70.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K4 Mechanische Tastatur"
+   ],
+   "3551307531": [
+    70.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K3 Max Mechanische Tastatur - Brown mit RGB"
+   ],
+   "3551446861": [
+    65.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K4 v2 Englisch RGB Wireless Keyboard Brown Switches"
+   ],
+   "3551497223": [
+    70.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Keychron K8 Pro QMK/VIA Mechanische Tastatur TKL"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -3789,6 +3894,12 @@
     "2026-10-24",
     "2026-10-23",
     "STATRON TYP3222 Labornetzteil 2 Kanal 0-30V 0-1,5A"
+   ],
+   "3551467479": [
+    35.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Labornetzteil 30V 5A PS-305D"
    ]
   },
   "Latitude ohne SSD": {
@@ -4007,7 +4118,7 @@
     "PC Bildschirm Lenovo ThinkVision P27h-30"
    ],
    "3550454194": [
-    120.0,
+    87.0,
     "2026-10-25",
     "2026-10-24",
     "Lenovo ThinkVision P27h-10,  27\""
@@ -4175,6 +4286,12 @@
     "2026-10-25",
     "2026-10-24",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B00135EU TOP"
+   ],
+   "3551478878": [
+    155.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo ThinkPad Thunderbolt 4 Dock + 300W und 170W Netzteil"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -4395,7 +4512,7 @@
     "Lenovo ThinkPad Universal USB-C Dock Gen2 mit OVP"
    ],
    "3540740966": [
-    45.0,
+    30.0,
     "2026-10-25",
     "2026-10-23",
     "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) Dockingstation Docking"
@@ -4477,6 +4594,12 @@
     "2026-10-25",
     "2026-10-24",
     "Lenovo ThinkPad USB-C Dock Gen 2 40AS mit Netzteil"
+   ],
+   "3551306403": [
+    30.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo Dockingstation ThinkPad USB-C Dock Gen2 40AS"
    ]
   },
   "MacBook Air M1": {
@@ -4485,6 +4608,12 @@
     "2026-10-23",
     "2026-10-22",
     "MacBook Air M1 2020 | 2 TB SSD | 8 GB RAM | Akku 92% | 190 Zyklen"
+   ],
+   "3529669466": [
+    414.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Macbook Air M1 2020 8GB RAM 256 GB SSD"
    ],
    "3547288717": [
     399.0,
@@ -5253,6 +5382,42 @@
     "2026-10-25",
     "2026-10-25",
     "MacBook Air M1 13“ - 8GB/256GB - wie neu"
+   ],
+   "3551424043": [
+    499.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air M1  – Neuer Akku – Originalzubehör"
+   ],
+   "3551430975": [
+    399.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air 13\" M1 8GB/256GB Silber – Top-Zustand mit OVP"
+   ],
+   "3551486463": [
+    280.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M1 2020 91% Akku"
+   ],
+   "3551513314": [
+    419.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Macbook Air M1 512GB 8GB"
+   ],
+   "3551527595": [
+    250.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air 13\" M1 (2020) 8 GB / 256 GB, Space Grau, mit OVP"
+   ],
+   "3551531928": [
+    450.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Apple MacBook Air M1,2020,13,3\", 8GB RAM, 256GB SSD, Gold"
    ]
   },
   "MacBook Air M2": {
@@ -5915,6 +6080,18 @@
     "2026-10-25",
     "2026-10-25",
     "Apple Mac Air M2 (2022) 100% Akku - neuwertig"
+   ],
+   "3551425923": [
+    629.0,
+    "2026-10-25",
+    "2026-10-25",
+    "MacBook Air 13 M2 8 GB 256 GB Space Grau Akku 90 Prozent"
+   ],
+   "3551510672": [
+    800.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Wie Neu‼️ Apple MacBook Air 2022 M2, 99% AkkuKapa, 256GB, Zubehör"
    ]
   },
   "Makita DHP485 Set": {
@@ -5949,7 +6126,7 @@
     "Makita DHP485 18V"
    ],
    "3538518516": [
-    219.0,
+    210.0,
     "2026-10-25",
     "2026-10-24",
     "Makita DHP485RTJ Akku-Schlagbohrschrauber im Set"
@@ -6870,7 +7047,7 @@
    ],
    "3551030473": [
     285.0,
-    "2026-10-24",
+    "2026-10-25",
     "2026-10-24",
     "EVGA GeForce RTX 3070 FTW3 Grafikkarte mit OVP"
    ],
@@ -6921,6 +7098,30 @@
     "2026-10-25",
     "2026-10-25",
     "Nvidia Geforce  RTX 3070 8GB  / 300€ VB"
+   ],
+   "3551429956": [
+    350.0,
+    "2026-10-25",
+    "2026-10-25",
+    "NVIDIA GeForce RTX 3070 8GB | Gaming Grafikkarte | Top Leistung |"
+   ],
+   "3551433641": [
+    270.0,
+    "2026-10-25",
+    "2026-10-25",
+    "RTX 3070 Gaming X Trio - 8GB"
+   ],
+   "3551471448": [
+    370.0,
+    "2026-10-25",
+    "2026-10-25",
+    "ASUS Dual GeForce RTX 3070 8GB GDDR6 Grafikkarte"
+   ],
+   "3551512361": [
+    300.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Gigabyte GeForce RTX 3070 Gaming OC 8G Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -7963,6 +8164,12 @@
     "2026-10-24",
     "2026-10-23",
     "Inno3D GeForce RTX 4070 Ti Super 16GB"
+   ],
+   "3551531657": [
+    950.0,
+    "2026-10-25",
+    "2026-10-25",
+    "RTX 4070 TI Super"
    ]
   },
   "RTX 4080": {
@@ -8399,6 +8606,12 @@
     "2026-10-25",
     "2026-10-25",
     "MSI RX 6800 xt gaming z trio"
+   ],
+   "3551447717": [
+    499.0,
+    "2026-10-25",
+    "2026-10-25",
+    "AMD Radeon RX 6800 XT 16GB – Dell / Alienware OEM – Triple Fan"
    ]
   },
   "RX 7800 XT": {
@@ -8926,7 +9139,7 @@
     150.0,
     "2026-10-25",
     "2026-10-24",
-    "Raspberry Pi 5 8GB voll funktionsfähig"
+    "Abholung - Raspberry Pi 5 8GB voll funktionsfähig"
    ],
    "3550086742": [
     199.0,
@@ -9858,6 +10071,12 @@
     "2026-10-25",
     "2026-10-24",
     "Samsung SSD 990 PRO 2TB"
+   ],
+   "3551479126": [
+    319.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Samsung 990 PRO 2TB NVMe SSD mit Heatsink – NEU & OVP versiegelt"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -10685,8 +10904,8 @@
     "Sony Wh 1000xm5 Kopfhörer"
    ],
    "3543953860": [
-    150.0,
-    "2026-10-23",
+    138.0,
+    "2026-10-25",
     "2026-10-23",
     "Sony WH-1000XM5 – Noise Cancelling – OVP – Weiß/Silber"
    ],
@@ -10893,6 +11112,12 @@
     "2026-10-25",
     "2026-10-25",
     "Sony WH-1000XM5"
+   ],
+   "3551372673": [
+    135.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Sony WH-1000XM5 Kopfhörer Over-Ear Active Noise Cancelling"
    ]
   },
   "Synology DS220+": {
@@ -11253,6 +11478,12 @@
     "2026-10-25",
     "2026-10-25",
     "Lenovo ThinkPad T14 Gen2 G2 16GB/256GB i5-1145G7 14\" Akku 89%"
+   ],
+   "3551429647": [
+    399.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Lenovo Thinkpad T14 Gen 2 G2 i7-1185G7 16GB 512GB FullHD"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -11958,7 +12189,7 @@
     "Weller WTCP Magnastat Lötstation 24V 50W Lötkolben,  4 Spitzen"
    ],
    "3534683255": [
-    50.0,
+    43.0,
     "2026-10-25",
     "2026-10-23",
     "Weller Lötstation WTCP 50"
@@ -12288,6 +12519,12 @@
     "2026-10-25",
     "2026-10-24",
     "Home Assistant Connect ZBT-1 (SkyConnect) Zigbee Thread USB-Stick"
+   ],
+   "3551437197": [
+    35.0,
+    "2026-10-25",
+    "2026-10-25",
+    "Home Assistant SkyConnect ZBT-1 Zigbee/Thread Stick"
    ]
   }
  },
