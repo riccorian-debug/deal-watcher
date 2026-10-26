@@ -455,12 +455,13 @@
   "3552544656": "2026-10-26",
   "3552751796": "2026-10-26",
   "3552806900": "2026-10-26",
+  "3552876575": "2026-10-26",
   "3552878870": "2026-10-26",
   "3552971045": "2026-10-26",
   "3553059886": "2026-10-26"
  },
- "laeufe": 271,
- "letzter_lauf": "2026-10-26T13:42:12",
+ "laeufe": 272,
+ "letzter_lauf": "2026-10-26T15:50:05",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2002,6 +2003,12 @@
     "2026-10-26",
     "32GB Kingston FURY Beast CL30 2x 16GB DDR5-6000"
    ],
+   "3552876575": [
+    350.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Kingston FURY Beast 32GB Kit DDR5-6000 CL30"
+   ],
    "3552878870": [
     280.0,
     "2026-10-26",
@@ -2019,6 +2026,18 @@
     "2026-10-26",
     "2026-10-26",
     "Corsair Vengeance RGB 32GB Kit (2x16GB) DDR5-6000 RAM CL28 CMH32G"
+   ],
+   "3553129872": [
+    449.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Corsair Vengeance RGB schwarz UDIMM 32GB Kit, DDR5-6000, CL36 Neu"
+   ],
+   "3553162198": [
+    385.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Crucial Pro OC Schwarz 32GB Kit (2x16GB) DDR5-6000"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2988,6 +3007,18 @@
     "2026-10-26",
     "2026-10-25",
     "Crucial 16GB DDR4-3200 SODIMM Speicher"
+   ],
+   "3553123542": [
+    70.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Crucial 16GB DDR4 3200 SODIMM RAM Arbeitsspeicher"
+   ],
+   "3553209671": [
+    60.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Samsung 16GB DDR4 SODIMM PC4 3200Mhz Dell Lenovo HP"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -3224,6 +3255,12 @@
     "2026-10-26",
     "2026-10-26",
     "KIT DDR4 32 GB SKhynix(2X 16GB) 3200MHz SODIMM"
+   ],
+   "3553163967": [
+    225.0,
+    "2026-10-26",
+    "2026-10-26",
+    "32GB DDR4-3200 SO-DIMM (2x16GB)"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -6193,6 +6230,54 @@
     "2026-10-26",
     "2026-10-26",
     "Apple MacBook Air M1 2020 8GB-256GB"
+   ],
+   "3553083998": [
+    500.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Macbook air13 M1 chip"
+   ],
+   "3553100449": [
+    590.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air mit M1 Chip"
+   ],
+   "3553148367": [
+    499.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air M1 13\" Gold | 62 Ladezyklen | 96% Akku"
+   ],
+   "3553154806": [
+    450.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air 13\" M1 (2020) | 256GB SSD | Sehr guter Zustand"
+   ],
+   "3553165602": [
+    499.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air M1 (2020) | 16 GB RAM | 256 GB SSD | Silber"
+   ],
+   "3553189216": [
+    380.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air M1 2020, 256GB SSD, 8GB RAM"
+   ],
+   "3553208453": [
+    430.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air 13 2020 M1 512gb"
+   ],
+   "3553225711": [
+    399.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air 2020 M1"
    ]
   },
   "MacBook Air M2": {
@@ -6989,7 +7074,7 @@
     "MacBook Air (13 Zoll, M2, 16GB RAM, 512GB)"
    ],
    "3553012404": [
-    661.0,
+    611.0,
     "2026-10-26",
     "2026-10-26",
     "MacBook Air M2 - 8GB RAM - 512 GB SSD"
@@ -7005,6 +7090,30 @@
     "2026-10-26",
     "2026-10-26",
     "MacBook Air 2022 M2 Chip heute kaufen= mache guten preis"
+   ],
+   "3553100422": [
+    830.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Abholung: MacBook Air M2 - 16 RAM, 512 SSD, 91%"
+   ],
+   "3553115641": [
+    780.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air (M2, 2022) 13 Zoll"
+   ],
+   "3553144909": [
+    700.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Mcbook air 15 Zoll ,M2 2023"
+   ],
+   "3553169312": [
+    700.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air M2 13,6” | 8GB | 256GB | Top Zustand"
    ]
   },
   "Makita DHP485 Set": {
@@ -8708,7 +8817,19 @@
     350.0,
     "2026-10-26",
     "2026-10-26",
-    "MSI GeForce RTX 3080 Grafikkarte"
+    "MSI GeForce RTX 3080 10GB Grafikkarte"
+   ],
+   "3553160304": [
+    399.0,
+    "2026-10-26",
+    "2026-10-26",
+    "INNO3D GeForce RTX 3080 X3 10GB GDDR6X"
+   ],
+   "3553187823": [
+    400.0,
+    "2026-10-26",
+    "2026-10-26",
+    "NVIDIA GeForce RTX 3080 Founders Edition 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -9363,6 +9484,12 @@
     "2026-10-26",
     "2026-10-25",
     "MSI GeForce RTX 4070 Super Gaming X Slim White (12GB)"
+   ],
+   "3553130209": [
+    725.0,
+    "2026-10-26",
+    "2026-10-26",
+    "RTX 4070 Super KFA2 EX OC Pink Limited Edition"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -10005,6 +10132,12 @@
     "2026-10-26",
     "2026-10-26",
     "AMD RX 6800 XT Grafikkarte mit 16GB VRAM"
+   ],
+   "3553228719": [
+    250.0,
+    "2026-10-26",
+    "2026-10-26",
+    "AMD Radeon RX 6800XT"
    ]
   },
   "RX 7800 XT": {
@@ -10291,7 +10424,7 @@
     "XFX RX 7800 XT 16GB Grafikkarte"
    ],
    "3552421308": [
-    545.0,
+    520.0,
     "2026-10-26",
     "2026-10-25",
     "GIGABYTE RX7800XT Gaming OC"
@@ -11090,7 +11223,7 @@
     "AMD Ryzen 7 9800X3D – OVP"
    ],
    "3536443860": [
-    399.0,
+    389.0,
     "2026-10-26",
     "2026-10-21",
     "AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, Prozessor, Neu"
@@ -11126,7 +11259,7 @@
     "AMD Ryzen 7 9800X3D - Gaming CPU - AM5 - 8 Kerne"
    ],
    "3544158990": [
-    399.0,
+    389.0,
     "2026-10-26",
     "2026-10-21",
     "AMD Ryzen 7 9800X3D, 8C/16T, 4.70-5.20GHz, Prozessor, Neu"
@@ -11198,7 +11331,7 @@
     "AMD Ryzen 7 9800x3d CPU Prozessor AM5"
    ],
    "3550984807": [
-    450.0,
+    300.0,
     "2026-10-26",
     "2026-10-24",
     "AMD Ryzen 7 9800X3D Prozessor CPU"
@@ -11686,6 +11819,12 @@
     "2026-10-26",
     "2026-10-25",
     "2TB SSD Samsung 990Pro PCIE 4.0 nvme m.2"
+   ],
+   "3553079653": [
+    279.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Samsung 990 PRO NVMe M.2 SSD, 2 TB"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -11813,7 +11952,7 @@
     "Seagate Exos X16 16TB Festplatten - Neu in Folie (nicht RMA!)"
    ],
    "3548615660": [
-    399.0,
+    379.0,
     "2026-10-26",
     "2026-10-23",
     "NEUE! 16TB Seagate Exos X24 Festplatte | HDD 3,5 Zoll | SATA"
@@ -13788,6 +13927,12 @@
     "2026-10-26",
     "2026-10-26",
     "Western Digital WD BLACK SN850X NVMe SSD 2TB, neuwertig"
+   ],
+   "3553224564": [
+    239.0,
+    "2026-10-26",
+    "2026-10-26",
+    "WD_BLACK SN850X Heatsink 2TB M.2 NVMe SSD 2280"
    ]
   },
   "WD Red Plus 4TB": {
