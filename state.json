@@ -463,10 +463,11 @@
   "3553241028": "2026-10-26",
   "3553266701": "2026-10-26",
   "3553344417": "2026-10-26",
+  "3553403573": "2026-10-26",
   "3553458001": "2026-10-26"
  },
- "laeufe": 276,
- "letzter_lauf": "2026-10-26T19:59:31",
+ "laeufe": 277,
+ "letzter_lauf": "2026-10-26T21:01:44",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -783,7 +784,7 @@
     "NEU: Elegoo UNO R3 The Most Complete Starter Kit / Arduino Set"
    ],
    "3553050516": [
-    50.0,
+    45.0,
     "2026-10-26",
     "2026-10-26",
     "Arduino Starter Kit - Elektronik Lernset mit vielen Bauteilen"
@@ -929,7 +930,7 @@
     "Bosch GBH 18V-26F Brushless Boschhammer SDS Plus"
    ],
    "3553158863": [
-    240.0,
+    220.0,
     "2026-10-26",
     "2026-10-26",
     "Bosch Professional GBH 18V-26 F SDS-plus Bohrhammer mit L-BOXX"
@@ -2671,7 +2672,7 @@
    ],
    "3469562777": [
     420.0,
-    "2026-10-24",
+    "2026-10-26",
     "2026-10-22",
     "HP elitebook 840 G8 i5 11th gen 8 gb ram 256gb ssd Neu"
    ],
@@ -3777,6 +3778,12 @@
     "2026-10-26",
     "2026-10-26",
     "Home Assistant Green Smart Home Hub"
+   ],
+   "3553365126": [
+    120.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Home Assistant Smart-Home-Set – Green"
    ]
   },
   "Intel i5-13600K": {
@@ -4361,6 +4368,24 @@
     "2026-10-26",
     "2026-10-26",
     "Keychron K6 Iso DE mechanische Tastatur"
+   ],
+   "3553391207": [
+    50.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Keychron V6 Max Mechanische Tastatur ISO-DE Layout"
+   ],
+   "3553392286": [
+    50.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Keychron K3 Pro Tastatur ISO DE mit original Palm Rest"
+   ],
+   "3553483013": [
+    80.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Keychron K1 Pro - gelubed und gedämmt - wie neu-"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -4481,6 +4506,18 @@
     "2026-10-26",
     "2026-10-26",
     "13x NVMe SSD Konvolut | WD, Samsung, SK Hynix, KIOXIA"
+   ],
+   "3553428862": [
+    15.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Konvolut SSD  M2 Festplatte 128 GB, 12 stück"
+   ],
+   "3553514645": [
+    30.0,
+    "2026-10-26",
+    "2026-10-26",
+    "2× Samsung PM851 128GB mSATA SSD – 256GB gesamt – Konvolut"
    ]
   },
   "Labornetzteil 30V 5A": {
@@ -5001,6 +5038,12 @@
     "2026-10-26",
     "2026-10-26",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock mit 135W Netzteil"
+   ],
+   "3553488458": [
+    110.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Lenovo ThinkPad Universal Thunderbolt 4 Dock -NEU– Modell 40B0"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -5227,7 +5270,7 @@
     "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) Dockingstation Docking"
    ],
    "3541938398": [
-    79.0,
+    69.0,
     "2026-10-26",
     "2026-10-23",
     "Lenovo ThinkPad USB-C Dock Gen 2 mit 90W Netzteil"
@@ -6529,6 +6572,24 @@
     "2026-10-26",
     "2026-10-26",
     "MacBook Air M1, Top, neuer iFixit Akku"
+   ],
+   "3553488652": [
+    449.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air 2020 M1, 93% Akku, 8GB RAM, 256GB SSD, Top Zustand"
+   ],
+   "3553491581": [
+    525.0,
+    "2026-10-26",
+    "2026-10-26",
+    "✅ Apple MacBook Air 13,3\" M1 256GB SSD 8GB RAM / inkl. OVP  ✅"
+   ],
+   "3553506421": [
+    529.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air m1"
    ]
   },
   "MacBook Air M2": {
@@ -7383,6 +7444,24 @@
     "2026-10-26",
     "2026-10-26",
     "Apple MacBook Air 13,6\" M2 Space Grau 8GB 256GB mit OVP"
+   ],
+   "3553479438": [
+    500.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air 15,3\" (M2 - 2023) • 8 GB / 256 GB SSD • Akku 93 %"
+   ],
+   "3553487303": [
+    500.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook 2022 air mit m2 Chip"
+   ],
+   "3553500970": [
+    799.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air M2 13,6” | 16 GB RAM | 256 GB SSD | OVP | 99 % Akku"
    ]
   },
   "Makita DHP485 Set": {
@@ -8604,7 +8683,7 @@
     320.0,
     "2026-10-26",
     "2026-10-26",
-    "MSI GeForce RTX 3070 Ventus 2X OC 8GB Grafikkarte/GPU -neuwertig"
+    "MSI GeForce RTX 3070 Ventus 8GB Grafikkarte/GPU -neuwertig"
    ],
    "3553005049": [
     345.0,
@@ -10515,6 +10594,12 @@
     "2026-10-26",
     "2026-10-26",
     "AMD Radeon RX 6800XT"
+   ],
+   "3553496406": [
+    450.0,
+    "2026-10-26",
+    "2026-10-26",
+    "PowerColor Red Dragon Radeon RX 6800 XT 16 GB"
    ]
   },
   "RX 7800 XT": {
@@ -11081,13 +11166,13 @@
     "Raspberry Pi 5 8GB Starter Kit + Netzteil + Gehäuse"
    ],
    "3550086815": [
-    190.0,
+    200.0,
     "2026-10-26",
     "2026-10-24",
     "Raspberry Pi 5 8GB Starter Kit Netzteil Gehäuse"
    ],
    "3550086937": [
-    180.0,
+    190.0,
     "2026-10-26",
     "2026-10-24",
     "Raspberry Pi 5 8GB Starter Kit + Netzteil"
@@ -11205,6 +11290,12 @@
     "2026-10-26",
     "2026-10-26",
     "Raspberry Pi 5 8gb gebraucht | Aktivkühler inklusive | Metallgehä"
+   ],
+   "3553403573": [
+    110.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Raspberry Pi5 8GB RAM Neu und versiegelt"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -11824,7 +11915,7 @@
     "Samsung 970 EVO Plus 2 TB"
    ],
    "3546293349": [
-    240.0,
+    190.0,
     "2026-10-26",
     "2026-10-24",
     "Samsung 970 EVO Plus NVMe M.2 SSD 2TB mit Adapter"
@@ -11848,7 +11939,7 @@
     "970 EVO Plus NVMe M.2 SSD 2TB Samsung"
    ],
    "3553462242": [
-    200.0,
+    190.0,
     "2026-10-26",
     "2026-10-26",
     "Samsung 2TB 970 EVO Plus"
@@ -12238,6 +12329,12 @@
     "2026-10-26",
     "2026-10-26",
     "Samsung 990 PRO NVMe M.2 SSD, 2 TB"
+   ],
+   "3553512343": [
+    325.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Samsung 990 PRO 2 TB"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -13453,6 +13550,18 @@
     "2026-10-26",
     "2026-10-26",
     "Sony wh-1000xm5 bluetooth Kopfhörer Nagelneu Originalverpackt"
+   ],
+   "3553410443": [
+    110.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Sony WH-1000XM5 Kopfhörer"
+   ],
+   "3553435802": [
+    220.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Sony WH-1000XM5 Bluetooth Noise Cancelling Kopfhörer Schwarz"
    ]
   },
   "Synology DS220+": {
@@ -13995,6 +14104,12 @@
     "2026-10-26",
     "2026-10-25",
     "ThinkPad T14 Gen 3 (G3) | Ryzen 5 pro | 16 GB DDR5 | WIE NEU‼️✅"
+   ],
+   "3553498196": [
+    450.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Lenovo ThinkPad T14 Gen 3 i7-1255U▪️32 GB RAM▪️512 GB NVMe SSD▪️F"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -14732,6 +14847,12 @@
     "2026-10-26",
     "2026-10-26",
     "Weller WTCP-S Lötstation mit Zubehör"
+   ],
+   "3553416288": [
+    110.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Weller WTCP-S Lötstation TOP"
    ]
   },
   "Zigbee-Stick": {
