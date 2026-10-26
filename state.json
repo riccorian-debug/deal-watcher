@@ -462,10 +462,11 @@
   "3553059886": "2026-10-26",
   "3553241028": "2026-10-26",
   "3553266701": "2026-10-26",
-  "3553344417": "2026-10-26"
+  "3553344417": "2026-10-26",
+  "3553458001": "2026-10-26"
  },
- "laeufe": 275,
- "letzter_lauf": "2026-10-26T19:11:45",
+ "laeufe": 276,
+ "letzter_lauf": "2026-10-26T19:59:31",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2038,7 +2039,7 @@
     "32gb DDR 5 2x 16GB RAM mit RGB 6000mhz CL30"
    ],
    "3552571602": [
-    450.0,
+    400.0,
     "2026-10-26",
     "2026-10-25",
     "Corsair Vengeance 32GB (2x16GB) DDR5 6000MT/s RAM weiß"
@@ -2120,6 +2121,12 @@
     "2026-10-26",
     "2026-10-26",
     "Corsair Vengeance RGB DDR5 32 GB (2×16 GB) 6000 MHz – Weiß"
+   ],
+   "3553459807": [
+    450.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz RAM - NEU"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3391,6 +3398,12 @@
     "2026-10-26",
     "2026-10-26",
     "Crucial 32GB RAM Kit (2×16GB) DDR4-3200 SO-DIMM – CT2K16G4SFRA32A"
+   ],
+   "3553458001": [
+    145.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Oloy 32Gb (2x16Gb) DDR4 SO-DIMM 3200MHz RAM"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -6498,6 +6511,24 @@
     "2026-10-26",
     "2026-10-26",
     "Apple MacBook Air M1 inkl. OVP und Zubehör"
+   ],
+   "3553433518": [
+    420.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air M1, 256GB SSD, 8GB RAM, Space Grau, Akku 91%"
+   ],
+   "3553452248": [
+    440.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air M1 256 GB – Akku 100 % – Top Zustand"
+   ],
+   "3553468882": [
+    450.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air M1, Top, neuer iFixit Akku"
    ]
   },
   "MacBook Air M2": {
@@ -8605,6 +8636,12 @@
     "2026-10-26",
     "Geforce RTX 3070 Gaming X Trio von MSI"
    ],
+   "3553364818": [
+    290.0,
+    "2026-10-26",
+    "2026-10-26",
+    "NVIDIA GeForce RTX 3070 8GB GDDR6 Wie neu"
+   ],
    "3553377363": [
     320.0,
     "2026-10-26",
@@ -8622,6 +8659,18 @@
     "2026-10-26",
     "2026-10-26",
     "NVIDIA GeForce RTX 3070 Grafikkarte"
+   ],
+   "3553453701": [
+    350.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Geforce RTX 3070 Palit GamingPro"
+   ],
+   "3553460483": [
+    275.0,
+    "2026-10-26",
+    "2026-10-26",
+    "RTX 3070 8Gb Palit GamingPro"
    ]
   },
   "RTX 3080": {
@@ -11762,6 +11811,12 @@
     "2026-10-21",
     "Samsung 970 EVO plus 2TB ovp neu ungenutzt."
    ],
+   "3542073700": [
+    200.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Samsung 970 EVO Plus 2TB NVMe M.2 SSD | 100% Gesundheit"
+   ],
    "3544776832": [
     190.0,
     "2026-10-26",
@@ -11791,6 +11846,12 @@
     "2026-10-26",
     "2026-10-26",
     "970 EVO Plus NVMe M.2 SSD 2TB Samsung"
+   ],
+   "3553462242": [
+    200.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Samsung 2TB 970 EVO Plus"
    ]
   },
   "Samsung 990 Pro 2TB": {
@@ -14321,6 +14382,12 @@
     "2026-10-26",
     "2026-10-26",
     "WD_BLACK SN850X Heatsink 2TB M.2 NVMe SSD 2280"
+   ],
+   "3553431349": [
+    290.0,
+    "2026-10-26",
+    "2026-10-26",
+    "WD BLACK SN850X SSD - 2TB - M.2 PCIe Gen4 NVMe - 09/2026 Rechnung"
    ]
   },
   "WD Red Plus 4TB": {
