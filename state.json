@@ -464,8 +464,8 @@
   "3553266701": "2026-10-26",
   "3553344417": "2026-10-26"
  },
- "laeufe": 274,
- "letzter_lauf": "2026-10-26T17:59:46",
+ "laeufe": 275,
+ "letzter_lauf": "2026-10-26T19:11:45",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2020,7 +2020,7 @@
     "Kingston FURY Beast 32GB DDR5-6000 CL30 RAM White RGB"
    ],
    "3552265779": [
-    420.0,
+    400.0,
     "2026-10-26",
     "2026-10-25",
     "Corsair Vengeance RGB 32GB DDR5 RAM Kit CL36, 6000MTs"
@@ -2114,6 +2114,12 @@
     "2026-10-26",
     "2026-10-26",
     "Kingston Fury Beast DDR5 32GB (2×16GB) 6000 MHz"
+   ],
+   "3553363331": [
+    500.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Corsair Vengeance RGB DDR5 32 GB (2×16 GB) 6000 MHz – Weiß"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2303,6 +2309,12 @@
     "2026-10-25",
     "2026-10-24",
     "Dell Latitude 7420"
+   ],
+   "3553326443": [
+    390.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Laptop Latitude 7420 14FHD Touch i7-1165G7|16GB RAM|512GB SSD|Pro"
    ]
   },
   "Dell UltraSharp U2719D": {
@@ -3113,6 +3125,12 @@
     "2026-10-26",
     "2026-10-26",
     "Samsung 16GB DDR4 SODIMM PC4 3200Mhz Dell Lenovo HP"
+   ],
+   "3553427424": [
+    90.0,
+    "2026-10-26",
+    "2026-10-26",
+    "2x SK Hynix 16GB RAM DDR4 3200MHz SO-DIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -3361,6 +3379,18 @@
     "2026-10-26",
     "2026-10-26",
     "2x 16GB SK Hynix Kit DDR4 SO-DIMM 3200MHz (32GB)"
+   ],
+   "3553407219": [
+    175.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Crucial 32GB // DDR4-3200 // SODIMM RAM"
+   ],
+   "3553415414": [
+    179.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Crucial 32GB RAM Kit (2×16GB) DDR4-3200 SO-DIMM – CT2K16G4SFRA32A"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -5624,7 +5654,7 @@
     "Verkaufe Macbook Air M1 - 90% Akku und sehr guter Zustand"
    ],
    "3548878732": [
-    455.0,
+    445.0,
     "2026-10-26",
     "2026-10-23",
     "Macbook Air M1 2020 | 8gb 256gb | 89% Akku"
@@ -6462,6 +6492,12 @@
     "2026-10-26",
     "2026-10-26",
     "Apple MacBook Air M1 in Space Grau"
+   ],
+   "3553371004": [
+    400.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air M1 inkl. OVP und Zubehör"
    ]
   },
   "MacBook Air M2": {
@@ -8568,6 +8604,24 @@
     "2026-10-26",
     "2026-10-26",
     "Geforce RTX 3070 Gaming X Trio von MSI"
+   ],
+   "3553377363": [
+    320.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Asus RTX 3070 8GB"
+   ],
+   "3553386814": [
+    300.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Gigabyte GeForce RTX 3070 Eagle OC 8G Grafikkarte"
+   ],
+   "3553413531": [
+    330.0,
+    "2026-10-26",
+    "2026-10-26",
+    "NVIDIA GeForce RTX 3070 Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -9068,6 +9122,12 @@
     "2026-10-26",
     "2026-10-26",
     "Gigabyte GeForce RTX 3080 EAGLE OC 10GB – Voll funktionsfähig"
+   ],
+   "3553416604": [
+    550.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Msi rtx 3080 Suprim x"
    ]
   },
   "RTX 4060 Ti": {
@@ -9752,6 +9812,12 @@
     "2026-10-26",
     "2026-10-26",
     "12 GB ASUS TUF GeForce RTX 4070 Super OC Edition Grafikkarte"
+   ],
+   "3553359969": [
+    700.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Rtx 4070 super"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -10271,7 +10337,7 @@
    ],
    "3527280170": [
     425.0,
-    "2026-10-25",
+    "2026-10-26",
     "2026-10-21",
     "Powercolor Red Dragon RX 6800 XT 16GB Grafikkarte"
    ],
@@ -13872,7 +13938,7 @@
   },
   "ThinkPad X1 Carbon Gen 10": {
    "3450016805": [
-    550.0,
+    450.0,
     "2026-10-26",
     "2026-10-22",
     "lenovo X1 Carbon Gen10 mit Privacy Display"
