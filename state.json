@@ -461,10 +461,11 @@
   "3552971045": "2026-10-26",
   "3553059886": "2026-10-26",
   "3553241028": "2026-10-26",
-  "3553266701": "2026-10-26"
+  "3553266701": "2026-10-26",
+  "3553344417": "2026-10-26"
  },
- "laeufe": 273,
- "letzter_lauf": "2026-10-26T17:08:17",
+ "laeufe": 274,
+ "letzter_lauf": "2026-10-26T17:59:46",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2101,6 +2102,18 @@
     "2026-10-26",
     "2026-10-26",
     "32gb 2x16gb ddr5 RAM 6000mhz cl30"
+   ],
+   "3553340283": [
+    450.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Corsair Vengeance RGB DDR5 RAM 32GB (2x16GB) 6000MHz CL36"
+   ],
+   "3553349552": [
+    250.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Kingston Fury Beast DDR5 32GB (2×16GB) 6000 MHz"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2964,8 +2977,8 @@
     "16 GB DDR4-3200 SO-DIMM RAM CL22 – Notebook / Mini-PC"
    ],
    "3550081160": [
-    60.0,
-    "2026-10-24",
+    50.0,
+    "2026-10-26",
     "2026-10-24",
     "Crucial 16GB DDR4-3200 SODIMM RAM Arbeitsspeicher"
    ],
@@ -3342,6 +3355,12 @@
     "2026-10-26",
     "2026-10-26",
     "32GB DDR4-3200 SO-DIMM (2x16GB)"
+   ],
+   "3553313821": [
+    110.0,
+    "2026-10-26",
+    "2026-10-26",
+    "2x 16GB SK Hynix Kit DDR4 SO-DIMM 3200MHz (32GB)"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -3677,6 +3696,12 @@
     "2026-10-26",
     "2026-10-25",
     "HP Thunderbolt Dock G4 mit 280W Netzteil"
+   ],
+   "3553209850": [
+    75.0,
+    "2026-10-26",
+    "2026-10-26",
+    "HP Thunderbolt Dock G4 280W inkl. 280W Netzteil"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -4407,6 +4432,12 @@
     "2026-10-26",
     "2026-10-23",
     "Großes Konvolut an SSD Festplatten 2,5 Zoll"
+   ],
+   "3553328282": [
+    25.0,
+    "2026-10-26",
+    "2026-10-26",
+    "13x NVMe SSD Konvolut | WD, Samsung, SK Hynix, KIOXIA"
    ]
   },
   "Labornetzteil 30V 5A": {
@@ -6425,6 +6456,12 @@
     "2026-10-26",
     "2026-10-26",
     "Mackbook Air 2020 m1 8gb 256 gb ssd"
+   ],
+   "3553354800": [
+    520.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air M1 in Space Grau"
    ]
   },
   "MacBook Air M2": {
@@ -7267,6 +7304,18 @@
     "2026-10-26",
     "2026-10-26",
     "MacBook Air M2"
+   ],
+   "3553338481": [
+    850.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Titel: MacBook Air M2 (2022) – 24 GB RAM – 512 GB SSD – Akku 92 %"
+   ],
+   "3553350007": [
+    648.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air 13,6\" M2 Space Grau 8GB 256GB mit OVP"
    ]
   },
   "Makita DHP485 Set": {
@@ -7827,6 +7876,12 @@
     "2026-10-26",
     "2026-10-26",
     "MSI GeForce RTX 3060 Ventus 2X OC 12 GB"
+   ],
+   "3553337618": [
+    350.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MSI GeForce RTX 3060 GAMING Z TRIO 12GB in OVP"
    ]
   },
   "RTX 3070": {
@@ -8501,6 +8556,18 @@
     "2026-10-26",
     "2026-10-26",
     "MSI GeForce RTX 3070 SUPRIM X Grafikkarte"
+   ],
+   "3553340179": [
+    280.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Gigabyte GeForce RTX 3070 Gaming OC 8G (Top Zustand)"
+   ],
+   "3553345024": [
+    300.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Geforce RTX 3070 Gaming X Trio von MSI"
    ]
   },
   "RTX 3080": {
@@ -9279,6 +9346,12 @@
     "2026-10-26",
     "2026-10-26",
     "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 16GB OC"
+   ],
+   "3553334079": [
+    245.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MSI Geforce RTX 4060 Ti Gaming X 16GB"
    ]
   },
   "RTX 4070": {
@@ -9479,6 +9552,12 @@
     "2026-10-26",
     "2026-10-26",
     "NVIDIA Palit RTX 4070"
+   ],
+   "3553342972": [
+    599.0,
+    "2026-10-26",
+    "2026-10-26",
+    "RTX 4070 - TOP Zustand!"
    ]
   },
   "RTX 4070 Super": {
@@ -9667,6 +9746,12 @@
     "2026-10-26",
     "2026-10-26",
     "Nvidia MSI RTX 4070 Super Ventus 2X OC, Grafikkarte"
+   ],
+   "3553337031": [
+    600.0,
+    "2026-10-26",
+    "2026-10-26",
+    "12 GB ASUS TUF GeForce RTX 4070 Super OC Edition Grafikkarte"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -10541,7 +10626,7 @@
     "PowerColor AMD Radeon RX 7800 XT Fighter 16GB"
    ],
    "3549637237": [
-    450.0,
+    425.0,
     "2026-10-26",
     "2026-10-23",
     "XFX RX 7800 XT 16GB Speedster"
@@ -11166,6 +11251,12 @@
     "2026-10-26",
     "2026-10-26",
     "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
+   ],
+   "3553333920": [
+    220.0,
+    "2026-10-26",
+    "2026-10-26",
+    "AMD Ryzen 7 5800X3D"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -11356,7 +11447,7 @@
     "AMD Ryzen 7 7800X3D Prozessor - Neu & OVP"
    ],
    "3551025694": [
-    250.0,
+    230.0,
     "2026-10-26",
     "2026-10-25",
     "AMD Ryzen 7 7800X3D (rechnung / OVP) 6 Monate alt"
@@ -12279,6 +12370,12 @@
     "2026-10-26",
     "2026-10-25",
     "Seagate Exos X18 18TB Enterprise Festplatte SAS"
+   ],
+   "3553344417": [
+    280.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Seagate Exos X18 18TB HDD SAS (ST18000NM004J)"
    ]
   },
   "Seagate Exos 20TB": {
@@ -13057,7 +13154,7 @@
     "Sony WH-1000XM5 Over-Ear ANC Bluetooth Wireless Kopfhörer Neu OVP"
    ],
    "3550721380": [
-    165.0,
+    160.0,
     "2026-10-26",
     "2026-10-24",
     "Sony WH-1000XM5 Schwarz – Top-Zustand, fast wie neu im Full Set"
@@ -13207,7 +13304,7 @@
     "Sony WH-1000XM5"
    ],
    "3552674594": [
-    200.0,
+    190.0,
     "2026-10-26",
     "2026-10-26",
     "SONY WH-1000XM5 Kabellose Kopfhörer mit Noise Cancelling"
@@ -13219,7 +13316,7 @@
     "Sony WH-1000XM5 Smoky Pink – nur ca. fünfmal benutzt"
    ],
    "3552998672": [
-    170.0,
+    130.0,
     "2026-10-26",
     "2026-10-26",
     "sony wh 1000 xm5"
@@ -13385,6 +13482,12 @@
     "2026-10-23",
     "2026-10-21",
     "Synology DS 920+ mit 20 GB RAM"
+   ],
+   "3553349747": [
+    350.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Synology DS920+ NAS Server"
    ]
   },
   "Synology DS923+": {
