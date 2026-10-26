@@ -466,8 +466,8 @@
   "3553403573": "2026-10-26",
   "3553458001": "2026-10-26"
  },
- "laeufe": 277,
- "letzter_lauf": "2026-10-26T21:01:44",
+ "laeufe": 278,
+ "letzter_lauf": "2026-10-26T21:54:48",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -6590,6 +6590,18 @@
     "2026-10-26",
     "2026-10-26",
     "MacBook Air m1"
+   ],
+   "3553524618": [
+    439.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air 13” 2020 M1 / 8GB / 256GB / Space Grau"
+   ],
+   "3553543978": [
+    400.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air M1 16GB RAM / 256GB SSD – voll funktionsfähig"
    ]
   },
   "MacBook Air M2": {
@@ -8750,6 +8762,12 @@
     "2026-10-26",
     "2026-10-26",
     "RTX 3070 8Gb Palit GamingPro"
+   ],
+   "3553524352": [
+    320.0,
+    "2026-10-26",
+    "2026-10-26",
+    "NVIDIA GeForce RTX 3070"
    ]
   },
   "RTX 3080": {
@@ -9256,6 +9274,12 @@
     "2026-10-26",
     "2026-10-26",
     "Msi rtx 3080 Suprim x"
+   ],
+   "3553529541": [
+    450.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Gigabyte AORUS GeForce RTX 3080 MASTER 10GB LCD Display"
    ]
   },
   "RTX 4060 Ti": {
@@ -9746,6 +9770,12 @@
     "2026-10-26",
     "2026-10-26",
     "RTX 4070 - TOP Zustand!"
+   ],
+   "3553537738": [
+    569.0,
+    "2026-10-26",
+    "2026-10-26",
+    "RTX 4070 - Top Zustand!"
    ]
   },
   "RTX 4070 Super": {
@@ -10596,7 +10626,7 @@
     "AMD Radeon RX 6800XT"
    ],
    "3553496406": [
-    450.0,
+    400.0,
     "2026-10-26",
     "2026-10-26",
     "PowerColor Red Dragon Radeon RX 6800 XT 16 GB"
@@ -11851,6 +11881,12 @@
     "2026-10-26",
     "2026-10-26",
     "AMD Ryzen 7 9800X3D – OVP"
+   ],
+   "3553524024": [
+    400.0,
+    "2026-10-26",
+    "2026-10-26",
+    "AMD Ryzen 7 9800X3D Prozessor"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -12334,7 +12370,7 @@
     325.0,
     "2026-10-26",
     "2026-10-26",
-    "Samsung 990 PRO 2 TB"
+    "Samsung 990 PRO 2 TB Neu & OVP"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -14597,6 +14633,12 @@
     "2026-10-26",
     "2026-10-26",
     "Western Digital WD Red Plus 8TB NAS HDD Neu & OVP"
+   ],
+   "3553516843": [
+    300.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Western Digital WD Red Plus 8TB interne Festplatte"
    ]
   },
   "Weller WE1010": {
