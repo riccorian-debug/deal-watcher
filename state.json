@@ -452,10 +452,11 @@
   "3552496203": "2026-10-25",
   "3552525848": "2026-10-26",
   "3552544656": "2026-10-26",
-  "3552751796": "2026-10-26"
+  "3552751796": "2026-10-26",
+  "3552806900": "2026-10-26"
  },
- "laeufe": 268,
- "letzter_lauf": "2026-10-26T09:08:33",
+ "laeufe": 269,
+ "letzter_lauf": "2026-10-26T10:09:11",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -658,7 +659,7 @@
     "Neu Raspberry Pi Ultimate Starter Kit Freenove Arduino"
    ],
    "3535230899": [
-    30.0,
+    29.0,
     "2026-10-26",
     "2026-10-23",
     "Elegoo Super Starter Kit für Arduino UNO R3"
@@ -1978,6 +1979,12 @@
     "2026-10-26",
     "2026-10-25",
     "Corsair Vengeance 32GB (2x16GB) DDR5 6000MT/s RAM weiß"
+   ],
+   "3552773083": [
+    450.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Kingston FURY Beast RGB 32GB Kit DDR5-6000 CL30"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3526,6 +3533,12 @@
     "2026-10-25",
     "2026-10-25",
     "Home Assistant Green Smart Home Hub mit Zubehör"
+   ],
+   "3552756057": [
+    115.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Home Assistant Green Smart Home Hub – Neu"
    ]
   },
   "Intel i5-13600K": {
@@ -4068,6 +4081,12 @@
     "2026-10-26",
     "2026-10-26",
     "Keychron K6 Mechanische Tastatur - Wie neu"
+   ],
+   "3552810726": [
+    80.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Keychron k5 pro Wireless 100 iso de Tastatur Keyboard"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -4916,7 +4935,7 @@
     "Lenovo ThinkPad Universal USB-C Dock Gen2 mit OVP"
    ],
    "3540740966": [
-    25.0,
+    39.0,
     "2026-10-26",
     "2026-10-23",
     "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) Dockingstation Docking"
@@ -4988,7 +5007,7 @@
     "Lenovo ThinkPad USB-C Dock Gen2 Docking Station"
    ],
    "3550938701": [
-    69.0,
+    55.0,
     "2026-10-26",
     "2026-10-24",
     "Lenovo ThinkPad USB-C Dock Gen 2 Dockingstation"
@@ -5028,6 +5047,12 @@
     "2026-10-26",
     "2026-10-25",
     "Lenovo ThinkPad  USB-C Dock Gen 2 inkl. 90W Netzteil & USB-C/HDMI"
+   ],
+   "3552741554": [
+    25.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Lenovo ThinkPad USB-C Dock Gen2"
    ]
   },
   "MacBook Air M1": {
@@ -6074,6 +6099,18 @@
     "2026-10-26",
     "2026-10-26",
     "APPLE MacBook Air M1 Space Grau 8 GB, 256 GB"
+   ],
+   "3552783220": [
+    400.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Apple MacBook Air M1 2020 8GB RAM 256GB SSD Space Grau"
+   ],
+   "3552822810": [
+    390.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air 13,3″ (2020) – Apple M1, 8 GB RAM, 256 GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -6856,6 +6893,12 @@
     "2026-10-26",
     "2026-10-26",
     "MacBook Air 13 M2 8 GB 256 GB Space Grau Akku 90 Prozent"
+   ],
+   "3552837479": [
+    729.0,
+    "2026-10-26",
+    "2026-10-26",
+    "MacBook Air (13 Zoll, M2, 16GB RAM, 512GB)"
    ]
   },
   "Makita DHP485 Set": {
@@ -6914,7 +6957,7 @@
     "Makita DHP485 Akku-Schlagbohrschrauber 18V"
    ],
    "3551558262": [
-    85.0,
+    80.0,
     "2026-10-26",
     "2026-10-25",
     "Makita DHP485 Akku Schlagbohrschrauber kaum benutzt"
@@ -10350,13 +10393,13 @@
     "Raspberry Pi 5 8GB Starter Kit + Netzteil + Gehäuse"
    ],
    "3550086815": [
-    199.0,
-    "2026-10-25",
+    190.0,
+    "2026-10-26",
     "2026-10-24",
     "Raspberry Pi 5 8GB Starter Kit Netzteil Gehäuse"
    ],
    "3550086937": [
-    190.0,
+    185.0,
     "2026-10-26",
     "2026-10-24",
     "Raspberry Pi 5 8GB Starter Kit + Netzteil"
@@ -10823,6 +10866,12 @@
     "2026-10-26",
     "2026-10-25",
     "AMD Ryzen 7 7800X3D | AM5 | 8-Core Gaming CPU | OVP"
+   ],
+   "3552806668": [
+    220.0,
+    "2026-10-26",
+    "2026-10-26",
+    "AMD Ryzen 7 7800X3D Prozessor CPU kaum genutzt"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -13495,6 +13544,12 @@
     "2026-10-26",
     "2026-10-25",
     "WD BLACK SN850X / 2TB / M.2 Nvme / SSD /Gen4"
+   ],
+   "3552815861": [
+    299.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Western Digital WD_BLACK SN850X NVMe SSD 2TB, wie neu"
    ]
   },
   "WD Red Plus 4TB": {
@@ -13821,6 +13876,12 @@
     "2026-10-26",
     "2026-10-25",
     "Profi Weller Lötstation WTCP-51 + Lötkolben!"
+   ],
+   "3552806900": [
+    50.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Weller WTCP-S Lötstation mit Zubehör"
    ]
   },
   "Zigbee-Stick": {
@@ -14099,6 +14160,12 @@
     "2026-10-26",
     "2026-10-26",
     "ConBee II Phoscon ZigBee Gateway USB-Stick"
+   ],
+   "3552808016": [
+    20.0,
+    "2026-10-26",
+    "2026-10-26",
+    "Slae.sh CC2652R Zigbee USB-Stick Z2M Home Assistant"
    ]
   }
  },
