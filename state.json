@@ -479,10 +479,11 @@
   "3554221496": "2026-10-27",
   "3554245592": "2026-10-27",
   "3554278428": "2026-10-27",
-  "3554283568": "2026-10-27"
+  "3554283568": "2026-10-27",
+  "3554357109": "2026-10-27"
  },
- "laeufe": 293,
- "letzter_lauf": "2026-10-27T20:02:14",
+ "laeufe": 294,
+ "letzter_lauf": "2026-10-27T20:57:34",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1423,6 +1424,12 @@
     "2026-10-27",
     "2026-10-27",
     "CRUCIAL CT2000P3PSSD8 P3 PLUS 2TB NVME, 2 TB, SSD"
+   ],
+   "3554357109": [
+    159.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Crucial P3 Plus 2 TB NVMe M.2 SSD – Top Zustand / Rechnung / OVP"
    ]
   },
   "DDR4 ECC RDIMM 32GB": {
@@ -3666,6 +3673,12 @@
     "2026-10-27",
     "2026-10-27",
     "Crucial 32GB DDR4-3200 SODIMM RAM Speicherriegel"
+   ],
+   "3554270819": [
+    150.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Crucial 32GB DDR4-3200 SODIMM RAM Kit (2x 16GB)"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -7091,6 +7104,12 @@
     "2026-10-27",
     "2026-10-27",
     "Apple MacBook Air M1 2020 | 13,3 Zoll | 8 GB | 256 GB"
+   ],
+   "3554373476": [
+    550.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air M1 (2020) | 8 GB RAM | 256 GB SSD | mit OVP"
    ]
   },
   "MacBook Air M2": {
@@ -8065,6 +8084,12 @@
     "2026-10-27",
     "2026-10-27",
     "Apple MacBook Air M2 (2022) - 100 % Akku"
+   ],
+   "3554364665": [
+    720.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air 13,6 Zoll (256GB SSD, M2, 8GB)  - Mitternacht -"
    ]
   },
   "Makita DHP485 Set": {
@@ -8685,6 +8710,12 @@
     "2026-10-27",
     "2026-10-27",
     "Gainward RTX 3060 Ghost 12GB GDDR6 Grafikkarte"
+   ],
+   "3554353226": [
+    250.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Nvidea GeForce RTX 3060 12gb"
    ]
   },
   "RTX 3070": {
@@ -9491,6 +9522,12 @@
     "2026-10-27",
     "2026-10-27",
     "ASUS TUF Gaming GeForce RTX 3070 OC V2 | 8GB GDDR6 | NVIDIA"
+   ],
+   "3554366196": [
+    275.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Asus Dual OC RTX 3070 8GB"
    ]
   },
   "RTX 3080": {
@@ -10063,6 +10100,12 @@
     "2026-10-27",
     "2026-10-27",
     "Gigabyte RTX 3080 10GB"
+   ],
+   "3554314641": [
+    349.0,
+    "2026-10-27",
+    "2026-10-27",
+    "RTX 3080 Zotac Trinity OC 10 GB GDDR6X Gaming Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -12686,6 +12729,12 @@
     "2026-10-27",
     "2026-10-26",
     "AMD Ryzen 7  7800X3D für den Sockel A5"
+   ],
+   "3553302986": [
+    249.0,
+    "2026-10-27",
+    "2026-10-27",
+    "AMD Ryzen 7 7800X3D | AM5"
    ],
    "3553841693": [
     250.0,
