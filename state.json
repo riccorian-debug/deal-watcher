@@ -471,10 +471,11 @@
   "3553560825": "2026-10-27",
   "3553566417": "2026-10-27",
   "3553668901": "2026-10-27",
-  "3553822044": "2026-10-27"
+  "3553822044": "2026-10-27",
+  "3553834409": "2026-10-27"
  },
- "laeufe": 285,
- "letzter_lauf": "2026-10-27T11:59:29",
+ "laeufe": 286,
+ "letzter_lauf": "2026-10-27T13:14:27",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2546,6 +2547,18 @@
     "2026-10-25",
     "2026-10-25",
     "Dell U2723QE UltraSharp 27 Zoll 4K USB-C Hub-Monitor"
+   ],
+   "3553869741": [
+    360.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Dell UltraSharp U2723QE 27 Zoll 4K Monitor (inkl. OVP) [1/2]"
+   ],
+   "3553872922": [
+    360.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Dell UltraSharp U2723QE 27 Zoll 4K Monitor (inkl. OVP) [2/2]"
    ]
   },
   "Dell WD19TB/WD22TB4": {
@@ -3531,7 +3544,7 @@
     "Fluke 117 Digitales Multimeter Neu"
    ],
    "3548904866": [
-    250.0,
+    200.0,
     "2026-10-27",
     "2026-10-25",
     "Fluke Promotion 117/323 EUR Combo Kit"
@@ -3579,6 +3592,12 @@
     "2026-10-26",
     "2026-10-25",
     "Fluke 87V Multimeter"
+   ],
+   "3553846312": [
+    320.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Fluke 87 V Industriemultimeter DigitalMultimeter Profi Messgerät"
    ]
   },
   "Fujitsu Primergy TX1320 M4": {
@@ -3861,6 +3880,12 @@
     "2026-10-27",
     "2026-10-26",
     "HP Thunderbolt Dock G4 280W inkl. 280W Netzteil"
+   ],
+   "3553881493": [
+    79.0,
+    "2026-10-27",
+    "2026-10-27",
+    "HP Thunderbolt Dock G4 mit 280W-Netzteil+ Split Cable. Dockingsta"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -4031,6 +4056,12 @@
     "2026-10-25",
     "2026-10-24",
     "CPU Intel Core i7-14700K NEU"
+   ],
+   "3553956871": [
+    250.0,
+    "2026-10-27",
+    "2026-10-27",
+    "intel i7 14700K"
    ]
   },
   "Keychron Tastatur": {
@@ -4635,10 +4666,10 @@
     "Großes Konvolut an SSD Festplatten 2,5 Zoll"
    ],
    "3553328282": [
-    25.0,
+    30.0,
     "2026-10-27",
     "2026-10-26",
-    "13x NVMe SSD Konvolut | WD, Samsung, SK Hynix, KIOXIA"
+    "13x M.2 SSD Konvolut | WD, Samsung, SK Hynix, KIOXIA"
    ],
    "3553428862": [
     15.0,
@@ -5177,6 +5208,12 @@
     "2026-10-27",
     "2026-10-26",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock -NEU– Modell 40B0"
+   ],
+   "3553834409": [
+    89.0,
+    "2026-10-27",
+    "2026-10-27",
+    "LENOVO ThinkPad Thunderbolt 4 Dock 40B0 mit USB-C Netzteil 135 W"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -6771,6 +6808,18 @@
     "2026-10-27",
     "2026-10-27",
     "Apple Mac Book Air M1 und Magic Mouse"
+   ],
+   "3553894064": [
+    500.0,
+    "2026-10-27",
+    "2026-10-27",
+    "MacBook Air M1"
+   ],
+   "3553901620": [
+    600.0,
+    "2026-10-27",
+    "2026-10-27",
+    "MacBook Air M1  2020"
    ]
   },
   "MacBook Air M2": {
@@ -7679,6 +7728,24 @@
     "2026-10-27",
     "2026-10-27",
     "MacBook Air M2 | 512 GB SSD | 8 GB RAM | Space Grau | OVP"
+   ],
+   "3553894193": [
+    749.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple Mac Book Air M2 | 16 GB | 512 GB SSD"
+   ],
+   "3553937105": [
+    650.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Macbook Air M2 8GB 256 GB Batterie 98 %"
+   ],
+   "3553956848": [
+    800.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook air m2 | 16gb | 512gb"
    ]
   },
   "Makita DHP485 Set": {
@@ -8269,6 +8336,12 @@
     "2026-10-27",
     "2026-10-27",
     "NVIDIA GeForce RTX 3060 12GB"
+   ],
+   "3553912945": [
+    260.0,
+    "2026-10-27",
+    "2026-10-27",
+    "RTX 3060 12GB"
    ]
   },
   "RTX 3070": {
@@ -9021,6 +9094,12 @@
     "2026-10-27",
     "2026-10-27",
     "Asus TUF-Gaming GeForce RTX3070 8G Gaming"
+   ],
+   "3553904331": [
+    350.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Nvidia Geforce Rtx 3070 Grafikkarte/ Perfekt fürs Gaming"
    ]
   },
   "RTX 3080": {
@@ -9557,6 +9636,12 @@
     "2026-10-27",
     "2026-10-27",
     "GIGABYTE AORUS GeForce RTX 3080 MASTER 10GB GDDR6X Grafikkarte"
+   ],
+   "3553925956": [
+    420.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -10071,6 +10156,18 @@
     "2026-10-27",
     "2026-10-27",
     "ZOTAC GAMING GeForce RTX 4070 Twin Edge OC 12GB GDDR6X"
+   ],
+   "3553913616": [
+    360.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Gigabyte GeForce RTX 4070 WINDFORCE OC 12GB GDDR6X"
+   ],
+   "3553922530": [
+    370.0,
+    "2026-10-27",
+    "2026-10-27",
+    "ASUS Dual GeForce RTX 4070 OC SUPER 12GB - Gaming-Grafikkarte"
    ]
   },
   "RTX 4070 Super": {
@@ -10743,6 +10840,12 @@
     "2026-10-27",
     "2026-10-27",
     "KFA2 GeForce RTX 4080 SG"
+   ],
+   "3553915234": [
+    800.0,
+    "2026-10-27",
+    "2026-10-27",
+    "NVIDIA GeForce RTX 4080 16GB GDDR6X"
    ]
   },
   "RX 6800 XT": {
@@ -10949,6 +11052,12 @@
     "2026-10-27",
     "2026-10-26",
     "PowerColor Red Dragon Radeon RX 6800 XT 16 GB"
+   ],
+   "3553932560": [
+    550.0,
+    "2026-10-27",
+    "2026-10-27",
+    "AMD RX 6800XT Red Devil 16Gb"
    ]
   },
   "RX 7800 XT": {
@@ -11245,6 +11354,12 @@
     "2026-10-27",
     "2026-10-25",
     "PowerColor Hellhound Spectral White RX 7800 XT 16GB"
+   ],
+   "3552722177": [
+    450.0,
+    "2026-10-27",
+    "2026-10-27",
+    "ASUS Dual Radeon RX 7800 XT OC Grafikkarte 16GB"
    ],
    "3553666981": [
     500.0,
@@ -12078,6 +12193,12 @@
     "2026-10-27",
     "2026-10-27",
     "AMD Ryzen 7 7800X3D – kaum 2 Wochen gelaufen, original Box, top Z"
+   ],
+   "3553955580": [
+    255.0,
+    "2026-10-27",
+    "2026-10-27",
+    "AMD Ryzen 7 7800X3D Prozessor - Neu & OVP"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -13937,7 +14058,7 @@
     "Sony WH-1000XM5 Noise Cancelling Kopfhörer - Neu & OVP"
    ],
    "3552643832": [
-    110.0,
+    100.0,
     "2026-10-27",
     "2026-10-26",
     "Sony WH-1000XM5"
@@ -13961,7 +14082,7 @@
     "sony wh 1000 xm5"
    ],
    "3553060822": [
-    220.0,
+    200.0,
     "2026-10-27",
     "2026-10-26",
     "Sony wh-1000xm5 bluetooth Kopfhörer Nagelneu Originalverpackt"
@@ -13983,6 +14104,18 @@
     "2026-10-27",
     "2026-10-27",
     "Sony WH1000XM5 Gebraucht (Bilder folgen)"
+   ],
+   "3553842248": [
+    150.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Sony WH-1000XM5 Kopfhörer schwarz in OVP"
+   ],
+   "3553890017": [
+    180.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Sony WH-1000XM5 wie neu 20std. Gelaufen"
    ]
   },
   "Synology DS220+": {
@@ -14045,6 +14178,12 @@
     "2026-10-27",
     "2026-10-27",
     "Synology DS220+ NAS 4GB RAM (ohne HDD)"
+   ],
+   "3553957937": [
+    240.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Synology NAS DS220+ in OVP, 6GB RAM"
    ]
   },
   "Synology DS220j": {
@@ -14151,6 +14290,12 @@
     "2026-10-26",
     "2026-10-26",
     "Synology DS920+ NAS Server"
+   ],
+   "3553954584": [
+    600.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Synology NAS Netzwerkspeicher Model DS920+"
    ]
   },
   "Synology DS923+": {
