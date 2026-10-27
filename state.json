@@ -480,10 +480,11 @@
   "3554245592": "2026-10-27",
   "3554278428": "2026-10-27",
   "3554283568": "2026-10-27",
-  "3554357109": "2026-10-27"
+  "3554357109": "2026-10-27",
+  "3554413801": "2026-10-27"
  },
- "laeufe": 294,
- "letzter_lauf": "2026-10-27T20:57:34",
+ "laeufe": 295,
+ "letzter_lauf": "2026-10-27T21:57:41",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2963,7 +2964,7 @@
     "HP EliteBook 840 G8, i5 11. Gen generalüberholt"
    ],
    "3541838544": [
-    449.0,
+    429.0,
     "2026-10-27",
     "2026-10-22",
     "♻️WIE NEU| HP EliteBook 840 G8 | 24M Garantie | 16GB | i5 11. Gen"
@@ -3045,6 +3046,24 @@
     "2026-10-27",
     "2026-10-27",
     "HP EliteBook 840 G8 i5-1135G7 16GB 256GB Notebook Touch Garantie"
+   ],
+   "3554363581": [
+    289.0,
+    "2026-10-27",
+    "2026-10-27",
+    "HP Elitebook 840 G8 , Intel Core i5 - 1145G7  16GB/256GB SSD"
+   ],
+   "3554368533": [
+    299.0,
+    "2026-10-27",
+    "2026-10-27",
+    "HP EliteBook 840 G8 14\" | i7-1185G7 | 16 GB | 256 GB SSD | FHD"
+   ],
+   "3554404859": [
+    239.0,
+    "2026-10-27",
+    "2026-10-27",
+    "HP Elitebook 840 G8, i5-1135G7, 8GB RAM, 256GB SSD, Full HD IPS"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -4038,6 +4057,12 @@
     "2026-10-27",
     "2026-10-27",
     "HP Thunderbolt Dock G4 – 120 W – Dockingstation"
+   ],
+   "3554413801": [
+    50.0,
+    "2026-10-27",
+    "2026-10-27",
+    "HP Thunderbolt Dock G4 120W"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -7110,6 +7135,12 @@
     "2026-10-27",
     "2026-10-27",
     "Apple MacBook Air M1 (2020) | 8 GB RAM | 256 GB SSD | mit OVP"
+   ],
+   "3554396110": [
+    399.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple macbookAir M1 2020 256 GB SSD - 8 GB Ram"
    ]
   },
   "MacBook Air M2": {
@@ -8716,6 +8747,12 @@
     "2026-10-27",
     "2026-10-27",
     "Nvidea GeForce RTX 3060 12gb"
+   ],
+   "3554406257": [
+    320.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Gainward GeForce RTX 3060 Ghost 12 GB GDDR 6 Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -9528,6 +9565,12 @@
     "2026-10-27",
     "2026-10-27",
     "Asus Dual OC RTX 3070 8GB"
+   ],
+   "3554414757": [
+    285.0,
+    "2026-10-27",
+    "2026-10-27",
+    "NVIDIA GeForce RTX 3070 8GB Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -10408,6 +10451,12 @@
     "2026-10-27",
     "2026-10-27",
     "RTX 4060ti - MSI Ventus 3x"
+   ],
+   "3554406358": [
+    400.0,
+    "2026-10-27",
+    "2026-10-27",
+    "MSI RTX 4060 ti gaming x slim 16gb gddr6"
    ]
   },
   "RTX 4070": {
@@ -10862,6 +10911,12 @@
     "2026-10-27",
     "2026-10-27",
     "Asus RTX 4070 Super Dual Evo"
+   ],
+   "3554398646": [
+    690.0,
+    "2026-10-27",
+    "2026-10-27",
+    "RTX 4070 super ex oc Limited Edition pink"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -11576,6 +11631,12 @@
     "2026-10-27",
     "2026-10-27",
     "XFX Radeon RX 6800 XT Grafikkarte"
+   ],
+   "3554413541": [
+    430.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Red Devil AMD Radeon RX 6800 XT 16GB GDDR6 Grafikkarte"
    ]
   },
   "RX 7800 XT": {
@@ -12499,6 +12560,12 @@
     "2026-10-27",
     "2026-10-27",
     "AMD Ryzen 7 5800X3D AM4 Prozessor (100-100000651WOF)"
+   ],
+   "3554397446": [
+    325.0,
+    "2026-10-27",
+    "2026-10-27",
+    "ryzen 7 5800x3d,neu"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -13218,7 +13285,7 @@
    ],
    "3544933633": [
     320.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-21",
     "Samsung 990 Pro 2TB NVMe SSD mit Heatsink - Neu & OVP"
    ],
@@ -13419,6 +13486,12 @@
     "2026-10-27",
     "2026-10-26",
     "Samsung 990 PRO 2 TB Neu & OVP"
+   ],
+   "3553549979": [
+    349.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Samsung 990 PRO 2TB NVMe M.2 SSD PCIe 4.0"
    ],
    "3553558232": [
     280.0,
@@ -14706,6 +14779,12 @@
     "2026-10-27",
     "2026-10-27",
     "SONY WH1000XM5"
+   ],
+   "3554312217": [
+    100.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Sony WH-1000XM5"
    ]
   },
   "Synology DS220+": {
@@ -14779,7 +14858,7 @@
   "Synology DS220j": {
    "3364022627": [
     250.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-18",
     "Synology Diskstation DS220j NEU Unbenutzt und verpackt NAS Server"
    ],
@@ -15038,8 +15117,8 @@
     "Lenovo ThinkPad P14s T14 Gen2 Ryzen 7 5850U 16GB 400nits 86%Akku"
    ],
    "3541819354": [
-    449.0,
-    "2026-10-25",
+    409.0,
+    "2026-10-27",
     "2026-10-22",
     "♻️ WIE NEU | Lenovo ThinkPad T14 Gen2 | 24M Gar | 100% Akku |16GB"
    ],
@@ -15851,6 +15930,12 @@
     "2026-10-27",
     "2026-10-26",
     "Weller WE1010 Lötstation digital 85W inkl. Lötkolben WEP70"
+   ],
+   "3554413963": [
+    100.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Weller WE1010 Black Edition Lötstation neu"
    ]
   },
   "Weller WTCP-S": {
