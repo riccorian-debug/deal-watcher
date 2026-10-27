@@ -468,10 +468,11 @@
   "3553458001": "2026-10-26",
   "3553560825": "2026-10-27",
   "3553566417": "2026-10-27",
-  "3553668901": "2026-10-27"
+  "3553668901": "2026-10-27",
+  "3553822044": "2026-10-27"
  },
- "laeufe": 283,
- "letzter_lauf": "2026-10-27T10:03:21",
+ "laeufe": 284,
+ "letzter_lauf": "2026-10-27T11:00:08",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2135,7 +2136,7 @@
    ],
    "3553349552": [
     250.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-26",
     "Kingston Fury Beast DDR5 32GB (2×16GB) 6000 MHz"
    ],
@@ -2180,6 +2181,12 @@
     "2026-10-27",
     "2026-10-27",
     "G.Skill DDR5 32GB (2×16GB) 6000 MT/s AMD EXPO RAM"
+   ],
+   "3553810473": [
+    300.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Corsair Vengeance 32GB DDR5-6000 RAM Kit RGB"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3049,7 +3056,7 @@
     "16 GB DDR4-3200 SO-DIMM RAM CL22 – Notebook / Mini-PC"
    ],
    "3550081160": [
-    48.0,
+    45.0,
     "2026-10-27",
     "2026-10-24",
     "Crucial 16GB DDR4-3200 SODIMM RAM Arbeitsspeicher"
@@ -3197,6 +3204,12 @@
     "2026-10-27",
     "2026-10-27",
     "16 GB DDR4 RAM SODIMM Micron 3200ِAA"
+   ],
+   "3553825836": [
+    45.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Crucial 16GB DDR4-3200 SODIMM RAM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -3475,6 +3488,18 @@
     "2026-10-27",
     "2026-10-27",
     "Crucial 32GB DDR4-3200 SO-DIMM – voll funktionsfähig"
+   ],
+   "3553793937": [
+    160.0,
+    "2026-10-27",
+    "2026-10-27",
+    "G.SKILL Ripjaws DDR4 SO-DIMM 32GB (2x16GB) 3200MHz CL22 inkl. OVP"
+   ],
+   "3553822044": [
+    120.0,
+    "2026-10-27",
+    "2026-10-27",
+    "32GB 2x16GB DDR4 3200MHz SODIMM"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -4812,7 +4837,7 @@
     "Lenovo ThinkCentre M920q und M80q i5 16GB 256GB"
    ],
    "3552296015": [
-    185.0,
+    160.0,
     "2026-10-27",
     "2026-10-25",
     "Lenovo ThinkCentre M920q i5-9500T 8GB Ram 256GB nvme SSD"
@@ -7592,6 +7617,24 @@
     "2026-10-27",
     "2026-10-27",
     "Mac Book Air M2 13“ - 8GB RAM - 256 SSD"
+   ],
+   "3553786516": [
+    675.0,
+    "2026-10-27",
+    "2026-10-27",
+    "MacBook Air M2 15 Zoll, 8GB RAM, 256GB SSD, 2023"
+   ],
+   "3553787371": [
+    579.0,
+    "2026-10-27",
+    "2026-10-27",
+    "MacBook Air 13“ M2 (2022), 8GB RAM, 256GB SSD"
+   ],
+   "3553807532": [
+    700.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air 13,6 Zoll M2 – 8 GB RAM / 256 GB SSD"
    ]
   },
   "Makita DHP485 Set": {
