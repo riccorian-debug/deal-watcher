@@ -1,6 +1,7 @@
 {
  "gemeldet": {
   "3444747044": "2026-10-05",
+  "3451817737": "2026-10-27",
   "3466538870": "2026-09-30",
   "3468409678": "2026-10-05",
   "3481131698": "2026-10-05",
@@ -475,8 +476,8 @@
   "3553822044": "2026-10-27",
   "3553834409": "2026-10-27"
  },
- "laeufe": 288,
- "letzter_lauf": "2026-10-27T15:09:27",
+ "laeufe": 289,
+ "letzter_lauf": "2026-10-27T16:11:01",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -939,7 +940,7 @@
     "Bosch GBH 18V-26F Brushless Boschhammer SDS Plus"
    ],
    "3553158863": [
-    220.0,
+    195.0,
     "2026-10-27",
     "2026-10-26",
     "Bosch Professional GBH 18V-26 F SDS-plus Bohrhammer mit L-BOXX"
@@ -949,6 +950,12 @@
     "2026-10-27",
     "2026-10-27",
     "Bosch GBH 18V-26 F Professional Bohrhammer in L-BOXX"
+   ],
+   "3554132141": [
+    160.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Bosch Professional GBH 18V-26 Akku-Bohrhammer"
    ]
   },
   "Bosch GSR 18V-60 Set": {
@@ -1307,6 +1314,18 @@
     "2026-10-27",
     "2026-10-27",
     "Bose QuietComfort 45"
+   ],
+   "3554094513": [
+    160.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Bose QuietComfort Ultra"
+   ],
+   "3554140440": [
+    175.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Bose QuietComfort Ultra Bluetooth Kopfhörer Headset | Rechnung"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -1503,6 +1522,12 @@
     "2026-10-27",
     "2026-10-27",
     "32GB (4x8) DDR4 3200 ECC RDIMM"
+   ],
+   "3554096330": [
+    140.0,
+    "2026-10-27",
+    "2026-10-27",
+    "32GB HPE Micron DDR4-2400 ECC RDIMM 2Rx4 Server RAM 819412-001"
    ]
   },
   "DDR4 ECC RDIMM 64GB": {
@@ -2220,7 +2245,13 @@
     350.0,
     "2026-10-27",
     "2026-10-27",
-    "32 GB DDR5 Crucial Pro 6000"
+    "32 GB DDR5 Crucial Pro 6000 cl36"
+   ],
+   "3554136608": [
+    480.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Corsair VENGEANCE RGB DDR5-6000mt/s CL30 32GB Kit (2x16GB)"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2678,7 +2709,7 @@
     "Dell Docking Station WD19TB inklusive Netzteil"
    ],
    "3537452545": [
-    55.0,
+    50.0,
     "2026-10-27",
     "2026-10-23",
     "DELL Dockingstation WD19TBs oder WD19TB Dock"
@@ -3270,10 +3301,16 @@
     "Crucial 16GB DDR4-3200 SODIMM RAM"
    ],
    "3554070820": [
-    75.0,
+    50.0,
     "2026-10-27",
     "2026-10-27",
     "16GB DDR4 SO-DIMM 3200MHz SK Hynix Notebook RAM"
+   ],
+   "3554097653": [
+    55.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Arbeitsspeicher Crucial 16GB DDR4 3200 SoDimm Laptop Synology"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -3570,6 +3607,12 @@
     "2026-10-27",
     "2026-10-27",
     "32 GB DDR4-3200 SO-DIMM Laptop Speicher 1 Modul"
+   ],
+   "3554099497": [
+    250.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Crucial 32GB DDR4-3200 SODIMM RAM Speicherriegel"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -3923,6 +3966,12 @@
     "2026-10-27",
     "2026-10-27",
     "HP Thunderbolt Dock G4 mit 280W-Netzteil+ Split Cable. Dockingsta"
+   ],
+   "3554007243": [
+    85.0,
+    "2026-10-27",
+    "2026-10-27",
+    "HP Thunderbolt Dock G4 – 120 W – Dockingstation"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -3967,6 +4016,12 @@
     "2026-10-27",
     "2026-10-27",
     "Home Assistant Green - Smart Home Hub"
+   ],
+   "3554135149": [
+    40.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Home Assistant Green Smart Home Hub, OVP"
    ]
   },
   "Intel i5-13600K": {
@@ -4587,6 +4642,18 @@
     "2026-10-27",
     "2026-10-27",
     "Keychron K8 TKL (QWERTZ) mit Keychron Palm Rest aus Holz"
+   ],
+   "3553948622": [
+    50.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Keychron K1 Wireless Mechanical Keyboard (QWERTY Layout)"
+   ],
+   "3554082200": [
+    60.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Keychron K4 GQ1 Keyboard, QWERTY Layout"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -4811,11 +4878,17 @@
     "2026-10-27",
     "2026-10-25",
     "Labornetzteil Peak Tech 0-30V 0-5A"
+   ],
+   "3554090117": [
+    25.0,
+    "2026-10-27",
+    "2026-10-27",
+    "W.E.P. Labornetzteil PS-305D 30V 5A regelbar"
    ]
   },
   "Latitude ohne SSD": {
    "3451817737": [
-    135.0,
+    129.0,
     "2026-10-27",
     "2026-10-24",
     "Dell Latitude 5420 i5-1145G7 Win 11 FHD IPS WiFi ohne [RAM, SSD]"
@@ -5086,7 +5159,7 @@
    ],
    "3501867128": [
     110.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Dock DK2131 + 300W Netzteil"
    ],
@@ -6901,7 +6974,7 @@
     "MacBook Air M1"
    ],
    "3554064948": [
-    450.0,
+    520.0,
     "2026-10-27",
     "2026-10-27",
     "MacBook Air 13” M1 (2020) – 16 GB RAM, 256 GB SSD – wie neu"
@@ -6917,6 +6990,12 @@
     "2026-10-27",
     "2026-10-27",
     "Apple MacBook Air M1 13\" – 8 GB RAM / 256 GB SSD"
+   ],
+   "3554092540": [
+    479.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air M1 (2020) – 8 GB RAM – 256 GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -7849,6 +7928,12 @@
     "2026-10-27",
     "2026-10-27",
     "MacBook Air M2"
+   ],
+   "3554120804": [
+    700.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air M2 - 8GB - 256Gb SSD - 13,6“ - 97% Akku - Blau"
    ]
   },
   "Makita DHP485 Set": {
@@ -8279,7 +8364,7 @@
     "NVIDIA GeForce RTX 3060 12GB TOP Zustand"
    ],
    "3550472044": [
-    350.0,
+    300.0,
     "2026-10-27",
     "2026-10-24",
     "EVGA GeForce RTX 3060  XC GAMING 12GB Grafikkarte"
@@ -9787,6 +9872,12 @@
     "2026-10-27",
     "2026-10-27",
     "GeForce RTX 3080 SUPRIM X 10G"
+   ],
+   "3554141829": [
+    370.0,
+    "2026-10-27",
+    "2026-10-27",
+    "ASUS TUF Gaming GeForce RTX 3080 OC V2 Grafikkarte mit 10 GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -10997,6 +11088,18 @@
     "2026-10-27",
     "2026-10-27",
     "ASUS ProArt NVIDIA GeForce RTX 4080 SUPER OC Edition 16GB"
+   ],
+   "3554094627": [
+    1200.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Gigabyte GeForce RTX 4080 SUPER AERO OC 16GB"
+   ],
+   "3554103464": [
+    950.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Gigabyte GeForce RTX 4080 Eagle Grafikkarte"
    ]
   },
   "RX 6800 XT": {
@@ -11136,7 +11239,7 @@
     500.0,
     "2026-10-27",
     "2026-10-21",
-    "ASUS TUF Gaming AMD Radeon RX 6800 XT 16GB Grafikkarte"
+    "ASUS TUF Gaming AMD Radeon RX 6800 XT 16GB Grafikkarte OVP."
    ],
    "3549303799": [
     420.0,
@@ -11569,7 +11672,7 @@
     "Raspberry Pi 5 (16GB RAM) inkl. Gehäuse, Netzteil und AI Camera"
    ],
    "3544984544": [
-    260.0,
+    285.0,
     "2026-10-27",
     "2026-10-22",
     "Raspberry PI 5 16GB Model B Rev 1.1 + Case + Kühler + Netzteil"
@@ -11704,7 +11807,7 @@
    ],
    "3544884946": [
     180.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-22",
     "Raspberry Pi 5 8GB RAM - Neu & OVP"
    ],
@@ -12120,6 +12223,12 @@
     "2026-10-26",
     "2026-10-26",
     "AMD Ryzen 7 5800X3D"
+   ],
+   "3554141284": [
+    270.0,
+    "2026-10-27",
+    "2026-10-27",
+    "AMD Ryzen 7 5800x3d CPU Prozessor AM4"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -12362,6 +12471,18 @@
     "2026-10-27",
     "2026-10-27",
     "AMD Ryzen 7 7800X3D Prozessor - Neu & OVP"
+   ],
+   "3554092671": [
+    260.0,
+    "2026-10-27",
+    "2026-10-27",
+    "AMD Ryzen 7 7800X3D |  BOXED"
+   ],
+   "3554143133": [
+    260.0,
+    "2026-10-27",
+    "2026-10-27",
+    "AMD Ryzen 7 7800X3D 8-Core 4,2 GHz CPU Sockel AM5 96 MB L3 Cache"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -12590,7 +12711,7 @@
     "Samsung 970 EVO Plus 2 TB"
    ],
    "3546293349": [
-    190.0,
+    199.0,
     "2026-10-27",
     "2026-10-24",
     "Samsung 970 EVO Plus NVMe M.2 SSD 2TB mit Adapter"
@@ -12958,7 +13079,7 @@
     "Samsung 990 Pro 2tb NVME m.2 SSD"
    ],
    "3551054688": [
-    300.0,
+    250.0,
     "2026-10-27",
     "2026-10-24",
     "Samsung SSD 990 PRO 2TB"
@@ -14251,7 +14372,7 @@
     "Sony wh-1000xm5 bluetooth Kopfhörer Nagelneu Originalverpackt"
    ],
    "3553410443": [
-    90.0,
+    70.0,
     "2026-10-27",
     "2026-10-26",
     "Sony WH-1000XM5 Kopfhörer"
@@ -14279,6 +14400,12 @@
     "2026-10-27",
     "2026-10-27",
     "Sony WH-1000XM5 wie neu 20std. Gelaufen"
+   ],
+   "3554129688": [
+    180.0,
+    "2026-10-27",
+    "2026-10-27",
+    "SONY WH1000XM5"
    ]
   },
   "Synology DS220+": {
@@ -14741,6 +14868,12 @@
     "2026-10-27",
     "2026-10-27",
     "Lenovo ThinkPad T14 Gen 2"
+   ],
+   "3554114531": [
+    300.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Lenovo ThinkPad T14 Gen 2 Notebook"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -14971,7 +15104,7 @@
     "Lenovo ThinkPad X1 Carbon Gen 9 – i7"
    ],
    "3539394289": [
-    575.0,
+    550.0,
     "2026-10-27",
     "2026-10-22",
     "Lenovo x1 Carbon Gen 9 | i7-1165G7|16GB RAM|1TB SSD|UHD+|LTE"
@@ -15244,6 +15377,12 @@
     "2026-10-27",
     "2026-10-26",
     "WD BLACK SN850X SSD - 2TB - M.2 PCIe Gen4 NVMe - 09/2026 Rechnung"
+   ],
+   "3554135899": [
+    299.0,
+    "2026-10-27",
+    "2026-10-27",
+    "SanDisk WD_BLACK SN850X NVMe SSD 2TB PCIe Gen4"
    ]
   },
   "WD Red Plus 4TB": {
