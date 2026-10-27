@@ -475,10 +475,14 @@
   "3553668901": "2026-10-27",
   "3553822044": "2026-10-27",
   "3553834409": "2026-10-27",
-  "3554221496": "2026-10-27"
+  "3554159721": "2026-10-27",
+  "3554221496": "2026-10-27",
+  "3554245592": "2026-10-27",
+  "3554278428": "2026-10-27",
+  "3554283568": "2026-10-27"
  },
- "laeufe": 292,
- "letzter_lauf": "2026-10-27T19:08:40",
+ "laeufe": 293,
+ "letzter_lauf": "2026-10-27T20:02:14",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -646,7 +650,7 @@
    ],
    "3520374674": [
     100.0,
-    "2026-10-25",
+    "2026-10-27",
     "2026-10-23",
     "Unbenutzt Arduino Starter Kit und Raspberry Pi4 Model B"
    ],
@@ -957,6 +961,12 @@
     "2026-10-27",
     "2026-10-27",
     "Bosch Professional GBH 18V-26 Akku-Bohrhammer"
+   ],
+   "3554152184": [
+    167.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Bosch Bohrhammer GBH 18V-26 Professional 0611909000 (TOP Zustand)"
    ]
   },
   "Bosch GSR 18V-60 Set": {
@@ -1067,6 +1077,12 @@
     "2026-10-26",
     "2026-10-26",
     "Bosch Professional GSR 18V-60 C Akku-Bohrschrauber"
+   ],
+   "3554245592": [
+    90.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Bosch Akku Bohrschrauber GSR 18v 60 c"
    ]
   },
   "Bose QuietComfort": {
@@ -1327,6 +1343,24 @@
     "2026-10-27",
     "2026-10-27",
     "Bose QuietComfort Ultra Bluetooth Kopfhörer Headset | Rechnung"
+   ],
+   "3554199672": [
+    280.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Bose QuietComfort Ultra [2. Generation] wüstengold"
+   ],
+   "3554278428": [
+    120.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Bose QuietComfort 45 Over-Ear Bluetooth Kopfhörer Weiß"
+   ],
+   "3554283568": [
+    99.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Bose QuietComfort Ultra (2. Gen.) – Weiß – Sehr guter Zustand"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -2225,7 +2259,7 @@
     "Corsair Vengeance 32GB DDR5-6000 RAM Kit RGB"
    ],
    "3553834787": [
-    500.0,
+    450.0,
     "2026-10-27",
     "2026-10-27",
     "Patriot Viper 32GB (2x16GB) DDR5 RAM / 6000Mhz"
@@ -2798,6 +2832,12 @@
     "2026-10-27",
     "2026-10-27",
     "Dell Docking Station KA20A001 WD19TB Thunderbolt 3 USB C 40GBit/s"
+   ],
+   "3554316584": [
+    35.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Dell Dockingstation (WD19TB) & Netzteil"
    ]
   },
   "EliteBook 840 G8": {
@@ -2997,7 +3037,7 @@
     360.0,
     "2026-10-27",
     "2026-10-27",
-    "HP EliteBook 840 G8 i5-1135G7 14\" 16 GB 256 GB SSD Notebook Touch"
+    "HP EliteBook 840 G8 i5-1135G7 16GB 256GB Notebook Touch Garantie"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -3592,7 +3632,7 @@
     "Oloy 32Gb (2x16Gb) DDR4 SO-DIMM 3200MHz RAM"
    ],
    "3553746424": [
-    250.0,
+    230.0,
     "2026-10-27",
     "2026-10-27",
     "32GB (2x16GB) DDR4 3200 SO-DIMM Kingston RAM Arbeitsspeicher"
@@ -4526,7 +4566,7 @@
    ],
    "3551734674": [
     130.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-25",
     "Keychron Q1 Custom | Cherry MX Red | Lubed & Filmed | Modded"
    ],
@@ -5693,6 +5733,12 @@
     "2026-10-27",
     "2026-10-26",
     "ThingPad USB-C Dock Gen2 Dockingstation (Lenovo)"
+   ],
+   "3554275685": [
+    39.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) mit Netzteil"
    ]
   },
   "MacBook Air M1": {
@@ -8633,6 +8679,12 @@
     "2026-10-27",
     "2026-10-27",
     "NVIDIA RTX 3060 Zotac 12GB"
+   ],
+   "3554310466": [
+    299.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Gainward RTX 3060 Ghost 12GB GDDR6 Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -9433,6 +9485,12 @@
     "2026-10-27",
     "2026-10-27",
     "RTX 3070 aorus Master"
+   ],
+   "3554317139": [
+    299.0,
+    "2026-10-27",
+    "2026-10-27",
+    "ASUS TUF Gaming GeForce RTX 3070 OC V2 | 8GB GDDR6 | NVIDIA"
    ]
   },
   "RTX 3080": {
@@ -10290,11 +10348,23 @@
     "2026-10-26",
     "MSI Geforce RTX 4060 Ti Gaming X 16GB"
    ],
+   "3554203298": [
+    460.0,
+    "2026-10-27",
+    "2026-10-27",
+    "RTX 4060ti - MSI Ventus 3x"
+   ],
    "3554221496": [
     265.0,
     "2026-10-27",
     "2026-10-27",
     "MSI GeForce RTX 4060 Ti 16GB ventus 2X"
+   ],
+   "3554349099": [
+    460.0,
+    "2026-10-27",
+    "2026-10-27",
+    "RTX 4060ti - MSI Ventus 3x"
    ]
   },
   "RTX 4070": {
@@ -11773,7 +11843,7 @@
     "RX 7800 XT oder RX 9070 GRE Grafikkarte"
    ],
    "3553967682": [
-    570.0,
+    540.0,
     "2026-10-27",
     "2026-10-27",
     "RX 7800XT XFX Edition"
@@ -11981,7 +12051,7 @@
     "Raspberry Pi 5 (8GB RAM) mit Gehäuse und Netzteil"
    ],
    "3546850057": [
-    195.0,
+    200.0,
     "2026-10-27",
     "2026-10-22",
     "Raspberry Pi 5 8GB Set inkl. 27W Netzteil & GeeekPi Gehäuse"
@@ -12810,6 +12880,12 @@
     "2026-10-27",
     "2026-10-26",
     "AMD Ryzen 7 9800X3D Prozessor"
+   ],
+   "3554305108": [
+    365.0,
+    "2026-10-27",
+    "2026-10-27",
+    "⭐NEU⭐ AMD Ryzen 7 9800X3D Prozessor – Versiegelt & OVP"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -13312,6 +13388,12 @@
     "2026-10-27",
     "2026-10-27",
     "SAMSUNG 990 PRO M2 Festplatte, 2 TB, Neu in OVP"
+   ],
+   "3554317683": [
+    265.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Samsung 990 pro 2tb m2 nvme ssd wie neu"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -15349,6 +15431,12 @@
     "2026-10-27",
     "2026-10-27",
     "Lenovo ThinkPad X1 Carbon Gen 9 |i7|16GB|512 UHD+ LTE AKKU NEU"
+   ],
+   "3554317055": [
+    325.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
    ]
   },
   "ThinkPad ohne Netzteil": {},
@@ -15622,7 +15710,7 @@
     "Western Digital 4 TB WD Red Plus"
    ],
    "3549464427": [
-    185.0,
+    184.0,
     "2026-10-27",
     "2026-10-23",
     "Western Digital WD Red Plus 4TB NAS Festplatte - Neu"
@@ -15950,6 +16038,12 @@
     "2026-10-27",
     "2026-10-26",
     "Weller WTCP-S Lötstation TOP"
+   ],
+   "3554159721": [
+    50.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Weller Lötstation WTCP-S"
    ]
   },
   "Zigbee-Stick": {
