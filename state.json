@@ -476,8 +476,8 @@
   "3553822044": "2026-10-27",
   "3553834409": "2026-10-27"
  },
- "laeufe": 289,
- "letzter_lauf": "2026-10-27T16:11:01",
+ "laeufe": 290,
+ "letzter_lauf": "2026-10-27T17:12:06",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -5014,6 +5014,12 @@
     "2026-10-27",
     "2026-10-25",
     "Lenovo ThinkCentre M920q i5-9500T 8GB Ram 256GB nvme SSD"
+   ],
+   "3554165610": [
+    269.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Lenovo ThinkCentre M920q Tiny | i7-8700 | 16GB RAM | 512GB NVMe"
    ]
   },
   "Lenovo ThinkVision P27h": {
@@ -6996,6 +7002,24 @@
     "2026-10-27",
     "2026-10-27",
     "Apple MacBook Air M1 (2020) – 8 GB RAM – 256 GB SSD"
+   ],
+   "3554172286": [
+    480.0,
+    "2026-10-27",
+    "2026-10-27",
+    "MacBook Air (M1)"
+   ],
+   "3554180761": [
+    550.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air M1 512GB SSD 8GB RAM / 2020 / Akku 98%"
+   ],
+   "3554192971": [
+    499.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air 13\" M1 (2020)"
    ]
   },
   "MacBook Air M2": {
@@ -7934,6 +7958,18 @@
     "2026-10-27",
     "2026-10-27",
     "Apple MacBook Air M2 - 8GB - 256Gb SSD - 13,6“ - 97% Akku - Blau"
+   ],
+   "3554174768": [
+    799.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air M2 13,6 Zoll – Midnight – 256 GB – Top Zustand"
+   ],
+   "3554199047": [
+    560.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Macbook Air M2 8GB / 256 GB"
    ]
   },
   "Makita DHP485 Set": {
@@ -8536,6 +8572,12 @@
     "2026-10-27",
     "2026-10-27",
     "Rtx 3060 12gb inno 3d modell"
+   ],
+   "3554196817": [
+    300.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Gainward Ghost GeForce RTX 3060 12GB"
    ]
   },
   "RTX 3070": {
@@ -9266,7 +9308,7 @@
     "NVIDIA GeForce RTX 3070"
    ],
    "3553570316": [
-    310.0,
+    300.0,
     "2026-10-27",
     "2026-10-27",
     "RTX 3070 MSI"
@@ -9312,6 +9354,18 @@
     "2026-10-27",
     "2026-10-27",
     "RTX 3070 Founders Edition"
+   ],
+   "3554168300": [
+    350.0,
+    "2026-10-27",
+    "2026-10-27",
+    "PALIT GeForce RTX 3070 GameRock OC 8 GB"
+   ],
+   "3554186616": [
+    375.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Gigabyte GeForce RTX 3070 Vision Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -9878,6 +9932,12 @@
     "2026-10-27",
     "2026-10-27",
     "ASUS TUF Gaming GeForce RTX 3080 OC V2 Grafikkarte mit 10 GB"
+   ],
+   "3554161610": [
+    400.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Gigabyte RTX 3080 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -11078,7 +11138,7 @@
     "KFA2 GeForce RTX 4080 SG"
    ],
    "3553915234": [
-    800.0,
+    900.0,
     "2026-10-27",
     "2026-10-27",
     "NVIDIA GeForce RTX 4080 16GB GDDR6X"
@@ -11632,6 +11692,12 @@
     "2026-10-27",
     "2026-10-27",
     "RX 7800XT XFX Edition"
+   ],
+   "3554146222": [
+    700.0,
+    "2026-10-27",
+    "2026-10-27",
+    "AMD Radeon RX 7800xt 16GB VRAM"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -12229,6 +12295,12 @@
     "2026-10-27",
     "2026-10-27",
     "AMD Ryzen 7 5800x3d CPU Prozessor AM4"
+   ],
+   "3554156193": [
+    230.0,
+    "2026-10-27",
+    "2026-10-27",
+    "AMD Ryzen 7 5800X3D AM4 Prozessor (100-100000651WOF)"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -14652,7 +14724,7 @@
     "Lenovo ThinkPad L14 Gen 3 | Ryzen 5 Pro | 16GB RAM | 512GB SSD"
    ],
    "3550188220": [
-    349.0,
+    329.0,
     "2026-10-27",
     "2026-10-24",
     "Lenovo Thinkpad L14 Gen3 AZERTY i5-1235U+8GB RAM+256GB SSD"
@@ -15383,6 +15455,12 @@
     "2026-10-27",
     "2026-10-27",
     "SanDisk WD_BLACK SN850X NVMe SSD 2TB PCIe Gen4"
+   ],
+   "3554188534": [
+    200.0,
+    "2026-10-27",
+    "2026-10-27",
+    "WD Black SN850X / M.2 / SSD / Nvme / 2TB"
    ]
   },
   "WD Red Plus 4TB": {
