@@ -475,8 +475,8 @@
   "3553822044": "2026-10-27",
   "3553834409": "2026-10-27"
  },
- "laeufe": 287,
- "letzter_lauf": "2026-10-27T14:10:49",
+ "laeufe": 288,
+ "letzter_lauf": "2026-10-27T15:09:27",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2215,6 +2215,12 @@
     "2026-10-27",
     "2026-10-27",
     "G.Skill Flare X5 DDR5 32GB RAM (2x16GB) 6000 CL30"
+   ],
+   "3554025627": [
+    350.0,
+    "2026-10-27",
+    "2026-10-27",
+    "32 GB DDR5 Crucial Pro 6000"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3262,6 +3268,12 @@
     "2026-10-27",
     "2026-10-27",
     "Crucial 16GB DDR4-3200 SODIMM RAM"
+   ],
+   "3554070820": [
+    75.0,
+    "2026-10-27",
+    "2026-10-27",
+    "16GB DDR4 SO-DIMM 3200MHz SK Hynix Notebook RAM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -3552,6 +3564,12 @@
     "2026-10-27",
     "2026-10-27",
     "32GB 2x16GB DDR4 3200MHz SODIMM"
+   ],
+   "3554076378": [
+    250.0,
+    "2026-10-27",
+    "2026-10-27",
+    "32 GB DDR4-3200 SO-DIMM Laptop Speicher 1 Modul"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -6865,10 +6883,40 @@
     "MacBook Air M1"
    ],
    "3554022509": [
-    600.0,
+    480.0,
     "2026-10-27",
     "2026-10-27",
     "MacBook Air 10,1 Apple M1 8 GB"
+   ],
+   "3554033450": [
+    469.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air 13\" aus 2020 mit M1 Chip (94% Original-Akku)"
+   ],
+   "3554064210": [
+    470.0,
+    "2026-10-27",
+    "2026-10-27",
+    "MacBook Air M1"
+   ],
+   "3554064948": [
+    450.0,
+    "2026-10-27",
+    "2026-10-27",
+    "MacBook Air 13” M1 (2020) – 16 GB RAM, 256 GB SSD – wie neu"
+   ],
+   "3554070518": [
+    330.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air M1 – 8/256 GB – Silber – 2020"
+   ],
+   "3554077950": [
+    420.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple MacBook Air M1 13\" – 8 GB RAM / 256 GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -9173,6 +9221,12 @@
     "2026-10-27",
     "2026-10-27",
     "Grafikkarte RTX 3070"
+   ],
+   "3554077155": [
+    310.0,
+    "2026-10-27",
+    "2026-10-27",
+    "RTX 3070 Founders Edition"
    ]
   },
   "RTX 3080": {
@@ -9721,6 +9775,18 @@
     "2026-10-27",
     "2026-10-27",
     "nvidia geforce Rog Strix Rtx 3080"
+   ],
+   "3554033765": [
+    479.0,
+    "2026-10-27",
+    "2026-10-27",
+    "RTX 3080 Gigabyte Gaming OC 10GB | neue Paste+Putty | Testbericht"
+   ],
+   "3554067358": [
+    500.0,
+    "2026-10-27",
+    "2026-10-27",
+    "GeForce RTX 3080 SUPRIM X 10G"
    ]
   },
   "RTX 4060 Ti": {
@@ -11143,6 +11209,12 @@
     "2026-10-27",
     "2026-10-27",
     "AMD RX 6800XT Red Devil 16Gb"
+   ],
+   "3554043056": [
+    405.0,
+    "2026-10-27",
+    "2026-10-27",
+    "XFX Radeon RX 6800 XT Grafikkarte"
    ]
   },
   "RX 7800 XT": {
@@ -12952,7 +13024,7 @@
     "Samsung 990 PRO NVMe M.2 SSD mit Heatsink, 2 TB,"
    ],
    "3553690478": [
-    300.0,
+    290.0,
     "2026-10-27",
     "2026-10-27",
     "SAMSUNG 990 PRO M2 Festplatte, 2 TB, Neu in OVP"
@@ -15138,7 +15210,7 @@
     "Western Digital WD_BLACK SN850X NVMe SSD 2TB"
    ],
    "3552542266": [
-    250.0,
+    220.0,
     "2026-10-27",
     "2026-10-25",
     "WD BLACK SN850X / 2TB / M.2 Nvme / SSD /Gen4"
@@ -15225,6 +15297,12 @@
    ]
   },
   "WD Red Plus 8TB": {
+   "3460531251": [
+    170.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Western Digital WD Red Plus 8TB WD80EFZZ NAS CMR 24/7 100% Health"
+   ],
    "3511320239": [
     349.0,
     "2026-10-27",
