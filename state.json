@@ -353,6 +353,7 @@
   "3541869177": "2026-10-15",
   "3541904719": "2026-10-15",
   "3542071381": "2026-10-15",
+  "3542191177": "2026-10-27",
   "3542247154": "2026-10-16",
   "3542256527": "2026-10-16",
   "3542296679": "2026-10-16",
@@ -464,6 +465,7 @@
   "3553241028": "2026-10-26",
   "3553266701": "2026-10-26",
   "3553344417": "2026-10-26",
+  "3553360588": "2026-10-27",
   "3553403573": "2026-10-26",
   "3553458001": "2026-10-26",
   "3553560825": "2026-10-27",
@@ -471,8 +473,8 @@
   "3553668901": "2026-10-27",
   "3553822044": "2026-10-27"
  },
- "laeufe": 284,
- "letzter_lauf": "2026-10-27T11:00:08",
+ "laeufe": 285,
+ "letzter_lauf": "2026-10-27T11:59:29",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1009,7 +1011,7 @@
     "Bosch Bohrschrauber 'GSR 18V-60 C Professional"
    ],
    "3542191177": [
-    115.0,
+    100.0,
     "2026-10-27",
     "2026-10-24",
     "Bosch Akkuschrauber 18V (GSR 18V-60 C) inkl. 2 Akkus & Lader"
@@ -1264,39 +1266,45 @@
    ],
    "3552847830": [
     148.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-26",
     "Bose QuietComfort QC 45 Kopfhörer overear Noise Cancelling"
    ],
    "3552951887": [
     225.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-26",
     "Bose QuietComfort Ultra 2 Gen Bluetooth Kopfhörer ANC NEU/OVP"
    ],
    "3552966342": [
     250.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-26",
     "Bose QuietComfort Ultra Kopfhörer - 2. Gen Noise-Cancelling NEU"
    ],
    "3553008179": [
     230.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-26",
     "Bose QuietComfort Ultra Headphones (1. Generation) Sandstone"
    ],
    "3553026757": [
     149.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-26",
     "Bose QuietComfort Headphones White Smoke"
    ],
    "3553200474": [
     199.0,
-    "2026-10-26",
+    "2026-10-27",
     "2026-10-26",
     "Bose QuietComfort Headphones - Neu & OVP"
+   ],
+   "3553360588": [
+    150.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Bose QuietComfort 45"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -2187,6 +2195,12 @@
     "2026-10-27",
     "2026-10-27",
     "Corsair Vengeance 32GB DDR5-6000 RAM Kit RGB"
+   ],
+   "3553834787": [
+    500.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Patriot Viper 32GB (2x16GB) DDR5 RAM / 6000Mhz"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2620,7 +2634,7 @@
     "Dell WD19TB Thunderbolt Dockingstation inkl. 180W Netzteil"
    ],
    "3529593519": [
-    120.0,
+    100.0,
     "2026-10-27",
     "2026-10-23",
     "Dell Thunderbolt Dock WD19TB 180W, DELL-WD19TB (180W)"
@@ -2708,6 +2722,12 @@
     "2026-10-27",
     "2026-10-26",
     "Dell WD19TB Thunderbolt Docking Station K20A mit 180W Netzteil"
+   ],
+   "3553843248": [
+    50.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Dell Docking Station KA20A001 WD19TB Thunderbolt 3 USB C 40GBit/s"
    ]
   },
   "EliteBook 840 G8": {
@@ -2725,7 +2745,7 @@
    ],
    "3461878280": [
     260.0,
-    "2026-10-24",
+    "2026-10-27",
     "2026-10-22",
     "HP Elitebook 840 G8 mit Windows 11 und MS Office"
    ],
@@ -3967,6 +3987,12 @@
     "2026-10-27",
     "2026-10-24",
     "CPU Intel I7 12700k"
+   ],
+   "3553869568": [
+    180.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Core i7-12700K wie NEU"
    ]
   },
   "Intel i7-14700K": {
@@ -4435,7 +4461,7 @@
     "Keychron k5 pro Wireless 100 iso de Tastatur Keyboard"
    ],
    "3552871680": [
-    65.0,
+    60.0,
     "2026-10-27",
     "2026-10-26",
     "Keychron V1 Custom Keyboard (US/ANSI Layout, Kabelgebunden)"
@@ -4487,6 +4513,12 @@
     "2026-10-27",
     "2026-10-26",
     "Keychron K1 Pro - gelubed und gedämmt - wie neu-"
+   ],
+   "3553767866": [
+    69.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Keychron K8 TKL (QWERTZ) mit Keychron Palm Rest aus Holz"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -4881,7 +4913,7 @@
     "Lenovo ThinkVision P27h-30 27\" QHD USB-C Monitor"
    ],
    "3503133281": [
-    205.0,
+    200.0,
     "2026-10-27",
     "2026-10-23",
     "(Neu) Lenovo ThinkVision P27h-28 Monitor 27 Zoll WQHD 2560x1440"
@@ -6733,6 +6765,12 @@
     "2026-10-27",
     "2026-10-27",
     "MacBook Air M1 Space Gray Neuzustand  99% Akku ❗️❗️"
+   ],
+   "3553855896": [
+    480.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Apple Mac Book Air M1 und Magic Mouse"
    ]
   },
   "MacBook Air M2": {
@@ -7635,6 +7673,12 @@
     "2026-10-27",
     "2026-10-27",
     "Apple MacBook Air 13,6 Zoll M2 – 8 GB RAM / 256 GB SSD"
+   ],
+   "3553863632": [
+    650.0,
+    "2026-10-27",
+    "2026-10-27",
+    "MacBook Air M2 | 512 GB SSD | 8 GB RAM | Space Grau | OVP"
    ]
   },
   "Makita DHP485 Set": {
@@ -8883,7 +8927,7 @@
     "MSI GeForce RTX 3070 Ventus 8GB Grafikkarte/GPU -neuwertig"
    ],
    "3553005049": [
-    345.0,
+    339.0,
     "2026-10-27",
     "2026-10-26",
     "Asus Dual Geforce RTX 3070 8GB mit OVP"
@@ -8971,6 +9015,12 @@
     "2026-10-27",
     "2026-10-27",
     "ASUS GeForce 3070 RTX Turbo 8GB (mehrere vorhanden)"
+   ],
+   "3553829896": [
+    300.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Asus TUF-Gaming GeForce RTX3070 8G Gaming"
    ]
   },
   "RTX 3080": {
@@ -9501,6 +9551,12 @@
     "2026-10-27",
     "2026-10-27",
     "MSI GeForce RTX 3080 SUPRIM X 10GB – RGB"
+   ],
+   "3553858558": [
+    489.0,
+    "2026-10-27",
+    "2026-10-27",
+    "GIGABYTE AORUS GeForce RTX 3080 MASTER 10GB GDDR6X Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -10009,6 +10065,12 @@
     "2026-10-27",
     "2026-10-27",
     "KFA2 NVIDIA RTX 4070 12GB VRAM"
+   ],
+   "3553842400": [
+    550.0,
+    "2026-10-27",
+    "2026-10-27",
+    "ZOTAC GAMING GeForce RTX 4070 Twin Edge OC 12GB GDDR6X"
    ]
   },
   "RTX 4070 Super": {
@@ -10367,6 +10429,12 @@
     "2026-10-26",
     "2026-10-26",
     "RTX 4070 TI SUPER - 16 GB VRAM"
+   ],
+   "3553843698": [
+    850.0,
+    "2026-10-27",
+    "2026-10-27",
+    "RTX 4070 Ti Super Gigabyte Windforce OC 16GB"
    ]
   },
   "RTX 4080": {
@@ -10669,6 +10737,12 @@
     "2026-10-27",
     "2026-10-27",
     "RTX 4080 Palit GeForce Grafikkarte"
+   ],
+   "3553823999": [
+    949.0,
+    "2026-10-27",
+    "2026-10-27",
+    "KFA2 GeForce RTX 4080 SG"
    ]
   },
   "RX 6800 XT": {
@@ -11251,6 +11325,12 @@
     "2026-10-27",
     "2026-10-24",
     "Raspberry Pi 5 16GB Set | NVMe HAT | Netzteil | Metallgehäuse |"
+   ],
+   "3553096308": [
+    333.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Raspberry Pi 5 16GB + AI HAT+ 2 (Hailo-10H) Komplettset"
    ]
   },
   "Raspberry Pi 5 8GB": {
@@ -11583,6 +11663,12 @@
     "2026-10-27",
     "2026-10-27",
     "Raspberry Pi 5 8GB mit PCIe M.2 HAT (A)"
+   ],
+   "3553701367": [
+    120.0,
+    "2026-10-27",
+    "2026-10-27",
+    "Raspberry Pi 5 8GB Kit"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -11986,6 +12072,12 @@
     "2026-10-27",
     "2026-10-26",
     "AMD Ryzen 7  7800X3D für den Sockel A5"
+   ],
+   "3553841693": [
+    250.0,
+    "2026-10-27",
+    "2026-10-27",
+    "AMD Ryzen 7 7800X3D – kaum 2 Wochen gelaufen, original Box, top Z"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -12648,7 +12740,7 @@
     "Samsung 990 PRO NVMe M.2 SSD mit Heatsink, 2 TB,"
    ],
    "3553690478": [
-    310.0,
+    300.0,
     "2026-10-27",
     "2026-10-27",
     "SAMSUNG 990 PRO M2 Festplatte, 2 TB, Neu in OVP"
