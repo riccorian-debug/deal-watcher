@@ -485,8 +485,8 @@
   "3554442918": "2026-10-28",
   "3554525888": "2026-10-28"
  },
- "laeufe": 298,
- "letzter_lauf": "2026-10-28T09:13:06",
+ "laeufe": 299,
+ "letzter_lauf": "2026-10-28T10:09:54",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -7263,6 +7263,18 @@
     "2026-10-28",
     "2026-10-28",
     "MacBook Air M1 2020 13 Zoll, 8 GB RAM, 512 GB SSD – Space Grau"
+   ],
+   "3554593598": [
+    499.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Apple MacBook Air M1 (2020) – 13 Zoll – 8 GB RAM – 256 GB SSD"
+   ],
+   "3554620664": [
+    499.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Apple MacBook Air M1 512GB 8GB RAM Silver | Neuwertig | Rechnung"
    ]
   },
   "MacBook Air M2": {
@@ -9789,6 +9801,18 @@
     "2026-10-28",
     "2026-10-28",
     "Nvidia Rtx 3070"
+   ],
+   "3554614846": [
+    333.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Asus Dual Geforce RTX 3070 8GB mit OVP"
+   ],
+   "3554619160": [
+    330.0,
+    "2026-10-28",
+    "2026-10-28",
+    "INNO3D GEFORCE RTX™ 3070 ICHILL X4"
    ]
   },
   "RTX 3080": {
@@ -10693,6 +10717,12 @@
     "2026-10-28",
     "2026-10-27",
     "MSI RTX 4060 ti gaming x slim 16gb gddr6"
+   ],
+   "3554601986": [
+    320.0,
+    "2026-10-28",
+    "2026-10-28",
+    "RTX 4060 ti"
    ]
   },
   "RTX 4070": {
@@ -11329,6 +11359,12 @@
     "2026-10-28",
     "2026-10-27",
     "Palit GeForce RTX 4070 Ti SUPER 16 GB"
+   ],
+   "3554632976": [
+    850.0,
+    "2026-10-28",
+    "2026-10-28",
+    "ASUS ProArt RTX 4070 Ti SUPER OC 16GB"
    ]
   },
   "RTX 4080": {
@@ -12205,6 +12241,12 @@
     "2026-10-28",
     "2026-10-27",
     "AMD Radeon RX 7800xt 16GB VRAM"
+   ],
+   "3554628306": [
+    550.0,
+    "2026-10-28",
+    "2026-10-28",
+    "GIGABYTE Radeon RX 7800 XT GAMING OC 16G – Top Zustand!"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -13064,7 +13106,7 @@
     "AMD Ryzen 7 7800X3D Prozessor - Neu & OVP"
    ],
    "3554092671": [
-    260.0,
+    259.0,
     "2026-10-28",
     "2026-10-27",
     "AMD Ryzen 7 7800X3D |  BOXED"
@@ -14047,6 +14089,12 @@
     "2026-10-28",
     "2026-10-26",
     "Seagate Exos X18 18TB HDD SAS (ST18000NM004J)"
+   ],
+   "3554641631": [
+    170.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Seagate Exos X18 18TB Enterprise Festplatte ST18000NM000J"
    ]
   },
   "Seagate Exos 20TB": {
@@ -14323,6 +14371,12 @@
     "2026-10-28",
     "2026-10-25",
     "Seagate Ironwolf 4TB NAS Festplatte ST4000VN008"
+   ],
+   "3554619700": [
+    130.0,
+    "2026-10-28",
+    "2026-10-28",
+    "4TB Seagate IronWolf NAS HDD ST4000VN008"
    ]
   },
   "Seagate IronWolf 8TB": {
@@ -15229,6 +15283,12 @@
     "2026-10-28",
     "2026-10-25",
     "Synology DS220j 2-Bay NAS"
+   ],
+   "3554628833": [
+    125.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Synology DS220J mit Noctua Lüfter und 2.5“ Adapter Nas"
    ]
   },
   "Synology DS920+": {
