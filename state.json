@@ -483,10 +483,11 @@
   "3554357109": "2026-10-27",
   "3554413801": "2026-10-27",
   "3554442918": "2026-10-28",
+  "3554516365": "2026-10-28",
   "3554525888": "2026-10-28"
  },
- "laeufe": 299,
- "letzter_lauf": "2026-10-28T10:09:54",
+ "laeufe": 300,
+ "letzter_lauf": "2026-10-28T11:05:29",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3464,6 +3465,12 @@
     "2026-10-28",
     "2026-10-28",
     "Samsung 16GB DDR4 3200MHz SO-DIMM Arbeitsspeicher Synology"
+   ],
+   "3554665384": [
+    60.0,
+    "2026-10-28",
+    "2026-10-28",
+    "16 GB DDR4-3200 SO-DIMM Samsung Laptop RAM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -7275,6 +7282,18 @@
     "2026-10-28",
     "2026-10-28",
     "Apple MacBook Air M1 512GB 8GB RAM Silver | Neuwertig | Rechnung"
+   ],
+   "3554654847": [
+    600.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Apple MacBook Air M1 2020, 8GB RAM, 256GB SSD, 13,3 Zoll"
+   ],
+   "3554668089": [
+    419.0,
+    "2026-10-28",
+    "2026-10-28",
+    "APPLE | Macbook Air | M1 Chip | 512GB | OVP | TOP"
    ]
   },
   "MacBook Air M2": {
@@ -8221,7 +8240,7 @@
     "Apple MacBook Air M2 13,6 Zoll – Midnight – 256 GB – Top Zustand"
    ],
    "3554199047": [
-    560.0,
+    490.0,
     "2026-10-28",
     "2026-10-27",
     "Macbook Air M2 8GB / 256 GB"
@@ -9813,6 +9832,18 @@
     "2026-10-28",
     "2026-10-28",
     "INNO3D GEFORCE RTX™ 3070 ICHILL X4"
+   ],
+   "3554665481": [
+    400.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Gigabyte Aorus GeForce RTX 3070 mit Display"
+   ],
+   "3554677658": [
+    310.0,
+    "2026-10-28",
+    "2026-10-28",
+    "NVIDIA GeForce RTX 3070 Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -10409,6 +10440,12 @@
     "2026-10-28",
     "2026-10-28",
     "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
+   ],
+   "3554704505": [
+    420.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -10717,6 +10754,12 @@
     "2026-10-28",
     "2026-10-27",
     "MSI RTX 4060 ti gaming x slim 16gb gddr6"
+   ],
+   "3554516365": [
+    270.0,
+    "2026-10-28",
+    "2026-10-28",
+    "MSI RTX 4060 Ti Ventus 2X 16GB OC"
    ],
    "3554601986": [
     320.0,
@@ -12247,6 +12290,12 @@
     "2026-10-28",
     "2026-10-28",
     "GIGABYTE Radeon RX 7800 XT GAMING OC 16G – Top Zustand!"
+   ],
+   "3554699807": [
+    500.0,
+    "2026-10-28",
+    "2026-10-28",
+    "PowerColor Radeon RX 7800 XT Hellhound 16GB GDDR6 – Top Zustand"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -15191,6 +15240,12 @@
     "2026-10-28",
     "2026-10-27",
     "Synology NAS DS220+ in OVP, 6GB RAM"
+   ],
+   "3554688404": [
+    270.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Synology DiskStation DS220+"
    ]
   },
   "Synology DS220j": {
@@ -16142,6 +16197,18 @@
     "2026-10-28",
     "2026-10-27",
     "WD Black SN850X / M.2 / SSD / Nvme / 2TB"
+   ],
+   "3554590516": [
+    220.0,
+    "2026-10-28",
+    "2026-10-28",
+    "WD_Black SN850X NVMe 2tb"
+   ],
+   "3554677273": [
+    340.0,
+    "2026-10-28",
+    "2026-10-28",
+    "WD_Black SN850x 2TB NVMe SSD*FABRIKNEU!* Western Digital"
    ]
   },
   "WD Red Plus 4TB": {
@@ -16260,6 +16327,12 @@
     "2026-10-27",
     "2026-10-27",
     "WD Red Plus 8TB NAS Festplatte WD80EFZZ"
+   ],
+   "3554697994": [
+    290.0,
+    "2026-10-28",
+    "2026-10-28",
+    "WD Red Plus 3,5 Zoll Sata 8 TB 256 MB Festplatte"
    ]
   },
   "Weller WE1010": {
