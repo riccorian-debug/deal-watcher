@@ -486,13 +486,15 @@
   "3554516365": "2026-10-28",
   "3554525888": "2026-10-28",
   "3554974443": "2026-10-28",
+  "3554976862": "2026-10-28",
   "3555011023": "2026-10-28",
   "3555115790": "2026-10-28",
   "3555137634": "2026-10-28",
-  "3555148450": "2026-10-28"
+  "3555148450": "2026-10-28",
+  "3555267257": "2026-10-28"
  },
- "laeufe": 304,
- "letzter_lauf": "2026-10-28T21:04:28",
+ "laeufe": 305,
+ "letzter_lauf": "2026-10-28T22:03:33",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -654,7 +656,7 @@
    ],
    "3520344608": [
     30.0,
-    "2026-10-25",
+    "2026-10-28",
     "2026-10-23",
     "Original Arduino Starter-Kit mit Arduino UNO"
    ],
@@ -1093,6 +1095,12 @@
     "2026-10-28",
     "2026-10-27",
     "Bosch Akku Bohrschrauber GSR 18v 60 c"
+   ],
+   "3554922682": [
+    250.0,
+    "2026-10-28",
+    "2026-10-28",
+    "BOSCH GSR 18V 60 FC mit viel Zubehör"
    ]
   },
   "Bose QuietComfort": {
@@ -1107,6 +1115,12 @@
     "2026-10-28",
     "2026-10-28",
     "Bose QuietComfort Ultra Headphones – Schwarz"
+   ],
+   "3525867991": [
+    175.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Bose QuietComfort Ultra Headphones Over-Ear-Kopfhörer NC OVP"
    ],
    "3548290890": [
     150.0,
@@ -1407,6 +1421,24 @@
     "2026-10-28",
     "2026-10-28",
     "Bose QuietComfort Ultra Headphones - Noise Cancelling"
+   ],
+   "3554976862": [
+    120.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Bose QuietComfort 45 – wie neu"
+   ],
+   "3555267257": [
+    120.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Bose QuietComfort 45 Kopfhörer"
+   ],
+   "3555299183": [
+    290.0,
+    "2026-10-28",
+    "2026-10-28",
+    "BOSE QuietComfort Ultra Kopfhörer (2. Gen.)"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -2411,6 +2443,12 @@
     "2026-10-28",
     "2026-10-28",
     "Patriot Viper DDR5-6000 32GB CL30 Neu"
+   ],
+   "3555302837": [
+    350.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Corsair Vengeance RGB DDR5 32GB 6000MHz CL30 mit OVP"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3186,6 +3224,12 @@
     "2026-10-28",
     "2026-10-28",
     "HP EliteBook 840 G8 · Core i5 · 16 GB · 256 GB SSD · TOP! · Win11"
+   ],
+   "3555261189": [
+    320.0,
+    "2026-10-28",
+    "2026-10-28",
+    "HP Elitebook 840 G8/i5/24GB/512 GB SSD/W11"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -4349,6 +4393,12 @@
     "2026-10-27",
     "2026-10-27",
     "Home Assistant Green Smart Home Hub, OVP"
+   ],
+   "3555025860": [
+    118.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Home Assistant Green Smart Home Hub"
    ]
   },
   "Intel i5-13600K": {
@@ -4987,6 +5037,24 @@
     "2026-10-28",
     "2026-10-28",
     "Keychron K6 Mechanische Tastatur Bluetooth & Kabel"
+   ],
+   "3554946826": [
+    89.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Keychron K10 max  mechanische Tastatur mit Case und Handauflage"
+   ],
+   "3555008768": [
+    200.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Keychron Q4 Pro | Customized | mechanische Tastatur"
+   ],
+   "3555167058": [
+    149.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Keychron Q1 Pro Mechanische Tastatur ISO QWERTZ Wireless"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -6021,7 +6089,7 @@
     "Lenovo ThinkPad USB-C Dock Gen 2 (40AS)|2x DP|HDMI|Universal"
    ],
    "3551695201": [
-    40.0,
+    35.0,
     "2026-10-28",
     "2026-10-25",
     "Lenovo ThinkPad USB-C Dock Gen2"
@@ -6049,6 +6117,18 @@
     "2026-10-28",
     "2026-10-27",
     "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) mit Netzteil"
+   ],
+   "3554808162": [
+    79.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Dockingstation Lenovo ThinkPad USB-C Dock Gen2 incl. 90W-Netzteil"
+   ],
+   "3555232414": [
+    35.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Lenovo Thinkpad USB C Dock Gen 2 Neuwertig"
    ]
   },
   "MacBook Air M1": {
@@ -8669,6 +8749,18 @@
     "2026-10-28",
     "2026-10-28",
     "Apple MacBook Air 15″ M2 – 256 GB – Space Grau"
+   ],
+   "3555285644": [
+    699.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Apple MacBook Air M2 2022 • 8GB/512GB • Guter Zustand"
+   ],
+   "3555299439": [
+    350.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Apple MacBook Air M2 13 Zoll mit OVP"
    ]
   },
   "Makita DHP485 Set": {
@@ -9349,6 +9441,12 @@
     "2026-10-28",
     "2026-10-28",
     "RTX 3060 12GB + be quiet! 650W Netzteil (Set)"
+   ],
+   "3555290253": [
+    300.0,
+    "2026-10-28",
+    "2026-10-28",
+    "GeForce RTX 3060 12 GB VRAM"
    ]
   },
   "RTX 3070": {
@@ -10919,6 +11017,12 @@
     "2026-10-28",
     "2026-10-28",
     "Gigabyte AORUS GeForce RTX 3080 MASTER 10GB LCD Display"
+   ],
+   "3555298867": [
+    480.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Rtx 3080 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -11517,6 +11621,12 @@
     "2026-10-28",
     "2026-10-28",
     "RTX 4070 Gigabyte AERO OC 12GB – Top Zustand + Rechnung"
+   ],
+   "3555304764": [
+    460.0,
+    "2026-10-28",
+    "2026-10-28",
+    "RTX 4070 12GB MSI Ventus 3X Nvidia Grafikkarte"
    ]
   },
   "RTX 4070 Super": {
@@ -12823,6 +12933,12 @@
     "2026-10-28",
     "2026-10-28",
     "AMD Radeon RX 7800 XT 16 GB OC – Top Zustand"
+   ],
+   "3555293052": [
+    600.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Sapphire Radeon RX 7800 XT Nitro+ 16 GB"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -12869,7 +12985,7 @@
     "Raspberry PI 5 16GB Model B Rev 1.1 + Case + Kühler + Netzteil"
    ],
    "3545343946": [
-    330.0,
+    320.0,
     "2026-10-28",
     "2026-10-22",
     "Raspberry Pi 5 Starterkit 16GB RAM"
@@ -12962,7 +13078,7 @@
    ],
    "3536993251": [
     180.0,
-    "2026-10-25",
+    "2026-10-28",
     "2026-10-22",
     "Raspberry Pi 5 8GB + Gehäuse, Active Cooler, Netzteil & 128GB SD"
    ],
@@ -13241,6 +13357,24 @@
     "2026-10-27",
     "2026-10-27",
     "Raspberry Pi 5 8GB Kit"
+   ],
+   "3554944898": [
+    199.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Raspberry Pi 5 8GB Starter Kit + Netzteil"
+   ],
+   "3554945187": [
+    210.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Raspberry Pi 5 8GB Starter Kit Netzteil Gehäuse"
+   ],
+   "3555173710": [
+    230.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Raspberry Pi 5 8GB mit Display, Lüfter und Original Kabeln"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -13620,6 +13754,12 @@
     "2026-10-23",
     "2026-10-23",
     "Gaming-CPU: AMD Ryzen 7 7800X3D (inkl. OVP)"
+   ],
+   "3549050102": [
+    400.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Pro B650 S WIFI mit Ryzen 7 7800x3d"
    ],
    "3549571790": [
     199.0,
@@ -15269,11 +15409,17 @@
     "2026-10-27",
     "2026-10-27",
     "Shelly Smart Plug S"
+   ],
+   "3554985228": [
+    15.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Shelly Plus Plug S - Intelligente Steckdose Funktioniert mit Alex"
    ]
   },
   "Siglent SDS1104X-E": {
    "3538986564": [
-    455.0,
+    450.0,
     "2026-10-28",
     "2026-10-23",
     "Siglent SDS 1104X-E Digitales Oszilloskop 100MHz, wie neu"
@@ -17284,6 +17430,18 @@
     "2026-10-28",
     "2026-10-27",
     "Weller Lötstation WTCP-S"
+   ],
+   "3554979521": [
+    65.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Weller WTCP-S Magnastat Lötstation 50W 24V –"
+   ],
+   "3555047323": [
+    120.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Weller WTCP-S Lötstation mit Lötkolben und Ablage"
    ]
   },
   "Zigbee-Stick": {
