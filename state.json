@@ -487,11 +487,12 @@
   "3554525888": "2026-10-28",
   "3554974443": "2026-10-28",
   "3555011023": "2026-10-28",
+  "3555115790": "2026-10-28",
   "3555137634": "2026-10-28",
   "3555148450": "2026-10-28"
  },
- "laeufe": 303,
- "letzter_lauf": "2026-10-28T20:04:54",
+ "laeufe": 304,
+ "letzter_lauf": "2026-10-28T21:04:28",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2404,6 +2405,12 @@
     "2026-10-28",
     "2026-10-28",
     "Corsair Vengeance RGB DDR5 32 GB (2x 16 GB) 6000 MHz Kit CL36"
+   ],
+   "3555270018": [
+    400.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Patriot Viper DDR5-6000 32GB CL30 Neu"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3554,6 +3561,12 @@
     "2026-10-28",
     "Samsung SODIMM 16GB PC4 3200 DDR4 RAM 1Rx8"
    ],
+   "3555145305": [
+    52.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Mikron 16GB(2*8GB) DDR4 SO-DIMM 1Rx16 PC4-3200AA-SC0-13"
+   ],
    "3555155310": [
     90.0,
     "2026-10-28",
@@ -3561,7 +3574,7 @@
     "Corsair Vengeance DDR4 SODIMM 16GB 3200MHz RAM"
    ],
    "3555192904": [
-    80.0,
+    69.0,
     "2026-10-28",
     "2026-10-28",
     "16 GB DDR4-3200 RAM (2× 8 GB) SO-DIMM – Neo Forza"
@@ -4280,6 +4293,12 @@
     "2026-10-28",
     "2026-10-27",
     "HP Thunderbolt Dock G4 120W"
+   ],
+   "3554895322": [
+    150.0,
+    "2026-10-28",
+    "2026-10-28",
+    "HP Dockingstation Thunderbolt Dock 280W G4"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -5036,6 +5055,12 @@
     "2026-10-28",
     "2026-10-26",
     "9 Laptops Acer & Lenovo Konvolut mit Zubehör"
+   ],
+   "3555021191": [
+    250.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Hp Pavilion Laptop 15-cs3xxx und SSD konvolut alles als Paket"
    ]
   },
   "Konvolut RAM DDR4/DDR5": {
@@ -5100,6 +5125,12 @@
     "2026-10-28",
     "2026-10-26",
     "2× Samsung PM851 128GB mSATA SSD – 256GB gesamt – Konvolut"
+   ],
+   "3555115790": [
+    60.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Festplatten Konvolut|SSD und HDD|3x500GB"
    ]
   },
   "Labornetzteil 30V 5A": {
@@ -5662,6 +5693,12 @@
     "2026-10-28",
     "2026-10-27",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock (40B0) + 300W"
+   ],
+   "3554908418": [
+    139.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B0 – Wie Neu"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -7510,7 +7547,7 @@
     "MacBook Air M1 in Gold/Roségold."
    ],
    "3555117420": [
-    480.0,
+    469.0,
     "2026-10-28",
     "2026-10-28",
     "MacBook Air M1 | Super Zustand | 89% Akkukapazität"
@@ -8268,8 +8305,8 @@
     "MacBook Air 2022 M2 Silber 265 GB - 100% Batterie"
    ],
    "3552013014": [
-    700.0,
-    "2026-10-26",
+    650.0,
+    "2026-10-28",
     "2026-10-25",
     "Apple MacBook Air 15,3 Zoll M2 '2023 8GB RAM 256 GB SSD NEUw OVP"
    ],
@@ -8619,7 +8656,19 @@
     750.0,
     "2026-10-28",
     "2026-10-28",
-    "MacBook Air 13 2022 m2 256gb"
+    "Apple MacBook Air M2 (2022) – 13 zoll– 100 % Akku"
+   ],
+   "3555244526": [
+    660.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Mac Book Air M2"
+   ],
+   "3555277230": [
+    779.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Apple MacBook Air 15″ M2 – 256 GB – Space Grau"
    ]
   },
   "Makita DHP485 Set": {
@@ -11190,6 +11239,18 @@
     "2026-10-28",
     "2026-10-28",
     "RTX 4060 ti"
+   ],
+   "3554651163": [
+    500.0,
+    "2026-10-28",
+    "2026-10-28",
+    "RTX 4060ti 16GB OC Gainward Panther"
+   ],
+   "3555279522": [
+    370.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Gigabyte RTX 4060Ti Eagle 8GB Nvidia Grafikkarte"
    ]
   },
   "RTX 4070": {
@@ -12277,7 +12338,7 @@
    ],
    "3533607776": [
     499.0,
-    "2026-10-27",
+    "2026-10-28",
     "2026-10-21",
     "RX 6800XT Asus Tuf Gaming + OVP"
    ],
@@ -13843,6 +13904,12 @@
     "2026-10-28",
     "2026-10-28",
     "AMD Ryzen 7 9800X3D NEU Versiegelt"
+   ],
+   "3555249623": [
+    380.0,
+    "2026-10-28",
+    "2026-10-28",
+    "AMD RYZEN 7 9800X3D"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -15740,6 +15807,36 @@
     "2026-10-28",
     "2026-10-28",
     "Sony wh-1000xm5 bluetooth Kopfhörer neuwertig Zustand"
+   ],
+   "3554917203": [
+    75.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Sony-WH-1000XM5-kabellose-Noise-Cancelling-Kopfhörer"
+   ],
+   "3554968256": [
+    170.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Sony WH-1000XM5"
+   ],
+   "3555023292": [
+    190.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Sony WH-1000XM5SA"
+   ],
+   "3555064886": [
+    140.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Sony WH-1000XM5 Premium kabellose Noise Cancelling Kopfhörer"
+   ],
+   "3555096375": [
+    175.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Sony WH-1000XM5 Platinsilber"
    ]
   },
   "Synology DS220+": {
@@ -16630,7 +16727,7 @@
    ],
    "3532133544": [
     300.0,
-    "2026-10-24",
+    "2026-10-28",
     "2026-10-21",
     "WD_BLACK SN850X NVMe SSD 2TB mit Heatsink"
    ],
