@@ -486,8 +486,8 @@
   "3554516365": "2026-10-28",
   "3554525888": "2026-10-28"
  },
- "laeufe": 300,
- "letzter_lauf": "2026-10-28T11:05:29",
+ "laeufe": 301,
+ "letzter_lauf": "2026-10-28T12:07:35",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1097,6 +1097,12 @@
     "2026-10-28",
     "Bose QuietComfort Ultra High-End Noise Cancelling Kopfhörer OVP"
    ],
+   "3451336174": [
+    200.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Bose QuietComfort Ultra Headphones – Schwarz"
+   ],
    "3548290890": [
     150.0,
     "2026-10-23",
@@ -1380,10 +1386,22 @@
     "Bose QuietComfort QC Ultra Kopfhöhrer (1. gen) - mit Zubehör"
    ],
    "3554425085": [
-    150.0,
+    145.0,
     "2026-10-28",
     "2026-10-28",
     "Bose Quietcomfort Headphones"
+   ],
+   "3554686713": [
+    279.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Bose Quietcomfort Ultra Headphones 2.Gen"
+   ],
+   "3554693966": [
+    165.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Bose QuietComfort Ultra Headphones - Noise Cancelling"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -2352,6 +2370,18 @@
     "2026-10-28",
     "2026-10-28",
     "G.Skill Trident Z5 RGB DDR5 2x 32GB RAM (6000Mhz/CL30)"
+   ],
+   "3554726641": [
+    200.0,
+    "2026-10-28",
+    "2026-10-28",
+    "32GB DDR5 Kingston Fury Beast RAM 6000MHz 2x16Gb CL36"
+   ],
+   "3554758726": [
+    399.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Crucial Pro CP2K16G60C36U5B DDR5 32GB Kit 2x16GB 6000MHz CL36"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3115,6 +3145,18 @@
     "2026-10-27",
     "2026-10-27",
     "HP Elitebook 840 G8, i5-1135G7, 8GB RAM, 256GB SSD, Full HD IPS"
+   ],
+   "3554669560": [
+    275.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Hp Elitebook 840 g8(i5,11e,16gb,256gb)"
+   ],
+   "3554764279": [
+    345.0,
+    "2026-10-28",
+    "2026-10-28",
+    "HP EliteBook 840 G8 · Core i5 · 16 GB · 256 GB SSD · TOP! · Win11"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -4832,6 +4874,12 @@
     "2026-10-28",
     "2026-10-27",
     "Keychron K4 GQ1 Keyboard, QWERTY Layout"
+   ],
+   "3554626845": [
+    60.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Keychron K6 Mechanische Tastatur Bluetooth & Kabel"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -5198,6 +5246,12 @@
     "2026-10-28",
     "2026-10-27",
     "Lenovo ThinkCentre M920q Tiny | i7-8700 | 16GB RAM | 512GB NVMe"
+   ],
+   "3554425919": [
+    150.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Lenovo ThinkCentre M920q Tiny CPU i5-9500T, 16 GB RAM, 256 GB SSD"
    ]
   },
   "Lenovo ThinkVision P27h": {
@@ -7294,6 +7348,18 @@
     "2026-10-28",
     "2026-10-28",
     "APPLE | Macbook Air | M1 Chip | 512GB | OVP | TOP"
+   ],
+   "3554724519": [
+    420.0,
+    "2026-10-28",
+    "2026-10-28",
+    "MacBook Air 13 Zoll mit M1"
+   ],
+   "3554763131": [
+    480.0,
+    "2026-10-28",
+    "2026-10-28",
+    "MacBook Air 13“ (2020) mit M1 Chip gold"
    ]
   },
   "MacBook Air M2": {
@@ -8304,6 +8370,12 @@
     "2026-10-28",
     "2026-10-28",
     "MacBook Air M2 - 2022 13,6 Zoll 256GB"
+   ],
+   "3554756698": [
+    789.0,
+    "2026-10-28",
+    "2026-10-28",
+    "MacBook Air 15“ M2 | 512 GB | neuwertig | kaum Akkuzyklen"
    ]
   },
   "Makita DHP485 Set": {
@@ -8394,7 +8466,7 @@
     "Makita DTD172 Schlagschrauber – sehr guter Zustand"
    ],
    "3536206225": [
-    120.0,
+    110.0,
     "2026-10-28",
     "2026-10-24",
     "Makita Schlagschrauber DTD172 BL (180 Nm / 18V / 1/4\" )"
@@ -8948,6 +9020,18 @@
     "2026-10-28",
     "2026-10-28",
     "Gigabyte GeForce RTX 3060 12GB"
+   ],
+   "3554750512": [
+    180.0,
+    "2026-10-28",
+    "2026-10-28",
+    "GIGABYTE GeForce RTX 3060 Gaming OC PRO 12GB GDDR6"
+   ],
+   "3554758391": [
+    265.0,
+    "2026-10-28",
+    "2026-10-28",
+    "MSI Geforce RTX 3060 Gaming X  12GB Grafikkarte OVP  TOP Zustand"
    ]
   },
   "RTX 3070": {
@@ -9844,6 +9928,12 @@
     "2026-10-28",
     "2026-10-28",
     "NVIDIA GeForce RTX 3070 Grafikkarte"
+   ],
+   "3554757154": [
+    300.0,
+    "2026-10-28",
+    "2026-10-28",
+    "AORUS GeForce RTX 3070 MASTER 8G"
    ]
   },
   "RTX 3080": {
@@ -10446,6 +10536,12 @@
     "2026-10-28",
     "2026-10-28",
     "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
+   ],
+   "3554722896": [
+    420.0,
+    "2026-10-28",
+    "2026-10-28",
+    "ZOTAC GeForce RTX 3080 Trinity OC 10GB | OVP + Rechnung Alternate"
    ]
   },
   "RTX 4060 Ti": {
@@ -11234,7 +11330,7 @@
     "Asus RTX 4070 Super Dual Evo"
    ],
    "3554398646": [
-    690.0,
+    665.0,
     "2026-10-28",
     "2026-10-27",
     "RTX 4070 super ex oc Limited Edition pink"
@@ -11408,6 +11504,12 @@
     "2026-10-28",
     "2026-10-28",
     "ASUS ProArt RTX 4070 Ti SUPER OC 16GB"
+   ],
+   "3554764744": [
+    899.0,
+    "2026-10-28",
+    "2026-10-28",
+    "ASUS Nvidia RTX 4070 Ti Super 16GB Dual OC Edition"
    ]
   },
   "RTX 4080": {
@@ -12572,13 +12674,13 @@
     "Raspberry Pi 5 8GB Starter Kit + Netzteil + Gehäuse"
    ],
    "3550086815": [
-    200.0,
+    190.0,
     "2026-10-28",
     "2026-10-24",
     "Raspberry Pi 5 8GB Starter Kit Netzteil Gehäuse"
    ],
    "3550086937": [
-    190.0,
+    180.0,
     "2026-10-28",
     "2026-10-24",
     "Raspberry Pi 5 8GB Starter Kit + Netzteil"
@@ -13341,6 +13443,12 @@
     "2026-10-28",
     "2026-10-27",
     "⭐NEU⭐ AMD Ryzen 7 9800X3D Prozessor – Versiegelt & OVP"
+   ],
+   "3554763647": [
+    370.0,
+    "2026-10-28",
+    "2026-10-28",
+    "AMD Ryzen 7 9800X3D Prozessor - Neu & OVP"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -13731,7 +13839,7 @@
     "Samsung 990 Pro 2TB SSD - Neu!!"
    ],
    "3549692539": [
-    280.0,
+    260.0,
     "2026-10-28",
     "2026-10-23",
     "Samsung 990 Pro mit Heatsink 2TB NVMe SSD - Neu & OVP"
@@ -15172,6 +15280,12 @@
     "2026-10-28",
     "2026-10-28",
     "Sony WH-1000XM5 Kopfhörer mit Noise Cancelling und Zubehör"
+   ],
+   "3554681230": [
+    150.0,
+    "2026-10-28",
+    "2026-10-28",
+    "Sony wh-1000xm5 bluetooth Kopfhörer neuwertig Zustand"
    ]
   },
   "Synology DS220+": {
