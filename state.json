@@ -492,10 +492,11 @@
   "3555137634": "2026-10-28",
   "3555145305": "2026-10-29",
   "3555148450": "2026-10-28",
-  "3555267257": "2026-10-28"
+  "3555267257": "2026-10-28",
+  "3555434880": "2026-10-29"
  },
- "laeufe": 307,
- "letzter_lauf": "2026-10-29T07:27:26",
+ "laeufe": 308,
+ "letzter_lauf": "2026-10-29T09:12:50",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3641,6 +3642,18 @@
     "2026-10-29",
     "2026-10-28",
     "16 GB DDR4-3200 RAM (2× 8 GB) SO-DIMM – Neo Forza"
+   ],
+   "3555416747": [
+    60.0,
+    "2026-10-29",
+    "2026-10-29",
+    "1x SK hynix 16GB DDR4-3200 SO-DIMM RAM Arbeitsspeicher"
+   ],
+   "3555429797": [
+    120.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Crucial 16GB DDR4-3200 SODIMM RAM Arbeitsspeicher"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -3991,6 +4004,12 @@
     "2026-10-29",
     "2026-10-28",
     "SK Hynix 32GB (2x16GB) DDR4-3200 SO-DIMM Laptop RAM 1Rx8"
+   ],
+   "3555419152": [
+    149.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Corsair Vengeance  32GB  DDR4-3200Mhz SO-DIMM Arbeitsspeicher"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -4562,6 +4581,12 @@
     "2026-10-29",
     "2026-10-27",
     "intel i7 14700K"
+   ],
+   "3555459904": [
+    250.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Intel i7 14700k (Verpackung beschädigt, Prozessor nie benutzt)"
    ]
   },
   "Keychron Tastatur": {
@@ -7704,6 +7729,24 @@
     "2026-10-29",
     "2026-10-29",
     "Apple MacBook Air M1 2020 256GB in OVP"
+   ],
+   "3555392827": [
+    495.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air M1 (2020)"
+   ],
+   "3555404103": [
+    400.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M1 13,3 Zoll 8 GB 512 GB Gold"
+   ],
+   "3555462414": [
+    390.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Mackbook Air M1 8gb ram 256 gb"
    ]
   },
   "MacBook Air M2": {
@@ -8822,6 +8865,24 @@
     "2026-10-29",
     "2026-10-29",
     "Macbook Air 13\" M2 (2022) 1TB // 16RAM"
+   ],
+   "3555394412": [
+    750.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air 13” M2 (2022) – Top Zustand"
+   ],
+   "3555397926": [
+    750.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air 13” M2 (2022) – Top Zustand"
+   ],
+   "3555422673": [
+    820.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air M2 13,6″ | 16 GB RAM | 256 GB SSD | Space Grau | OVP"
    ]
   },
   "Makita DHP485 Set": {
@@ -9514,6 +9575,12 @@
     "2026-10-29",
     "2026-10-29",
     "Palit NVIDIA GeForce RTX 3060 12 GB Grafikkarte"
+   ],
+   "3555457393": [
+    320.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Gigabyte GeForce RTX 3060 12GB Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -9537,7 +9604,7 @@
    ],
    "3499310583": [
     299.0,
-    "2026-10-24",
+    "2026-10-29",
     "2026-10-23",
     "Asus RTX 3070 8GB ROG Strix Gaming OC ►Händler◄"
    ],
@@ -11120,6 +11187,12 @@
     "2026-10-29",
     "2026-10-29",
     "MSI GeForce RTX 3080 Gaming Z Trio 10GB"
+   ],
+   "3555433603": [
+    385.0,
+    "2026-10-29",
+    "2026-10-29",
+    "GeForce RTX 3080 GamingPro 10GB GDDR6X – NVIDIA Gaming Loop"
    ]
   },
   "RTX 4060 Ti": {
@@ -13060,6 +13133,12 @@
     "2026-10-29",
     "2026-10-29",
     "Radeon RX 7800 xt 16 gb xfx"
+   ],
+   "3555420232": [
+    700.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Gigabyte Radeon RX 7800 XT Gaming OC 16 GB Grafikkarte"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -14538,7 +14617,7 @@
    ],
    "3547794580": [
     280.0,
-    "2026-10-28",
+    "2026-10-29",
     "2026-10-21",
     "Samsung 990 Pro 2 TB NEU"
    ],
@@ -14751,6 +14830,12 @@
     "2026-10-29",
     "2026-10-29",
     "Samsung 990 PRO 2TB SSD mit Heatsink  – PCIe 4.0 NVMe"
+   ],
+   "3555434880": [
+    220.0,
+    "2026-10-29",
+    "2026-10-29",
+    "SAMSUNG 990 PRO M2, 2 TB, Neu in OVP"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -15199,7 +15284,7 @@
    ],
    "3526480762": [
     120.0,
-    "2026-10-28",
+    "2026-10-29",
     "2026-10-18",
     "SEAGATE IronWolf 4TB HDD Festplatte"
    ],
@@ -16730,6 +16815,12 @@
     "2026-10-26",
     "2026-10-26",
     "Lenovo ThinkPad T14 Gen 3 i7-1255U▪️32 GB RAM▪️512 GB NVMe SSD▪️F"
+   ],
+   "3555385966": [
+    439.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo ThinkPad T14 Gen 3, Intel i5, 16GB RAM, 250GB SSD"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
