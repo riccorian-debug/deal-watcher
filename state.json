@@ -496,10 +496,11 @@
   "3555434880": "2026-10-29",
   "3555468427": "2026-10-29",
   "3555480130": "2026-10-29",
-  "3555514844": "2026-10-29"
+  "3555514844": "2026-10-29",
+  "3555532417": "2026-10-29"
  },
- "laeufe": 309,
- "letzter_lauf": "2026-10-29T10:14:22",
+ "laeufe": 310,
+ "letzter_lauf": "2026-10-29T11:08:24",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2776,7 +2777,7 @@
    ],
    "3546203226": [
     160.0,
-    "2026-10-24",
+    "2026-10-29",
     "2026-10-23",
     "Dell UltraSharp U2722D 27\" WQHD Monitor -2560x1440-"
    ],
@@ -2784,6 +2785,12 @@
     160.0,
     "2026-10-29",
     "2026-10-25",
+    "Dell UltraSharp U2722D Monitor mit 27 Zoll."
+   ],
+   "3555448756": [
+    160.0,
+    "2026-10-29",
+    "2026-10-29",
     "Dell UltraSharp U2722D Monitor mit 27 Zoll."
    ]
   },
@@ -3687,6 +3694,12 @@
     "2026-10-29",
     "2026-10-29",
     "Samsung 16GB(2*8GB) DDR4 SO-DIMM 1Rx8 PC4-3200AA-SA1-11"
+   ],
+   "3555577101": [
+    111.0,
+    "2026-10-29",
+    "2026-10-29",
+    "16GB SK hynix DDR4-3200 RAM SO-DIMM | PC4-25600 | Laptop Speicher"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4049,6 +4062,12 @@
     "2026-10-29",
     "2026-10-29",
     "Samsung Arbeitsspeicher 2x 16GB (32GB) DDR4 3200MHz SoDimm Laptop"
+   ],
+   "3555558619": [
+    130.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Samsung 32GB Kit (2x 16GB) DDR4-3200 SO-DIMM RAM"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -5732,7 +5751,7 @@
     "Dockingstation Lenovo ThinkPad Thunderbolt 4 Dock"
    ],
    "3527086158": [
-    175.0,
+    165.0,
     "2026-10-29",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 DOCK ungeöffnete OVP"
@@ -5862,6 +5881,12 @@
     "2026-10-29",
     "2026-10-28",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B0 – Wie Neu"
+   ],
+   "3555404318": [
+    120.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo Thunderbolt 4 Dock"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -8966,7 +8991,7 @@
     "MacBook Air M2 13,6″ | 16 GB RAM | 256 GB SSD | Space Grau | OVP"
    ],
    "3555467666": [
-    800.0,
+    750.0,
     "2026-10-29",
     "2026-10-29",
     "MacBook Air M2 ( 2022 ) A2681  256 GB SSD"
@@ -8982,6 +9007,24 @@
     "2026-10-29",
     "2026-10-29",
     "Macbook Air 2022 13\" M2, 8GB DDR5, 256GB Mitternacht wie NEU"
+   ],
+   "3555526854": [
+    800.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air M2 13 Zoll"
+   ],
+   "3555548280": [
+    699.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple Macbook air m2 2022"
+   ],
+   "3555581357": [
+    700.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M2, 98% Batteriezustand"
    ]
   },
   "Makita DHP485 Set": {
@@ -10654,6 +10697,12 @@
     "2026-10-29",
     "2026-10-29",
     "SOYO Ace Dragon Nvidia GeForce RTX 3070 8GB GDDR6 Grafikkarte 3DP"
+   ],
+   "3555523961": [
+    250.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Nvidia Geforce 3070 RTX  8gb"
    ]
   },
   "RTX 3080": {
@@ -11310,6 +11359,12 @@
     "2026-10-29",
     "2026-10-29",
     "GeForce RTX 3080 GamingPro 10GB GDDR6X – NVIDIA Gaming Loop"
+   ],
+   "3555561149": [
+    350.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MSI GeForce RTX 3080 Gaming Z Trio Grafikkarte 10Gb"
    ]
   },
   "RTX 4060 Ti": {
@@ -12298,7 +12353,7 @@
     "ASUS ProArt RTX 4070 Ti SUPER OC 16GB"
    ],
    "3554764744": [
-    899.0,
+    879.0,
     "2026-10-29",
     "2026-10-28",
     "ASUS Nvidia RTX 4070 Ti Super 16GB Dual OC Edition"
@@ -12741,7 +12796,7 @@
    ],
    "3530877359": [
     280.0,
-    "2026-10-26",
+    "2026-10-29",
     "2026-10-21",
     "Rx 6800 bzw 6800xt"
    ],
@@ -13907,6 +13962,12 @@
     "2026-10-29",
     "2026-10-28",
     "Ryzen 7 5800X3D AMD Prozessor AM4"
+   ],
+   "3555554251": [
+    200.0,
+    "2026-10-29",
+    "2026-10-29",
+    "AMD Ryzen 7 5800X3D – 8-Core Gaming-Prozessor – AM4"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -14357,7 +14418,7 @@
     "AMD Ryzen 7 9800X3D – OVP"
    ],
    "3553524024": [
-    400.0,
+    350.0,
     "2026-10-29",
     "2026-10-26",
     "AMD Ryzen 7 9800X3D Prozessor"
@@ -14996,7 +15057,7 @@
     "Seagate Exos x16 16tb St-16000NM001G"
    ],
    "3506199375": [
-    399.0,
+    349.0,
     "2026-10-29",
     "2026-10-18",
     "Seagate Exos 16TB ST16000NM000J - NEU aus RMA"
@@ -15414,6 +15475,12 @@
     "2026-10-29",
     "2026-10-25",
     "Seagate IronWolf 12TB NAS HDD 7200 RPM SMART geprüft"
+   ],
+   "3555541681": [
+    330.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Seagate IronWolf 12TB NAS HDD 7200 RPM SMART geprüft"
    ]
   },
   "Seagate IronWolf 4TB": {
@@ -15560,6 +15627,12 @@
     "2026-10-29",
     "2026-10-29",
     "SEAGATE IronWolf NAS Festplatte, 4 TB HDD SATA 6 Gbps, 3,5 Zoll"
+   ],
+   "3555532417": [
+    80.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Seagate IronWolf, NAS interne Festplatte 4TB"
    ]
   },
   "Seagate IronWolf 8TB": {
@@ -16189,7 +16262,7 @@
    ],
    "3552046611": [
     165.0,
-    "2026-10-28",
+    "2026-10-29",
     "2026-10-25",
     "Sony WH-1000XM5"
    ],
@@ -16338,7 +16411,7 @@
     "Sony WH-1000XM5SA"
    ],
    "3555064886": [
-    140.0,
+    120.0,
     "2026-10-29",
     "2026-10-28",
     "Sony WH-1000XM5 Premium kabellose Noise Cancelling Kopfhörer"
