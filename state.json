@@ -503,10 +503,14 @@
   "3555751815": "2026-10-29",
   "3555774762": "2026-10-29",
   "3555780545": "2026-10-29",
-  "3555808233": "2026-10-29"
+  "3555808233": "2026-10-29",
+  "3555850605": "2026-10-29",
+  "3555923470": "2026-10-29",
+  "3556019935": "2026-10-29",
+  "3556035101": "2026-10-29"
  },
- "laeufe": 316,
- "letzter_lauf": "2026-10-29T18:07:24",
+ "laeufe": 317,
+ "letzter_lauf": "2026-10-29T19:18:35",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -839,6 +843,12 @@
     "2026-10-29",
     "2026-10-29",
     "Arduino Starter-Kit für Anfänger"
+   ],
+   "3555847382": [
+    41.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Fundino Starter kit für Arduino - fast wie neu!"
    ]
   },
   "Bosch GBH 18V-26": {
@@ -898,7 +908,7 @@
    ],
    "3524298673": [
     200.0,
-    "2026-10-24",
+    "2026-10-29",
     "2026-10-24",
     "Bosch GBH 18V-26 D Professional Akku-Bohrhammer - Neu"
    ],
@@ -2758,6 +2768,12 @@
     "2026-10-29",
     "2026-10-29",
     "Dell Latitude 7420, i7 11. Gen, 16GB, 1TB NVMe SSD !, 1a Zustand"
+   ],
+   "3555989184": [
+    249.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Dell Latitude 7420 Notebook / i7 1185G7 32/512GB NVME SSD Win11"
    ]
   },
   "Dell UltraSharp U2719D": {
@@ -3362,6 +3378,12 @@
     "2026-10-29",
     "2026-10-29",
     "HP Elitebook 840 G8 , Intel Core i5 - 1145G7  16GB/256GB SSD"
+   ],
+   "3556017088": [
+    290.0,
+    "2026-10-29",
+    "2026-10-29",
+    "HP EliteBook 840 G8 Notebook"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -3796,6 +3818,12 @@
     "2026-10-29",
     "2026-10-29",
     "Ramaxel 16 GB RAM DDR4-3200 SO-DIMM 2Rx8 – Notebook / Mini-PC"
+   ],
+   "3556005804": [
+    80.0,
+    "2026-10-29",
+    "2026-10-29",
+    "DDR4-3200 16gb SODIMM RAM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4153,6 +4181,12 @@
     "2026-10-29",
     "Corsair Vengeance  32GB  DDR4-3200Mhz SO-DIMM Arbeitsspeicher"
    ],
+   "3555424092": [
+    140.0,
+    "2026-10-29",
+    "2026-10-29",
+    "DDR4-3200 SODIMM 32GB RAM-Stick"
+   ],
    "3555480130": [
     110.0,
     "2026-10-29",
@@ -4182,6 +4216,12 @@
     "2026-10-29",
     "2026-10-29",
     "Crucial 32GB DDR4-3200 SO-DIMM (Laptop-RAM) – CT32G4SFD832A"
+   ],
+   "3556035101": [
+    119.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Samsung 32GB RAM DDR4 3200MHz SO-DIMM 2x16GB"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -5301,6 +5341,18 @@
     "2026-10-29",
     "2026-10-29",
     "Keychron K1 Pro - wie neu-"
+   ],
+   "3555850605": [
+    40.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Keychron K4 V2 Tastatur - unbenutzt"
+   ],
+   "3556028587": [
+    110.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Keychron K2 V2 Brown Switches RGB Metal Hot Swappable"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -6251,7 +6303,7 @@
     "Lenovo ThinkPad Universal USB-C Dock Gen2 mit OVP"
    ],
    "3540740966": [
-    39.0,
+    30.0,
     "2026-10-29",
     "2026-10-23",
     "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) Dockingstation Docking"
@@ -8057,6 +8109,24 @@
     "2026-10-29",
     "2026-10-29",
     "Apple MacBook Air 13 (512GB SSD, M1, 16GB) Laptop - Rósa Gold"
+   ],
+   "3556006536": [
+    600.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M1 – 256 GB SSD – 8 GB RAM – Grau –"
+   ],
+   "3556011801": [
+    500.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Mac Book Air mit M1 Chip (2020)"
+   ],
+   "3556019513": [
+    499.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M1 13 Zoll – Silber – 256 GB SSD – Akku 100 %"
    ]
   },
   "MacBook Air M2": {
@@ -9319,6 +9389,36 @@
     "2026-10-29",
     "2026-10-29",
     "Apple MacBook Air M2 (2022) – 13,6 Zoll – 8 GB RAM – 256 GB SSD"
+   ],
+   "3555991788": [
+    600.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M2 13\" | 8GB RAM | 256GB SSD | Top Zustand"
+   ],
+   "3556019935": [
+    550.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air M2 | 16GB RAM 10-Core GPU | 256GB"
+   ],
+   "3556023780": [
+    770.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air, M2, 13', 24GB, 1TB wie neu"
+   ],
+   "3556029918": [
+    799.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air 15‘ 2023 Apple M2"
+   ],
+   "3556034389": [
+    800.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Mac Book Air 15“ M2 2023 8GB 256GB"
    ]
   },
   "Makita DHP485 Set": {
@@ -10085,7 +10185,7 @@
     "RTX 3060 12GB OC | Mit OVP ( Bilder Folgen )"
    ],
    "3555940538": [
-    310.0,
+    290.0,
     "2026-10-29",
     "2026-10-29",
     "ASUS GeForce Dual RTX 3060 12GB"
@@ -11099,6 +11199,18 @@
     "2026-10-29",
     "2026-10-29",
     "GIGABYTE GeForce RTX 3070 EAGLE OC 8GB GDDR6"
+   ],
+   "3555983628": [
+    315.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MSI GeForce RTX 3070 Ventus 8GB Grafikkarte/GPU -neuwertig"
+   ],
+   "3556014705": [
+    275.0,
+    "2026-10-29",
+    "2026-10-29",
+    "RTX 3070 8GB Compact, voll funktionsfähig, nie übertaktet"
    ]
   },
   "RTX 3080": {
@@ -11791,6 +11903,12 @@
     "2026-10-29",
     "2026-10-29",
     "RTX 3080 Aorus Master 12GB Gaming Grafikkarte Alphacool Eiswolf"
+   ],
+   "3556015929": [
+    450.0,
+    "2026-10-29",
+    "2026-10-29",
+    "ASUS TUF Gaming GeForce RTX 3080 10GB Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -12129,6 +12247,12 @@
     "2026-10-29",
     "2026-10-29",
     "ASUS ProArt GeForce RTX 4060 Ti 16GB, wie neu, mit OVP & Rechnung"
+   ],
+   "3556007560": [
+    500.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MSI GeForce RTX 4060 Ti Ventus 2X Black OC Edition"
    ]
   },
   "RTX 4070": {
@@ -13207,7 +13331,7 @@
     "ASUS ProArt GeForce RTX 4080 SUPER OC 16GB GDDR6X – OVP"
    ],
    "3555880080": [
-    1150.0,
+    1099.0,
     "2026-10-29",
     "2026-10-29",
     "Nvidia GeForce RTX 4080 - 16GB GDDR6X"
@@ -13217,6 +13341,18 @@
     "2026-10-29",
     "2026-10-29",
     "Gainward GeForce RTX 4080 Phantom 16GB"
+   ],
+   "3555999005": [
+    1150.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Gainward Panther GeForce RTX 4080 16GB GDDR6X OVP"
+   ],
+   "3556027113": [
+    1300.0,
+    "2026-10-29",
+    "2026-10-29",
+    "INNO3D GeForce RTX 4080 Super iChill Frostbite Wassergekühlt"
    ]
   },
   "RX 6800 XT": {
@@ -13873,7 +14009,7 @@
     "Raspberry Pi 5 (16GB RAM) inkl. Gehäuse, Netzteil und AI Camera"
    ],
    "3544984544": [
-    285.0,
+    265.0,
     "2026-10-29",
     "2026-10-22",
     "Raspberry PI 5 16GB Model B Rev 1.1 + Case + Kühler + Netzteil"
@@ -13954,7 +14090,7 @@
    ],
    "3519347332": [
     149.0,
-    "2026-10-25",
+    "2026-10-29",
     "2026-10-22",
     "Raspberry Pi 5 8GB RAM mit Gehäuse, Lüfter und Kühlkörper"
    ],
@@ -14293,6 +14429,12 @@
     "2026-10-29",
     "2026-10-29",
     "Raspberry Pi 5 (8 GB) Komplett-Set – NEU & OVP inkl. NVMe-Shield"
+   ],
+   "3555904671": [
+    150.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Raspberry Pi 5 8GB"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -14609,7 +14751,7 @@
    ],
    "3542754263": [
     250.0,
-    "2026-10-28",
+    "2026-10-29",
     "2026-10-21",
     "AMD RYZEN 7 7800X3D 8Kerne/16Threads 96MB L3 (AM5) - wie neu!"
    ],
@@ -14834,6 +14976,12 @@
     "2026-10-29",
     "2026-10-29",
     "AMD Ryzen 7 7800X3D OVP"
+   ],
+   "3555991471": [
+    390.0,
+    "2026-10-29",
+    "2026-10-29",
+    "AMD Ryzen 7 7800X3D, Gigabyte B650 Aorus Elite AX V2, Brocken 3"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -15018,7 +15166,7 @@
     "AMD Ryzen 7 9800X3D NEU Versiegelt"
    ],
    "3555249623": [
-    380.0,
+    350.0,
     "2026-10-29",
     "2026-10-28",
     "AMD RYZEN 7 9800X3D"
@@ -15144,6 +15292,12 @@
     "2026-10-29",
     "2026-10-28",
     "Samsung 970 Evo Plus - NVME - 2TB"
+   ],
+   "3556023763": [
+    225.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Samsung 970 EVO Plus 2TB NVMe M.2 SSD"
    ]
   },
   "Samsung 990 Pro 2TB": {
@@ -15644,6 +15798,18 @@
     "2026-10-29",
     "2026-10-29",
     "Samsung SSD 2TB Festplatte 990 Pro PC Playstation 5 Slim Pro PS5"
+   ],
+   "3555986906": [
+    215.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Samsung 990 PRO SSD 2TB Neu"
+   ],
+   "3556016491": [
+    250.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Samsung 990 Pro 2TB NVMe SSD - PCIe 4.0 NVME"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -15875,7 +16041,7 @@
     "Seagate Exos X18 18TB SAS Enterprise HDD Festplatten"
    ],
    "3539246333": [
-    339.0,
+    329.0,
     "2026-10-29",
     "2026-10-18",
     "Seagate Exos X18 18TB NAS CMR HDD Festplatte"
@@ -17585,6 +17751,12 @@
     "2026-10-29",
     "2026-10-29",
     "Lenovo ThinkPad T14 Gen 2 · Core i7 · 16 GB · 512 GB SSD · Win11✅"
+   ],
+   "3556029529": [
+    430.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo thinkpad T14 Gen 2 | intel i7-1185G7|32 GB RAM | 256 GBssd"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -18588,6 +18760,12 @@
     "2026-10-29",
     "2026-10-28",
     "Weller WTCP-S Lötstation mit Lötkolben und Ablage"
+   ],
+   "3555923470": [
+    50.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lötstation Lötkolben Weller WTCP-S"
    ]
   },
   "Zigbee-Stick": {
@@ -18743,7 +18921,7 @@
    ],
    "3502339119": [
     25.0,
-    "2026-10-26",
+    "2026-10-29",
     "2026-10-23",
     "Smart Home Deutsche Telekom Quivicon Base + ZigBee Stick Angebot"
    ],
