@@ -507,10 +507,11 @@
   "3555850605": "2026-10-29",
   "3555923470": "2026-10-29",
   "3556019935": "2026-10-29",
-  "3556035101": "2026-10-29"
+  "3556035101": "2026-10-29",
+  "3556036228": "2026-10-29"
  },
- "laeufe": 318,
- "letzter_lauf": "2026-10-29T20:05:39",
+ "laeufe": 319,
+ "letzter_lauf": "2026-10-29T21:05:44",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1701,7 +1702,7 @@
     "32GB HPE Micron DDR4-2400 ECC RDIMM 2Rx4 Server RAM 819412-001"
    ],
    "3555289666": [
-    129.0,
+    119.0,
     "2026-10-29",
     "2026-10-29",
     "SK Hynix 32GB RAM (2x16GB) DDR4 2666 ECC RDIMM HMA82GR7CJR8N-VK"
@@ -4092,7 +4093,7 @@
     "Oloy 32Gb (2x16Gb) DDR4 SO-DIMM 3200MHz RAM"
    ],
    "3553746424": [
-    200.0,
+    175.0,
     "2026-10-29",
     "2026-10-27",
     "32GB (2x16GB) DDR4 3200 SO-DIMM Kingston RAM Arbeitsspeicher"
@@ -4164,7 +4165,7 @@
     "Crucial 32 GB (2×16 GB) DDR4-3200 SO-DIMM RAM – MemTest86 geprüft"
    ],
    "3555174886": [
-    149.0,
+    140.0,
     "2026-10-29",
     "2026-10-28",
     "32 GB Samsung DDR4-3200 RAM | 2x16GB SO-DIMM | M471A2G43AB2-CWE"
@@ -4228,6 +4229,12 @@
     "2026-10-29",
     "2026-10-29",
     "Crucial 32GB DDR4 3200MHz SO-DIMM RAM (CT32G4SFD832A)"
+   ],
+   "3556115722": [
+    139.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Samsung 32GB DDR4 3200MHz – 2x16GB 2Rx8 Dual Rank SO-DIMM RAM"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -4605,6 +4612,12 @@
     "2026-10-29",
     "2026-10-29",
     "HP Thunderbolt Dock G4 mit 120W Netzteil"
+   ],
+   "3556047365": [
+    70.0,
+    "2026-10-29",
+    "2026-10-29",
+    "HP Thunderbolt Dock 120W G4 - Dockingstation"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -5433,6 +5446,12 @@
     "2026-10-29",
     "2026-10-28",
     "Hp Pavilion Laptop 15-cs3xxx und SSD konvolut alles als Paket"
+   ],
+   "3556036228": [
+    75.0,
+    "2026-10-29",
+    "2026-10-29",
+    "IT - neuwertiges hp-Konvolut - Sonderpreis wg. Auflösung"
    ]
   },
   "Konvolut RAM DDR4/DDR5": {
@@ -6043,7 +6062,7 @@
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock (40B00135EU)"
    ],
    "3552542789": [
-    150.0,
+    145.0,
     "2026-10-29",
     "2026-10-26",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock - Neu"
@@ -8144,7 +8163,25 @@
     400.0,
     "2026-10-29",
     "2026-10-29",
-    "MacBook Air M1"
+    "MacBook Air M1 10/2023"
+   ],
+   "3556086527": [
+    570.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air M1 2020 (13 Zoll, 256 GB)"
+   ],
+   "3556109906": [
+    550.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air M1 (2020) 16 GB / 512 GB, Space Grau"
+   ],
+   "3556113298": [
+    590.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M1 Roségold"
    ]
   },
   "MacBook Air M2": {
@@ -12856,7 +12893,7 @@
    ],
    "3521537687": [
     849.0,
-    "2026-10-28",
+    "2026-10-29",
     "2026-10-21",
     "RTX 4070 Ti SUPER Ventus 2X"
    ],
@@ -15342,7 +15379,7 @@
     "Samsung 2TB 970 EVO Plus"
    ],
    "3554483583": [
-    150.0,
+    110.0,
     "2026-10-29",
     "2026-10-28",
     "Samsung 970 Evo Plus - NVME - 2TB"
@@ -15949,13 +15986,13 @@
     "Seagate Exos 16TB HDD – ST16000NM001G – SATA 6Gb/s – 7200 Neue"
    ],
    "3544135100": [
-    415.0,
+    395.0,
     "2026-10-29",
     "2026-10-18",
     "Seagate Exos 16TB Festplatte HDD ST16000NM001G #1"
    ],
    "3544444305": [
-    410.0,
+    395.0,
     "2026-10-29",
     "2026-10-18",
     "Seagate Exos 16TB Festplatte HDD  ST16000NM001G - #2"
@@ -15979,7 +16016,7 @@
     "Seagate 16TB Exos X16, 3.5\" Enterprise ST16000NM001G NAS FP"
    ],
    "3546466876": [
-    469.0,
+    435.0,
     "2026-10-29",
     "2026-10-21",
     "Seagate 16TB Festplatte HDD Exos X20 ST16000NM000D #3"
