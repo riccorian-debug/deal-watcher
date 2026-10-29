@@ -505,8 +505,8 @@
   "3555780545": "2026-10-29",
   "3555808233": "2026-10-29"
  },
- "laeufe": 314,
- "letzter_lauf": "2026-10-29T16:15:18",
+ "laeufe": 315,
+ "letzter_lauf": "2026-10-29T17:15:08",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2460,7 +2460,7 @@
     395.0,
     "2026-10-29",
     "2026-10-28",
-    "G.Skill Trident Z5 RGB DDR5 2x16 32GB RAM (6000Mhz/CL30)"
+    "G.Skill Trident Z5 RGB DDR5 2x 32GB RAM (6000Mhz/CL30)"
    ],
    "3554726641": [
     200.0,
@@ -4170,6 +4170,12 @@
     "2026-10-29",
     "2026-10-29",
     "Crucial 32GB RAM Kit (2x16GB) DDR4-3200 SO-DIMM für Notebooks"
+   ],
+   "3555940425": [
+    240.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Crucial DDR4 RAM 32GB 3200MHz SODIMM CL22-Laptop Arbeitsspeicher"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -5673,6 +5679,12 @@
     "2026-10-28",
     "2026-10-28",
     "Lenovo ThinkCentre M920q Tiny CPU i5-9500T, 16 GB RAM, 256 GB SSD"
+   ],
+   "3555902471": [
+    200.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo ThinkCentre M920Q i7-8700T 64GB DDR4 500GB NVME 240+2TB"
    ]
   },
   "Lenovo ThinkVision P27h": {
@@ -8021,6 +8033,18 @@
     "2026-10-29",
     "2026-10-29",
     "Apple MacBook Air M1"
+   ],
+   "3555911763": [
+    500.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M1 2020 8GB - 256GB"
+   ],
+   "3555934547": [
+    550.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M1 2020, 256GB, Space Grau"
    ]
   },
   "MacBook Air M2": {
@@ -9249,7 +9273,7 @@
     "MacBook Air M2 15,3\" 256GB"
    ],
    "3555815424": [
-    840.0,
+    800.0,
     "2026-10-29",
     "2026-10-29",
     "MacBook Air M2 15zoll 8+512, Akku 99%"
@@ -10023,6 +10047,18 @@
     "2026-10-29",
     "2026-10-29",
     "GIGABYTE GeForce RTX 3060 GAMING OC 12gb"
+   ],
+   "3555914883": [
+    280.0,
+    "2026-10-29",
+    "2026-10-29",
+    "RTX 3060 12GB OC | Mit OVP ( Bilder Folgen )"
+   ],
+   "3555940538": [
+    310.0,
+    "2026-10-29",
+    "2026-10-29",
+    "ASUS GeForce Dual RTX 3060 12GB"
    ]
   },
   "RTX 3070": {
@@ -11023,10 +11059,16 @@
     "MSI GeForce RTX 3070 Ventus 3X Plus"
    ],
    "3555739885": [
-    280.0,
+    275.0,
     "2026-10-29",
     "2026-10-29",
     "RTX 3070 8GB Compact, voll funktionsfähig, nie übertaktet"
+   ],
+   "3555899387": [
+    160.0,
+    "2026-10-29",
+    "2026-10-29",
+    "GIGABYTE GeForce RTX 3070 EAGLE OC 8GB GDDR6"
    ]
   },
   "RTX 3080": {
@@ -11701,6 +11743,18 @@
     "2026-10-29",
     "2026-10-29",
     "Acer Predator GeForce RTX 3080 10 GB GDDR6X – Gaming Grafikkarte"
+   ],
+   "3555889087": [
+    450.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Gigabyte GeForce RTX 3080 Gaming OC 10G Grafikkarte"
+   ],
+   "3555902935": [
+    550.0,
+    "2026-10-29",
+    "2026-10-29",
+    "NVIDIA RTX 3080 Msi Gaming X Trio"
    ]
   },
   "RTX 4060 Ti": {
@@ -12033,6 +12087,12 @@
     "2026-10-28",
     "2026-10-28",
     "Gigabyte RTX 4060Ti Eagle 8GB Nvidia Grafikkarte"
+   ],
+   "3555906400": [
+    310.0,
+    "2026-10-29",
+    "2026-10-29",
+    "ASUS ProArt GeForce RTX 4060 Ti 16GB, wie neu, mit OVP & Rechnung"
    ]
   },
   "RTX 4070": {
@@ -12311,6 +12371,12 @@
     "2026-10-29",
     "2026-10-29",
     "Gigabyte Geforce RTX 4070 12GB"
+   ],
+   "3555828946": [
+    699.0,
+    "2026-10-29",
+    "2026-10-29",
+    "GEFORCE RTX 4070 12 GB GT3 gebraucht 3 Monate alt"
    ],
    "3555851426": [
     550.0,
@@ -13345,6 +13411,12 @@
     "2026-10-29",
     "2026-10-29",
     "• Grafik AS Rock RX 6800 XT"
+   ],
+   "3555938178": [
+    375.0,
+    "2026-10-29",
+    "2026-10-29",
+    "XFX Speedster Merc RX 6800 XT"
    ]
   },
   "RX 7800 XT": {
@@ -14412,6 +14484,12 @@
     "2026-10-29",
     "2026-10-29",
     "AMD Ryzen 7 5800X3D 8-core 16 thread 3.4 GHz - Top Zustand"
+   ],
+   "3555924483": [
+    199.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Ryzen 7 5800X3D , Set"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -14702,6 +14780,12 @@
     "2026-10-29",
     "2026-10-29",
     "AMD Ryzen 7 7800 X3d NEU"
+   ],
+   "3555942525": [
+    239.0,
+    "2026-10-29",
+    "2026-10-29",
+    "AMD Ryzen 7 7800X3D AM5 CPU, mit Rechnung, nie übertaktet"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -14908,6 +14992,12 @@
     "2026-10-29",
     "2026-10-29",
     "AMD Ryzen 7 9800X3D – Top Zustand"
+   ],
+   "3555935455": [
+    380.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Ryzen 7 9800x3D (Versiegelt)"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -15245,7 +15335,7 @@
    ],
    "3547260523": [
     300.0,
-    "2026-10-28",
+    "2026-10-29",
     "2026-10-21",
     "Samsung 990 Pro 2TB NVMe SSD mit Heatsink (MZ-V9P2T0GW)"
    ],
@@ -17193,6 +17283,12 @@
     "2026-10-29",
     "2026-10-25",
     "Lenovo thinkpad L14 Gen 3"
+   ],
+   "3555908851": [
+    425.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo ThinkPad L14 Gen 3 – Intel i7 – 16 GB RAM – 1 TB SSD"
    ]
   },
   "ThinkPad T14 Gen 2": {
@@ -17533,6 +17629,12 @@
     "2026-10-29",
     "2026-10-29",
     "Lenovo ThinkPad T14 Gen 3, Intel i5, 16GB RAM, 250GB SSD"
+   ],
+   "3555943050": [
+    649.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo ThinkPad T14 Gen 3 – i7-1260P | 32 GB RAM | 1 TB SSD"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -17958,7 +18060,7 @@
     "WD BLACK SN850X SSD - 2TB - M.2 PCIe Gen4 NVMe - 09/2026 Rechnung"
    ],
    "3554135899": [
-    299.0,
+    275.0,
     "2026-10-29",
     "2026-10-27",
     "SanDisk WD_BLACK SN850X NVMe SSD 2TB PCIe Gen4"
