@@ -505,8 +505,8 @@
   "3555780545": "2026-10-29",
   "3555808233": "2026-10-29"
  },
- "laeufe": 315,
- "letzter_lauf": "2026-10-29T17:15:08",
+ "laeufe": 316,
+ "letzter_lauf": "2026-10-29T18:07:24",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1608,7 +1608,7 @@
    ],
    "3531102658": [
     75.0,
-    "2026-10-27",
+    "2026-10-29",
     "2026-10-23",
     "32GB (2x 16GB) HP / Samsung DDR4-2133 Server RAM ECC RDIMM"
    ],
@@ -4176,6 +4176,12 @@
     "2026-10-29",
     "2026-10-29",
     "Crucial DDR4 RAM 32GB 3200MHz SODIMM CL22-Laptop Arbeitsspeicher"
+   ],
+   "3555962247": [
+    160.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Crucial 32GB DDR4-3200 SO-DIMM (Laptop-RAM) – CT32G4SFD832A"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -4435,7 +4441,7 @@
     "HP Thunderbolt Dock G4 (HSN-IX03) inkl. Netzteil. DGUV geprüft"
    ],
    "3542186271": [
-    75.0,
+    68.0,
     "2026-10-29",
     "2026-10-23",
     "HP USB-C Thunderbolt Dock 120W G4 mit Netzteil Dockingstation"
@@ -8045,6 +8051,12 @@
     "2026-10-29",
     "2026-10-29",
     "Apple MacBook Air M1 2020, 256GB, Space Grau"
+   ],
+   "3555948457": [
+    549.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air 13 (512GB SSD, M1, 16GB) Laptop - Rósa Gold"
    ]
   },
   "MacBook Air M2": {
@@ -9289,6 +9301,24 @@
     "2026-10-29",
     "2026-10-29",
     "MacBook Air M2 (2022) – Mitternacht | 8 GB RAM | 256 GB SSD"
+   ],
+   "3555957469": [
+    650.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air 13,6\" M2 16GB / 512 GB - Space Gray"
+   ],
+   "3555958181": [
+    699.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air 13\" M2 16GB 512GB Space Grau 19% Gut"
+   ],
+   "3555970535": [
+    649.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M2 (2022) – 13,6 Zoll – 8 GB RAM – 256 GB SSD"
    ]
   },
   "Makita DHP485 Set": {
@@ -11755,6 +11785,12 @@
     "2026-10-29",
     "2026-10-29",
     "NVIDIA RTX 3080 Msi Gaming X Trio"
+   ],
+   "3555954240": [
+    599.0,
+    "2026-10-29",
+    "2026-10-29",
+    "RTX 3080 Aorus Master 12GB Gaming Grafikkarte Alphacool Eiswolf"
    ]
   },
   "RTX 4060 Ti": {
@@ -13175,6 +13211,12 @@
     "2026-10-29",
     "2026-10-29",
     "Nvidia GeForce RTX 4080 - 16GB GDDR6X"
+   ],
+   "3555960999": [
+    1050.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Gainward GeForce RTX 4080 Phantom 16GB"
    ]
   },
   "RX 6800 XT": {
@@ -13763,7 +13805,7 @@
     "AMD Radeon RX 7800 XT 16 GB OC – Top Zustand"
    ],
    "3555293052": [
-    550.0,
+    510.0,
     "2026-10-29",
     "2026-10-28",
     "Sapphire Radeon RX 7800 XT Nitro+ 16 GB"
@@ -14786,6 +14828,12 @@
     "2026-10-29",
     "2026-10-29",
     "AMD Ryzen 7 7800X3D AM5 CPU, mit Rechnung, nie übertaktet"
+   ],
+   "3555981791": [
+    249.0,
+    "2026-10-29",
+    "2026-10-29",
+    "AMD Ryzen 7 7800X3D OVP"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -16203,6 +16251,12 @@
     "2026-10-29",
     "2026-10-29",
     "Seagate IronWolf 4TB HDD - NEU - unbenutzt"
+   ],
+   "3555957172": [
+    125.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Seagate IronWolf 4TB NAS Festplatte(ST4000VN008)–87 Betriebsstun."
    ]
   },
   "Seagate IronWolf 8TB": {
@@ -17003,6 +17057,18 @@
     "2026-10-29",
     "2026-10-29",
     "Sony WH-1000XM5 Köpfhörer Blau Midnight Blue"
+   ],
+   "3555838339": [
+    199.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Sony WH-1000xm5 Schwarz Bluetooth Kopfhörer Neu"
+   ],
+   "3555972975": [
+    80.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Sony WH-1000xm5 Kopfhörer"
    ]
   },
   "Synology DS220+": {
@@ -17513,6 +17579,12 @@
     "2026-10-28",
     "2026-10-28",
     "Lenovo Thinkpad T14 Gen 2 Notebook, Neuwertig"
+   ],
+   "3555948070": [
+    389.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo ThinkPad T14 Gen 2 · Core i7 · 16 GB · 512 GB SSD · Win11✅"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -17635,6 +17707,12 @@
     "2026-10-29",
     "2026-10-29",
     "Lenovo ThinkPad T14 Gen 3 – i7-1260P | 32 GB RAM | 1 TB SSD"
+   ],
+   "3555950427": [
+    419.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo ThinkPad T14 Gen 3, 16 GB RAM, 256 GB NVMe SSD"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -18224,6 +18302,12 @@
     "2026-10-29",
     "2026-10-29",
     "WD Red Plus 8TB"
+   ],
+   "3555981056": [
+    350.0,
+    "2026-10-29",
+    "2026-10-29",
+    "WD Red Plus 8TB NAS Festplatte + WD Blue SN550 NVMe SSD"
    ]
   },
   "Weller WE1010": {
