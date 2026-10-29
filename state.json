@@ -505,8 +505,8 @@
   "3555780545": "2026-10-29",
   "3555808233": "2026-10-29"
  },
- "laeufe": 313,
- "letzter_lauf": "2026-10-29T15:20:04",
+ "laeufe": 314,
+ "letzter_lauf": "2026-10-29T16:15:18",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2526,7 +2526,7 @@
     399.0,
     "2026-10-29",
     "2026-10-29",
-    "32GB RAM G.Skill Flare X5 DDR5 DDR5-6000, CL30"
+    "32GB RAM G.Skill Flare X5 DDR5 DDR5-6000, CL32"
    ],
    "3555683486": [
     350.0,
@@ -2545,6 +2545,12 @@
     "2026-10-29",
     "2026-10-29",
     "Corsair Vengeance DDR5 32GB (2x16GB) 6000 CL30 schwarz"
+   ],
+   "3555862546": [
+    450.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Corsair Vengeance DDR5-6000 CL30 32 GB (2×16 GB) – OVP"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4100,7 +4106,7 @@
     "Crucial 32GB DDR4-3200 SODIMM RAM Kit (2x 16GB)"
    ],
    "3554406378": [
-    190.0,
+    100.0,
     "2026-10-29",
     "2026-10-28",
     "Corsair DDR4 32Gb 3200MHz Vengeance Sodimm RAM"
@@ -6890,7 +6896,7 @@
    ],
    "3549732805": [
     490.0,
-    "2026-10-24",
+    "2026-10-29",
     "2026-10-23",
     "Apple, MacBook Air 13\" M1 2020- 8GB RAM 256 GB SSD Gold"
    ],
@@ -8009,6 +8015,12 @@
     "2026-10-29",
     "2026-10-29",
     "MacBook Air M1 2020 – 256 GB – Spacegrau – Top Zustand + viel Zub"
+   ],
+   "3555871571": [
+    550.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M1"
    ]
   },
   "MacBook Air M2": {
@@ -9247,6 +9259,12 @@
     "2026-10-29",
     "2026-10-29",
     "Apple MacBook Air M2"
+   ],
+   "3555836014": [
+    800.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air M2 (2022) – Mitternacht | 8 GB RAM | 256 GB SSD"
    ]
   },
   "Makita DHP485 Set": {
@@ -9981,6 +9999,30 @@
     "2026-10-29",
     "2026-10-29",
     "Zotac GeForce RTX 3060 12GB White Edition"
+   ],
+   "3555837578": [
+    290.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Nvidia GeForce RTX 3060, Grafikkarte. 12gb."
+   ],
+   "3555858466": [
+    300.0,
+    "2026-10-29",
+    "2026-10-29",
+    "ASUS GeForce RTX 3060 12GB – Top Zustand & voll funktionsfähig"
+   ],
+   "3555863214": [
+    280.0,
+    "2026-10-29",
+    "2026-10-29",
+    "GEFORCE RTX 3060 12GB  ***keine Versandgebühren ***"
+   ],
+   "3555876476": [
+    250.0,
+    "2026-10-29",
+    "2026-10-29",
+    "GIGABYTE GeForce RTX 3060 GAMING OC 12gb"
    ]
   },
   "RTX 3070": {
@@ -12269,6 +12311,12 @@
     "2026-10-29",
     "2026-10-29",
     "Gigabyte Geforce RTX 4070 12GB"
+   ],
+   "3555851426": [
+    550.0,
+    "2026-10-29",
+    "2026-10-29",
+    "ASUS GeForce RTX 4070 OC 12 GB – OVP"
    ]
   },
   "RTX 4070 Super": {
@@ -12487,6 +12535,12 @@
     "2026-10-29",
     "2026-10-29",
     "RTX 4070 Super Ex OC Limited Edition in Pink"
+   ],
+   "3555852073": [
+    440.0,
+    "2026-10-29",
+    "2026-10-29",
+    "ASUS TUF GeForce RTX 4070 Super Edition Gaming Grafikkarte 16GB"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -13049,6 +13103,12 @@
     "2026-10-29",
     "2026-10-29",
     "ASUS ProArt GeForce RTX 4080 SUPER OC 16GB GDDR6X – OVP"
+   ],
+   "3555880080": [
+    1150.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Nvidia GeForce RTX 4080 - 16GB GDDR6X"
    ]
   },
   "RX 6800 XT": {
@@ -13647,6 +13707,18 @@
     "2026-10-29",
     "2026-10-29",
     "Gigabyte Radeon RX 7800 XT Gaming OC 16 GB Grafikkarte"
+   ],
+   "3555875687": [
+    600.0,
+    "2026-10-29",
+    "2026-10-29",
+    "ASUS TUF Gaming AMD Radeon RX 7800 XT OC Grafikkarte"
+   ],
+   "3555880232": [
+    470.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Sapphire Pulse AMD Radeon RX 7800 XT Gaming 16GB GDDR6"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -14328,6 +14400,18 @@
     "2026-10-29",
     "2026-10-29",
     "Ryzen 7 5800x3D"
+   ],
+   "3555831124": [
+    225.0,
+    "2026-10-29",
+    "2026-10-29",
+    "AMD Ryzen 7 5800X3D"
+   ],
+   "3555850724": [
+    230.0,
+    "2026-10-29",
+    "2026-10-29",
+    "AMD Ryzen 7 5800X3D 8-core 16 thread 3.4 GHz - Top Zustand"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -14596,7 +14680,7 @@
     "AMD Ryzen 7 7800X3D 8-Core 4,2 GHz CPU Sockel AM5 96 MB L3 Cache"
    ],
    "3554211311": [
-    280.0,
+    230.0,
     "2026-10-29",
     "2026-10-27",
     "AMD Ryzen 7 7800X3D Prozessor"
@@ -15416,6 +15500,12 @@
     "2026-10-29",
     "2026-10-29",
     "Samsung 990 PRO 2TB NVMe M.2 SSD - Neu & OVP"
+   ],
+   "3555832794": [
+    239.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Samsung SSD 2TB Festplatte 990 Pro PC Playstation 5 Slim Pro PS5"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -17850,7 +17940,7 @@
     "WD_BLACK SN850X 2TB NVMe SSD - Neu"
    ],
    "3553029351": [
-    240.0,
+    230.0,
     "2026-10-29",
     "2026-10-26",
     "Western Digital WD BLACK SN850X NVMe SSD 2TB, neuwertig"
@@ -17896,6 +17986,12 @@
     "2026-10-29",
     "2026-10-28",
     "WD_BLACK SN850X NVMe SSD 2 TB Internal SSD (Gaming Memory"
+   ],
+   "3555882108": [
+    230.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Western Digital WD BLACK SN850X NVMe SSD 2TB, neuwertig"
    ]
   },
   "WD Red Plus 4TB": {
