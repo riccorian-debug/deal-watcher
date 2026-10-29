@@ -509,8 +509,8 @@
   "3556019935": "2026-10-29",
   "3556035101": "2026-10-29"
  },
- "laeufe": 317,
- "letzter_lauf": "2026-10-29T19:18:35",
+ "laeufe": 318,
+ "letzter_lauf": "2026-10-29T20:05:39",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -4074,7 +4074,7 @@
     "2x 16GB SK Hynix Kit DDR4 SO-DIMM 3200MHz (32GB)"
    ],
    "3553407219": [
-    175.0,
+    165.0,
     "2026-10-29",
     "2026-10-26",
     "Crucial 32GB // DDR4-3200 // SODIMM RAM"
@@ -4222,6 +4222,12 @@
     "2026-10-29",
     "2026-10-29",
     "Samsung 32GB RAM DDR4 3200MHz SO-DIMM 2x16GB"
+   ],
+   "3556073889": [
+    155.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Crucial 32GB DDR4 3200MHz SO-DIMM RAM (CT32G4SFD832A)"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -5734,7 +5740,7 @@
    ],
    "3554425919": [
     150.0,
-    "2026-10-28",
+    "2026-10-29",
     "2026-10-28",
     "Lenovo ThinkCentre M920q Tiny CPU i5-9500T, 16 GB RAM, 256 GB SSD"
    ],
@@ -8127,6 +8133,18 @@
     "2026-10-29",
     "2026-10-29",
     "Apple MacBook Air M1 13 Zoll – Silber – 256 GB SSD – Akku 100 %"
+   ],
+   "3556054843": [
+    495.0,
+    "2026-10-29",
+    "2026-10-29",
+    "✅ Apple MacBook Air 13,3\" M1 256GB SSD 8GB RAM / inkl. OVP ✅"
+   ],
+   "3556074137": [
+    400.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air M1"
    ]
   },
   "MacBook Air M2": {
@@ -10189,6 +10207,18 @@
     "2026-10-29",
     "2026-10-29",
     "ASUS GeForce Dual RTX 3060 12GB"
+   ],
+   "3556037027": [
+    270.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MSI RTX 3060 12GB Ventus 2X OC Edition"
+   ],
+   "3556042615": [
+    249.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MSI GeForce RTX 3060 AERO ITX 12 GB GDDR6 | Single Fan | OVP"
    ]
   },
   "RTX 3070": {
@@ -11211,6 +11241,18 @@
     "2026-10-29",
     "2026-10-29",
     "RTX 3070 8GB Compact, voll funktionsfähig, nie übertaktet"
+   ],
+   "3556065636": [
+    300.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Gigabyte RTX 3070"
+   ],
+   "3556070622": [
+    300.0,
+    "2026-10-29",
+    "2026-10-29",
+    "GeForce RTX 3070 OC ASUS 8GB"
    ]
   },
   "RTX 3080": {
@@ -12543,6 +12585,12 @@
     "2026-10-29",
     "2026-10-29",
     "ASUS GeForce RTX 4070 OC 12 GB – OVP"
+   ],
+   "3556068694": [
+    690.0,
+    "2026-10-29",
+    "2026-10-29",
+    "GIGABYTE RTX 4070 Windforce OC 12G - TOP"
    ]
   },
   "RTX 4070 Super": {
@@ -13595,6 +13643,12 @@
     "2026-10-29",
     "2026-10-29",
     "XFX Speedster Merc RX 6800 XT"
+   ],
+   "3556061402": [
+    600.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Sapphire AMD Radeon RX 6800 XT"
    ]
   },
   "RX 7800 XT": {
@@ -13941,7 +13995,7 @@
     "AMD Radeon RX 7800 XT 16 GB OC – Top Zustand"
    ],
    "3555293052": [
-    510.0,
+    610.0,
     "2026-10-29",
     "2026-10-28",
     "Sapphire Radeon RX 7800 XT Nitro+ 16 GB"
@@ -17309,6 +17363,12 @@
     "2026-10-29",
     "2026-10-28",
     "Synology DiskStation DS220+"
+   ],
+   "3556061316": [
+    219.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Synology DiskStation DS220+2-Bay NAS-Server Gehäuse schwarz"
    ]
   },
   "Synology DS220j": {
@@ -18093,6 +18153,12 @@
     "2026-10-29",
     "2026-10-29",
     "Lenovo ThinkPad X1 Carbon G9 (i7 11th gen) Top Zustand"
+   ],
+   "3556067561": [
+    450.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo ThinkPad X1 Carbon Gen 9 | i7 | 16 GB RAM | 512 GB SSD"
    ]
   },
   "ThinkPad ohne Netzteil": {},
