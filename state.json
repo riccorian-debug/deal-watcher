@@ -499,8 +499,8 @@
   "3555514844": "2026-10-29",
   "3555532417": "2026-10-29"
  },
- "laeufe": 311,
- "letzter_lauf": "2026-10-29T12:03:04",
+ "laeufe": 312,
+ "letzter_lauf": "2026-10-29T13:24:22",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2503,6 +2503,18 @@
     "2026-10-29",
     "2026-10-29",
     "Kingston Fury 32GB DDR5 RAM | 6000-CL36"
+   ],
+   "3555678667": [
+    399.0,
+    "2026-10-29",
+    "2026-10-29",
+    "32GB RAM G.Skill Flare X5 DDR5 DDR5-6000, CL30"
+   ],
+   "3555683486": [
+    350.0,
+    "2026-10-29",
+    "2026-10-29",
+    "G.Skill Trident Z5 Neo RGB Weiss – 32 GB DDR5-6000 CL28 – AM"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3718,6 +3730,12 @@
     "2026-10-29",
     "2026-10-29",
     "16GB SK hynix DDR4-3200 RAM SO-DIMM | PC4-25600 | Laptop Speicher"
+   ],
+   "3555640880": [
+    80.0,
+    "2026-10-29",
+    "2026-10-29",
+    "1x 16GB DDR4 3200 SODIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -7813,7 +7831,7 @@
     "MacBook Air13 M1 265Gb 99% Akkukapazität"
    ],
    "3555341259": [
-    520.0,
+    480.0,
     "2026-10-29",
     "2026-10-29",
     "Apple MacBook Air M1 2020 256GB in OVP"
@@ -7877,6 +7895,24 @@
     "2026-10-29",
     "2026-10-29",
     "MacBook Air M1 sehr guter Zustand, kaum benutzt"
+   ],
+   "3555669601": [
+    450.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M1, sehr guter Zustand"
+   ],
+   "3555684306": [
+    479.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M1 ( 2020 ) - 16GB RAM/ 256GB SSD"
+   ],
+   "3555700309": [
+    300.0,
+    "2026-10-29",
+    "2026-10-29",
+    "macbook air m1 2020"
    ]
   },
   "MacBook Air M2": {
@@ -9061,6 +9097,30 @@
     "2026-10-29",
     "2026-10-29",
     "MacBook Air 13,6 (M2 Chip)"
+   ],
+   "3555648543": [
+    620.0,
+    "2026-10-29",
+    "2026-10-29",
+    "13\" Macbook Air M2 | Blau"
+   ],
+   "3555657918": [
+    629.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MacBook Air 13 M2 8 GB 256 GB Space Grau Akku 90 Prozent"
+   ],
+   "3555659181": [
+    850.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M2 2022, 16GB RAM, 512GB SSD"
+   ],
+   "3555664162": [
+    600.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Apple MacBook Air M2 13,6 Zoll 2022 8GB RAM 256GB SSD"
    ]
   },
   "Makita DHP485 Set": {
@@ -9765,6 +9825,18 @@
     "2026-10-29",
     "2026-10-29",
     "ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB Grafikkarte"
+   ],
+   "3555659231": [
+    260.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Gigabyte GeForce RTX 3060 12GB Windforce OC inkl. OVP"
+   ],
+   "3555673295": [
+    335.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MSI GeForce RTX 3060 Gaming X 12GB Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -10745,6 +10817,24 @@
     "2026-10-29",
     "2026-10-29",
     "Manli GeForce RTX 3070 8GB GDDR6 Grafikkarte, läuft einwandfrei"
+   ],
+   "3555653512": [
+    280.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Inno3D iChill X3 GeForce RTX 3070 Grafikkarte"
+   ],
+   "3555666757": [
+    350.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Acer Predator RTX 3070 OC"
+   ],
+   "3555698508": [
+    370.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MSI GeForce RTX 3070 Ventus 3X Plus"
    ]
   },
   "RTX 3080": {
@@ -11407,6 +11497,12 @@
     "2026-10-29",
     "2026-10-29",
     "MSI GeForce RTX 3080 Gaming Z Trio Grafikkarte 10Gb"
+   ],
+   "3555644338": [
+    429.0,
+    "2026-10-29",
+    "2026-10-29",
+    "MSI GeForce RTX 3080 Gaming X Trio 10GB – Top Zustand | OVP"
    ]
   },
   "RTX 4060 Ti": {
@@ -12011,6 +12107,12 @@
     "2026-10-29",
     "2026-10-28",
     "RTX 4070 12GB MSI Ventus 3X Nvidia Grafikkarte"
+   ],
+   "3555658311": [
+    510.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Gigabyte Geforce RTX 4070 12GB"
    ]
   },
   "RTX 4070 Super": {
@@ -12773,6 +12875,12 @@
     "2026-10-29",
     "2026-10-29",
     "MSI GeForce RTX 4080 16GB VENTUS 3X OC GDDR6X NVIDIA Grafikkarte GPU Gaming- NEU"
+   ],
+   "3555641032": [
+    680.0,
+    "2026-10-29",
+    "2026-10-29",
+    "GeForce RTX 4080 iGame Ultra 16 GB"
    ]
   },
   "RX 6800 XT": {
@@ -12844,7 +12952,7 @@
    ],
    "3527280170": [
     425.0,
-    "2026-10-26",
+    "2026-10-29",
     "2026-10-21",
     "Powercolor Red Dragon RX 6800 XT 16GB Grafikkarte"
    ],
@@ -13355,7 +13463,7 @@
     "AMD Radeon RX 7800 XT 16 GB OC – Top Zustand"
    ],
    "3555293052": [
-    600.0,
+    550.0,
     "2026-10-29",
     "2026-10-28",
     "Sapphire Radeon RX 7800 XT Nitro+ 16 GB"
@@ -14022,6 +14130,12 @@
     "2026-10-29",
     "2026-10-29",
     "AMD Ryzen 7 5800X3D – 8-Core Gaming-Prozessor – AM4"
+   ],
+   "3555683103": [
+    300.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Ryzen 7 5800x3D"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -17297,6 +17411,12 @@
     "2026-10-29",
     "2026-10-28",
     "Lenovo Thinkpad X1 Carbon Gen 9"
+   ],
+   "3555655784": [
+    650.0,
+    "2026-10-29",
+    "2026-10-29",
+    "Lenovo ThinkPad X1 Carbon G9 (i7 11th gen) Top Zustand"
    ]
   },
   "ThinkPad ohne Netzteil": {},
@@ -17668,7 +17788,7 @@
     "WD Red Plus 3,5 Zoll Sata 8 TB 256 MB Festplatte"
    ],
    "3555316501": [
-    340.0,
+    320.0,
     "2026-10-29",
     "2026-10-29",
     "WD Red Plus 8TB"
