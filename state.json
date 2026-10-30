@@ -526,8 +526,8 @@
   "3556671521": "2026-10-30",
   "3556712550": "2026-10-30"
  },
- "laeufe": 329,
- "letzter_lauf": "2026-10-30T16:11:25",
+ "laeufe": 330,
+ "letzter_lauf": "2026-10-30T17:05:35",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2686,6 +2686,24 @@
     "2026-10-30",
     "2026-10-30",
     "corsair ram 32gb ddr5 6000mhz"
+   ],
+   "3556746791": [
+    425.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Crucial DDR5 Pro RAM Kit 32 GB (2x 16 GB) – 6000MHz CL36"
+   ],
+   "3556747514": [
+    260.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Corsair Vengeance RGB DDR5 32GB RAM (2x16GB) 6000MHz NEU & OVP"
+   ],
+   "3556781800": [
+    325.0,
+    "2026-10-30",
+    "2026-10-30",
+    "G.SKILL Trident Z5 Neo RGB DDR5 32GB (2x16GB) 6000MHz CL30 – Neu"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -8614,7 +8632,7 @@
     "Apple MacBook Air M1 (2020) 8GB RAM 256GB SSD Space Grau"
    ],
    "3556622771": [
-    400.0,
+    380.0,
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air M1 2020 | 8 GB | 256 GB | 99 % Akku |"
@@ -8632,7 +8650,7 @@
     "MacBook Air M1 Gold – 16 GB RAM – 256 GB SSD – Top Zustand"
    ],
    "3556703859": [
-    499.0,
+    449.0,
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air 13” M1 | 96 % Akku | Nur 70 Ladezyklen | Silber"
@@ -8648,6 +8666,30 @@
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air M1 (2020) 16GB RAM 512GB SSD"
+   ],
+   "3556734377": [
+    470.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M1, 8GB RAM, 256GB SSD"
+   ],
+   "3556750455": [
+    529.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1, 8GB RAM, 256GB SSD, sehr guter Zustand"
+   ],
+   "3556757480": [
+    370.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air 2020 M1 | 8 GB RAM | Space Grau | Sehr guter Zustand"
+   ],
+   "3556766074": [
+    500.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 (2020)"
    ]
   },
   "MacBook Air M2": {
@@ -10932,6 +10974,12 @@
     "2026-10-30",
     "2026-10-30",
     "Nvidia Geforce Asus RTX 3060 TUF 12GB Grafikkarte ♦️Händler♦️"
+   ],
+   "3556741687": [
+    280.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Gigabyte Geforce RTX 3060 OC 12gb DDR6 Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -12701,6 +12749,12 @@
     "2026-10-29",
     "RTX 3080 Aorus Master 12GB Gaming Grafikkarte Alphacool Eiswolf"
    ],
+   "3555978761": [
+    400.0,
+    "2026-10-30",
+    "2026-10-30",
+    "NVIDIA RTX 3080 Founders Edition 10 GByte"
+   ],
    "3556015929": [
     450.0,
     "2026-10-30",
@@ -13836,6 +13890,12 @@
     "2026-10-30",
     "2026-10-30",
     "Geforce RTX 4070 Ti Super 16GB"
+   ],
+   "3556753246": [
+    650.0,
+    "2026-10-30",
+    "2026-10-30",
+    "ASUS TUF Gaming GeForce RTX 4070 Ti Super 16GB"
    ]
   },
   "RTX 4080": {
@@ -14252,6 +14312,18 @@
     "2026-10-30",
     "2026-10-30",
     "MSI Gaming X Trio NVIDIA GeForce RTX 4080 SUPER"
+   ],
+   "3556757195": [
+    1049.0,
+    "2026-10-30",
+    "2026-10-30",
+    "INNO3D GeForce RTX 4080 X3 16 GB – Triple Fan"
+   ],
+   "3556767385": [
+    1200.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MSI GeForce RTX 4080 Super – OVP, Rechnung, Top Zustand"
    ]
   },
   "RX 6800 XT": {
@@ -15704,7 +15776,7 @@
    ],
    "3541819849": [
     300.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-21",
     "AMD Ryzen 7 7800X3D – AM5 – Boxed – Neuwertig – Restgarantie"
    ],
@@ -15959,6 +16031,12 @@
     "2026-10-30",
     "2026-10-30",
     "AMD Ryzen 7 7800X3D"
+   ],
+   "3556766218": [
+    220.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Verkaufe AMD Ryzen 7 7800X3D"
    ]
   },
   "Ryzen 7 9800X3D": {
