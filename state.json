@@ -514,10 +514,12 @@
   "3556189092": "2026-10-30",
   "3556190619": "2026-10-30",
   "3556210166": "2026-10-30",
-  "3556248895": "2026-10-30"
+  "3556248895": "2026-10-30",
+  "3556380762": "2026-10-30",
+  "3556384072": "2026-10-30"
  },
- "laeufe": 324,
- "letzter_lauf": "2026-10-30T10:11:40",
+ "laeufe": 325,
+ "letzter_lauf": "2026-10-30T11:07:28",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -856,6 +858,12 @@
     "2026-10-30",
     "2026-10-29",
     "Fundino Starter kit für Arduino - fast wie neu!"
+   ],
+   "3556416760": [
+    60.0,
+    "2026-10-30",
+    "2026-10-30",
+    "ELEGOO Arduino Mega Starter Kit + 37 Sensor Kit V2.0 – unbenutzt"
    ]
   },
   "Bosch GBH 18V-26": {
@@ -1498,6 +1506,12 @@
     "2026-10-30",
     "2026-10-29",
     "*Neu*  Bose QuietComfort Ultra Kopfhörer (2. Gen.) Schwarz"
+   ],
+   "3556257460": [
+    230.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Bose QuietComfort Ultra Kopfhörer in Schwarz, sehr guter Zustand"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -1619,7 +1633,7 @@
    ],
    "3531099906": [
     75.0,
-    "2026-10-26",
+    "2026-10-30",
     "2026-10-23",
     "32GB (2x 16GB) HP / Micron DDR4-2133 Server RAM ECC RDIMM"
    ],
@@ -2598,6 +2612,18 @@
     "2026-10-30",
     "2026-10-30",
     "32 GB DDR5 Crucial Pro 6000 cl36"
+   ],
+   "3556380762": [
+    300.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Kingston Fury 32GB DDR5 RAM Kit (2x16GB) 6000MT/s"
+   ],
+   "3556384072": [
+    300.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Kingston FURY Beast DDR5 RAM 32GB (2x16GB) 6000MT/s Weiß"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4273,7 +4299,7 @@
     "Crucial DDR4 RAM 32GB 3200MHz SODIMM CL22-Laptop Arbeitsspeicher"
    ],
    "3555962247": [
-    160.0,
+    145.0,
     "2026-10-30",
     "2026-10-29",
     "Crucial 32GB DDR4-3200 SO-DIMM (Laptop-RAM) – CT32G4SFD832A"
@@ -4301,6 +4327,12 @@
     "2026-10-30",
     "2026-10-30",
     "Neu Arbeitsspeicher Mushkin Redline 32GB 2x16GB DDR4-3200 SODIMM"
+   ],
+   "3556405253": [
+    150.0,
+    "2026-10-30",
+    "2026-10-30",
+    "RAM Corsair Vengeance 32GB (2x16GB) DDR4 SO-Dimm 3200MHz"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -4525,7 +4557,7 @@
    ],
    "3535556389": [
     115.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4"
    ],
@@ -5456,6 +5488,18 @@
     "2026-10-30",
     "2026-10-30",
     "Keychron Q1 Mechanische Tastatur"
+   ],
+   "3556204998": [
+    190.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Keychron Q1 Max 75% Wireless Mechanische Tastatur"
+   ],
+   "3556346457": [
+    100.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Keychron V3 QMK ANSI QWERTY - PBTFans Basin"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -6198,6 +6242,12 @@
     "2026-10-30",
     "2026-10-29",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 40B0 135W"
+   ],
+   "3556388631": [
+    100.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B00135EU"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -6490,7 +6540,7 @@
     "Lenovo ThinkPad USB-C Dock Gen2 Docking Station"
    ],
    "3550938701": [
-    55.0,
+    49.0,
     "2026-10-30",
     "2026-10-24",
     "Lenovo ThinkPad USB-C Dock Gen 2 Dockingstation"
@@ -6499,7 +6549,7 @@
     50.0,
     "2026-10-30",
     "2026-10-24",
-    "Lenovo ThinkPad USB-C Dock Gen 2 40AS mit Netzteil"
+    "Lenovo ThinkPad USB-C Dock Gen 2 40AF mit Netzteil"
    ],
    "3551306403": [
     30.0,
@@ -6578,6 +6628,12 @@
     "2026-10-30",
     "2026-10-30",
     "Lenovo ThinkPad USB-C Dock Gen 2 40AS LDC-G2 +Netzteil TOP"
+   ],
+   "3556371012": [
+    85.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Neue Lenovo Docking Station USB C Dock Gen2"
    ]
   },
   "MacBook Air M1": {
@@ -8344,6 +8400,36 @@
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air M1 2020, 8GB RAM, 512GB SSD, Space Grey WIE NEU"
+   ],
+   "3556389685": [
+    500.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 13,3 Zoll 8GB"
+   ],
+   "3556391808": [
+    440.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M1 8 GB 256 GB Sehr Guter zustand"
+   ],
+   "3556396468": [
+    525.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MAC Book Air M1 - fast neu - *Nur 55 Ladezyklen!!*"
+   ],
+   "3556398506": [
+    450.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M1"
+   ],
+   "3556418676": [
+    440.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1, 8GB RAM, 90% Akkukapazität"
    ]
   },
   "MacBook Air M2": {
@@ -9684,6 +9770,24 @@
     "2026-10-30",
     "2026-10-30",
     "MacBook Air 15\" M2 Chip 8GB/256GB SSD Neuwertig 2023 Rechnung"
+   ],
+   "3556381893": [
+    675.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M2 2022 100% Batterie, 256 SSD GB RAM"
+   ],
+   "3556418505": [
+    650.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M2"
+   ],
+   "3556419655": [
+    550.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple Macbook Air M2 (2022)"
    ]
   },
   "Makita DHP485 Set": {
@@ -11548,6 +11652,12 @@
     "2026-10-30",
     "2026-10-30",
     "MSI GeForce RTX 3070 Suprim X 8G LHR"
+   ],
+   "3556398179": [
+    300.0,
+    "2026-10-30",
+    "2026-10-30",
+    "INNO3D RTX3070 8GB"
    ]
   },
   "RTX 3080": {
@@ -12201,7 +12311,7 @@
    ],
    "3555433603": [
     385.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-29",
     "GeForce RTX 3080 GamingPro 10GB GDDR6X – NVIDIA Gaming Loop"
    ],
@@ -12258,6 +12368,12 @@
     "2026-10-30",
     "2026-10-30",
     "ASUS TUF Gaming GeForce RTX 3080 10GB OC Grafikkarte"
+   ],
+   "3556387112": [
+    499.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MSI RTX 3080 SuprimX"
    ]
   },
   "RTX 4060 Ti": {
@@ -12871,7 +12987,7 @@
    ],
    "3555230489": [
     600.0,
-    "2026-10-28",
+    "2026-10-30",
     "2026-10-28",
     "RTX 4070 Gigabyte AERO OC 12GB – Top Zustand + Rechnung"
    ],
@@ -13322,6 +13438,12 @@
     "2026-10-30",
     "2026-10-30",
     "PNY GeForce RTX 4070 Ti SUPER OC 16GB"
+   ],
+   "3556408104": [
+    800.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Geforce RTX 4070 Ti Super 16GB"
    ]
   },
   "RTX 4080": {
@@ -14194,7 +14316,7 @@
     "16GB PowerColor Radeon RX 7800 XT Hellhound"
    ],
    "3549511405": [
-    549.0,
+    649.0,
     "2026-10-30",
     "2026-10-23",
     "PowerColor AMD Radeon RX 7800 XT Fighter 16GB"
@@ -14350,7 +14472,7 @@
     "Sapphire Pulse AMD Radeon RX 7800 XT Gaming 16GB GDDR6"
    ],
    "3556288335": [
-    580.0,
+    540.0,
     "2026-10-30",
     "2026-10-30",
     "Sapphire Nitro+ AMD Radeon RX 7800 XT 16GB"
@@ -14452,6 +14574,12 @@
     "2026-10-30",
     "2026-10-30",
     "Raspberry Pi 5 8GB Starter Kit Netzteil und 16GB micro SD Karte"
+   ],
+   "3556220361": [
+    125.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Raspberry Pi 5 16GB im Gehäuse"
    ]
   },
   "Raspberry Pi 5 8GB": {
@@ -14481,7 +14609,7 @@
    ],
    "3519347332": [
     149.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-22",
     "Raspberry Pi 5 8GB RAM mit Gehäuse, Lüfter und Kühlkörper"
    ],
@@ -14841,6 +14969,12 @@
     "2026-10-27",
     "2026-10-27",
     "Rigol DS1054Z Digital-Oszilloskop 4 Kanal 50 MHz"
+   ],
+   "3556312368": [
+    395.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Rigol Oszilloskop DS1054Z Neuwertig! OVP und 4 Originalen Probes"
    ]
   },
   "Ryzen 7 5800X3D": {
@@ -16219,6 +16353,12 @@
     "2026-10-30",
     "2026-10-30",
     "Samsung 990 PRO 2 TB NVMe SSD"
+   ],
+   "3556404630": [
+    270.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Samsung 990 Pro 2tb NVME m.2 SSD"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -17467,7 +17607,7 @@
    ],
    "3552046611": [
     165.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-25",
     "Sony WH-1000XM5"
    ],
@@ -17650,6 +17790,12 @@
     "2026-10-30",
     "2026-10-29",
     "Sony WH-1000xm5 Kopfhörer"
+   ],
+   "3556264870": [
+    200.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Sony WH-1000XM5 Kopfhörer Smoky Pink - unbenutzt"
    ]
   },
   "Synology DS220+": {
@@ -18318,6 +18464,12 @@
     "2026-10-30",
     "2026-10-29",
     "Lenovo ThinkPad T14 Gen 3, 16 GB RAM, 256 GB NVMe SSD"
+   ],
+   "3556401973": [
+    514.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Lenovo ThinkPad T14 Gen 3 | Ryzen 7 Pro WUXGA | QWERTY| Garantie&"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -19519,6 +19671,12 @@
     "2026-10-30",
     "2026-10-26",
     "Conbee II Zigbee USB Stick"
+   ],
+   "3556231298": [
+    25.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Smart Home Deutsche Telekom Quivicon Base + ZigBee Stick Angebot"
    ]
   }
  },
