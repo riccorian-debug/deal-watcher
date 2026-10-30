@@ -523,10 +523,11 @@
   "3556533200": "2026-10-30",
   "3556593381": "2026-10-30",
   "3556640165": "2026-10-30",
-  "3556671521": "2026-10-30"
+  "3556671521": "2026-10-30",
+  "3556712550": "2026-10-30"
  },
- "laeufe": 328,
- "letzter_lauf": "2026-10-30T15:16:27",
+ "laeufe": 329,
+ "letzter_lauf": "2026-10-30T16:11:25",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -871,6 +872,12 @@
     "2026-10-30",
     "2026-10-30",
     "ELEGOO Arduino Mega Starter Kit + 37 Sensor Kit V2.0 – unbenutzt"
+   ],
+   "3556572721": [
+    40.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Miuzei Ultimate Arduino UNO R3 Starter Kit MA13-U Neu"
    ]
   },
   "Bosch GBH 18V-26": {
@@ -1157,6 +1164,12 @@
     "2026-10-29",
     "2026-10-28",
     "BOSCH GSR 18V 60 FC mit viel Zubehör"
+   ],
+   "3556535604": [
+    100.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Bosch GSR 18V-60 C Akku-Bohrschrauber L-Boxx Akkuschrauber NEU"
    ]
   },
   "Bose QuietComfort": {
@@ -1519,6 +1532,12 @@
     "2026-10-30",
     "2026-10-30",
     "Bose QuietComfort Ultra Kopfhörer in Schwarz, sehr guter Zustand"
+   ],
+   "3556728651": [
+    285.0,
+    "2026-10-30",
+    "2026-10-30",
+    "BOSE QUIETCOMFORT ULTRA KOPFHÖRER 2nd GEN WHITE WEISS NEU"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -1589,7 +1608,7 @@
     "Crucial P3 Plus 2 TB NVMe M.2 SSD – Top Zustand / Rechnung / OVP"
    ],
    "3556472088": [
-    190.0,
+    180.0,
     "2026-10-30",
     "2026-10-30",
     "Crucial P3 Plus SSD 2TB  NVMe M.2"
@@ -2840,7 +2859,7 @@
     "Dell Latitude 7420 Ci7-1165G7 2,8GHz 16GB 512GB 14\"FHD Win11"
    ],
    "3548703765": [
-    230.0,
+    210.0,
     "2026-10-30",
     "2026-10-23",
     "14\" Dell Latitude 7420 i7/16GB RAM/256GB NVMe CH/EUR Keyboard"
@@ -3083,7 +3102,7 @@
    ],
    "3456529963": [
     60.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-23",
     "Dell Thunderbolt 3 Dockingstation WD19TB 130W VESA 100 Halterung"
    ],
@@ -3490,6 +3509,12 @@
     "2026-10-30",
     "2026-10-29",
     "HP EliteBook 840 G8 Notebook"
+   ],
+   "3556563530": [
+    419.0,
+    "2026-10-30",
+    "2026-10-30",
+    "♻️WIE NEU| HP EliteBook 840 G8 | 24M Garantie | 16GB | i5 11. Gen"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -3960,6 +3985,12 @@
     "2026-10-30",
     "2026-10-30",
     "SK hynix Original 16GB DDR4 3200MHz Notebook RAM SO-DIMM"
+   ],
+   "3556678198": [
+    70.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Micron 16 GB (2×8 GB) DDR4 SO-DIMM 3200 MHz"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4382,6 +4413,18 @@
     "2026-10-30",
     "2026-10-30",
     "RAM Corsair Vengeance 32GB (2x16GB) DDR4 SO-Dimm 3200MHz"
+   ],
+   "3556703406": [
+    170.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Crucial 32GB DDR4 3200 MHz SO-DIMM RAM – unbenutzt"
+   ],
+   "3556712674": [
+    139.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Samsung 32GB 2x16GB DDR4 3200MHz 2Rx8 Dual Rank SO-DIMM RAM EB1"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -4839,6 +4882,12 @@
     "2026-10-28",
     "2026-10-28",
     "Home Assistant Green Smart Home Hub"
+   ],
+   "3556599361": [
+    120.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Nabu Casa Home Assistant Green"
    ]
   },
   "Intel i5-13600K": {
@@ -5470,7 +5519,7 @@
     50.0,
     "2026-10-30",
     "2026-10-26",
-    "Keychron K3 Pro Tastatur ISO DE mit original Palm Rest"
+    "Keychron K3 Pro Tastatur ISO DE mit original Palm Rest RGB"
    ],
    "3553483013": [
     80.0,
@@ -5551,7 +5600,7 @@
     "Keychron K3 Low Profile Mechanische Tastatur mit Zubehör"
    ],
    "3556139865": [
-    80.0,
+    60.0,
     "2026-10-30",
     "2026-10-30",
     "Keychron Q1 Mechanische Tastatur"
@@ -5567,6 +5616,18 @@
     "2026-10-30",
     "2026-10-30",
     "Keychron V3 QMK ANSI QWERTY - PBTFans Basin"
+   ],
+   "3556634395": [
+    70.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Keychron K3 Max Ultraschmale Drahtlose Mechanische Tastatur"
+   ],
+   "3556650597": [
+    80.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Keychron K10 Pro Wireless"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -5969,6 +6030,12 @@
     "2026-10-29",
     "2026-10-29",
     "Lenovo ThinkCentre M920Q i7-8700T 64GB DDR4 500GB NVME 240+2TB"
+   ],
+   "3556685622": [
+    300.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Lenovo ThinkCentre M920q i5-8500t, 32gb ram, 256gb m.2, vpro"
    ]
   },
   "Lenovo ThinkVision P27h": {
@@ -6701,6 +6768,12 @@
     "2026-10-30",
     "2026-10-30",
     "Neue Lenovo Docking Station USB C Dock Gen2"
+   ],
+   "3556457258": [
+    80.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Lenovo ThinkPad USB-C Dock Gen 2"
    ]
   },
   "MacBook Air M1": {
@@ -8553,10 +8626,28 @@
     "Apple MacBook Air 13\" M1 8 GB RAM, 256 GB SSD Roségold"
    ],
    "3556662470": [
-    540.0,
+    495.0,
     "2026-10-30",
     "2026-10-30",
     "MacBook Air M1 Gold – 16 GB RAM – 256 GB SSD – Top Zustand"
+   ],
+   "3556703859": [
+    499.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air 13” M1 | 96 % Akku | Nur 70 Ladezyklen | Silber"
+   ],
+   "3556708803": [
+    500.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air 13\" M1 (2020) – 8 GB RAM / 512 GB SSD"
+   ],
+   "3556731931": [
+    360.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 (2020) 16GB RAM 512GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -9929,7 +10020,7 @@
     "Apple MacBook Air 13\" M2 8C 16GB 512GB Space Grau Sehr Gut 19%"
    ],
    "3556501683": [
-    350.0,
+    420.0,
     "2026-10-30",
     "2026-10-30",
     "Macbook Air M2 13“ | 256 GB | *TOP*"
@@ -9975,6 +10066,24 @@
     "2026-10-30",
     "2026-10-30",
     "MacBook Air 2022 M2, 8GB RAM, 256GB SSD"
+   ],
+   "3556687825": [
+    650.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Mac Book Air 2022 M2/256GB"
+   ],
+   "3556715514": [
+    650.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M2 13,6 Zoll"
+   ],
+   "3556716591": [
+    580.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M2 2022 256GB wie neu Apple"
    ]
   },
   "Makita DHP485 Set": {
@@ -12621,6 +12730,12 @@
     "2026-10-30",
     "2026-10-30",
     "RTX 3080 MSI Suprim X Nvidia DLSS GPU Grafikkarte CUDA"
+   ],
+   "3556717314": [
+    300.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Inno3D GeForce RTX 3080 X3 Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -13515,6 +13630,12 @@
     "2026-10-29",
     "2026-10-29",
     "ASUS TUF GeForce RTX 4070 Super Edition Gaming Grafikkarte 16GB"
+   ],
+   "3556676176": [
+    600.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Grafikkarte Nvidia Geforce RTX 4070 Super"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -14771,6 +14892,12 @@
     "2026-10-30",
     "2026-10-30",
     "Sapphire Nitro+ AMD Radeon RX 7800 XT 16GB"
+   ],
+   "3556718377": [
+    500.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Gigabyte AMD Radeon RX 7800 XT Gaming OC"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -15227,7 +15354,7 @@
     "Raspberry Pi 5 8GB Starter Kit Netzteil Gehäuse"
    ],
    "3555173710": [
-    230.0,
+    215.0,
     "2026-10-30",
     "2026-10-28",
     "Raspberry Pi 5 8GB mit Display, Lüfter und Original Kabeln"
@@ -15500,6 +15627,12 @@
     "2026-10-30",
     "2026-10-30",
     "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
+   ],
+   "3556712550": [
+    165.0,
+    "2026-10-30",
+    "2026-10-30",
+    "AMD Ryzen 7 5800X3D 8-Core CPU Sockel AM4 3,4GHz PCIe 4.0 MPN"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -15820,6 +15953,12 @@
     "2026-10-30",
     "2026-10-30",
     "AMD Ryzen 7 7800X3D Prozessor"
+   ],
+   "3556699736": [
+    250.0,
+    "2026-10-30",
+    "2026-10-30",
+    "AMD Ryzen 7 7800X3D"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -16011,7 +16150,7 @@
    ],
    "3555318094": [
     350.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-29",
     "AMD Ryzen 7 9800x3d NEU versiegelt"
    ],
@@ -16500,7 +16639,7 @@
     "Samsung 990 PRO 2TB NVMe SSD mit Heatsink – NEU & OVP versiegelt"
    ],
    "3551808773": [
-    270.0,
+    265.0,
     "2026-10-30",
     "2026-10-25",
     "SSD Nvme Samsung 990 PRO / 2TB"
@@ -17453,7 +17592,7 @@
     "Shelly Plus Plug S - Intelligente Steckdose mit Strommessung"
    ],
    "3520530940": [
-    37.0,
+    34.0,
     "2026-10-30",
     "2026-10-23",
     "EcoFlow x Shelly Smart Plug S MTR Gen3 Typ F"
@@ -19432,6 +19571,12 @@
     "2026-10-30",
     "2026-10-29",
     "WD Red Plus 8TB NAS Festplatte + WD Blue SN550 NVMe SSD"
+   ],
+   "3556693436": [
+    200.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Western Digital WD Red Plus 8TB NAS HDD"
    ]
   },
   "Weller WE1010": {
