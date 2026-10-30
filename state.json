@@ -526,8 +526,8 @@
   "3556671521": "2026-10-30",
   "3556712550": "2026-10-30"
  },
- "laeufe": 330,
- "letzter_lauf": "2026-10-30T17:05:35",
+ "laeufe": 331,
+ "letzter_lauf": "2026-10-30T18:03:11",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2605,7 +2605,7 @@
    ],
    "3555797595": [
     450.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-29",
     "Corsair Vengeance DDR5 32GB (2x16GB) 6000 CL30 schwarz"
    ],
@@ -2704,6 +2704,12 @@
     "2026-10-30",
     "2026-10-30",
     "G.SKILL Trident Z5 Neo RGB DDR5 32GB (2x16GB) 6000MHz CL30 – Neu"
+   ],
+   "3556792106": [
+    350.0,
+    "2026-10-30",
+    "2026-10-30",
+    "CORSAIR Vengeance RGB DDR5 32GB (2 x 16GB) 6000MHz"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -2971,7 +2977,7 @@
     "Dell UltraSharp U2722D – 27 Zoll QHD IPS Monitor #2"
    ],
    "3519304078": [
-    99.0,
+    85.0,
     "2026-10-30",
     "2026-10-23",
     "Dell U2722D Monitor 27 Zoll"
@@ -3533,6 +3539,12 @@
     "2026-10-30",
     "2026-10-30",
     "♻️WIE NEU| HP EliteBook 840 G8 | 24M Garantie | 16GB | i5 11. Gen"
+   ],
+   "3556788095": [
+    250.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Hp Elitebook 840 G8 Aero mit Windows 11"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -4009,6 +4021,12 @@
     "2026-10-30",
     "2026-10-30",
     "Micron 16 GB (2×8 GB) DDR4 SO-DIMM 3200 MHz"
+   ],
+   "3556827055": [
+    60.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Samsung 16 GB DDR4 3200 MHz SO-DIMM Arbeitsspeicher"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -8656,7 +8674,7 @@
     "Apple MacBook Air 13” M1 | 96 % Akku | Nur 70 Ladezyklen | Silber"
    ],
    "3556708803": [
-    500.0,
+    450.0,
     "2026-10-30",
     "2026-10-30",
     "MacBook Air 13\" M1 (2020) – 8 GB RAM / 512 GB SSD"
@@ -8690,6 +8708,24 @@
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air M1 (2020)"
+   ],
+   "3556787662": [
+    450.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 2020 | 8GB RAM | 256 GB | Top Zustand"
+   ],
+   "3556808790": [
+    580.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M1 (2020) | 16 GB RAM | 512 GB SSD + OV"
+   ],
+   "3556811275": [
+    450.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 2020 – 8/256 GB"
    ]
   },
   "MacBook Air M2": {
@@ -8734,6 +8770,12 @@
     "2026-10-24",
     "2026-10-22",
     "MacBook Air 13'' M2 2022 8GB RAM 256 GB SSD + 1 TB SSD extern"
+   ],
+   "3544301151": [
+    760.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air 15\" M2 – 256 GB – Mitternacht"
    ],
    "3544950075": [
     690.0,
@@ -10065,7 +10107,7 @@
     420.0,
     "2026-10-30",
     "2026-10-30",
-    "Macbook Air M2 13“ | 256 GB | *TOP*"
+    "Macbook Air M2 13“ | 256 GB | Display hat leitche Linien"
    ],
    "3556531584": [
     790.0,
@@ -10098,7 +10140,7 @@
     "Apple MacBook Air M2 | 16 GB RAM | 512 GB SSD |"
    ],
    "3556648668": [
-    720.0,
+    680.0,
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air M2 8gb 13,6 Inch 512 gb neuwertig"
@@ -10126,6 +10168,18 @@
     "2026-10-30",
     "2026-10-30",
     "MacBook Air M2 2022 256GB wie neu Apple"
+   ],
+   "3556786325": [
+    850.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Macbook Air M2 13 2022 neuwertig ohne erkennbare Gebrauchsspuren"
+   ],
+   "3556827053": [
+    819.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M2 (13,6“) - Space Grau - 8GB RAM/256 GB- TOP"
    ]
   },
   "Makita DHP485 Set": {
@@ -13158,6 +13212,12 @@
     "2026-10-30",
     "2026-10-30",
     "ASUS Geforce RTX 4060Ti 8GB"
+   ],
+   "3556819085": [
+    299.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Gigabyte GeForce RTX 4060 Ti 16GB GDDR6 Grafikkarte"
    ]
   },
   "RTX 4070": {
@@ -13460,6 +13520,12 @@
     "2026-10-30",
     "2026-10-30",
     "NVIDIA GeForce RTX 4070 Founders Edition"
+   ],
+   "3556794677": [
+    600.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Gigabyte GeForce RTX 4070 OC Edition Grafikkarte"
    ]
   },
   "RTX 4070 Super": {
@@ -16870,7 +16936,7 @@
     240.0,
     "2026-10-30",
     "2026-10-29",
-    "Samsung 990 Pro 2TB NVMe SSD - PCIe 4.0 NVME"
+    "Samsung 990 Pro 2TB NVMe SSD - PCIe 4.0 NVME - Rechnung 10.06.25"
    ],
    "3556252777": [
     270.0,
@@ -18334,10 +18400,16 @@
     "Sony WH-1000XM5 ANC Kopfhörer"
    ],
    "3556671884": [
-    100.0,
+    90.0,
     "2026-10-30",
     "2026-10-30",
     "Sony WH-1000XM5 Kopfhörer"
+   ],
+   "3556793284": [
+    150.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Sony WH-1000XM5 Noise Cancelling Kopfhörer schwarz"
    ]
   },
   "Synology DS220+": {
@@ -18418,6 +18490,12 @@
     "2026-10-30",
     "2026-10-29",
     "Synology DiskStation DS220+2-Bay NAS-Server Gehäuse schwarz"
+   ],
+   "3556825283": [
+    299.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Synology DS220+ NAS 2-Bay, fast unbenutzt, mit Rechnung TOP"
    ]
   },
   "Synology DS220j": {
@@ -18536,7 +18614,7 @@
     "Synology DiskStation DS220j NAS Netzlaufwerk"
    ],
    "3556671521": [
-    85.0,
+    80.0,
     "2026-10-30",
     "2026-10-30",
     "Synology DS220J"
@@ -19042,6 +19120,12 @@
     "2026-10-30",
     "2026-10-30",
     "Lenovo Thinkpad T14 Gen 3 16 GB RAM - 2 TB SSD - Top + Rechnung"
+   ],
+   "3556799412": [
+    499.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Lenovo ThinkPad T14 Gen 3 AMD Ryzen 5 Pro 6650U 16GB 512GB"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -19513,6 +19597,12 @@
     "2026-10-30",
     "2026-10-30",
     "Wd Black SN850X 2TB NVMe SSD Interne Festplatte"
+   ],
+   "3556797218": [
+    299.0,
+    "2026-10-30",
+    "2026-10-30",
+    "WD BLACK SN850X NVMe SSD 2TB mit Heatsink PS5 PC Neu & unbenutzt"
    ]
   },
   "WD Red Plus 4TB": {
@@ -19687,6 +19777,12 @@
     "2026-10-30",
     "2026-10-30",
     "Weller WE 1010 Lötstation"
+   ],
+   "3556691215": [
+    102.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Weller WE 1010 Lötstation 70W 230V 100-450°C blau"
    ]
   },
   "Weller WTCP-S": {
