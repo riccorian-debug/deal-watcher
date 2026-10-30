@@ -528,8 +528,8 @@
   "3556760718": "2026-10-30",
   "3556914979": "2026-10-30"
  },
- "laeufe": 333,
- "letzter_lauf": "2026-10-30T20:04:12",
+ "laeufe": 334,
+ "letzter_lauf": "2026-10-30T21:02:22",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1772,6 +1772,12 @@
     "2026-10-30",
     "2026-10-29",
     "SK Hynix 32GB RAM (2x16GB) DDR4 2666 ECC RDIMM HMA82GR7CJR8N-VK"
+   ],
+   "3556894491": [
+    130.0,
+    "2026-10-30",
+    "2026-10-30",
+    "32Gb 2rx4 DDR4 2666v ram sk Hynix ecc rdimm"
    ]
   },
   "DDR4 ECC RDIMM 64GB": {
@@ -2724,6 +2730,12 @@
     "2026-10-30",
     "2026-10-30",
     "CORSAIR Vengeance RGB DDR5 32GB (2 x 16GB) 6000MHz"
+   ],
+   "3556923186": [
+    300.0,
+    "2026-10-30",
+    "2026-10-30",
+    "32GB Corsair Vengeance RGB DDR5-6000 DIMM CL30 Dual Kit"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4508,6 +4520,12 @@
     "2026-10-30",
     "2026-10-25",
     "Fluke Promotion 117/323 EUR Combo Kit"
+   ],
+   "3556832222": [
+    145.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Fluke 117 True RMS Digital-Multimeter"
    ]
   },
   "Fluke 87V Multimeter": {
@@ -4894,6 +4912,12 @@
     "2026-10-30",
     "2026-10-30",
     "HP Thunderbolt Dock G4 120W"
+   ],
+   "3556863818": [
+    70.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Docking Station HP Thunderbolt Dock G4 120W"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -6456,6 +6480,12 @@
     "2026-10-30",
     "2026-10-30",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B00135EU"
+   ],
+   "3556831906": [
+    170.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Lenovo ThinkPad Thunderbolt 4 Workstation Dock"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -8694,10 +8724,10 @@
     "Apple MacBook Air M1 2020 | 8 GB | 256 GB | 99 % Akku |"
    ],
    "3556633275": [
-    470.0,
+    420.0,
     "2026-10-30",
     "2026-10-30",
-    "Apple MacBook Air 13\" M1 8 GB RAM, 256 GB SSD Roségold"
+    "Apple MacBook Air 13\" M1 8 GB RAM, 256 GB Laptop"
    ],
    "3556662470": [
     495.0,
@@ -10163,7 +10193,7 @@
     800.0,
     "2026-10-30",
     "2026-10-30",
-    "Apple MacBook Air 15,3\" (2023) M2"
+    "Apple MacBook Air 15 (2023) M2"
    ],
    "3556564105": [
     890.0,
@@ -10236,6 +10266,12 @@
     "2026-10-30",
     "2026-10-30",
     "Macbook Air M2 - 256 GB - Display Linien"
+   ],
+   "3556935810": [
+    695.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M2 2022 | 512 GB SSD | Sehr gepflegt I Rechnung"
    ]
   },
   "Makita DHP485 Set": {
@@ -11122,6 +11158,12 @@
     "2026-10-29",
     "2026-10-28",
     "GIGABYTE Grafikkarte GeForce RTX 3070 Vision OC 8GB GDDR6"
+   ],
+   "3368505673": [
+    359.0,
+    "2026-10-30",
+    "2026-10-30",
+    "NVIDIA GeForce RTX 3070 Gaming X Trio – 8GB GDDR6"
    ],
    "3499310583": [
     299.0,
@@ -13865,7 +13907,7 @@
    ],
    "3516611482": [
     779.0,
-    "2026-10-28",
+    "2026-10-30",
     "2026-10-21",
     "ZOTAC GeForce RTX 4070 Ti SUPER 16 GB Trinity Black Edition"
    ],
@@ -14364,7 +14406,7 @@
     "ASUS ProArt NVIDIA GeForce RTX 4080 SUPER OC Edition 16GB"
    ],
    "3554094627": [
-    1200.0,
+    1199.0,
     "2026-10-30",
     "2026-10-27",
     "Gigabyte GeForce RTX 4080 SUPER AERO OC 16GB"
@@ -14436,7 +14478,7 @@
     "Gainward Panther GeForce RTX 4080 16GB GDDR6X OVP"
    ],
    "3556027113": [
-    1299.0,
+    1274.0,
     "2026-10-30",
     "2026-10-29",
     "INNO3D GeForce RTX 4080 Super iChill Frostbite Wassergekühlt"
@@ -16137,7 +16179,7 @@
     "AMD Ryzen 7 7800X3D Prozessor - Neu & OVP"
    ],
    "3554092671": [
-    259.0,
+    240.0,
     "2026-10-30",
     "2026-10-27",
     "AMD Ryzen 7 7800X3D |  BOXED"
