@@ -528,8 +528,8 @@
   "3556760718": "2026-10-30",
   "3556914979": "2026-10-30"
  },
- "laeufe": 334,
- "letzter_lauf": "2026-10-30T21:02:22",
+ "laeufe": 335,
+ "letzter_lauf": "2026-10-30T21:58:04",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2635,6 +2635,12 @@
     "2026-10-29",
     "Corsair Vengeance DDR5-6000 CL30 32 GB (2×16 GB) – OVP"
    ],
+   "3556107795": [
+    500.0,
+    "2026-10-30",
+    "2026-10-30",
+    "32GB Kingston Fury Beast DDR5 6000MT/s CL30 RAM (2x16GB)"
+   ],
    "3556167959": [
     499.0,
     "2026-10-30",
@@ -4071,6 +4077,12 @@
     "2026-10-30",
     "2026-10-30",
     "Crucial 16GB DDR4-3200 SO-DIMM RAM | CT16G4SFRA32A | NAS, NUC"
+   ],
+   "3556971583": [
+    60.0,
+    "2026-10-30",
+    "2026-10-30",
+    "16 GB SK hynix DDR4-3200 RAM – 2× 8 GB SO-DIMM 3200 MHz"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -8712,7 +8724,7 @@
     "Apple Macbook air M1 / WIE NEU 97% Akku"
    ],
    "3556588059": [
-    650.0,
+    580.0,
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air M1 (2020) 8GB RAM 256GB SSD Space Grau"
@@ -8794,6 +8806,18 @@
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air M1 2020 – 8/256 GB"
+   ],
+   "3556961474": [
+    479.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air 13\" M1 (2020), 8 GB RAM"
+   ],
+   "3556973552": [
+    400.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M1 – 8 GB RAM + 256 GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -12960,6 +12984,12 @@
     "2026-10-30",
     "2026-10-30",
     "Inno3D GeForce RTX 3080 X3 Grafikkarte"
+   ],
+   "3556970610": [
+    400.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Inno3D NVIDIA RTX 3080 Grafikkarte - Wie neu mit Rechnung"
    ]
   },
   "RTX 4060 Ti": {
@@ -16017,7 +16047,7 @@
     "AMD Ryzen 7 7800X3D"
    ],
    "3544952267": [
-    275.0,
+    250.0,
     "2026-10-30",
     "2026-10-21",
     "AMD Ryzen 7 7800X3D – AM5, 3D V-Cache, Top-Zustand (boxed) OVP"
@@ -16803,8 +16833,8 @@
     "Samsung 990 Pro 2TB Heatsink (PS5 + PS5 Pro kompatibel)"
    ],
    "3546717876": [
-    260.0,
-    "2026-10-28",
+    250.0,
+    "2026-10-30",
     "2026-10-21",
     "Samsung 990 PRO NVME M.2 SSD 2TB"
    ],
@@ -19897,6 +19927,12 @@
     "2026-10-30",
     "2026-10-30",
     "Western Digital WD Red Plus 8TB NAS HDD"
+   ],
+   "3556980823": [
+    300.0,
+    "2026-10-30",
+    "2026-10-30",
+    "WD RED Plus NAS HDD 8TB"
    ]
   },
   "Weller WE1010": {
