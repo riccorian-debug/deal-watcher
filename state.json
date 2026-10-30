@@ -513,10 +513,11 @@
   "3556160626": "2026-10-30",
   "3556189092": "2026-10-30",
   "3556190619": "2026-10-30",
-  "3556210166": "2026-10-30"
+  "3556210166": "2026-10-30",
+  "3556248895": "2026-10-30"
  },
- "laeufe": 322,
- "letzter_lauf": "2026-10-30T07:26:26",
+ "laeufe": 323,
+ "letzter_lauf": "2026-10-30T09:13:13",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2533,10 +2534,10 @@
     "T-Force Delta RGB DDR5 32GB (2x16GB) 6000MHz RAM"
    ],
    "3555621122": [
-    449.0,
+    439.0,
     "2026-10-30",
     "2026-10-29",
-    "Kingston Fury 32GB DDR5 RAM | 6000-CL36"
+    "Kingston Fury Beast 32GB DDR5 RAM | CL36-6000"
    ],
    "3555678667": [
     399.0,
@@ -2573,6 +2574,18 @@
     "2026-10-30",
     "2026-10-30",
     "Kingston FURY 32GB DDR5 6000MT/s RAM Kit (2x16GB)"
+   ],
+   "3556248895": [
+    290.0,
+    "2026-10-30",
+    "2026-10-30",
+    "32GB DDR5 Kingston Fury Beast RAM 6000MHz 2x16Gb CL36"
+   ],
+   "3556255864": [
+    450.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Crucial DDR5 32GB (2x16GB) 6000MT/s UDIMM Kit"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -5727,7 +5740,7 @@
     "Lenovo ThinkCentre M920q | i7-9700T | 8/16/32GB | WLAN | Tiny PC"
    ],
    "3526591119": [
-    249.0,
+    239.0,
     "2026-10-30",
     "2026-10-22",
     "Lenovo ThinkCentre M920q Tiny PC | i7 -  8700 | Win 11"
@@ -8265,6 +8278,36 @@
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air M1 | 8 GB RAM | 256 GB SSD | mit OVP"
+   ],
+   "3556225022": [
+    550.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 13 Zoll 256GB"
+   ],
+   "3556237657": [
+    469.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 2020 – 8GB RAM – 256GB SSD – OVP"
+   ],
+   "3556256292": [
+    600.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M1 (2020)"
+   ],
+   "3556265486": [
+    499.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 13\" Gold | 62 Ladezyklen | 96% Akku"
+   ],
+   "3556267425": [
+    350.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air rose 13“ M1 Prozessor"
    ]
   },
   "MacBook Air M2": {
@@ -9559,7 +9602,7 @@
     "Mac Book Air 15“ M2 2023 8GB 256GB"
    ],
    "3556140950": [
-    850.0,
+    800.0,
     "2026-10-30",
     "2026-10-29",
     "MacBook Air M2 13,6\" | 16 GB RAM | 512 GB SSD | 10-Core GPU"
@@ -9587,6 +9630,18 @@
     "2026-10-30",
     "2026-10-30",
     "MacBook Air 13 M2 8 GB 256 GB Space Grau Akku 90 Prozent"
+   ],
+   "3556262819": [
+    650.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M2 13,6“ Silber mit OVP"
+   ],
+   "3556278978": [
+    780.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air 15\" M2 Chip 8GB/256GB SSD Neuwertig 2023 Rechnung"
    ]
   },
   "Makita DHP485 Set": {
@@ -10399,6 +10454,12 @@
     "2026-10-30",
     "2026-10-30",
     "Gigabyte GeForce RTX 3060 Gaming OC 12GB - Originalverpackung"
+   ],
+   "3556269112": [
+    279.0,
+    "2026-10-30",
+    "2026-10-30",
+    "ASUS Dual GeForce RTX 3060 OC V2 12GB – Voll funktionsfähig – OVP"
    ]
   },
   "RTX 3070": {
@@ -12137,6 +12198,12 @@
     "2026-10-30",
     "2026-10-29",
     "ASUS TUF Gaming GeForce RTX 3080 10GB Grafikkarte"
+   ],
+   "3556305705": [
+    500.0,
+    "2026-10-30",
+    "2026-10-30",
+    "ASUS TUF Gaming GeForce RTX 3080 10GB OC Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -13457,8 +13524,8 @@
     "Gigabyte Geforce RTX 4080 Super Windforce V2"
    ],
    "3552121993": [
-    1200.0,
-    "2026-10-29",
+    1050.0,
+    "2026-10-30",
     "2026-10-25",
     "ASUS ROG Strix Gaming GeForce RTX 4080 16GB"
    ],
@@ -13583,7 +13650,7 @@
     "Gainward Panther GeForce RTX 4080 16GB GDDR6X OVP"
    ],
    "3556027113": [
-    1300.0,
+    1299.0,
     "2026-10-30",
     "2026-10-29",
     "INNO3D GeForce RTX 4080 Super iChill Frostbite Wassergekühlt"
@@ -14215,6 +14282,12 @@
     "2026-10-29",
     "2026-10-29",
     "Sapphire Pulse AMD Radeon RX 7800 XT Gaming 16GB GDDR6"
+   ],
+   "3556288335": [
+    580.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Sapphire Nitro+ AMD Radeon RX 7800 XT 16GB"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -15400,7 +15473,7 @@
     "AMD Ryzen 7 9800X3D – OVP"
    ],
    "3553524024": [
-    350.0,
+    330.0,
     "2026-10-30",
     "2026-10-26",
     "AMD Ryzen 7 9800X3D Prozessor"
@@ -16068,6 +16141,12 @@
     "2026-10-30",
     "2026-10-29",
     "Samsung 990 Pro 2TB NVMe SSD - PCIe 4.0 NVME"
+   ],
+   "3556252777": [
+    270.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Samsung 990 PRO 2 TB NVMe SSD"
    ]
   },
   "Samsung PM983 1.92TB": {
