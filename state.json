@@ -371,6 +371,7 @@
   "3543440985": "2026-10-18",
   "3543491837": "2026-10-18",
   "3543508875": "2026-10-18",
+  "3543526795": "2026-10-30",
   "3543625884": "2026-10-18",
   "3543649760": "2026-10-18",
   "3543752803": "2026-10-18",
@@ -517,11 +518,15 @@
   "3556248895": "2026-10-30",
   "3556380762": "2026-10-30",
   "3556384072": "2026-10-30",
+  "3556503484": "2026-10-30",
   "3556514532": "2026-10-30",
-  "3556533200": "2026-10-30"
+  "3556533200": "2026-10-30",
+  "3556593381": "2026-10-30",
+  "3556640165": "2026-10-30",
+  "3556671521": "2026-10-30"
  },
- "laeufe": 327,
- "letzter_lauf": "2026-10-30T13:21:48",
+ "laeufe": 328,
+ "letzter_lauf": "2026-10-30T15:16:27",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1659,7 +1664,7 @@
    ],
    "3538395754": [
     130.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-26",
     "32GB Micron / Lenovo DDR4-2666 ECC Registered RDIMM 4x8GB Server"
    ],
@@ -2646,7 +2651,7 @@
     "Corsair Vengeance DDR5-6000 32GB (2x16GB) CL36 EXPO/XMP grau"
    ],
    "3556491320": [
-    499.0,
+    450.0,
     "2026-10-30",
     "2026-10-30",
     "Corsair Vengeance RGB 32GB DDR5-6000 CL36 OVP + Rechnung"
@@ -3949,6 +3954,12 @@
     "2026-10-30",
     "2026-10-30",
     "Crucial DDR4-3200 SODIMM 16GB"
+   ],
+   "3556591573": [
+    60.0,
+    "2026-10-30",
+    "2026-10-30",
+    "SK hynix Original 16GB DDR4 3200MHz Notebook RAM SO-DIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4402,7 +4413,7 @@
     "Fluke 87V True RMS Digitalmultimeter – Profi-Messgerät"
    ],
    "3503249180": [
-    380.0,
+    350.0,
     "2026-10-30",
     "2026-10-23",
     "Fluke 87 V True RMS Multimeter"
@@ -4436,6 +4447,12 @@
     "2026-10-30",
     "2026-10-27",
     "Fluke 87 V Industriemultimeter DigitalMultimeter Profi Messgerät"
+   ],
+   "3556601089": [
+    369.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Fluke 87V Multimeter & TPAK Tool Hanging Kit"
    ]
   },
   "Fujitsu Primergy TX1320 M4": {
@@ -4760,6 +4777,12 @@
     "2026-10-30",
     "2026-10-30",
     "HP Thunderbolt Dock 280W G4 + 280W Netzteil *NEUWERTIG*"
+   ],
+   "3556503484": [
+    50.0,
+    "2026-10-30",
+    "2026-10-30",
+    "HP Thunderbolt Dock G4 120W"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -8416,7 +8439,7 @@
     "Apple MacBook Air M1 2020 – 8GB RAM – 256GB SSD – OVP"
    ],
    "3556256292": [
-    600.0,
+    500.0,
     "2026-10-30",
     "2026-10-30",
     "MacBook Air M1 (2020)"
@@ -8510,6 +8533,30 @@
     "2026-10-30",
     "2026-10-30",
     "Apple Macbook air M1 / WIE NEU 97% Akku"
+   ],
+   "3556588059": [
+    650.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 (2020) 8GB RAM 256GB SSD Space Grau"
+   ],
+   "3556622771": [
+    400.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 2020 | 8 GB | 256 GB | 99 % Akku |"
+   ],
+   "3556633275": [
+    470.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air 13\" M1 8 GB RAM, 256 GB SSD Roségold"
+   ],
+   "3556662470": [
+    540.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air M1 Gold – 16 GB RAM – 256 GB SSD – Top Zustand"
    ]
   },
   "MacBook Air M2": {
@@ -9882,7 +9929,7 @@
     "Apple MacBook Air 13\" M2 8C 16GB 512GB Space Grau Sehr Gut 19%"
    ],
    "3556501683": [
-    400.0,
+    350.0,
     "2026-10-30",
     "2026-10-30",
     "Macbook Air M2 13“ | 256 GB | *TOP*"
@@ -9904,6 +9951,30 @@
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air 15,3\" (2023) M2"
+   ],
+   "3556564105": [
+    890.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air 15\" M2 2023 · 16 GB · 512 GB · Polarstern · Akku 100"
+   ],
+   "3556630976": [
+    849.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M2 | 16 GB RAM | 512 GB SSD |"
+   ],
+   "3556648668": [
+    720.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M2 8gb 13,6 Inch 512 gb neuwertig"
+   ],
+   "3556658881": [
+    680.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MacBook Air 2022 M2, 8GB RAM, 256GB SSD"
    ]
   },
   "Makita DHP485 Set": {
@@ -10491,7 +10562,7 @@
    ],
    "3553564190": [
     300.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-27",
     "Asus Geforce Rtx 3060 12GB"
    ],
@@ -10740,6 +10811,18 @@
     "2026-10-30",
     "2026-10-30",
     "Gigabyte GeForce RTX 3060 Windforce OC 12GB"
+   ],
+   "3556572979": [
+    249.0,
+    "2026-10-30",
+    "2026-10-30",
+    "MSI GeForce RTX 3060 AERO ITX 12 GB GDDR6 | Single Fan | OVP"
+   ],
+   "3556601880": [
+    300.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Nvidia Geforce Asus RTX 3060 TUF 12GB Grafikkarte ♦️Händler♦️"
    ]
   },
   "RTX 3070": {
@@ -11798,6 +11881,24 @@
     "2026-10-30",
     "2026-10-30",
     "RTX 3070 ASUS TUF"
+   ],
+   "3556617486": [
+    290.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Nur heute Zotac GeForce RTX3070 AMP HOLOBLACK"
+   ],
+   "3556629095": [
+    280.0,
+    "2026-10-30",
+    "2026-10-30",
+    "GeForce RTX 3070 Gigabyte  gebraucht zum Verkauf"
+   ],
+   "3556630454": [
+    350.0,
+    "2026-10-30",
+    "2026-10-30",
+    "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC 8GB GDDR6"
    ]
   },
   "RTX 3080": {
@@ -12498,7 +12599,7 @@
     "ASUS TUF Gaming GeForce RTX 3080 10GB Grafikkarte"
    ],
    "3556263926": [
-    420.0,
+    390.0,
     "2026-10-30",
     "2026-10-30",
     "GIGABYTE AORUS RTX 3080 MASTER 10 GB – Sehr guter Zustand"
@@ -12514,6 +12615,12 @@
     "2026-10-30",
     "2026-10-30",
     "MSI RTX 3080 SuprimX"
+   ],
+   "3556617864": [
+    459.0,
+    "2026-10-30",
+    "2026-10-30",
+    "RTX 3080 MSI Suprim X Nvidia DLSS GPU Grafikkarte CUDA"
    ]
   },
   "RTX 4060 Ti": {
@@ -12872,10 +12979,16 @@
     "MSI RTX 4060Ti VENTUS 2X BLACK 16GB OC"
    ],
    "3556515514": [
-    320.0,
+    300.0,
     "2026-10-30",
     "2026-10-30",
     "pny geforce rtx 4060 ti xlr8 gaming 16gb"
+   ],
+   "3556606214": [
+    400.0,
+    "2026-10-30",
+    "2026-10-30",
+    "ASUS Geforce RTX 4060Ti 8GB"
    ]
   },
   "RTX 4070": {
@@ -13172,6 +13285,12 @@
     "2026-10-30",
     "2026-10-29",
     "GIGABYTE RTX 4070 Windforce OC 12G - TOP"
+   ],
+   "3556647423": [
+    500.0,
+    "2026-10-30",
+    "2026-10-30",
+    "NVIDIA GeForce RTX 4070 Founders Edition"
    ]
   },
   "RTX 4070 Super": {
@@ -14266,6 +14385,12 @@
     "2026-10-30",
     "2026-10-30",
     "PowerColor AMD Radeon RX 6800 XT Grafikkarte"
+   ],
+   "3556648160": [
+    580.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Grafikkarte XFX Speedster SWFT 319 Radeon RX 6800XT"
    ]
   },
   "RX 7800 XT": {
@@ -15275,7 +15400,7 @@
     "AMD Ryzen 7 5800x3D"
    ],
    "3552509764": [
-    260.0,
+    255.0,
     "2026-10-30",
     "2026-10-25",
     "AMD Ryzen 7 5800X3D (AM4 CPU/Prozessor)"
@@ -16011,6 +16136,12 @@
     "2026-10-30",
     "2026-10-29",
     "Samsung 970 EVO Plus 2TB NVMe M.2 SSD"
+   ],
+   "3556640165": [
+    70.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Samsung 970 Evo Plus - NVME - 2TB - Nur heute"
    ]
   },
   "Samsung 990 Pro 2TB": {
@@ -16447,7 +16578,7 @@
     "Neu: Samsung 990 Pro PCIe 4.0 NVMe M.2 SSD 2TB Festplatte"
    ],
    "3555002331": [
-    300.0,
+    250.0,
     "2026-10-30",
     "2026-10-28",
     "Samsung 990 PRO 2 TB SSD mit Heatsink"
@@ -16465,7 +16596,7 @@
     "Samsung 990 PRO 2TB NVMe M.2 SSD mit Heatsink"
    ],
    "3555121135": [
-    300.0,
+    250.0,
     "2026-10-30",
     "2026-10-28",
     "Samsung 990 PRO 2 TB SSD"
@@ -16535,6 +16666,12 @@
     "2026-10-30",
     "2026-10-30",
     "Samsung 990 Pro 2tb NVME m.2 SSD"
+   ],
+   "3556593381": [
+    220.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Samsung 990 PRO 2TB NVMe M.2 SSD – PCIe 4.0 – Sehr schnell"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -16995,7 +17132,7 @@
    ],
    "3526480762": [
     120.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-18",
     "SEAGATE IronWolf 4TB HDD Festplatte"
    ],
@@ -17048,7 +17185,7 @@
     "Seagate IronWolf 4TB NAS HDD SATA 3, 3,5 Zoll interne Festplatte"
    ],
    "3543526795": [
-    95.0,
+    90.0,
     "2026-10-30",
     "2026-10-18",
     "HDD Festplatte Seagate Ironwolf 4TB"
@@ -17972,6 +18109,18 @@
     "2026-10-30",
     "2026-10-30",
     "Sony WH-1000XM5 Kopfhörer Smoky Pink - unbenutzt"
+   ],
+   "3556479068": [
+    130.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Sony WH-1000XM5 ANC Kopfhörer"
+   ],
+   "3556671884": [
+    100.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Sony WH-1000XM5 Kopfhörer"
    ]
   },
   "Synology DS220+": {
@@ -18168,6 +18317,12 @@
     "2026-10-30",
     "2026-10-30",
     "Synology DiskStation DS220j NAS Netzlaufwerk"
+   ],
+   "3556671521": [
+    85.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Synology DS220J"
    ]
   },
   "Synology DS920+": {
@@ -18282,6 +18437,12 @@
     "2026-10-30",
     "2026-10-29",
     "Lenovo ThinkPad L14 Gen 3 – Intel i7 – 16 GB RAM – 1 TB SSD"
+   ],
+   "3556586815": [
+    310.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Lenovo ThinkPad L14 Gen 3 Intel 512GB SSD 16GB RAM Windows 11 Pro"
    ]
   },
   "ThinkPad T14 Gen 2": {
@@ -18442,7 +18603,7 @@
     "Lenovo ThinkPad T14 Gen2 G2 16GB/256GB i5-1145G7 14\" Akku 89%"
    ],
    "3551429647": [
-    399.0,
+    369.0,
     "2026-10-30",
     "2026-10-25",
     "Lenovo Thinkpad T14 Gen 2 G2 i7-1185G7 16GB 512GB FullHD"
@@ -18518,6 +18679,12 @@
     "2026-10-30",
     "2026-10-29",
     "Lenovo thinkpad T14 Gen 2 | intel i7-1185G7|32 GB RAM | 256 GBssd"
+   ],
+   "3556563834": [
+    399.0,
+    "2026-10-30",
+    "2026-10-30",
+    "♻️ WIE NEU | Lenovo ThinkPad T14 Gen2 | 24M Gar | 100% Akku |16GB"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -19123,6 +19290,12 @@
     "2026-10-30",
     "2026-10-29",
     "Western Digital WD BLACK SN850X NVMe SSD 2TB, neuwertig"
+   ],
+   "3556669355": [
+    315.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Wd Black SN850X 2TB NVMe SSD Interne Festplatte"
    ]
   },
   "WD Red Plus 4TB": {
