@@ -516,8 +516,8 @@
   "3556210166": "2026-10-30",
   "3556248895": "2026-10-30"
  },
- "laeufe": 323,
- "letzter_lauf": "2026-10-30T09:13:13",
+ "laeufe": 324,
+ "letzter_lauf": "2026-10-30T10:11:40",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2586,6 +2586,18 @@
     "2026-10-30",
     "2026-10-30",
     "Crucial DDR5 32GB (2x16GB) 6000MT/s UDIMM Kit"
+   ],
+   "3556363065": [
+    499.0,
+    "2026-10-30",
+    "2026-10-30",
+    "G.Skill Trident Z5 Neo RGB 32GB DDR5-6000 CL30 RAM EXPO"
+   ],
+   "3556364395": [
+    350.0,
+    "2026-10-30",
+    "2026-10-30",
+    "32 GB DDR5 Crucial Pro 6000 cl36"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3861,6 +3873,18 @@
     "2026-10-30",
     "2026-10-30",
     "16 GB DDR4 RAM SODIMM Micron 3200ِAA"
+   ],
+   "3556320919": [
+    100.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Crucial DDR4-3200 SODIMM 16GB"
+   ],
+   "3556323697": [
+    100.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Crucial DDR4-3200 SODIMM 16GB"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -8308,9 +8332,27 @@
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air rose 13“ M1 Prozessor"
+   ],
+   "3556337910": [
+    450.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Macbook Air M1 8 GB RAM/512 GB SSD"
+   ],
+   "3556358027": [
+    580.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M1 2020, 8GB RAM, 512GB SSD, Space Grey WIE NEU"
    ]
   },
   "MacBook Air M2": {
+   "3449099552": [
+    650.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air 13,6” M2 100 % Akkukapazität+ Magic Mouse"
+   ],
    "3524590295": [
     650.0,
     "2026-10-26",
@@ -10460,6 +10502,12 @@
     "2026-10-30",
     "2026-10-30",
     "ASUS Dual GeForce RTX 3060 OC V2 12GB – Voll funktionsfähig – OVP"
+   ],
+   "3556332813": [
+    250.0,
+    "2026-10-30",
+    "2026-10-30",
+    "INNO3D GeForce RTX 3060 Twin X2 OC mit 12 GB GDDR6 Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -12199,6 +12247,12 @@
     "2026-10-29",
     "ASUS TUF Gaming GeForce RTX 3080 10GB Grafikkarte"
    ],
+   "3556263926": [
+    420.0,
+    "2026-10-30",
+    "2026-10-30",
+    "GIGABYTE AORUS RTX 3080 MASTER 10 GB – Sehr guter Zustand"
+   ],
    "3556305705": [
     500.0,
     "2026-10-30",
@@ -12548,6 +12602,12 @@
     "2026-10-30",
     "2026-10-29",
     "MSI GeForce RTX 4060 Ti Ventus 2X Black OC Edition"
+   ],
+   "3556322371": [
+    425.0,
+    "2026-10-30",
+    "2026-10-30",
+    "PNY GeForce RTX 4060 Ti XLR8 Gaming 16GB"
    ]
   },
   "RTX 4070": {
@@ -13256,6 +13316,12 @@
     "2026-10-29",
     "2026-10-29",
     "Nvidia Rtx 4070ti Super"
+   ],
+   "3556318642": [
+    880.0,
+    "2026-10-30",
+    "2026-10-30",
+    "PNY GeForce RTX 4070 Ti SUPER OC 16GB"
    ]
   },
   "RTX 4080": {
@@ -13731,7 +13797,7 @@
    ],
    "3527280170": [
     425.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-21",
     "Powercolor Red Dragon RX 6800 XT 16GB Grafikkarte"
    ],
@@ -14999,6 +15065,12 @@
     "2026-10-29",
     "2026-10-29",
     "Ryzen 7 5800X3D , Set"
+   ],
+   "3556341094": [
+    250.0,
+    "2026-10-30",
+    "2026-10-30",
+    "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -16750,7 +16822,7 @@
     "Seagate IronWolf, NAS interne Festplatte 4TB"
    ],
    "3555796481": [
-    170.0,
+    160.0,
     "2026-10-30",
     "2026-10-29",
     "Seagate IronWolf 4TB HDD - NEU - unbenutzt"
@@ -18444,7 +18516,7 @@
     "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
    ],
    "3555188116": [
-    440.0,
+    430.0,
     "2026-10-30",
     "2026-10-28",
     "Lenovo Thinkpad X1 Carbon Gen 9"
@@ -18837,7 +18909,7 @@
     "WD Red Plus 3,5 Zoll Sata 8 TB 256 MB Festplatte"
    ],
    "3555316501": [
-    320.0,
+    310.0,
     "2026-10-30",
     "2026-10-29",
     "WD Red Plus 8TB"
