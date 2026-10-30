@@ -526,8 +526,8 @@
   "3556671521": "2026-10-30",
   "3556712550": "2026-10-30"
  },
- "laeufe": 331,
- "letzter_lauf": "2026-10-30T18:03:11",
+ "laeufe": 332,
+ "letzter_lauf": "2026-10-30T19:10:05",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -5080,6 +5080,12 @@
     "2026-10-30",
     "2026-10-29",
     "Intel i7 14700k (Verpackung beschädigt, Prozessor nie benutzt)"
+   ],
+   "3556868442": [
+    370.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Neu Intel I7-14700K Gaming und Originalverpackt"
    ]
   },
   "Keychron Tastatur": {
@@ -10180,6 +10186,12 @@
     "2026-10-30",
     "2026-10-30",
     "Apple MacBook Air M2 (13,6“) - Space Grau - 8GB RAM/256 GB- TOP"
+   ],
+   "3556881261": [
+    800.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Apple MacBook Air M2 13,6” 16GB RAM 256GB SSD OVP + Zubehör"
    ]
   },
   "Makita DHP485 Set": {
@@ -11034,6 +11046,12 @@
     "2026-10-30",
     "2026-10-30",
     "Gigabyte Geforce RTX 3060 OC 12gb DDR6 Grafikkarte"
+   ],
+   "3556850752": [
+    170.0,
+    "2026-10-30",
+    "2026-10-30",
+    "GeForce RTX 3060 12GB"
    ]
   },
   "RTX 3070": {
@@ -12828,7 +12846,7 @@
     "ASUS TUF Gaming GeForce RTX 3080 10GB OC Grafikkarte"
    ],
    "3556387112": [
-    499.0,
+    449.0,
     "2026-10-30",
     "2026-10-30",
     "MSI RTX 3080 SuprimX"
@@ -13214,7 +13232,7 @@
     "ASUS Geforce RTX 4060Ti 8GB"
    ],
    "3556819085": [
-    299.0,
+    499.0,
     "2026-10-30",
     "2026-10-30",
     "Gigabyte GeForce RTX 4060 Ti 16GB GDDR6 Grafikkarte"
@@ -15771,6 +15789,12 @@
     "2026-10-30",
     "2026-10-30",
     "AMD Ryzen 7 5800X3D 8-Core CPU Sockel AM4 3,4GHz PCIe 4.0 MPN"
+   ],
+   "3556839083": [
+    200.0,
+    "2026-10-30",
+    "2026-10-30",
+    "Ryzen 7 5800X3D - Komplettset"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -16664,7 +16688,7 @@
    ],
    "3547260523": [
     300.0,
-    "2026-10-29",
+    "2026-10-30",
     "2026-10-21",
     "Samsung 990 Pro 2TB NVMe SSD mit Heatsink (MZ-V9P2T0GW)"
    ],
@@ -19234,10 +19258,10 @@
     "Lenovo ThinkPad X1 Carbon Gen 9-i5/8GB/256 GB SSD"
    ],
    "3522167239": [
-    550.0,
+    545.0,
     "2026-10-30",
     "2026-10-22",
-    "Lenovo ThinkPad X1 Carbon Gen 9 14 Zoll Ultrabook DE *VERSAND*"
+    "Lenovo X1 Carbon Gen 9   i7-1185G7 16GB Ram Ultrabook *VERSAND*"
    ],
    "3530976537": [
     450.0,
