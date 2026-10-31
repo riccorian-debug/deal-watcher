@@ -543,9 +543,24 @@
   "3557814280": "2026-10-31",
   "3557833301": "2026-10-31"
  },
- "laeufe": 348,
- "letzter_lauf": "2026-10-31T17:52:54",
- "offen": {},
+ "laeufe": 349,
+ "letzter_lauf": "2026-10-31T19:04:49",
+ "offen": {
+  "3557856947": {
+   "bis": "2026-11-03",
+   "datum": "",
+   "direct": false,
+   "gesuch": false,
+   "id": "3557856947",
+   "kategorie": "pc-zubehoer",
+   "ort": "52353 Düren",
+   "query": "EliteBook RAM 32GB SO-DIMM",
+   "ship": true,
+   "title": "Samsung 32GB DDR4 3200MHz RAM – 2x16GB SO-DIMM Notebook",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-32gb-ddr4-3200mhz-ram-2x16gb-so-dimm-notebook/3557856947-225-1770",
+   "vb": false
+  }
+ },
  "pools": {
   "Arduino/ESP32 Starter-Set": {
    "2579740078": [
@@ -4778,6 +4793,12 @@
     "2026-10-31",
     "2026-10-31",
     "Micron 32GB (2x16GB) DDR4 SO-DIMM 3200MHz"
+   ],
+   "3557856947": [
+    80.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung 32GB DDR4 3200MHz RAM – 2x16GB SO-DIMM Notebook"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -11920,7 +11941,7 @@
    ],
    "3499310583": [
     299.0,
-    "2026-10-30",
+    "2026-10-31",
     "2026-10-23",
     "Asus RTX 3070 8GB ROG Strix Gaming OC ►Händler◄"
    ],
@@ -13039,6 +13060,18 @@
     "2026-10-31",
     "2026-10-31",
     "Geforce RTX 3070 8GB"
+   ],
+   "3557873869": [
+    270.0,
+    "2026-10-31",
+    "2026-10-31",
+    "GeForce RTX 3070 8 GB  – 270 € pro Stück"
+   ],
+   "3557881927": [
+    250.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Grafikkarte ZOTAC RTX 3070"
    ]
   },
   "RTX 3080": {
@@ -21736,7 +21769,7 @@
  "zustand": {
   "leer_in_folge": 0,
   "letzte_warnung": "",
-  "pause_bis": "2026-10-28T19:18:38",
+  "pause_bis": "2026-11-01T01:04:49",
   "pause_h": 6
  }
 }
