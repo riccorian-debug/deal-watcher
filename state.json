@@ -392,6 +392,7 @@
   "3546952316": "2026-10-21",
   "3547696225": "2026-10-22",
   "3548226505": "2026-10-24",
+  "3548465372": "2026-10-31",
   "3548488909": "2026-10-23",
   "3548522749": "2026-10-23",
   "3548703765": "2026-10-27",
@@ -528,10 +529,11 @@
   "3556760718": "2026-10-30",
   "3556914979": "2026-10-30",
   "3557031690": "2026-10-31",
-  "3557113172": "2026-10-31"
+  "3557113172": "2026-10-31",
+  "3557129001": "2026-10-31"
  },
- "laeufe": 339,
- "letzter_lauf": "2026-10-31T09:02:08",
+ "laeufe": 340,
+ "letzter_lauf": "2026-10-31T10:01:44",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2762,6 +2764,12 @@
     "2026-10-31",
     "2026-10-31",
     "Kingston FURY Beast RGB 32GB DDR5-6000 CL30 – 2x16GB EXPO"
+   ],
+   "3557219602": [
+    380.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial Pro Series DDR5 32GB (2x16GB) 6000MT/s RAM Kit"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4121,6 +4129,12 @@
     "2026-10-31",
     "2026-10-31",
     "Samsung 16 GB DDR4 SO-DIMM 3200 MHz Laptop-RAM"
+   ],
+   "3557219154": [
+    75.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial 16GB DDR4-3200 RAM SO-DIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -5892,6 +5906,12 @@
     "2026-10-31",
     "2026-10-30",
     "95x Laptoptastaturen Dell Acer Lenovo Notebook keyboard Konvolut"
+   ],
+   "3557218712": [
+    70.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Dell Lenovo Thinkpad Laptop Konvolut"
    ]
   },
   "Konvolut RAM DDR4/DDR5": {
@@ -5939,6 +5959,12 @@
     "2026-10-23",
     "Großes Konvolut an SSD Festplatten 2,5 Zoll"
    ],
+   "3548465372": [
+    30.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung SSD Konvolut | 120GB – 500GB"
+   ],
    "3553328282": [
     30.0,
     "2026-10-31",
@@ -5962,6 +5988,12 @@
     "2026-10-31",
     "2026-10-28",
     "Festplatten Konvolut|SSD und HDD|3x500GB"
+   ],
+   "3557129001": [
+    10.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung SSD Konvolut | 120GB – 500GB"
    ]
   },
   "Labornetzteil 30V 5A": {
@@ -6383,7 +6415,7 @@
    ],
    "3518808308": [
     160.0,
-    "2026-10-30",
+    "2026-10-31",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 40B00300EU NEU"
    ],
@@ -6568,7 +6600,7 @@
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B00135EU"
    ],
    "3556831906": [
-    170.0,
+    120.0,
     "2026-10-31",
     "2026-10-30",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock"
@@ -8934,6 +8966,30 @@
     "2026-10-31",
     "2026-10-31",
     "Apple MacBook Air M1 – 8 GB RAM / 256 GB SSD – sehr guter Zustand"
+   ],
+   "3557171721": [
+    550.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air M1 8-Core CPU and 7-Core GPU 13 ,eZoll 512GB SSD"
+   ],
+   "3557195382": [
+    399.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M1 8Gb 265 GB Rosè Gold  Sehr gutem Zustand"
+   ],
+   "3557195393": [
+    555.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M1 Silber - Top Zustand 95% Akku, 8GB / 256GB"
+   ],
+   "3557222167": [
+    500.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M1 2020"
    ]
   },
   "MacBook Air M2": {
@@ -10424,6 +10480,24 @@
     "2026-10-31",
     "2026-10-31",
     "MacBook Air 13\" M2 | 16GB | 512GB SSD | Polarstern |OVP+Rechnung"
+   ],
+   "3557176537": [
+    629.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air 13 M2 8 GB 256 GB Space Grau Akku 90 Prozent"
+   ],
+   "3557190508": [
+    650.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air M2 13,6\" (2022) 8 GB / 256 GB Space Grau"
+   ],
+   "3557224052": [
+    780.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Macbook Air M2 2022|256GB|100% Akku|Wie neu!"
    ]
   },
   "Makita DHP485 Set": {
@@ -11272,6 +11346,12 @@
     "2026-10-31",
     "2026-10-30",
     "Nvidia Geforce Asus RTX 3060 TUF 12GB Grafikkarte ♦️Händler♦️"
+   ],
+   "3556705019": [
+    350.0,
+    "2026-10-31",
+    "2026-10-31",
+    "ASUS TUF RTX 3060 12 GB V2 GAMING OC"
    ],
    "3556741687": [
     280.0,
@@ -12390,6 +12470,12 @@
     "2026-10-31",
     "2026-10-30",
     "Grafikkarte ASUS ROG Strix RTX 3070 8 G"
+   ],
+   "3557167936": [
+    450.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MSI GeForce RTX 3070 Gaming Z Trio 8G LHR - Top Zustand"
    ]
   },
   "RTX 3080": {
@@ -13136,6 +13222,12 @@
     "2026-10-31",
     "2026-10-31",
     "Gigabyte RTX 3080 VISION OC 10G Grafikkarte"
+   ],
+   "3557169009": [
+    550.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MSI GeForce RTX 3080 Suprim X 12GB LHR"
    ]
   },
   "RTX 4060 Ti": {
@@ -14278,6 +14370,12 @@
     "2026-10-31",
     "2026-10-30",
     "ASUS TUF Gaming GeForce RTX 4070 Ti Super 16GB"
+   ],
+   "3557217314": [
+    1000.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MSI GeForce RTX 4070Ti SUPER 16G VENTUS 2X OC"
    ]
   },
   "RTX 4080": {
@@ -16473,6 +16571,12 @@
     "2026-10-31",
     "2026-10-31",
     "AMD Gaming CPU Ryzen 7 7800x3D 8K 16 TH"
+   ],
+   "3557173820": [
+    250.0,
+    "2026-10-31",
+    "2026-10-31",
+    "AMD Ryzen 7 7800X3D"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -18810,6 +18914,18 @@
     "2026-10-31",
     "2026-10-31",
     "Sony WH-1000XM5 Over-Ear-Kopfhörer"
+   ],
+   "3557155794": [
+    169.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Sony WH-1000XM5 – Schwarz – Neuwertig – Rechnung vorhanden"
+   ],
+   "3557222914": [
+    160.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Sony WH-1000XM5"
    ]
   },
   "Synology DS220+": {
@@ -19521,6 +19637,12 @@
     "2026-10-29",
     "Lenovo ThinkPad T14 Gen 3, 16 GB RAM, 256 GB NVMe SSD"
    ],
+   "3556259225": [
+    420.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Lenovo ThinkPad T14 Gen 3 – i5-1240P, 24 GB RAM, WUXGA IPS, Win11"
+   ],
    "3556401973": [
     514.0,
     "2026-10-30",
@@ -19736,7 +19858,7 @@
     "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
    ],
    "3555188116": [
-    430.0,
+    420.0,
     "2026-10-31",
     "2026-10-28",
     "Lenovo Thinkpad X1 Carbon Gen 9"
