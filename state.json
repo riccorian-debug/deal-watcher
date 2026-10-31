@@ -535,8 +535,8 @@
   "3557135483": "2026-10-31",
   "3557195582": "2026-10-31"
  },
- "laeufe": 341,
- "letzter_lauf": "2026-10-31T10:58:58",
+ "laeufe": 342,
+ "letzter_lauf": "2026-10-31T11:55:54",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2332,7 +2332,7 @@
    ],
    "3551854404": [
     400.0,
-    "2026-10-25",
+    "2026-10-31",
     "2026-10-25",
     "Corsair Vengeance RGB 32GB Kit DDR5 6000 CL 30-36-36-76 (2x16GB)"
    ],
@@ -2638,7 +2638,7 @@
    ],
    "3555621122": [
     439.0,
-    "2026-10-30",
+    "2026-10-31",
     "2026-10-29",
     "Kingston Fury Beast 32GB DDR5 RAM | CL36-6000"
    ],
@@ -2797,6 +2797,12 @@
     "2026-10-31",
     "2026-10-31",
     "G.Skill 32GB DDR5-6000 DDR5 RAM F5-6000J3636F16GX2-FX5 CL36"
+   ],
+   "3557328426": [
+    410.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial DDR5 Pro RAM Kit 32 GB (2x 16 GB) – 6000MHz CL36"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4514,7 +4520,7 @@
     "Crucial 32 GB (2×16 GB) DDR4-3200 SO-DIMM RAM – MemTest86 geprüft"
    ],
    "3555174886": [
-    140.0,
+    135.0,
     "2026-10-31",
     "2026-10-28",
     "32 GB Samsung DDR4-3200 RAM | 2x16GB SO-DIMM | M471A2G43AB2-CWE"
@@ -4626,6 +4632,18 @@
     "2026-10-31",
     "2026-10-31",
     "Crucial 32GB RAM Kit (2x16GB) DDR4-3200 SODIMM"
+   ],
+   "3557327444": [
+    160.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial 32GB DDR4-3200 SO-DIMM Laptop RAM"
+   ],
+   "3557353753": [
+    200.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial 32GB DDR4-3200 SODIMM RAM Arbeitsspeicher"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -10509,7 +10527,7 @@
     "Macbook Air M2 13 2022 neuwertig ohne erkennbare Gebrauchsspuren"
    ],
    "3556827053": [
-    819.0,
+    760.0,
     "2026-10-31",
     "2026-10-30",
     "Apple MacBook Air M2 (13,6“) - Space Grau - 8GB RAM/256 GB- TOP"
@@ -10590,7 +10608,7 @@
     749.0,
     "2026-10-31",
     "2026-10-31",
-    "Apple MacBook Air M2 – 13,6 Zoll – Mitternacht – wie neu"
+    "Apple MacBook Air M2 – 13,6 Zoll – Mitternacht - wie NEU !!!"
    ]
   },
   "Makita DHP485 Set": {
@@ -13357,6 +13375,12 @@
     "2026-10-31",
     "2026-10-31",
     "ASUS TUF RTX 3080 OC 10GB OVP | Fast neuwertig, kaum genutzt"
+   ],
+   "3557321954": [
+    425.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Gigabyte NVIDIA GeForce RTX 3080 Gaming OC 10G"
    ]
   },
   "RTX 4060 Ti": {
@@ -16433,7 +16457,7 @@
    ],
    "3535209945": [
     220.0,
-    "2026-10-28",
+    "2026-10-31",
     "2026-10-21",
     "AMD Ryzen 7 7800x3d"
    ],
@@ -17588,6 +17612,18 @@
     "2026-10-31",
     "2026-10-31",
     "Samsung Festplatte 990 pro MZ-V9P2T0BW, M.2280, 2 TB SSD"
+   ],
+   "3557331507": [
+    320.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung 990 PRO 2 TB Interne M.2 PCle NVMe SSD"
+   ],
+   "3557400292": [
+    259.0,
+    "2026-10-31",
+    "2026-10-31",
+    "2TB Samsung 990 PRO NVMe M.2 SSD"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -19165,6 +19201,12 @@
     "2026-10-31",
     "2026-10-30",
     "Synology DS220+ NAS 2-Bay, fast unbenutzt, mit Rechnung TOP"
+   ],
+   "3557339548": [
+    240.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Synology DiskStation DS220+ 2-Bay NAS, Top Zustand, OVP, ohne HDD"
    ]
   },
   "Synology DS220j": {
@@ -20027,6 +20069,12 @@
     "2026-10-31",
     "2026-10-29",
     "Lenovo ThinkPad X1 Carbon Gen 9 | i7 | 16 GB RAM | 512 GB SSD"
+   ],
+   "3557362848": [
+    500.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Lenovo ThinkPad X1 Carbon Gen 9 – i5 – 16 GB RAM – 512 GB SSD"
    ]
   },
   "ThinkPad ohne Netzteil": {},
