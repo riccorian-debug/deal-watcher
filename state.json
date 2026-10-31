@@ -541,8 +541,8 @@
   "3557544133": "2026-10-31",
   "3557609255": "2026-10-31"
  },
- "laeufe": 346,
- "letzter_lauf": "2026-10-31T15:57:29",
+ "laeufe": 347,
+ "letzter_lauf": "2026-10-31T16:58:34",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2673,7 +2673,7 @@
     "T-Force Delta RGB DDR5 32GB (2x16GB) 6000MHz RAM"
    ],
    "3555621122": [
-    419.0,
+    439.0,
     "2026-10-31",
     "2026-10-29",
     "Kingston Fury Beast 32GB DDR5 RAM | CL36-6000"
@@ -2863,6 +2863,18 @@
     "2026-10-31",
     "2026-10-31",
     "ADATA XPG Lancer DDR5 32GB (2x16GB) 6000MHz RAM"
+   ],
+   "3557767456": [
+    459.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Patriot Viper Venom 32GB DDR5-6000 CL30 Kit neuwertig OVP"
+   ],
+   "3557782384": [
+    240.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial Pro DDR5 32GB Kit 2x16GB 6000MHz"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4264,6 +4276,12 @@
     "2026-10-31",
     "2026-10-31",
     "16GB SK hynix DDR4 RAM – 2×8GB – 3200MHz – SO-DIMM Laptop"
+   ],
+   "3557770598": [
+    60.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung 16GB DDR4 SO-DIMM 3200MHz (M471A2G43AB2-CWE),"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -9257,6 +9275,24 @@
     "2026-10-31",
     "2026-10-31",
     "MacBook Air 13, M1"
+   ],
+   "3557754809": [
+    450.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air M1 (2020) - 16 GB RAM / 256 GB SSD - Englische Tastat"
+   ],
+   "3557768762": [
+    600.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M1 (2020) – 96 % Akku –"
+   ],
+   "3557801569": [
+    450.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M1 – 16 GB RAM / 500 GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -10851,7 +10887,7 @@
     "MacBook Air M2 2022 13,6 Zoll, 8GB , 256 GB SSD"
    ],
    "3557631517": [
-    880.0,
+    829.0,
     "2026-10-31",
     "2026-10-31",
     "Macbook Air M2 NEUWERTIG"
@@ -10873,6 +10909,12 @@
     "2026-10-31",
     "2026-10-31",
     "MacBook 13 Air mit Apple M2 Chip"
+   ],
+   "3557762388": [
+    650.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M2 (2022) – 8 GB RAM – 256 GB SSD – Top Zustand"
    ]
   },
   "Makita DHP485 Set": {
@@ -12965,6 +13007,12 @@
     "2026-10-31",
     "2026-10-31",
     "MSI GeForce RTX 3070 Gaming Trio X"
+   ],
+   "3557744883": [
+    290.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Geforce RTX 3070 8GB"
    ]
   },
   "RTX 3080": {
@@ -14701,6 +14749,12 @@
     "2026-10-31",
     "2026-10-31",
     "12 GB ASUS TUF GeForce RTX 4070 Super OC Edition"
+   ],
+   "3557755434": [
+    700.0,
+    "2026-10-31",
+    "2026-10-31",
+    "GeForce RTX 4070 SUPER EAGLE OC ICE 12G"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -15307,7 +15361,7 @@
     "Gainward Panther GeForce RTX 4080 16GB GDDR6X OVP"
    ],
    "3556027113": [
-    1250.0,
+    1249.0,
     "2026-10-31",
     "2026-10-29",
     "INNO3D GeForce RTX 4080 Super iChill Frostbite Wassergekühlt"
@@ -16909,7 +16963,7 @@
     250.0,
     "2026-10-31",
     "2026-10-21",
-    "AMD RYZEN 7 7800X3D 8Kerne/16Threads 96MB L3 (AM5) - wie neu!"
+    "AMD RYZEN 7 7800X3D 8 Kerne/16 Threads 96MB L3 (AM5) - wie neu!"
    ],
    "3544378340": [
     280.0,
@@ -18062,6 +18116,42 @@
     "2026-10-31",
     "2026-10-31",
     "Samsung SSD 990 Pro 2 TB mit Heatsink"
+   ],
+   "3557751071": [
+    345.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung 990 PRO 2 TB NVMe SSD - NEU"
+   ],
+   "3557776522": [
+    320.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung SSD 990 PRO 2TB - NEU & ungeöffnet"
+   ],
+   "3557777230": [
+    320.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung SSD 990 PRO 2TB - NEU & ungeöffnet"
+   ],
+   "3557778018": [
+    320.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung SSD 990 PRO 2TB - NEU & ungeöffnet"
+   ],
+   "3557778392": [
+    320.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung SSD 990 PRO 2TB - NEU & ungeöffnet"
+   ],
+   "3557778897": [
+    320.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung SSD 990 PRO 2TB - NEU & ungeöffnet"
    ]
   },
   "Samsung PM983 1.92TB": {
