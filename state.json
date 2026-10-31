@@ -529,8 +529,8 @@
   "3556914979": "2026-10-30",
   "3557031690": "2026-10-31"
  },
- "laeufe": 337,
- "letzter_lauf": "2026-10-31T07:23:37",
+ "laeufe": 338,
+ "letzter_lauf": "2026-10-31T08:10:06",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2755,6 +2755,12 @@
     "2026-10-30",
     "2026-10-30",
     "32GB Corsair Vengeance RGB DDR5-6000 DIMM CL30 Dual Kit"
+   ],
+   "3557095194": [
+    449.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Kingston FURY Beast RGB 32GB DDR5-6000 CL30 – 2x16GB EXPO"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4542,6 +4548,12 @@
     "2026-10-31",
     "2026-10-31",
     "Crucial 32GB DDR4-3200 SO-DIMM CT32G4SFD832A – neu OVP"
+   ],
+   "3557095917": [
+    150.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial 32 GB DDR4-3200 RAM Kit – 2×16 GB SO-DIMM - Notebook"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -8305,7 +8317,7 @@
     "Apple MacBook Air M1 8GB RAM 256GB SSD Silber Notebook A2337"
    ],
    "3554453184": [
-    555.0,
+    500.0,
     "2026-10-31",
     "2026-10-31",
     "Apple MacBook Air 13,1\" M1 2020 8 GB 256 GB  w NEU Akku 99%"
@@ -13024,7 +13036,7 @@
    ],
    "3556015929": [
     450.0,
-    "2026-10-30",
+    "2026-10-31",
     "2026-10-29",
     "ASUS TUF Gaming GeForce RTX 3080 10GB Grafikkarte"
    ],
@@ -13443,6 +13455,18 @@
     "2026-10-31",
     "2026-10-30",
     "Gigabyte GeForce RTX 4060 Ti 16GB GDDR6 Grafikkarte"
+   ],
+   "3557080870": [
+    400.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Gigabyte GeForce RTX 4060 Ti Eagle 8G"
+   ],
+   "3557085675": [
+    399.0,
+    "2026-10-31",
+    "2026-10-31",
+    "KFA2 NIVDIA GeForce RTX 4060 Ti 8GB"
    ]
   },
   "RTX 4070": {
@@ -14605,7 +14629,7 @@
     "Rtx 4080 Msi Gaming Trio"
    ],
    "3556533200": [
-    750.0,
+    685.0,
     "2026-10-31",
     "2026-10-30",
     "MSI Gaming X Trio NVIDIA GeForce RTX 4080 SUPER"
@@ -14617,7 +14641,7 @@
     "INNO3D GeForce RTX 4080 X3 16 GB – Triple Fan"
    ],
    "3556767385": [
-    1200.0,
+    1150.0,
     "2026-10-31",
     "2026-10-30",
     "MSI GeForce RTX 4080 Super – OVP, Rechnung, Top Zustand"
@@ -16376,6 +16400,12 @@
     "2026-10-30",
     "2026-10-30",
     "Verkaufe AMD Ryzen 7 7800X3D"
+   ],
+   "3557094575": [
+    250.0,
+    "2026-10-31",
+    "2026-10-31",
+    "AMD Gaming CPU Ryzen 7 7800x3D 8K 16 TH"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -18917,7 +18947,7 @@
     "Synology DS220J"
    ],
    "3557031690": [
-    85.0,
+    75.0,
     "2026-10-31",
     "2026-10-31",
     "Synology DiskStation DS220j Nas"
