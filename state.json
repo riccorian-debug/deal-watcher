@@ -528,12 +528,15 @@
   "3556712550": "2026-10-30",
   "3556760718": "2026-10-30",
   "3556914979": "2026-10-30",
+  "3556945190": "2026-10-31",
   "3557031690": "2026-10-31",
   "3557113172": "2026-10-31",
-  "3557129001": "2026-10-31"
+  "3557129001": "2026-10-31",
+  "3557135483": "2026-10-31",
+  "3557195582": "2026-10-31"
  },
- "laeufe": 340,
- "letzter_lauf": "2026-10-31T10:01:44",
+ "laeufe": 341,
+ "letzter_lauf": "2026-10-31T10:58:58",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -896,6 +899,12 @@
     "2026-10-31",
     "2026-10-31",
     "OSOYOO Arduino Starter Kit V1 - Neu"
+   ],
+   "3557235084": [
+    50.0,
+    "2026-10-31",
+    "2026-10-31",
+    "SunFounder Uno Kit - Starter Set für Arduino"
    ]
   },
   "Bosch GBH 18V-26": {
@@ -1563,11 +1572,23 @@
     "2026-10-30",
     "Bose QuietComfort 45 kabellose Bluetooth Kopfhörer - NC BT - QC45"
    ],
+   "3556945190": [
+    130.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Bose QuietComfort Ultra Headphones - Noise Cancelling"
+   ],
    "3557050732": [
     300.0,
     "2026-10-31",
     "2026-10-31",
-    "Bose QuietComfort Ultra Kopfhörer"
+    "Bose QuietComfort Ultra Kopfhörer Neue"
+   ],
+   "3557109577": [
+    199.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Bose QuietComfort Ultra Kopfhörer – Wie neu"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -2730,7 +2751,7 @@
     "corsair ram 32gb ddr5 6000mhz"
    ],
    "3556746791": [
-    425.0,
+    410.0,
     "2026-10-31",
     "2026-10-30",
     "Crucial DDR5 Pro RAM Kit 32 GB (2x 16 GB) – 6000MHz CL36"
@@ -2770,6 +2791,12 @@
     "2026-10-31",
     "2026-10-31",
     "Crucial Pro Series DDR5 32GB (2x16GB) 6000MT/s RAM Kit"
+   ],
+   "3557303963": [
+    390.0,
+    "2026-10-31",
+    "2026-10-31",
+    "G.Skill 32GB DDR5-6000 DDR5 RAM F5-6000J3636F16GX2-FX5 CL36"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3269,7 +3296,7 @@
     "Dockingstation Dell WD19TB"
    ],
    "3538240589": [
-    65.0,
+    60.0,
     "2026-10-31",
     "2026-10-23",
     "Dell WD19TB Dockingstation inkl. 180W Netzteil"
@@ -3351,6 +3378,12 @@
     "2026-10-31",
     "2026-10-29",
     "Dell WD19TB Thunderbolt Dockingstation inkl. Netzteil"
+   ],
+   "3557195582": [
+    35.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Dell Docking Station WD19TB USB-C"
    ]
   },
   "EliteBook 840 G8": {
@@ -3617,6 +3650,12 @@
     "2026-10-31",
     "2026-10-30",
     "HP EliteBook 840 G8, i5,16 Gb,14 Zoll. 1000 Nits, Privacy Display"
+   ],
+   "3557287525": [
+    274.0,
+    "2026-10-31",
+    "2026-10-31",
+    "HP Elitebook 840 G8 , Intel Core i5 - 1145G7  16GB/256GB SSD"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -5239,6 +5278,12 @@
     "2026-10-24",
     "Keychron K5 Max Full Size Wireless Mechanical Keyboard"
    ],
+   "3537787280": [
+    70.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Keychron K13Pro Mechanische Tastatur"
+   ],
    "3543727692": [
     55.0,
     "2026-10-23",
@@ -5820,6 +5865,18 @@
     "2026-10-31",
     "2026-10-31",
     "Keychron K3 Max  Mechanische Wireless Tastatur"
+   ],
+   "3557135483": [
+    45.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Keychron K6 Brown Switches ISO-De"
+   ],
+   "3557158371": [
+    50.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Keychron K8 Tastatur DE / ISO Layout"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -6996,6 +7053,12 @@
     "2026-10-31",
     "2026-10-30",
     "Lenovo ThinkPad USB-C Dock Gen 2"
+   ],
+   "3557267550": [
+    45.0,
+    "2026-10-31",
+    "2026-10-31",
+    "lenovo thinkpad usb-c dock gen2 40"
    ]
   },
   "MacBook Air M1": {
@@ -8990,6 +9053,12 @@
     "2026-10-31",
     "2026-10-31",
     "Apple MacBook Air M1 2020"
+   ],
+   "3557304619": [
+    350.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M1 2020 – 8 GB RAM – 256 GB SSD – Silber"
    ]
   },
   "MacBook Air M2": {
@@ -9024,8 +9093,8 @@
     "MacBook Air 2023 15” M2"
    ],
    "3541071019": [
-    600.0,
-    "2026-10-23",
+    580.0,
+    "2026-10-31",
     "2026-10-23",
     "Apple MacBook Air M2, 8GB RAM, 256GB SSD"
    ],
@@ -10140,8 +10209,8 @@
     "Apple MacBook Air 13” M2 (2022) – Top Zustand"
    ],
    "3555422673": [
-    820.0,
-    "2026-10-29",
+    790.0,
+    "2026-10-31",
     "2026-10-29",
     "MacBook Air M2 13,6″ | 16 GB RAM | 256 GB SSD | Space Grau | OVP"
    ],
@@ -10494,10 +10563,34 @@
     "MacBook Air M2 13,6\" (2022) 8 GB / 256 GB Space Grau"
    ],
    "3557224052": [
-    780.0,
+    750.0,
     "2026-10-31",
     "2026-10-31",
     "Macbook Air M2 2022|256GB|100% Akku|Wie neu!"
+   ],
+   "3557237778": [
+    750.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air 13,6\" M2 Chip 100% Batterie selten benutzt"
+   ],
+   "3557247087": [
+    850.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air 15\" (M2, 2023) 100% Batterie | Top Zustand"
+   ],
+   "3557304717": [
+    700.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air M2 (16GB RAM / 256GB SSD)"
+   ],
+   "3557304829": [
+    749.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M2 – 13,6 Zoll – Mitternacht – wie neu"
    ]
   },
   "Makita DHP485 Set": {
@@ -10617,7 +10710,7 @@
     75.0,
     "2026-10-31",
     "2026-10-24",
-    "Pinecil V2 Lötkolben Set + Transparente Hülle + Silikonkabel NEU"
+    "Pinecil V2 Set-Lötkolben +Transparente Hülle + Silikonkabel NEU"
    ],
    "3549997949": [
     10.0,
@@ -11376,6 +11469,24 @@
     "2026-10-31",
     "2026-10-31",
     "EVGA GeForce RTX  3060 XC Gaming 12GB Grafikkarte"
+   ],
+   "3557237876": [
+    350.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MSI NVIDIA GeForce RTX 3060 Ventus 3X 12GB Grafikkarte"
+   ],
+   "3557266268": [
+    299.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MSI GeForce RTX 3060 VENTUS 2X 12GB OC – OVP – Sehr guter Zustand"
+   ],
+   "3557274459": [
+    300.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Gigabyte GeForce RTX 3060 Eagle 12GB GDDR6 – Top Zustand"
    ]
   },
   "RTX 3070": {
@@ -12476,6 +12587,12 @@
     "2026-10-31",
     "2026-10-31",
     "MSI GeForce RTX 3070 Gaming Z Trio 8G LHR - Top Zustand"
+   ],
+   "3557251684": [
+    295.0,
+    "2026-10-31",
+    "2026-10-31",
+    "ASUS Dual GeForce RTX 3070 OC Edition 8GB"
    ]
   },
   "RTX 3080": {
@@ -13228,6 +13345,18 @@
     "2026-10-31",
     "2026-10-31",
     "MSI GeForce RTX 3080 Suprim X 12GB LHR"
+   ],
+   "3557256813": [
+    380.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Aorus Xtreme RTX 3080 inkl Chibi + Tag + Ovp Neue Pads & PTM"
+   ],
+   "3557304614": [
+    490.0,
+    "2026-10-31",
+    "2026-10-31",
+    "ASUS TUF RTX 3080 OC 10GB OVP | Fast neuwertig, kaum genutzt"
    ]
   },
   "RTX 4060 Ti": {
@@ -14164,6 +14293,12 @@
     "2026-10-31",
     "2026-10-30",
     "Grafikkarte Nvidia Geforce RTX 4070 Super"
+   ],
+   "3557240079": [
+    500.0,
+    "2026-10-31",
+    "2026-10-31",
+    "12 GB ASUS TUF GeForce RTX 4070 Super OC Edition"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -14804,6 +14939,12 @@
     "2026-10-31",
     "2026-10-30",
     "MSI GeForce RTX 4080 Super – OVP, Rechnung, Top Zustand"
+   ],
+   "3557246985": [
+    1100.0,
+    "2026-10-31",
+    "2026-10-31",
+    "NVIDIA MSI Rtx 4080 Suprim X"
    ]
   },
   "RX 6800 XT": {
@@ -15964,6 +16105,18 @@
     "2026-10-31",
     "2026-10-31",
     "Raspberry Pi 5, 8 GB, 64 GB microSD, Netzteil, Alugehäuse"
+   ],
+   "3557073098": [
+    209.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Raspberry Pi 5 8GB PCIe M.2, 64 GB, NVMe SSD PCIe Board"
+   ],
+   "3557158095": [
+    220.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Raspberry Pi 5 | 8 GB RAM | 128 GB NVMe SSD | Komplettset"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -20750,7 +20903,7 @@
    ],
    "3505766409": [
     40.0,
-    "2026-10-30",
+    "2026-10-31",
     "2026-10-23",
     "NEU: Telekom Magenta SmartHome Set: Home Base, ZigBee Stick + ..."
    ],
