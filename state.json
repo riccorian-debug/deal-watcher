@@ -535,10 +535,11 @@
   "3557135483": "2026-10-31",
   "3557195582": "2026-10-31",
   "3557433954": "2026-10-31",
-  "3557462372": "2026-10-31"
+  "3557462372": "2026-10-31",
+  "3557544133": "2026-10-31"
  },
- "laeufe": 343,
- "letzter_lauf": "2026-10-31T13:15:48",
+ "laeufe": 344,
+ "letzter_lauf": "2026-10-31T14:01:08",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2811,6 +2812,12 @@
     "2026-10-31",
     "2026-10-31",
     "Kingston FURY Beast 32GB (2x16GB) DDR5-6000 CL30"
+   ],
+   "3557543966": [
+    470.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial DDR5 RAM Pro Series 32GB Kit (2x16GB) 6000 MT/s * NEU"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -9133,6 +9140,12 @@
     "2026-10-31",
     "2026-10-31",
     "Apple MacBook Air M1"
+   ],
+   "3557570044": [
+    299.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M1 (2020) Silber"
    ]
   },
   "MacBook Air M2": {
@@ -10667,7 +10680,7 @@
     "MacBook Air M2 (16GB RAM / 256GB SSD)"
    ],
    "3557304829": [
-    749.0,
+    679.0,
     "2026-10-31",
     "2026-10-31",
     "Apple MacBook Air M2 – 13,6 Zoll – Mitternacht - wie NEU !!!"
@@ -10689,6 +10702,36 @@
     "2026-10-31",
     "2026-10-31",
     "MacBook Air M2 15 Zoll wie neu"
+   ],
+   "3557534119": [
+    850.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air 15 Zoll M2 512GB wie neu"
+   ],
+   "3557535351": [
+    800.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air 15 Zoll (2023) – M2 – 8 GB RAM – 512 GB SSD"
+   ],
+   "3557544133": [
+    520.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air M2 (2022) 13“, 256GB SSD, 8GB RAM"
+   ],
+   "3557577830": [
+    799.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air 15,3 Zoll M2 – Polarstern – 98 % Akku – OVP"
+   ],
+   "3557583838": [
+    550.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air M2"
    ]
   },
   "Makita DHP485 Set": {
@@ -11599,7 +11642,7 @@
     "Palit GeForce RTX 3060 Dual OC 12GB - Sehr guter Zustand mit OVP"
    ],
    "3557467575": [
-    330.0,
+    315.0,
     "2026-10-31",
     "2026-10-31",
     "Gigabyte GeForce RTX 3060 12GB Vision OC Grafikkarte"
@@ -11609,6 +11652,12 @@
     "2026-10-31",
     "2026-10-31",
     "Nvidia RTX 3060 12 GB Vram NEU von Soyo"
+   ],
+   "3557547896": [
+    300.0,
+    "2026-10-31",
+    "2026-10-31",
+    "NVIDIA GeForce RTX 3060, 12GB (Zotac Twin Edge OC)"
    ]
   },
   "RTX 3070": {
@@ -12727,6 +12776,12 @@
     "2026-10-31",
     "2026-10-31",
     "Zotac RTX 3070"
+   ],
+   "3557567451": [
+    300.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Gigabyte GeForce RTX 3070 Eagle OC 8G Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -15103,6 +15158,18 @@
     "2026-10-31",
     "2026-10-31",
     "NVIDIA MSI Rtx 4080 Suprim X"
+   ],
+   "3557576010": [
+    1150.0,
+    "2026-10-31",
+    "2026-10-31",
+    "ASUS GeForce RTX 4080 Super ProArt Grafikkarte"
+   ],
+   "3557579726": [
+    970.0,
+    "2026-10-31",
+    "2026-10-31",
+    "GIGABYTE RTX 4080 SUPER AERO OC + RECHNUNG"
    ]
   },
   "RX 6800 XT": {
@@ -15761,6 +15828,12 @@
     "2026-10-31",
     "2026-10-31",
     "Sapphire Nitro + Radeon RX 7800 XT mit 16 GB GDDR6"
+   ],
+   "3557557070": [
+    600.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Gigabyte AMD Radeon RX 7800 XT 16GB"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -17764,6 +17837,12 @@
     "2026-10-31",
     "2026-10-31",
     "2TB Samsung 990 PRO NVMe M.2 SSD"
+   ],
+   "3557556902": [
+    300.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung SSD 990 Pro 2 TB mit Heatsink"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -17885,7 +17964,7 @@
     "Seagate 16TB Festplatte HDD Exos X20 ST16000NM000D #3"
    ],
    "3547414254": [
-    440.0,
+    380.0,
     "2026-10-31",
     "2026-10-21",
     "Seagate Exos X16 16TB Festplatten - Neu in Folie (nicht RMA!)"
@@ -19423,7 +19502,7 @@
     "2-Bay Synology DiskStation DS220j NAS Mix-ID"
    ],
    "3543625884": [
-    100.0,
+    90.0,
     "2026-10-31",
     "2026-10-18",
     "Synology DiskStation DS220j – 2-Bay NAS, ohne Festplatten"
