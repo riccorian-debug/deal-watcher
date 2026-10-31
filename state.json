@@ -541,8 +541,8 @@
   "3557544133": "2026-10-31",
   "3557609255": "2026-10-31"
  },
- "laeufe": 345,
- "letzter_lauf": "2026-10-31T14:58:36",
+ "laeufe": 346,
+ "letzter_lauf": "2026-10-31T15:57:29",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1845,6 +1845,12 @@
     "2026-10-30",
     "2026-10-30",
     "32Gb 2rx4 DDR4 2666v ram sk Hynix ecc rdimm"
+   ],
+   "3557591761": [
+    130.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Kingston 32GB DDR4-2666 ECC RDIMM KTD-PE426/32G neu"
    ]
   },
   "DDR4 ECC RDIMM 64GB": {
@@ -2792,6 +2798,12 @@
     "2026-10-30",
     "Corsair Vengeance RGB DDR5 32GB RAM (2x16GB) 6000MHz NEU & OVP"
    ],
+   "3556769089": [
+    430.0,
+    "2026-10-31",
+    "2026-10-31",
+    "2x Corsair Vengeance DDR5 RAM 32GB 6000MT/s"
+   ],
    "3556781800": [
     325.0,
     "2026-10-31",
@@ -2826,7 +2838,7 @@
     390.0,
     "2026-10-31",
     "2026-10-31",
-    "G.Skill 32GB DDR5-6000 DDR5 RAM F5-6000J3636F16GX2-FX5 CL36"
+    "G.Skill 32GB (2x16GB) DDR5 RAM F5-6000J3636F16GX2-FX5 CL36"
    ],
    "3557328426": [
     410.0,
@@ -4246,6 +4258,12 @@
     "2026-10-31",
     "2026-10-31",
     "16gb DDR4 RAM Samsung 3200MHz SO-DIMM"
+   ],
+   "3557721836": [
+    110.0,
+    "2026-10-31",
+    "2026-10-31",
+    "16GB SK hynix DDR4 RAM – 2×8GB – 3200MHz – SO-DIMM Laptop"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4716,6 +4734,12 @@
     "2026-10-31",
     "2026-10-31",
     "Crucial 32GB DDR4-3200 SODIMM RAM Arbeitsspeicher"
+   ],
+   "3557714923": [
+    120.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Micron 32GB (2x16GB) DDR4 SO-DIMM 3200MHz"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -4952,7 +4976,7 @@
    ],
    "3535556389": [
     115.0,
-    "2026-10-30",
+    "2026-10-31",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4"
    ],
@@ -6159,6 +6183,12 @@
     "2026-10-31",
     "2026-10-31",
     "Samsung SSD Konvolut | 120GB – 500GB"
+   ],
+   "3557574936": [
+    25.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Konvolut Festplatten & SSD: WD, Toshiba, HGST, Intenso, SanDisk"
    ]
   },
   "Labornetzteil 30V 5A": {
@@ -9221,6 +9251,12 @@
     "2026-10-31",
     "2026-10-31",
     "Apple MacBook Air 13\" M1 8GB 256GB Silber A2337 OVP"
+   ],
+   "3557707840": [
+    310.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air 13, M1"
    ]
   },
   "MacBook Air M2": {
@@ -10819,6 +10855,24 @@
     "2026-10-31",
     "2026-10-31",
     "Macbook Air M2 NEUWERTIG"
+   ],
+   "3557695124": [
+    550.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air M2"
+   ],
+   "3557704374": [
+    790.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M2 16 GB RAM 256 GB 13,6 Zoll neuwertig"
+   ],
+   "3557724413": [
+    680.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook 13 Air mit Apple M2 Chip"
    ]
   },
   "Makita DHP485 Set": {
@@ -11763,6 +11817,12 @@
     "2026-10-31",
     "2026-10-31",
     "Nvidia RTX 3060 12 GB HP OEM Grafikkarte"
+   ],
+   "3557669641": [
+    290.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Nvidia Geforce Dell RTX 3060 OEM 12GB"
    ]
   },
   "RTX 3070": {
@@ -12898,7 +12958,13 @@
     307.0,
     "2026-10-31",
     "2026-10-31",
-    "Gainward RTX 3070 Phantom (8GB) Grafikkarte"
+    "Gainward RTX 3070 Phantom GS (8GB) Grafikkarte"
+   ],
+   "3557713009": [
+    349.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MSI GeForce RTX 3070 Gaming Trio X"
    ]
   },
   "RTX 3080": {
@@ -14613,7 +14679,7 @@
     "RTX 4070 super ex oc Limited Edition pink"
    ],
    "3555586934": [
-    650.0,
+    620.0,
     "2026-10-31",
     "2026-10-29",
     "RTX 4070 Super Ex OC Limited Edition in Pink"
@@ -15559,6 +15625,12 @@
     "2026-10-31",
     "2026-10-31",
     "Grafikkarte XFX Speedster SWFT 319 Radeon RX 6800XT"
+   ],
+   "3557691246": [
+    415.0,
+    "2026-10-31",
+    "2026-10-31",
+    "ASRock Radeon RX 6800 XT Taichi 16GB | OVP"
    ]
   },
   "RX 7800 XT": {
@@ -16634,7 +16706,7 @@
     "AMD Ryzen 7 5800x3D"
    ],
    "3552509764": [
-    255.0,
+    250.0,
     "2026-10-31",
     "2026-10-25",
     "AMD Ryzen 7 5800X3D (AM4 CPU/Prozessor)"
@@ -17102,6 +17174,12 @@
     "2026-10-31",
     "2026-10-31",
     "AMD Ryzen 7 7800X3D"
+   ],
+   "3557697279": [
+    260.0,
+    "2026-10-31",
+    "2026-10-31",
+    "AMD Ryzen 7 7800X3D (Tray, neu)"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -19368,6 +19446,12 @@
     "2026-10-28",
     "Sony WH-1000XM5 Kopfhörer mit Noise Cancelling und Zubehör"
    ],
+   "3554544410": [
+    150.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Sony WH-1000XM5SA Kopfhörer NEU"
+   ],
    "3554681230": [
     150.0,
     "2026-10-31",
@@ -19499,6 +19583,18 @@
     "2026-10-31",
     "2026-10-31",
     "Sony WH-1000XM5 Schwarz, neuwertig, mit Garantie und Zubehör"
+   ],
+   "3557598517": [
+    160.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Sony WH-1000XM5 Schwarz"
+   ],
+   "3557614796": [
+    150.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Sony WH-1000XM5 kabellose Noise Cancelling Kopfhörer"
    ]
   },
   "Synology DS220+": {
