@@ -527,10 +527,11 @@
   "3556712550": "2026-10-30",
   "3556760718": "2026-10-30",
   "3556914979": "2026-10-30",
-  "3557031690": "2026-10-31"
+  "3557031690": "2026-10-31",
+  "3557113172": "2026-10-31"
  },
- "laeufe": 338,
- "letzter_lauf": "2026-10-31T08:10:06",
+ "laeufe": 339,
+ "letzter_lauf": "2026-10-31T09:02:08",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3389,7 +3390,7 @@
    ],
    "3513467149": [
     350.0,
-    "2026-10-30",
+    "2026-10-31",
     "2026-10-22",
     "HP Elitebook 840 G8 i5-1145G7 16GB RAM 512GB SSD Win 11 Pro"
    ],
@@ -4108,6 +4109,18 @@
     "2026-10-31",
     "2026-10-31",
     "Lexar DDR4 RAM 16GB SODIMM 3200MHz CL22"
+   ],
+   "3557113172": [
+    50.0,
+    "2026-10-31",
+    "2026-10-31",
+    "16 GB DDR4 RAM SODIMM 3200ِAA Sk Hynix"
+   ],
+   "3557116897": [
+    60.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung 16 GB DDR4 SO-DIMM 3200 MHz Laptop-RAM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4554,6 +4567,12 @@
     "2026-10-31",
     "2026-10-31",
     "Crucial 32 GB DDR4-3200 RAM Kit – 2×16 GB SO-DIMM - Notebook"
+   ],
+   "3557111268": [
+    199.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial 32GB RAM Kit (2x16GB) DDR4-3200 SODIMM"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -6195,6 +6214,12 @@
     "2026-10-31",
     "2026-10-30",
     "Lenovo ThinkCentre M920q i5-8500t, 32gb ram, 256gb m.2, vpro"
+   ],
+   "3557106336": [
+    220.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Lenovo ThinkCentre M920q Intel i5 9. Gen. 16GB RAM 256GB NVMe SSD"
    ]
   },
   "Lenovo ThinkVision P27h": {
@@ -8897,6 +8922,18 @@
     "2026-10-31",
     "2026-10-31",
     "MacBook Air 13 Zoll m1 2020"
+   ],
+   "3557122018": [
+    349.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple Macbook Air M1 256GB 8GB"
+   ],
+   "3557127694": [
+    530.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M1 – 8 GB RAM / 256 GB SSD – sehr guter Zustand"
    ]
   },
   "MacBook Air M2": {
@@ -10375,6 +10412,18 @@
     "2026-10-31",
     "2026-10-30",
     "Apple MacBook Air M2 2022 | 512 GB SSD | Sehr gepflegt I Rechnung"
+   ],
+   "3557138607": [
+    650.0,
+    "2026-10-31",
+    "2026-10-31",
+    "13,6 Apple MacBook Air mit Apple M2 Chip"
+   ],
+   "3557156251": [
+    879.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air 13\" M2 | 16GB | 512GB SSD | Polarstern |OVP+Rechnung"
    ]
   },
   "Makita DHP485 Set": {
@@ -11241,6 +11290,12 @@
     "2026-10-31",
     "2026-10-30",
     "NVIDIA GeForce RTX 3060 12GB VRAM (Dual-Fan) - Live Test in MUC"
+   ],
+   "3557150216": [
+    320.0,
+    "2026-10-31",
+    "2026-10-31",
+    "EVGA GeForce RTX  3060 XC Gaming 12GB Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -12265,7 +12320,7 @@
     "GIGABYTE GeForce RTX 3070 EAGLE OC 8GB GDDR6"
    ],
    "3555983628": [
-    315.0,
+    310.0,
     "2026-10-31",
     "2026-10-29",
     "MSI GeForce RTX 3070 Ventus 8GB Grafikkarte/GPU -neuwertig"
@@ -13467,6 +13522,12 @@
     "2026-10-31",
     "2026-10-31",
     "KFA2 NIVDIA GeForce RTX 4060 Ti 8GB"
+   ],
+   "3557112460": [
+    400.0,
+    "2026-10-31",
+    "2026-10-31",
+    "nvidia geforce rtx 4060 ti 16 gb (gigabyte 16gb oc) - wie neu"
    ]
   },
   "RTX 4070": {
@@ -14611,7 +14672,7 @@
     "Gainward Panther GeForce RTX 4080 16GB GDDR6X OVP"
    ],
    "3556027113": [
-    1274.0,
+    1250.0,
     "2026-10-31",
     "2026-10-29",
     "INNO3D GeForce RTX 4080 Super iChill Frostbite Wassergekühlt"
@@ -16068,6 +16129,12 @@
     "2026-10-30",
     "2026-10-30",
     "Ryzen 7 5800X3D - Komplettset"
+   ],
+   "3557155187": [
+    230.0,
+    "2026-10-31",
+    "2026-10-31",
+    "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -17258,6 +17325,12 @@
     "2026-10-31",
     "2026-10-30",
     "Samsung 990 PRO 2TB NVMe M.2 SSD – PCIe 4.0 – Sehr schnell"
+   ],
+   "3557114517": [
+    250.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Samsung Festplatte 990 pro MZ-V9P2T0BW, M.2280, 2 TB SSD"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -17868,9 +17941,9 @@
    ],
    "3555957172": [
     125.0,
-    "2026-10-30",
+    "2026-10-31",
     "2026-10-29",
-    "Seagate IronWolf 4TB NAS Festplatte(ST4000VN008)–87 Betriebsstun."
+    "Seagate IronWolf 4TB NAS Festplatte(ST4000VN008) – nur 87 Std."
    ],
    "3556185291": [
     109.0,
@@ -19652,7 +19725,7 @@
    ],
    "3554281459": [
     550.0,
-    "2026-10-28",
+    "2026-10-31",
     "2026-10-27",
     "Lenovo ThinkPad X1 Carbon Gen 9 |i7|16GB|512 UHD+ LTE AKKU NEU"
    ],
