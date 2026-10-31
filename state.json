@@ -533,10 +533,12 @@
   "3557113172": "2026-10-31",
   "3557129001": "2026-10-31",
   "3557135483": "2026-10-31",
-  "3557195582": "2026-10-31"
+  "3557195582": "2026-10-31",
+  "3557433954": "2026-10-31",
+  "3557462372": "2026-10-31"
  },
- "laeufe": 342,
- "letzter_lauf": "2026-10-31T11:55:54",
+ "laeufe": 343,
+ "letzter_lauf": "2026-10-31T13:15:48",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2637,7 +2639,7 @@
     "T-Force Delta RGB DDR5 32GB (2x16GB) 6000MHz RAM"
    ],
    "3555621122": [
-    439.0,
+    419.0,
     "2026-10-31",
     "2026-10-29",
     "Kingston Fury Beast 32GB DDR5 RAM | CL36-6000"
@@ -2803,6 +2805,12 @@
     "2026-10-31",
     "2026-10-31",
     "Crucial DDR5 Pro RAM Kit 32 GB (2x 16 GB) – 6000MHz CL36"
+   ],
+   "3557461434": [
+    420.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Kingston FURY Beast 32GB (2x16GB) DDR5-6000 CL30"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4180,9 +4188,21 @@
     "2026-10-31",
     "2026-10-31",
     "Crucial 16GB DDR4-3200 RAM SO-DIMM"
+   ],
+   "3557426436": [
+    55.0,
+    "2026-10-31",
+    "2026-10-31",
+    "16gb DDR4 RAM Samsung 3200MHz SO-DIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
+   "3371993422": [
+    197.0,
+    "2026-10-31",
+    "2026-10-31",
+    "32GB 2Rx8 PC4 DDR4-3200AA-SE1-11 Samsung DDR4 SO-DIMM Laptop Note"
+   ],
    "3542116149": [
     198.0,
     "2026-10-21",
@@ -5986,7 +6006,7 @@
     70.0,
     "2026-10-31",
     "2026-10-31",
-    "Dell Lenovo Thinkpad Laptop Konvolut"
+    "3 Dell Lenovo Thinkpad Laptop Konvolut"
    ]
   },
   "Konvolut RAM DDR4/DDR5": {
@@ -9077,9 +9097,51 @@
     "2026-10-31",
     "2026-10-31",
     "Apple MacBook Air M1 2020 – 8 GB RAM – 256 GB SSD – Silber"
+   ],
+   "3557433954": [
+    380.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air 13 Zoll, M1, 8GB RAM, 256GB SSD, Space Grau"
+   ],
+   "3557434323": [
+    570.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple 13” MacBook Air M1 250GB"
+   ],
+   "3557442555": [
+    490.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air 13″ M1 – 512 GB – sehr gepflegt"
+   ],
+   "3557494392": [
+    500.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air M1"
+   ],
+   "3557519753": [
+    490.0,
+    "2026-10-31",
+    "2026-10-31",
+    "original Apple MacBook Air M1 Chip 256GB SSD 8GB RAM A2337"
+   ],
+   "3557524713": [
+    315.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air M1"
    ]
   },
   "MacBook Air M2": {
+   "3209520384": [
+    749.0,
+    "2026-10-31",
+    "2026-10-31",
+    "⚡️Apple MacBook Air 13,6\" M2 (2022) 8GB/256GB⚡️749€⚡️"
+   ],
    "3449099552": [
     650.0,
     "2026-10-30",
@@ -10609,6 +10671,24 @@
     "2026-10-31",
     "2026-10-31",
     "Apple MacBook Air M2 – 13,6 Zoll – Mitternacht - wie NEU !!!"
+   ],
+   "3557440355": [
+    850.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air 15  Zoll (2023) M2 - 98% Akku - Top Zustand"
+   ],
+   "3557462372": [
+    550.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air 13,6\" M2 (2022) – Mitternacht"
+   ],
+   "3557506104": [
+    800.0,
+    "2026-10-31",
+    "2026-10-31",
+    "MacBook Air M2 15 Zoll wie neu"
    ]
   },
   "Makita DHP485 Set": {
@@ -11505,6 +11585,30 @@
     "2026-10-31",
     "2026-10-31",
     "Gigabyte GeForce RTX 3060 Eagle 12GB GDDR6 – Top Zustand"
+   ],
+   "3557425158": [
+    200.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Rtx 3060 12Gb"
+   ],
+   "3557453661": [
+    320.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Palit GeForce RTX 3060 Dual OC 12GB - Sehr guter Zustand mit OVP"
+   ],
+   "3557467575": [
+    330.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Gigabyte GeForce RTX 3060 12GB Vision OC Grafikkarte"
+   ],
+   "3557488154": [
+    340.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Nvidia RTX 3060 12 GB Vram NEU von Soyo"
    ]
   },
   "RTX 3070": {
@@ -12611,6 +12715,18 @@
     "2026-10-31",
     "2026-10-31",
     "ASUS Dual GeForce RTX 3070 OC Edition 8GB"
+   ],
+   "3557411145": [
+    320.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Gigabyte GeForce RTX 3070 Grafikkarte"
+   ],
+   "3557474856": [
+    260.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Zotac RTX 3070"
    ]
   },
   "RTX 3080": {
@@ -13381,6 +13497,12 @@
     "2026-10-31",
     "2026-10-31",
     "Gigabyte NVIDIA GeForce RTX 3080 Gaming OC 10G"
+   ],
+   "3557462289": [
+    440.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -14087,6 +14209,18 @@
     "2026-10-31",
     "2026-10-30",
     "Grafikkarte Gainward GeForce RTX4070 PHOENIX 12GB Neuwertig!"
+   ],
+   "3557413846": [
+    650.0,
+    "2026-10-31",
+    "2026-10-31",
+    "GIGABYTE GeForce RTX 4070 WINDFORCE OC V2 12GB GDDR6"
+   ],
+   "3557484805": [
+    650.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Rtx 4070 Tuf Gaming OC edition 12 gb"
    ]
   },
   "RTX 4070 Super": {
@@ -15621,6 +15755,12 @@
     "2026-10-31",
     "2026-10-30",
     "XFX Speedster QICK 319 Radeon™ RX 7800 XT Core Edition Gebraucht!"
+   ],
+   "3557434347": [
+    650.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Sapphire Nitro + Radeon RX 7800 XT mit 16 GB GDDR6"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -17428,7 +17568,7 @@
     "NVMe SSDs: Samsung 990 EVO Plus 2TB, 990 PRO 4TB, Predator 2TB"
    ],
    "3551479126": [
-    319.0,
+    300.0,
     "2026-10-31",
     "2026-10-25",
     "Samsung 990 PRO 2TB NVMe SSD mit Heatsink – NEU & OVP versiegelt"
@@ -18353,6 +18493,12 @@
     "2026-10-31",
     "2026-10-27",
     "8TB Seagate Ironwolf NAS Festplatte"
+   ],
+   "3557452939": [
+    170.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Seagate IronWolf 8TB (ST8000VN0022)"
    ]
   },
   "Shelly Plus Plug S": {
@@ -19115,6 +19261,18 @@
     "2026-10-31",
     "2026-10-31",
     "Sony WH-1000XM5"
+   ],
+   "3557236637": [
+    150.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Sony WH-1000XM5 Noise Cancelling Kopfhörer - Neuwertig!"
+   ],
+   "3557397277": [
+    180.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Sony WH-1000XM5 Schwarz, neuwertig, mit Garantie und Zubehör"
    ]
   },
   "Synology DS220+": {
@@ -19703,6 +19861,12 @@
     "2026-10-31",
     "2026-10-31",
     "Lenovo ThinkPad T14 Gen 2 – i5 – 16 GB RAM"
+   ],
+   "3557426878": [
+    400.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Lenovo ThinkPad T14 Gen 2 | i7-1165G7 | 32GB RAM"
    ]
   },
   "ThinkPad T14 Gen 3": {
