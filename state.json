@@ -539,10 +539,12 @@
   "3557462372": "2026-10-31",
   "3557468177": "2026-10-31",
   "3557544133": "2026-10-31",
-  "3557609255": "2026-10-31"
+  "3557609255": "2026-10-31",
+  "3557814280": "2026-10-31",
+  "3557833301": "2026-10-31"
  },
- "laeufe": 347,
- "letzter_lauf": "2026-10-31T16:58:34",
+ "laeufe": 348,
+ "letzter_lauf": "2026-10-31T17:52:54",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2875,6 +2877,12 @@
     "2026-10-31",
     "2026-10-31",
     "Crucial Pro DDR5 32GB Kit 2x16GB 6000MHz"
+   ],
+   "3557833301": [
+    300.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Crucial Pro Series DDR5 32GB (2x16GB) 6000MT/s RAM Kit"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4282,9 +4290,21 @@
     "2026-10-31",
     "2026-10-31",
     "Samsung 16GB DDR4 SO-DIMM 3200MHz (M471A2G43AB2-CWE),"
+   ],
+   "3557837115": [
+    130.0,
+    "2026-10-31",
+    "2026-10-31",
+    "2x Samsung 16GB RAM DDR4 PC4-3200AA SO-DIMM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
+   "3371992946": [
+    170.0,
+    "2026-10-31",
+    "2026-10-31",
+    "32GB 2Rx8 PC4 DDR4-3200AA-SE1-11 Kingston DDR4 SO-DIMM Laptop Not"
+   ],
    "3371993422": [
     197.0,
     "2026-10-31",
@@ -9271,7 +9291,7 @@
     "Apple MacBook Air 13\" M1 8GB 256GB Silber A2337 OVP"
    ],
    "3557707840": [
-    310.0,
+    270.0,
     "2026-10-31",
     "2026-10-31",
     "MacBook Air 13, M1"
@@ -10915,6 +10935,12 @@
     "2026-10-31",
     "2026-10-31",
     "Apple MacBook Air M2 (2022) – 8 GB RAM – 256 GB SSD – Top Zustand"
+   ],
+   "3557821737": [
+    750.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Apple MacBook Air 13,6\" M2, 8GB RAM, 256GB SSD, Space Grau"
    ]
   },
   "Makita DHP485 Set": {
@@ -13789,6 +13815,12 @@
     "2026-10-31",
     "2026-10-31",
     "Nvidia GeForce RTX 3080 MSI Suprim X 10GB"
+   ],
+   "3557827303": [
+    459.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Gigabyte AORUS GeForce RTX 3080 XTREME 10GB | OVP & Zubehör"
    ]
   },
   "RTX 4060 Ti": {
@@ -18618,7 +18650,7 @@
    ],
    "3526480762": [
     120.0,
-    "2026-10-30",
+    "2026-10-31",
     "2026-10-18",
     "SEAGATE IronWolf 4TB HDD Festplatte"
    ],
@@ -19901,7 +19933,7 @@
     "Synology DS220J"
    ],
    "3557031690": [
-    75.0,
+    70.0,
     "2026-10-31",
     "2026-10-31",
     "Synology DiskStation DS220j Nas"
@@ -20251,7 +20283,7 @@
     "Lenovo Thinkpad T14 Gen 2 Notebook, Neuwertig"
    ],
    "3555948070": [
-    389.0,
+    379.0,
     "2026-10-31",
     "2026-10-29",
     "Lenovo ThinkPad T14 Gen 2 · Core i7 · 16 GB · 512 GB SSD · Win11✅"
@@ -20431,6 +20463,12 @@
     "2026-10-31",
     "2026-10-30",
     "Lenovo ThinkPad T14 Gen 3 AMD Ryzen 5 Pro 6650U 16GB 512GB"
+   ],
+   "3557814757": [
+    499.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Lenovo ThinkPad T14 Gen 3: i5-1245U, 16 GB RAM, 500 GB - Wie NEU!"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -20651,6 +20689,12 @@
     "2026-10-31",
     "2026-10-31",
     "Lenovo ThinkPad X1 Carbon Gen 9 – i5 – 16 GB RAM – 512 GB SSD"
+   ],
+   "3557819243": [
+    325.0,
+    "2026-10-31",
+    "2026-10-31",
+    "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
    ]
   },
   "ThinkPad ohne Netzteil": {},
@@ -20914,6 +20958,12 @@
     "2026-10-31",
     "2026-10-30",
     "WD BLACK SN850X NVMe SSD 2TB mit Heatsink PS5 PC Neu & unbenutzt"
+   ],
+   "3557814280": [
+    210.0,
+    "2026-10-31",
+    "2026-10-31",
+    "WD_BLACK SN850X NVMe SSD 2TB – Top Zustand (100% Leistung"
    ]
   },
   "WD Red Plus 4TB": {
