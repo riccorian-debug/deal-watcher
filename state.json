@@ -557,8 +557,8 @@
   "3558526898": "2026-11-01",
   "3558559166": "2026-11-01"
  },
- "laeufe": 358,
- "letzter_lauf": "2026-11-01T14:59:04",
+ "laeufe": 359,
+ "letzter_lauf": "2026-11-01T15:56:23",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3912,6 +3912,12 @@
     "2026-11-01",
     "2026-11-01",
     "HP Elitebook 840 G8 , Intel Core i5 - 1145G7  16GB/256GB SSD"
+   ],
+   "3558744705": [
+    230.0,
+    "2026-11-01",
+    "2026-11-01",
+    "hp elitebook 840 g8"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -5020,6 +5026,12 @@
     "2026-11-01",
     "2026-11-01",
     "32GB RAM Kit (2x 16GB) Samsung DDR4 SO-DIMM 3200MHz für Laptop"
+   ],
+   "3558805101": [
+    240.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Corsair Vengeance SODIMM 32 GB ( 2x16GB) DDR 4 3200 MHz C22"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {
@@ -9814,6 +9826,60 @@
     "2026-11-01",
     "2026-11-01",
     "Mac Book Air M1 Akku:93%"
+   ],
+   "3558757357": [
+    600.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 13\" 256GB in Space Grau"
+   ],
+   "3558818504": [
+    500.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air (M1, 2020)"
+   ],
+   "3558821528": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Macbook Air M1 chip Ram 8GB"
+   ],
+   "3558829128": [
+    420.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 – 8 GB RAM / 256 GB SSD / 13 Zoll"
+   ],
+   "3558839920": [
+    400.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 – 8 GB RAM – 256 GB 13“"
+   ],
+   "3558847021": [
+    419.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air 13\" M1 – 8 GB RAM, 256 GB SSD, Space Grau"
+   ],
+   "3558864736": [
+    499.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 13\" Gold | 62 Ladezyklen | 96% Akku"
+   ],
+   "3558866899": [
+    610.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air 13“ M1, 8GB RAM, 256GB SSD, Modell A2337"
+   ],
+   "3558876519": [
+    345.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 2020  8 GB RAM - 256 GB SSD - 95 % Akku+ovp"
    ]
   },
   "MacBook Air M2": {
@@ -11538,6 +11604,30 @@
     "2026-11-01",
     "2026-11-01",
     "MacBook Air M2 (2022), 256GB, Mitternacht, sehr gut, OVP, 1. Hd."
+   ],
+   "3558814625": [
+    680.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 13 Zoll | 512 GB | OVP | Nezteil"
+   ],
+   "3558844092": [
+    700.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2"
+   ],
+   "3558879556": [
+    850.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Wie neu: Apple MacBook Air M2 13,6\" Mitternacht 8GB 512GB Ak: 87%"
+   ],
+   "3558900196": [
+    590.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2"
    ]
   },
   "Makita DHP485 Set": {
@@ -14586,6 +14676,12 @@
     "2026-11-01",
     "2026-11-01",
     "NVIDIA GeForce RTX 3080 10GB Gaming Pro Grafikkarte"
+   ],
+   "3558804967": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MSI GeForce RTX 3080 Gaming Trio 10GB Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -15312,7 +15408,7 @@
     "GIGABYTE GeForce RTX 4070 WINDFORCE OC V2 12G"
    ],
    "3558798380": [
-    550.0,
+    490.0,
     "2026-11-01",
     "2026-11-01",
     "Gainward RTX 4070 Ghost 12GB GDDR6X Grafikkarte"
@@ -16930,7 +17026,7 @@
     "Gigabyte AMD Radeon RX 7800 XT 16GB"
    ],
    "3557914424": [
-    600.0,
+    560.0,
     "2026-11-01",
     "2026-11-01",
     "Red Devil rx 7800xt 16gb"
@@ -17830,7 +17926,7 @@
    ],
    "3517577272": [
     300.0,
-    "2026-10-21",
+    "2026-11-01",
     "2026-10-21",
     "AMD Ryzen 7 7800X3D Processor – Wie neu / OVP"
    ],
@@ -20842,7 +20938,7 @@
     "NAS Synology Diskstation DS220J NEU & OVP"
    ],
    "3530046757": [
-    150.0,
+    160.0,
     "2026-11-01",
     "2026-10-18",
     "Synology DS220j (Cloud Server) (ca. 3 Jahre alt)"
@@ -21022,7 +21118,7 @@
     "Lenovo Thinkpad L14 Gen 3 AMD Ryzen Pro 7"
    ],
    "3540239452": [
-    380.0,
+    350.0,
     "2026-11-01",
     "2026-10-22",
     "Lenovo ThinkPad L14 Gen 3 | Ryzen 5 Pro | 16GB RAM | 512GB SSD"
