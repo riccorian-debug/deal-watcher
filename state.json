@@ -562,10 +562,11 @@
   "3558961955": "2026-11-01",
   "3559014823": "2026-11-01",
   "3559082723": "2026-11-01",
-  "3559145683": "2026-11-01"
+  "3559145683": "2026-11-01",
+  "3559218263": "2026-11-01"
  },
- "laeufe": 363,
- "letzter_lauf": "2026-11-01T19:56:57",
+ "laeufe": 364,
+ "letzter_lauf": "2026-11-01T20:58:53",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3048,6 +3049,18 @@
     "2026-11-01",
     "2026-11-01",
     "DDR5 6000MT‘s 32GB Kit"
+   ],
+   "3559232285": [
+    400.0,
+    "2026-11-01",
+    "2026-11-01",
+    "kit 32 GB DDR5 6000Mhz Corsair Veangance"
+   ],
+   "3559238176": [
+    449.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Patriot Viper Venom 32GB DDR5-6000 CL30 Kit neuwertig OVP"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -5081,6 +5094,12 @@
     "2026-11-01",
     "2026-11-01",
     "32GB (2x16GB) DDR4-3200 SO-DIMM Transcend – Laptop/NAS/Mini-PC"
+   ],
+   "3559262704": [
+    160.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Crucial 32GB DDR4-3200 SODIMM RAM Kit (2x16GB)"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {
@@ -6669,6 +6688,12 @@
     "2026-10-31",
     "2026-10-31",
     "Konvolut Festplatten & SSD: WD, Toshiba, HGST, Intenso, SanDisk"
+   ],
+   "3559218263": [
+    20.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Samsung/Intel SSD 250GB/240GB LOT Konvolut EVO 860"
    ]
   },
   "Labornetzteil 30V 5A": {
@@ -10031,6 +10056,18 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air 13,3” M1 (2020) | 8 GB RAM | 256 GB SSD | Space"
+   ],
+   "3559241869": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 - >90% Akku, 8GB RAM und 256GB SSD - Wie neu!"
+   ],
+   "3559255553": [
+    485.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air 13 Zoll (256GB SSD, M1, 8GB)"
    ]
   },
   "MacBook Air M2": {
@@ -11869,6 +11906,18 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M2 2022 - 16 GB RAM - 256 GB SSD - Mitternacht"
+   ],
+   "3559225837": [
+    650.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 (2022) – 256GB SSD – 8GB RAM – 92% Battery"
+   ],
+   "3559246173": [
+    650.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 2022, 8GB RAM, 256GB SSD, sehr guter Zustand"
    ]
   },
   "Makita DHP485 Set": {
@@ -12891,6 +12940,12 @@
     "2026-11-01",
     "2026-11-01",
     "Msi RTX 3060 Gaming Z Trio 12GB VRAM"
+   ],
+   "3559246107": [
+    309.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MSI RTX 3060 VENTUS 3X OC 12GB SEHR GEPFLEGT"
    ]
   },
   "RTX 3070": {
@@ -14959,6 +15014,18 @@
     "2026-11-01",
     "2026-11-01",
     "NVIDIA GeForce RTX 3080 10GB"
+   ],
+   "3559258229": [
+    440.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Gigabyte AORUS GeForce RTX 3080 MASTER 10GB LCD Display"
+   ],
+   "3559264463": [
+    440.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Nvidia Geforce Rtx 3080 Asus Rog Strix"
    ]
   },
   "RTX 4060 Ti": {
@@ -15967,6 +16034,12 @@
     "2026-11-01",
     "2026-11-01",
     "RTX 4070 Super kfa2 ex oc Limited Edition in pink"
+   ],
+   "3559261293": [
+    600.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Gainward NVIDIA GeForce RTX 4070 SUPER GHOST 12 GB Grafikkarte"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -17976,7 +18049,7 @@
     "Rigol DS1054Z Digital-Oszilloskop 4 Kanal 50 MHz"
    ],
    "3556312368": [
-    395.0,
+    370.0,
     "2026-11-01",
     "2026-10-30",
     "Rigol Oszilloskop DS1054Z Neuwertig! OVP und 4 Originalen Probes"
@@ -21209,6 +21282,18 @@
     "2026-11-01",
     "2026-11-01",
     "Sony WH-1000XM5 Kopfhörer mit Zubehör & Tischhalterung"
+   ],
+   "3559116101": [
+    160.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Sony WH-1000XM5 Noise-Cancelling Kopfhörer Schwarz"
+   ],
+   "3559198526": [
+    160.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Sony wh1000xm5"
    ]
   },
   "Synology DS220+": {
@@ -21821,6 +21906,12 @@
     "2026-11-01",
     "2026-11-01",
     "Lenovo Thinkpad T14 Gen 2 - i7 24 GB RAM 512 GB SSD + Rechnung"
+   ],
+   "3559267039": [
+    199.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Lenovo ThinkPad T14 Gen 2, i5, 16gb RAM, 512gb SSD, Display defek"
    ]
   },
   "ThinkPad T14 Gen 3": {
