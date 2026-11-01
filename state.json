@@ -290,6 +290,7 @@
   "3538305952": "2026-10-11",
   "3538307366": "2026-10-11",
   "3538309974": "2026-10-11",
+  "3538512823": "2026-11-01",
   "3538533547": "2026-10-12",
   "3538572756": "2026-10-12",
   "3538593683": "2026-10-12",
@@ -553,10 +554,11 @@
   "3558216186": "2026-11-01",
   "3558241633": "2026-11-01",
   "3558390235": "2026-11-01",
+  "3558526898": "2026-11-01",
   "3558559166": "2026-11-01"
  },
- "laeufe": 357,
- "letzter_lauf": "2026-11-01T14:04:57",
+ "laeufe": 358,
+ "letzter_lauf": "2026-11-01T14:59:04",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1820,7 +1822,7 @@
    ],
    "3531102658": [
     75.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "32GB (2x 16GB) HP / Samsung DDR4-2133 Server RAM ECC RDIMM"
    ],
@@ -3312,7 +3314,7 @@
     "Dell UltraSharp 27\" Monitor (U2722D) – Top Zustand & OVP"
    ],
    "3538512823": [
-    159.0,
+    149.0,
     "2026-11-01",
     "2026-10-23",
     "Dell UltraSharp U2722D 27 Zoll QHD IPS Monitor"
@@ -4484,7 +4486,7 @@
     "Samsung 16GB DDR4 3200 MHz RAM SO-DIMM Laptop Arbeitsspeicher"
    ],
    "3558238756": [
-    70.0,
+    60.0,
     "2026-11-01",
     "2026-11-01",
     "16 GB DDR4 RAM SODIMM 3200 MHZ von TeamGroup NEU"
@@ -4512,6 +4514,12 @@
     "2026-11-01",
     "2026-11-01",
     "V7 16GB DDR4 RAM Laptop / Mini-PC (3200 MHz, SO-DIMM) – Voll funk"
+   ],
+   "3558741391": [
+    60.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Crucial 16GB DDR4-3200 SODIMM RAM Arbeitsspeicher"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -5014,7 +5022,14 @@
     "32GB RAM Kit (2x 16GB) Samsung DDR4 SO-DIMM 3200MHz für Laptop"
    ]
   },
-  "EliteBook ohne SSD/Netzteil": {},
+  "EliteBook ohne SSD/Netzteil": {
+   "3558746012": [
+    120.0,
+    "2026-11-01",
+    "2026-11-01",
+    "HP 840 G7 Touchscreen Elitebook 256 GB SSD 16 GB 14\" ohne SSD RAM"
+   ]
+  },
   "Fluke 115/117 Multimeter": {
    "3539146735": [
     200.0,
@@ -5437,6 +5452,12 @@
     "2026-11-01",
     "2026-11-01",
     "HP Thunderbolt Dock G4 mit 230W Netzteil"
+   ],
+   "3558526898": [
+    50.0,
+    "2026-11-01",
+    "2026-11-01",
+    "HP Thunderbolt Dock G4 Dockingstation"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -9699,7 +9720,7 @@
     "Apple MacBook Air 13\" M1 (8GB / 256GB SSD) – Roségold – mit OVP"
    ],
    "3558201455": [
-    480.0,
+    449.0,
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M1 / sehr guter Zustand / OVP / aus 2023"
@@ -9781,6 +9802,18 @@
     "2026-11-01",
     "2026-11-01",
     "MacBook Air M1 2020"
+   ],
+   "3558729341": [
+    550.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 - 512gb SSD - 8gb RAM inkl. OVP + Zubehör"
+   ],
+   "3558751327": [
+    490.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Mac Book Air M1 Akku:93%"
    ]
   },
   "MacBook Air M2": {
@@ -11499,6 +11532,12 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M2 – 16 GB RAM – 1 TB SSD – Top-Zustand"
+   ],
+   "3558758018": [
+    650.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M2 (2022), 256GB, Mitternacht, sehr gut, OVP, 1. Hd."
    ]
   },
   "Makita DHP485 Set": {
@@ -12491,6 +12530,12 @@
     "2026-11-01",
     "2026-11-01",
     "12 GB - Geforce Rtx 3060"
+   ],
+   "3558740489": [
+    270.0,
+    "2026-11-01",
+    "2026-11-01",
+    "⁠Palit GeForce RTX 3060 Dual 12GB GDDR6 – Top Zustand⁠"
    ]
   },
   "RTX 3070": {
@@ -13687,6 +13732,24 @@
     "2026-11-01",
     "2026-11-01",
     "PNY RTX 3070"
+   ],
+   "3558678023": [
+    250.0,
+    "2026-11-01",
+    "2026-11-01",
+    "RTX 3070 (Gigabyte Eagle OC 8GB)"
+   ],
+   "3558700261": [
+    299.0,
+    "2026-11-01",
+    "2026-11-01",
+    "⭐NVIDIA GeForce RTX 3070 Founders Edition (FE) – Top Zustand"
+   ],
+   "3558770090": [
+    250.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Zotac RTX 3070 / Wie neu!!!"
    ]
   },
   "RTX 3080": {
@@ -14517,6 +14580,12 @@
     "2026-11-01",
     "2026-11-01",
     "rtx 3080 10GB KFA2"
+   ],
+   "3558771858": [
+    425.0,
+    "2026-11-01",
+    "2026-11-01",
+    "NVIDIA GeForce RTX 3080 10GB Gaming Pro Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -15241,6 +15310,12 @@
     "2026-11-01",
     "2026-10-31",
     "GIGABYTE GeForce RTX 4070 WINDFORCE OC V2 12G"
+   ],
+   "3558798380": [
+    550.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Gainward RTX 4070 Ghost 12GB GDDR6X Grafikkarte"
    ]
   },
   "RTX 4070 Super": {
@@ -17761,9 +17836,15 @@
    ],
    "3528382087": [
     220.0,
-    "2026-10-21",
+    "2026-11-01",
     "2026-10-21",
     "ryzen 7 7800x3d"
+   ],
+   "3532145991": [
+    240.0,
+    "2026-11-01",
+    "2026-11-01",
+    "AMD Ryzen 7 7800X3D | 2 Monate alt | Top Zustand"
    ],
    "3532616791": [
     250.0,
@@ -18272,7 +18353,7 @@
     "AMD RYZEN 7 9800X3D"
    ],
    "3555318094": [
-    340.0,
+    330.0,
     "2026-11-01",
     "2026-10-29",
     "AMD Ryzen 7 9800x3d NEU versiegelt"
@@ -19163,7 +19244,7 @@
     "Seagate Exos X16 16TB Festplatten - Neu in Folie (nicht RMA!)"
    ],
    "3548615660": [
-    399.0,
+    379.0,
     "2026-11-01",
     "2026-10-23",
     "NEUE! 16TB Seagate Exos X24 Festplatte | HDD 3,5 Zoll | SATA"
@@ -19496,7 +19577,7 @@
   "Seagate IronWolf 4TB": {
    "3522239301": [
     119.0,
-    "2026-10-27",
+    "2026-11-01",
     "2026-10-18",
     "#516 Seagate IronWolf 4TB NAS HDD ST4000VN008"
    ],
@@ -20607,10 +20688,22 @@
     "Sony WH1000XM5  Noise Cancelling"
    ],
    "3558413050": [
-    169.0,
+    150.0,
     "2026-11-01",
     "2026-11-01",
     "Sony WH-1000XM5 Kopfhörer – Schwarz"
+   ],
+   "3558528905": [
+    165.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Sony WH-1000XM5 - Wireless Noise Cancelling Kopfhörer"
+   ],
+   "3558683639": [
+    75.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Sony-WH-1000XM5-Kopfhörer-top"
    ]
   },
   "Synology DS220+": {
@@ -21258,7 +21351,7 @@
    ],
    "3528888890": [
     474.0,
-    "2026-10-29",
+    "2026-11-01",
     "2026-10-22",
     "Lenovo ThinkPad T14 Gen 3 | 16GB 512GB | WUXGA| QWERTY| Garantie&"
    ],
@@ -21854,7 +21947,7 @@
     "WD_Black SN850X NVMe 2tb"
    ],
    "3554677273": [
-    340.0,
+    315.0,
     "2026-11-01",
     "2026-10-28",
     "WD_Black SN850x 2TB NVMe SSD*FABRIKNEU!* Western Digital"
