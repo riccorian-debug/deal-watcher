@@ -555,10 +555,11 @@
   "3558241633": "2026-11-01",
   "3558390235": "2026-11-01",
   "3558526898": "2026-11-01",
-  "3558559166": "2026-11-01"
+  "3558559166": "2026-11-01",
+  "3558961955": "2026-11-01"
  },
- "laeufe": 359,
- "letzter_lauf": "2026-11-01T15:56:23",
+ "laeufe": 360,
+ "letzter_lauf": "2026-11-01T16:57:36",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3005,6 +3006,24 @@
     "2026-11-01",
     "2026-11-01",
     "32GB Crucial Pro DDR5-6000 CL36 Weiß | 2x16GB RAM"
+   ],
+   "3558929974": [
+    500.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Kingston FURY Renegade DDR5 32GB (2x16GB) 6000MT/s RAM"
+   ],
+   "3559001653": [
+    300.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz CL36 – Schwarz"
+   ],
+   "3559003463": [
+    300.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Corsair Vengeance RGB DDR5 32GB Kit – 6000MHz CL36 – 2x16GB"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4480,7 +4499,7 @@
     "Samsung SODIMM 16GB PC4 3200 DDR4 RAM 1Rx8"
    ],
    "3558103076": [
-    85.0,
+    83.0,
     "2026-11-01",
     "2026-11-01",
     "16GB RAM DDR4 SO-DIMM 3200 MHz PC4-25600S"
@@ -9880,6 +9899,18 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M1 2020  8 GB RAM - 256 GB SSD - 95 % Akku+ovp"
+   ],
+   "3558967733": [
+    499.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 Chip 2020 13 Zoll"
+   ],
+   "3558973677": [
+    499.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 Chip 2020 13 Zoll macOS vollfunktionsfähig"
    ]
   },
   "MacBook Air M2": {
@@ -11628,6 +11659,42 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M2"
+   ],
+   "3558920480": [
+    800.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2, 13,6“ Liquid Retina, 8GB, 256GB, Polarstern"
+   ],
+   "3558928687": [
+    720.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 (2022) – 13,6 Zoll – Sehr guter Zustand"
+   ],
+   "3558936486": [
+    650.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air 13“ M2, 2023, 256gb, Deep Blue"
+   ],
+   "3558961955": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 (2022) – Space Grau – Sehr guter Zustand"
+   ],
+   "3558976001": [
+    850.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 (2022) | 13,6” | 512 GB SSD | Space Grau"
+   ],
+   "3558984744": [
+    695.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 13,6 Zoll 8GB 256GB"
    ]
   },
   "Makita DHP485 Set": {
@@ -14682,6 +14749,12 @@
     "2026-11-01",
     "2026-11-01",
     "MSI GeForce RTX 3080 Gaming Trio 10GB Grafikkarte"
+   ],
+   "3559001240": [
+    390.0,
+    "2026-11-01",
+    "2026-11-01",
+    "NVIDIA GeForce RTX 3080 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -15666,6 +15739,12 @@
     "2026-11-01",
     "2026-11-01",
     "INNO3D GeForce RTX 4070 Super Twin X2 OC 12 GB – kompakt & leise"
+   ],
+   "3558918251": [
+    600.0,
+    "2026-11-01",
+    "2026-11-01",
+    "RTX 4070 Super OC Asus Prime"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -15884,6 +15963,12 @@
     "2026-11-01",
     "2026-11-01",
     "MSI RTX 4070 TI SUPER OC VENTUS 2"
+   ],
+   "3558987928": [
+    839.0,
+    "2026-11-01",
+    "2026-11-01",
+    "GAINWARD Phantom NVIDIA RTX 4070TI SUPER 16GB GDDR6X"
    ]
   },
   "RTX 4080": {
@@ -16308,7 +16393,7 @@
     "INNO3D GeForce RTX 4080 X3 16 GB – Triple Fan"
    ],
    "3556767385": [
-    1300.0,
+    1200.0,
     "2026-11-01",
     "2026-10-30",
     "MSI GeForce RTX 4080 Super – OVP, Rechnung, Top Zustand"
@@ -16620,6 +16705,12 @@
     "2026-11-01",
     "2026-11-01",
     "Gigabyte AMD Radeon RX 6800 XT Gaming OC Grafikkarte 16GB GDDR6"
+   ],
+   "3558963527": [
+    600.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Gigabyte Radeon RX 6800 XT Gaming OC 16G"
    ]
   },
   "RX 7800 XT": {
@@ -18346,6 +18437,12 @@
     "2026-10-22",
     "AMD Ryzen 7 9800X3D - Gaming CPU - AM5 - 8 Kerne"
    ],
+   "3548165318": [
+    300.0,
+    "2026-11-01",
+    "2026-11-01",
+    "AMD Ryzen 7 9800X3D – CPU / Prozessor mit OVP"
+   ],
    "3548483886": [
     350.0,
     "2026-10-23",
@@ -18483,6 +18580,12 @@
     "2026-11-01",
     "2026-11-01",
     "AMD Ryzen 7 9800X3D Prozessor - Nagelneu & OVP"
+   ],
+   "3559003252": [
+    323.0,
+    "2026-11-01",
+    "2026-11-01",
+    "AMD Ryzen 7 9800x3D"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -21096,6 +21199,12 @@
     "2026-10-25",
     "2026-10-25",
     "Synology DS923+, 4GB, ohne HDDs, komplett OVP"
+   ],
+   "3558950268": [
+    600.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Synology DS923+ NAS 4GB RAM, beQuiet Lüfter-Mod, OVP"
    ]
   },
   "ThinkPad L14 Gen 3": {
