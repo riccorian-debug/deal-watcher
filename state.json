@@ -555,8 +555,8 @@
   "3558390235": "2026-11-01",
   "3558559166": "2026-11-01"
  },
- "laeufe": 356,
- "letzter_lauf": "2026-11-01T13:15:33",
+ "laeufe": 357,
+ "letzter_lauf": "2026-11-01T14:04:57",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -931,6 +931,18 @@
     "2026-11-01",
     "2026-11-01",
     "Elegoo Arduino Uno R3 Starter Kit mit extra Zubehör!"
+   ],
+   "3558448329": [
+    50.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Arduino Starter Kit"
+   ],
+   "3558548445": [
+    35.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Arduino UNO mit Starterkit"
    ]
   },
   "Bosch GBH 18V-26": {
@@ -2985,6 +2997,12 @@
     "2026-11-01",
     "2026-11-01",
     "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz"
+   ],
+   "3558676508": [
+    449.0,
+    "2026-11-01",
+    "2026-11-01",
+    "32GB Crucial Pro DDR5-6000 CL36 Weiß | 2x16GB RAM"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3568,7 +3586,7 @@
     "Dell WD19TB Thunderbolt Dockingstation + Original 180W Netzteil"
    ],
    "3552988642": [
-    60.0,
+    50.0,
     "2026-11-01",
     "2026-10-26",
     "Dell WD19TB Thunderbolt Docking Station K20A mit 180W Netzteil"
@@ -3608,6 +3626,12 @@
     "2026-11-01",
     "2026-10-31",
     "DELL Dockingstation WD19TBs oder WD19TB Dock"
+   ],
+   "3558597732": [
+    59.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Dell Thunderbolt Dock | WD19TB K20A | + 240W Netzteil | TOP !!!"
    ]
   },
   "EliteBook 840 G8": {
@@ -3655,7 +3679,7 @@
    ],
    "3513467149": [
     350.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-22",
     "HP Elitebook 840 G8 i5-1145G7 16GB RAM 512GB SSD Win 11 Pro"
    ],
@@ -3879,6 +3903,12 @@
     274.0,
     "2026-11-01",
     "2026-10-31",
+    "HP Elitebook 840 G8 , Intel Core i5 - 1145G7  16GB/256GB SSD"
+   ],
+   "3558578119": [
+    264.0,
+    "2026-11-01",
+    "2026-11-01",
     "HP Elitebook 840 G8 , Intel Core i5 - 1145G7  16GB/256GB SSD"
    ]
   },
@@ -5513,6 +5543,12 @@
     "2026-11-01",
     "2026-10-30",
     "Intel i5 13600K"
+   ],
+   "3558687800": [
+    210.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Intel Core i5-13600K 13. Generation Prozessor/CPU LGA 1700"
    ]
   },
   "Intel i7-12700K": {
@@ -6311,6 +6347,30 @@
     "2026-11-01",
     "2026-11-01",
     "Keychron K6 (brown switch)"
+   ],
+   "3558358941": [
+    60.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K4 Version 2 Mechanische Tastatur Red Switch"
+   ],
+   "3558443300": [
+    99.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K3 V3 QMK – DE-ISO – Banana Switches – OVP – Rechnung"
+   ],
+   "3558513248": [
+    60.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K2 A3 Mechanische Tastatur Gateron Brown Switches"
+   ],
+   "3558587034": [
+    105.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron V3 Max mechanische Tastatur DE-Layout"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -6589,6 +6649,12 @@
     "2026-10-27",
     "2026-10-27",
     "W.E.P. Labornetzteil PS-305D 30V 5A regelbar"
+   ],
+   "3558639754": [
+    99.0,
+    "2026-11-01",
+    "2026-11-01",
+    "PeakTech 6035D Labornetzteil 0–30 V / 0–2,5 A + 12 V und 5 V Fest"
    ]
   },
   "Latitude ohne SSD": {
@@ -7517,6 +7583,18 @@
     "2026-11-01",
     "2026-11-01",
     "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) inkl. 90W Netzteil"
+   ],
+   "3558286011": [
+    50.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Lenovo ThinkPad USB-C Dock Gen 2 – Modell 40A9 | Dockingstation"
+   ],
+   "3558679119": [
+    80.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Lenovo ThinkPad USB-C Dock Gen 2 - unbenutzt"
    ]
   },
   "MacBook Air M1": {
@@ -9691,6 +9769,18 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M1 (2020) / 8GB / 256GB „Top Zustand!“ ⚡️"
+   ],
+   "3558628440": [
+    445.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 sehr guter Zustand, kaum benutzt"
+   ],
+   "3558686649": [
+    449.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 2020"
    ]
   },
   "MacBook Air M2": {
@@ -11324,7 +11414,7 @@
     699.0,
     "2026-11-01",
     "2026-11-01",
-    "Apple MacBook Air 13.6 M2 8GB 512GB Zubehör OVB"
+    "Apple MacBook Air 13 6 M2 8GB 512GB Laptop"
    ],
    "3557984459": [
     700.0,
@@ -11479,7 +11569,7 @@
     "Makita DGA 511 Winkelschleifer + DHP 485 Schlagbohrschrauber Set"
    ],
    "3556159940": [
-    115.0,
+    105.0,
     "2026-11-01",
     "2026-10-30",
     "Makita Akku-Schlagbohrschrauber DHP485 mit Box, Akku + Ladegerät"
@@ -12283,7 +12373,7 @@
     "Gigabyte Geforce RTX 3060 OC 12gb DDR6 Grafikkarte"
    ],
    "3556850752": [
-    170.0,
+    190.0,
     "2026-11-01",
     "2026-10-30",
     "GeForce RTX 3060 12GB"
@@ -13591,6 +13681,12 @@
     "2026-11-01",
     "2026-11-01",
     "Gigabyte RTX 3070 Grafikkarte"
+   ],
+   "3558626186": [
+    400.0,
+    "2026-11-01",
+    "2026-11-01",
+    "PNY RTX 3070"
    ]
   },
   "RTX 3080": {
@@ -14415,6 +14511,12 @@
     "2026-11-01",
     "2026-11-01",
     "MSI GeForce RTX 3080 Ventus 3x Plus mit OVP"
+   ],
+   "3558634337": [
+    430.0,
+    "2026-11-01",
+    "2026-11-01",
+    "rtx 3080 10GB KFA2"
    ]
   },
   "RTX 4060 Ti": {
@@ -16769,6 +16871,12 @@
     "2026-11-01",
     "2026-11-01",
     "ASUS DUAL OC RX 7800 XT 16GB WIE NEU"
+   ],
+   "3558670894": [
+    699.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Radeon RX 7800XT 16GB, Power Color Red Devil"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -16962,7 +17070,7 @@
    ],
    "3544245293": [
     180.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-22",
     "Raspberry Pi 5 (8 GB RAM) + 128 GB SD-Karte + Original Zubehör"
    ],
@@ -16974,7 +17082,7 @@
    ],
    "3544884946": [
     180.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-22",
     "Raspberry Pi 5 8GB RAM - Neu & OVP"
    ],
@@ -17165,19 +17273,19 @@
     "SunFounder PiCar-X mit Raspberry Pi 5 (8 GB) – fertig aufgebaut"
    ],
    "3552587658": [
-    179.0,
+    169.0,
     "2026-11-01",
     "2026-10-26",
     "Raspberry Pi 5 – 8 GB RAM | 128 GB Starterset mit Zubehör"
    ],
    "3552588351": [
-    179.0,
+    169.0,
     "2026-11-01",
     "2026-10-26",
     "Raspberry Pi 5 – 8 GB RAM | 128 GB Starterset mit Zubehör"
    ],
    "3552589559": [
-    179.0,
+    169.0,
     "2026-11-01",
     "2026-10-26",
     "Raspberry Pi 5 – 8 GB RAM | 128 GB Starterset mit Zubehör"
@@ -17291,7 +17399,7 @@
     "Raspberry Pi 5 | 8 GB RAM | 128 GB NVMe SSD | Komplettset"
    ],
    "3557692262": [
-    145.0,
+    140.0,
     "2026-11-01",
     "2026-11-01",
     "Raspberry PI 5 mit 8GB Ram"
@@ -19785,6 +19893,12 @@
     "2026-11-01",
     "2026-10-28",
     "Shelly Plus Plug S - Intelligente Steckdose Funktioniert mit Alex"
+   ],
+   "3558693049": [
+    15.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Shelly Plug S MTR WLAN Steckdose Smart Home"
    ]
   },
   "Siglent SDS1104X-E": {
@@ -21824,6 +21938,12 @@
     "2026-11-01",
     "2026-10-23",
     "Western Digital WD Red Plus 4TB NAS Festplatte - Neu"
+   ],
+   "3558644843": [
+    200.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Western Digital WD Red Plus 4 TB HDD Neu"
    ]
   },
   "WD Red Plus 8TB": {
