@@ -561,10 +561,11 @@
   "3558837296": "2026-11-01",
   "3558961955": "2026-11-01",
   "3559014823": "2026-11-01",
-  "3559082723": "2026-11-01"
+  "3559082723": "2026-11-01",
+  "3559145683": "2026-11-01"
  },
- "laeufe": 361,
- "letzter_lauf": "2026-11-01T17:58:11",
+ "laeufe": 362,
+ "letzter_lauf": "2026-11-01T19:06:53",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -5074,6 +5075,12 @@
     "2026-11-01",
     "2026-11-01",
     "Corsair Vengeance SODIMM 32 GB ( 2x16GB) DDR 4 3200 MHz C22"
+   ],
+   "3559155460": [
+    169.0,
+    "2026-11-01",
+    "2026-11-01",
+    "32GB (2x16GB) DDR4-3200 SO-DIMM Transcend – Laptop/NAS/Mini-PC"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {
@@ -9994,6 +10001,30 @@
     "2026-11-01",
     "2026-11-01",
     "MacBook Air M1"
+   ],
+   "3559095470": [
+    550.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook  Air M1 | 8GB RAM  | 256GB SSD | Neuzustand"
+   ],
+   "3559099154": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 (2020) 512 GB spacegrau"
+   ],
+   "3559145683": [
+    350.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air m1 2020 Silver Silber"
+   ],
+   "3559164235": [
+    549.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 13 Zoll 16 GB RAM 256 GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -11784,6 +11815,42 @@
     "2026-11-01",
     "2026-11-01",
     "Macbook Air (2022) M2 Chip 13,6 Zoll"
+   ],
+   "3559101714": [
+    677.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 8GB RAM"
+   ],
+   "3559105005": [
+    899.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 | 16 GB RAM | 256 GB SSD"
+   ],
+   "3559134064": [
+    599.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air 13 M2, 8 GB, 256 GB, Mitternacht, mit Rechnung"
+   ],
+   "3559155713": [
+    500.0,
+    "2026-11-01",
+    "2026-11-01",
+    "13 Mac Book Air m2 Chip 256GB"
+   ],
+   "3559158623": [
+    724.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M2 (2022)"
+   ],
+   "3559166692": [
+    850.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 | 16 GB RAM | 256 GB SSD"
    ]
   },
   "Makita DHP485 Set": {
@@ -12788,6 +12855,24 @@
     "2026-11-01",
     "2026-11-01",
     "ZOTAC GAMING GeForce RTX 3060 AMP White Edition 12 GB"
+   ],
+   "3559066890": [
+    279.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MSI GeForce RTX 3060 OC 12GB Ventus 2X - OVP - sehr guter Zustand"
+   ],
+   "3559114685": [
+    350.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Gigabyte RTX 3060 Gaming OC 12GB GDDR6 rev 2.0"
+   ],
+   "3559158116": [
+    280.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Msi RTX 3060 Gaming Z Trio 12GB VRAM"
    ]
   },
   "RTX 3070": {
@@ -15586,6 +15671,12 @@
     "2026-11-01",
     "2026-11-01",
     "GeForce RTX 4070 WINDFORCE OC 12G"
+   ],
+   "3559089254": [
+    480.0,
+    "2026-11-01",
+    "2026-11-01",
+    "GeForce RTX 4070 12GB GDDR6X"
    ]
   },
   "RTX 4070 Super": {
@@ -16818,6 +16909,12 @@
     "2026-11-01",
     "2026-11-01",
     "MSI Radeon RX 6800 XT 16GB GGrafikkarte mit Triple-Fan Kühlsystem"
+   ],
+   "3559085984": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Powercolor Red Dragon RX 6800 XT 16 GB"
    ]
   },
   "RX 7800 XT": {
@@ -17246,6 +17343,12 @@
     "2026-11-01",
     "2026-11-01",
     "Radeon RX 7800XT 16GB, Power Color Red Devil"
+   ],
+   "3559149430": [
+    540.0,
+    "2026-11-01",
+    "2026-11-01",
+    "GIGABYTE Radeon RX 7800 XT Gaming OC 16GB"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -19318,7 +19421,7 @@
    ],
    "3555314412": [
     249.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-29",
     "Samsung 990 PRO 2TB SSD mit Heatsink  – PCIe 4.0 NVMe"
    ],
@@ -21840,6 +21943,12 @@
     "2026-11-01",
     "2026-11-01",
     "Lenovo ThinkPad T14 Gen 3 | Intel i5 | 8 GB RAM | 256 GB SSD"
+   ],
+   "3559093710": [
+    479.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Lenovo ThinkPad T14 Gen 3 14\" i7-1260 1,7 GHz 32GB 512GB Win11"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
