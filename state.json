@@ -552,8 +552,8 @@
   "3558216186": "2026-11-01",
   "3558241633": "2026-11-01"
  },
- "laeufe": 353,
- "letzter_lauf": "2026-11-01T10:06:38",
+ "laeufe": 354,
+ "letzter_lauf": "2026-11-01T10:59:12",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2964,6 +2964,12 @@
     "2026-11-01",
     "2026-11-01",
     "Patriot Viper Venom DDR5 32GB (2x16GB) 6000MT/s RAM CL30 Kit"
+   ],
+   "3558256333": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz für AMD"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4431,6 +4437,18 @@
     "2026-11-01",
     "2026-11-01",
     "16 GB DDR4 RAM SODIMM 3200 MHZ von TeamGroup NEU"
+   ],
+   "3558245947": [
+    90.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Lexar DDR4 RAM 16GB SODIMM 3200MHz CL22"
+   ],
+   "3558308073": [
+    60.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Timetec 16GB DDR4 SODIMM 3200MHz RAM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -5434,10 +5452,10 @@
     "Intel core i5 13600k"
    ],
    "3541956462": [
-    210.0,
+    200.0,
     "2026-11-01",
     "2026-10-21",
-    "Intel Core i5-13600K Prozessor 13. Generation LGA1700"
+    "Intel Core i5-13600K Prozessor 13. Generation LGA1700 CPU"
    ],
    "3550990246": [
     150.0,
@@ -8113,7 +8131,7 @@
    ],
    "3550580005": [
     450.0,
-    "2026-10-25",
+    "2026-11-01",
     "2026-10-24",
     "MacBook Air 2020 M1 8/256 Rose Gold"
    ],
@@ -9568,6 +9586,30 @@
     "2026-11-01",
     "2026-11-01",
     "MacBook Air 2020 M1 256gb 16gb ram"
+   ],
+   "3558302713": [
+    499.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 (2020), 512 GB SSD, 8 GB RAM, Gold, Top-Zustand"
+   ],
+   "3558321313": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 2020, 8GB RAM, 256GB SSD, top Zustand"
+   ],
+   "3558324943": [
+    440.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M1 256 GB"
+   ],
+   "3558325057": [
+    439.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 – Space Gray – Like New – 100% Battery Healt"
    ]
   },
   "MacBook Air M2": {
@@ -11238,6 +11280,12 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M2 15 Zoll Display"
+   ],
+   "3558316417": [
+    650.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 – Silber – 8 GB RAM / 256 GB SSD"
    ]
   },
   "Makita DHP485 Set": {
@@ -12206,6 +12254,12 @@
     "2026-11-01",
     "2026-11-01",
     "Zotac Gaming GeForce RTX 3060 Twin Edge 12GB GDDR6"
+   ],
+   "3558334595": [
+    340.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Nvidia RTX 3060 12 GB Vram NEU von Soyo 340 € VB"
    ]
   },
   "RTX 3070": {
@@ -14103,7 +14157,7 @@
    ],
    "3556617864": [
     459.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "RTX 3080 MSI Suprim X Nvidia DLSS GPU Grafikkarte CUDA"
    ],
@@ -15150,6 +15204,12 @@
     "2026-11-01",
     "2026-11-01",
     "12 GB ASUS TUF GeForce RTX 4070 Super OC Edition Grafikkarte"
+   ],
+   "3558260616": [
+    700.0,
+    "2026-11-01",
+    "2026-11-01",
+    "INNO3D GeForce RTX 4070 Super Twin X2 OC 12 GB – kompakt & leise"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -16504,7 +16564,7 @@
     "Gigabyte AMD Radeon RX 7800 XT 16GB"
    ],
    "3557914424": [
-    650.0,
+    600.0,
     "2026-11-01",
     "2026-11-01",
     "Red Devil rx 7800xt 16gb"
@@ -17351,6 +17411,12 @@
     "2026-11-01",
     "2026-11-01",
     "AMD Ryzen 7 5800X3D Prozessor mit 3D V-Cache"
+   ],
+   "3558338993": [
+    230.0,
+    "2026-11-01",
+    "2026-11-01",
+    "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
    ]
   },
   "Ryzen 7 7800X3D": {
