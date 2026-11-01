@@ -563,10 +563,11 @@
   "3559014823": "2026-11-01",
   "3559082723": "2026-11-01",
   "3559145683": "2026-11-01",
-  "3559218263": "2026-11-01"
+  "3559218263": "2026-11-01",
+  "3559267156": "2026-11-01"
  },
- "laeufe": 364,
- "letzter_lauf": "2026-11-01T20:58:53",
+ "laeufe": 365,
+ "letzter_lauf": "2026-11-01T21:58:06",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -953,6 +954,12 @@
     "2026-11-01",
     "2026-11-01",
     "Arduino UNO mit Starterkit"
+   ],
+   "3559262880": [
+    39.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Funduino Arduino Starter Kit mit Zubehör"
    ]
   },
   "Bosch GBH 18V-26": {
@@ -1135,6 +1142,18 @@
     "2026-11-01",
     "2026-11-01",
     "Bosch Akku-Bohrhammer GBH 18V-26 F mit SDS-Plus"
+   ],
+   "3559190696": [
+    145.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bosch Professional GBH 18V-26 D Akku-Bohrhammer im Koffer"
+   ],
+   "3559303471": [
+    280.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bosch Akku Bohrhammer GBH 18V-26 F Neu"
    ]
   },
   "Bosch GSR 18V-60 Set": {
@@ -1263,6 +1282,12 @@
     "2026-11-01",
     "2026-10-30",
     "Bosch GSR 18V-60 C Akku-Bohrschrauber L-Boxx Akkuschrauber NEU"
+   ],
+   "3559119611": [
+    255.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bosch Professional GSR 18V-60 FC Akku-Bohrschrauber im Koffer,NEU"
    ]
   },
   "Bose QuietComfort": {
@@ -1709,6 +1734,18 @@
     "2026-11-01",
     "2026-11-01",
     "Bose QC QuietComfort Ultra Headphones"
+   ],
+   "3559267156": [
+    110.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bose QuietComfort Headphones Noise Cancelling"
+   ],
+   "3559268840": [
+    300.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bose QuietComfort Ultra 2. Gen. – schwarz, neuwertig"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -1955,6 +1992,12 @@
     "2026-11-01",
     "2026-10-24",
     "Samsung Arbeitsspeicher 64GB DDR4 2666MHz ECC RDIMM Registerd"
+   ],
+   "3559133729": [
+    310.0,
+    "2026-11-01",
+    "2026-11-01",
+    "64GB DDR4 ECC RDIMM PC4-2933Y 256GB"
    ]
   },
   "DDR5 32GB 6000": {
@@ -3690,6 +3733,18 @@
     "2026-11-01",
     "2026-11-01",
     "Dell Thunderbolt Dock | WD19TB K20A | + 240W Netzteil | TOP !!!"
+   ],
+   "3559184635": [
+    100.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Dell WD19TB Dockingstation"
+   ],
+   "3559213683": [
+    50.0,
+    "2026-11-01",
+    "2026-11-01",
+    "DELL WD19TB Thunderbolt Dockingstation inkl. Netzteil"
    ]
   },
   "EliteBook 840 G8": {
@@ -3766,7 +3821,7 @@
     "HP EliteBook 840 G8 Touch mit LTE Stick + weiteres Zubehör"
    ],
    "3528908616": [
-    365.0,
+    350.0,
     "2026-11-01",
     "2026-10-22",
     "HP Elitebook 840 G8 - Sehr guter Zustand"
@@ -3974,6 +4029,12 @@
     "2026-11-01",
     "2026-11-01",
     "hp elitebook 840 g8"
+   ],
+   "3559262105": [
+    230.0,
+    "2026-11-01",
+    "2026-11-01",
+    "HP Elitebook 840 G8 Aero mit Windows 11 und MS Office"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -4582,6 +4643,12 @@
     "2026-11-01",
     "2026-11-01",
     "Crucial 16GB DDR4-3200 SODIMM RAM Arbeitsspeicher"
+   ],
+   "3559292600": [
+    70.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Micron 16GB DDR4 Arbeitsspeicher SO-DIMM 3200"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -5606,6 +5673,12 @@
     "2026-11-01",
     "2026-11-01",
     "Home Assistant Green (wie neu)"
+   ],
+   "3559190618": [
+    106.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Home Assistant Green Smart Home Hub"
    ]
   },
   "Intel i5-13600K": {
@@ -6508,6 +6581,18 @@
     "2026-11-01",
     "2026-11-01",
     "Keychron K3 Low-Profile – englisches Layout"
+   ],
+   "3559154316": [
+    89.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K10 max  mechanische Tastatur mit Case und Handauflage"
+   ],
+   "3559163330": [
+    80.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K3 Max Mechanische Tastatur mit OVP & Zubehör"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -7028,7 +7113,7 @@
     "Lenovo ThinkVision P27h-20 – 27Zoll QHD-Monitor, USB-C, OVP"
    ],
    "3528563431": [
-    85.0,
+    80.0,
     "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-10 - 27 Zoll WQHD Monitor schwarz"
@@ -10052,7 +10137,7 @@
     "MacBook Air M1 13 Zoll 16 GB RAM 256 GB SSD"
    ],
    "3559209083": [
-    499.0,
+    470.0,
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air 13,3” M1 (2020) | 8 GB RAM | 256 GB SSD | Space"
@@ -10068,6 +10153,12 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air 13 Zoll (256GB SSD, M1, 8GB)"
+   ],
+   "3559300787": [
+    420.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1"
    ]
   },
   "MacBook Air M2": {
@@ -11918,6 +12009,24 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M2 2022, 8GB RAM, 256GB SSD, sehr guter Zustand"
+   ],
+   "3559284053": [
+    625.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2"
+   ],
+   "3559289360": [
+    679.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 | 8GB | 256GB | Midnight"
+   ],
+   "3559293682": [
+    725.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air 15,3 Zoll - M2 Chip - 8GB RAM Türkische Tastatur !!!"
    ]
   },
   "Makita DHP485 Set": {
@@ -14160,6 +14269,18 @@
     "2026-11-01",
     "2026-11-01",
     "Zotac RTX 3070 / Wie neu!!!"
+   ],
+   "3559282535": [
+    280.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Palit GeForce RTX 3070 8GB – voll funktionsfähig - Keine OVP!"
+   ],
+   "3559288488": [
+    300.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Gigabyte NVIDIA GeForce RTX 3070 Grafikkarte OC"
    ]
   },
   "RTX 3080": {
@@ -16722,6 +16843,12 @@
     "2026-11-01",
     "2026-11-01",
     "Gigabyte GeForce RTX 4080 SUPER WINDFORCE V2 16GB Grafikkarte"
+   ],
+   "3559298618": [
+    1450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Zotac Gaming Nvidia GeForce RTX 4080S Super 16GB Trinity Black"
    ]
   },
   "RX 6800 XT": {
@@ -17603,7 +17730,7 @@
    ],
    "3519347332": [
     149.0,
-    "2026-10-30",
+    "2026-11-01",
     "2026-10-22",
     "Raspberry Pi 5 8GB RAM mit Gehäuse, Lüfter und Kühlkörper"
    ],
@@ -23190,7 +23317,7 @@
    ],
    "3474844946": [
     15.0,
-    "2026-10-24",
+    "2026-11-01",
     "2026-10-23",
     "Magenta SmartHome Home Base & QIVICON ZigBee Stick"
    ],
@@ -23202,7 +23329,7 @@
    ],
    "3485896815": [
     20.0,
-    "2026-10-26",
+    "2026-11-01",
     "2026-10-23",
     "ConBee 2 II Zigbee USB-Stick – Voll funktionsfähig, Top Zustand"
    ],
