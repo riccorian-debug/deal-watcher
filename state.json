@@ -400,6 +400,7 @@
   "3549040381": "2026-10-25",
   "3549137600": "2026-10-23",
   "3549164880": "2026-10-23",
+  "3549258909": "2026-11-01",
   "3549304688": "2026-10-23",
   "3549364369": "2026-10-23",
   "3549371682": "2026-10-23",
@@ -540,13 +541,19 @@
   "3557468177": "2026-10-31",
   "3557544133": "2026-10-31",
   "3557609255": "2026-10-31",
+  "3557692262": "2026-11-01",
   "3557814280": "2026-10-31",
   "3557833301": "2026-10-31",
   "3557856947": "2026-11-01",
-  "3558007393": "2026-11-01"
+  "3557910884": "2026-11-01",
+  "3558002744": "2026-11-01",
+  "3558007393": "2026-11-01",
+  "3558120104": "2026-11-01",
+  "3558216186": "2026-11-01",
+  "3558241633": "2026-11-01"
  },
- "laeufe": 352,
- "letzter_lauf": "2026-11-01T09:07:27",
+ "laeufe": 353,
+ "letzter_lauf": "2026-11-01T10:06:38",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -738,13 +745,13 @@
    ],
    "3530311620": [
     49.0,
-    "2026-10-30",
+    "2026-11-01",
     "2026-10-23",
     "Arduino Starter Kit Deutsch (K040007) – kaum benutzt, vollständig"
    ],
    "3533364994": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Neu Raspberry Pi Ultimate Starter Kit Freenove Arduino"
    ],
@@ -756,7 +763,7 @@
    ],
    "3535864804": [
     25.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Franzis Arduino Lernpaket / Starter Kit"
    ],
@@ -768,25 +775,25 @@
    ],
    "3537709967": [
     10.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Elektronik Starter Kit für Arduino/Raspberry Pi unbenutzt"
    ],
    "3542181494": [
     35.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "ELEGOO UNO R3 Starter Set Arduino Kit"
    ],
    "3543419979": [
     65.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Funduino Starter Kit, Arduino-Mikroelektronik, Programmieren"
    ],
    "3544040520": [
     30.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Arduino Starter Kit"
    ],
@@ -804,19 +811,19 @@
    ],
    "3547657398": [
     60.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Arduino Starter Kit - Elektronik Lernset"
    ],
    "3548007147": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Arduino Starter Kit R3 - Deutsch"
    ],
    "3548501944": [
     15.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "ELEGOO UNO R3 Basic Starter Kit Arduino"
    ],
@@ -828,49 +835,49 @@
    ],
    "3549216408": [
     35.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Arduino UNO R3 Starter KIT"
    ],
    "3549563527": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Arduino Starter-Kit mit Projektbuch und Zubehör"
    ],
    "3549810637": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Arduino The Most Complete Starter Kit UNO R3 Project"
    ],
    "3550527397": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Arduino Grover Starter Kit"
    ],
    "3551694526": [
     85.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "Arduino Starter Kit – Originalversiegelt & neu"
    ],
    "3551800169": [
     30.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "NEU: Elegoo UNO R3 The Most Complete Starter Kit / Arduino Set"
    ],
    "3553050516": [
     45.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Arduino Starter Kit - Elektronik Lernset mit vielen Bauteilen"
    ],
    "3555348498": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-29",
     "Arduino Starter Kit (K000007) with UNO R3 – very good condition"
    ],
@@ -882,7 +889,7 @@
    ],
    "3555847382": [
     41.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-29",
     "Fundino Starter kit für Arduino - fast wie neu!"
    ],
@@ -894,27 +901,33 @@
    ],
    "3556572721": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Miuzei Ultimate Arduino UNO R3 Starter Kit MA13-U Neu"
    ],
    "3556880382": [
     100.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Arduino Starter KIT"
    ],
    "3557007125": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "OSOYOO Arduino Starter Kit V1 - Neu"
    ],
    "3557235084": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "SunFounder Uno Kit - Starter Set für Arduino"
+   ],
+   "3558213886": [
+    39.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Elegoo Arduino Uno R3 Starter Kit mit extra Zubehör!"
    ]
   },
   "Bosch GBH 18V-26": {
@@ -956,7 +969,7 @@
    ],
    "3505187939": [
     310.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch GBH 18V-26 Akkubohrhammer Kombihammer Stemmhammer"
    ],
@@ -980,7 +993,7 @@
    ],
    "3529071118": [
     269.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch Professional Akku-Bohrhammer / Kombihammer GBH 18 V-26 D"
    ],
@@ -992,7 +1005,7 @@
    ],
    "3538036552": [
     300.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch professional GBH 18V 26"
    ],
@@ -1010,7 +1023,7 @@
    ],
    "3546818213": [
     250.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch Bohrhammer GBH 18V-26 inkl. 8.0 Ah ProCORE Akku"
    ],
@@ -1022,7 +1035,7 @@
    ],
    "3550836522": [
     180.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch Professional GBH 18V-26 Akku-Bohrhammer"
    ],
@@ -1046,25 +1059,25 @@
    ],
    "3551606372": [
     230.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "Bosch Bohrhammer GBH 18V-26, Professional, SDS+"
    ],
    "3552250840": [
     180.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "Bosch GBH 18V-26F Brushless Boschhammer SDS Plus"
    ],
    "3553158863": [
     195.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Bosch Professional GBH 18V-26 F SDS-plus Bohrhammer mit L-BOXX"
    ],
    "3553551163": [
     169.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-27",
     "Bosch GBH 18V-26 F Professional Bohrhammer in L-BOXX"
    ],
@@ -1079,42 +1092,54 @@
     "2026-10-28",
     "2026-10-27",
     "Bosch Bohrhammer GBH 18V-26 Professional 0611909000 (TOP Zustand)"
+   ],
+   "3557671902": [
+    259.0,
+    "2026-11-01",
+    "2026-11-01",
+    "AKTION Akku-Bohrhammer Bosch Professional GBH 18V-26"
+   ],
+   "3558017701": [
+    195.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bosch GBH 18V-26 Bohrhammer in L-BOXX 136 NEU OVP"
    ]
   },
   "Bosch GSR 18V-60 Set": {
    "3139321988": [
     179.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "BOSCH BOHRSCHRAUBER GSR 18V-60C SET AKKU KOFFER WERSTATT"
    ],
    "3156704953": [
     119.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch pro blau GSR 18V-60C brushless inkl. BT und Wera Rapidaptor"
    ],
    "3391949728": [
     139.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch Akkuschrauber GSR 18V-60 mit L-Boxx und 4 Ah Akku"
    ],
    "3394565783": [
     150.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch Professional 18V GSR 18V-60 C Akkuschrauber Akkubohrschraub"
    ],
    "3448642755": [
     110.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch GSR 18V-60C mit 4Ah Akku+Koffer+Rechnung"
    ],
    "3473698006": [
     99.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch GSR 18V-60C mit neuem GBA 18V 4Ah Akku und Ladegerät"
    ],
@@ -1126,13 +1151,13 @@
    ],
    "3528173519": [
     320.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch GSR 18V-60 FC Akkubohrschrauber im Koffer"
    ],
    "3534892022": [
     90.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Bosch Professional gsr 18v-60"
    ],
@@ -1180,7 +1205,7 @@
    ],
    "3552525848": [
     100.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Bosch Professional GSR 18V-60C Bohrschrauber Akku"
    ],
@@ -1204,7 +1229,7 @@
    ],
    "3556535604": [
     100.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Bosch GSR 18V-60 C Akku-Bohrschrauber L-Boxx Akkuschrauber NEU"
    ]
@@ -1623,6 +1648,30 @@
     "2026-10-31",
     "2026-10-31",
     "Bose QuietComfort Ultra Bluetooth-Kopfhörer (2. Gen.), top!"
+   ],
+   "3557676750": [
+    269.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bose QuietComfort Ultra Headphones - NEU"
+   ],
+   "3557700252": [
+    185.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bose Quietcomfort Ultra"
+   ],
+   "3557910884": [
+    115.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bose QuietComfort Ultra Kopfhörer Weiß Kupfer"
+   ],
+   "3558002744": [
+    90.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Bose QC 45 / Quietcomfort 45 Noise cancelling"
    ]
   },
   "Crucial P3 Plus 2TB": {
@@ -1860,7 +1909,7 @@
   "DDR4 ECC RDIMM 64GB": {
    "3525413079": [
     170.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Samsung Arbeitsspeicher 64GB DDR4 2666MHz ECC RDIMM Registerd"
    ]
@@ -2903,6 +2952,18 @@
     "2026-11-01",
     "2026-11-01",
     "Corsair Vengeance DDR5 RAM 32gb 6000 mt/s Arbeitsspeicher 2x 16gb"
+   ],
+   "3558180936": [
+    399.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Corsair 32 GB DDR5 6000 CL36"
+   ],
+   "3558181557": [
+    479.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Patriot Viper Venom DDR5 32GB (2x16GB) 6000MT/s RAM CL30 Kit"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -3128,12 +3189,18 @@
     "2026-11-01",
     "2026-11-01",
     "Dell Latitude 7420 i5 11.Gen 16GB 500GB TouchScreen Win11 Pro TOP"
+   ],
+   "3558070294": [
+    360.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Dell Latitude 7420, i7 11. Gen, 16GB, 1TB NVMe SSD !, Laptop, top"
    ]
   },
   "Dell UltraSharp U2719D": {
    "3455862472": [
     170.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell UltraSharp U2719D"
    ],
@@ -3151,7 +3218,7 @@
    ],
    "3540866668": [
     150.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell u2719d 27 Zoll QHD Monitor 2.560 x 1.440 IPS mit USB HUB"
    ],
@@ -3331,19 +3398,19 @@
    ],
    "3447956867": [
     59.0,
-    "2026-10-28",
+    "2026-11-01",
     "2026-10-23",
     "Dell WD19TB Thunderbolt Dock – Neu in OVP"
    ],
    "3456529963": [
     60.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell Thunderbolt 3 Dockingstation WD19TB 130W VESA 100 Halterung"
    ],
    "3491888823": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell WD19TB Dockingstation 180W"
    ],
@@ -3355,25 +3422,25 @@
    ],
    "3502366321": [
     110.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell Docking Station WD19TB Thunderbolt"
    ],
    "3510885261": [
     98.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell Thunderbolt Dock - WD19TB"
    ],
    "3519808229": [
     140.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell Thunderbolt Dock WD19TB 180W, DELL-WD19TB (180W) NEU"
    ],
    "3522773832": [
     65.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell WD19TB Thunderbolt Dockingstation"
    ],
@@ -3385,19 +3452,19 @@
    ],
    "3527356254": [
     79.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell WD19TB Thunderbolt Dockingstation inkl. 180W Netzteil"
    ],
    "3529593519": [
     100.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell Thunderbolt Dock WD19TB 180W, DELL-WD19TB (180W)"
    ],
    "3536829124": [
     90.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell Docking Station WD19TB inklusive Netzteil"
    ],
@@ -3409,31 +3476,31 @@
    ],
    "3537777075": [
     55.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dockingstation Dell WD19TB"
    ],
    "3538240589": [
     60.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell WD19TB Dockingstation inkl. 180W Netzteil"
    ],
    "3545798629": [
     80.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell Thunderbolt Docking Station WD19TB / K20A + 180W Netzteil"
    ],
    "3546402676": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell WD19TB Thunderbolt Dockingstation mit 180W Netzteil"
    ],
    "3546432771": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell WD19TB Thunderbolt 3 Dockingstation – USB-C Dock"
    ],
@@ -3445,13 +3512,13 @@
    ],
    "3549611589": [
     65.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell Dockingstation WD19TB Thunderbolt mit 180W Netzteil"
    ],
    "3551385188": [
     69.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "Dell Dockingstation WD19TB 180W Thunderbolt HDMI DP LAN Netzteil"
    ],
@@ -3469,31 +3536,31 @@
    ],
    "3552944243": [
     110.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Dell WD19TB Thunderbolt Dockingstation + Original 180W Netzteil"
    ],
    "3552988642": [
     60.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Dell WD19TB Thunderbolt Docking Station K20A mit 180W Netzteil"
    ],
    "3553843248": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-27",
     "Dell Docking Station KA20A001 WD19TB Thunderbolt 3 USB C 40GBit/s"
    ],
    "3554316584": [
     35.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-27",
     "Dell Dockingstation (WD19TB) & Netzteil"
    ],
    "3555575900": [
     69.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-29",
     "Dell WD19TB Thunderbolt Dockingstation inkl. Netzteil"
    ],
@@ -3505,13 +3572,13 @@
    ],
    "3557326595": [
     75.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Dell WD19TB Dockingstation Thunderbolt/HDMI/D-Port/180W NT"
    ],
    "3557434154": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "DELL Dockingstation WD19TBs oder WD19TB Dock"
    ]
@@ -4351,7 +4418,19 @@
     85.0,
     "2026-11-01",
     "2026-11-01",
-    "16 GB RAM DDR4 SO-DIMM 3200 MHz PC4-25600S"
+    "16GB RAM DDR4 SO-DIMM 3200 MHz PC4-25600S"
+   ],
+   "3558198408": [
+    70.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Samsung 16GB DDR4 3200 MHz RAM SO-DIMM Laptop Arbeitsspeicher"
+   ],
+   "3558238756": [
+    70.0,
+    "2026-11-01",
+    "2026-11-01",
+    "16 GB DDR4 RAM SODIMM 3200 MHZ von TeamGroup NEU"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -5495,6 +5574,12 @@
     "2026-11-01",
     "2026-10-30",
     "Neu Intel I7-14700K Gaming und Originalverpackt"
+   ],
+   "3558209176": [
+    325.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Intel Core i7-14700K"
    ]
   },
   "Keychron Tastatur": {
@@ -5506,7 +5591,7 @@
    ],
    "3537787280": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Keychron K13Pro Mechanische Tastatur"
    ],
@@ -6070,57 +6155,99 @@
    ],
    "3556346457": [
     100.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Keychron V3 QMK ANSI QWERTY - PBTFans Basin"
    ],
    "3556634395": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Keychron K3 Max Ultraschmale Drahtlose Mechanische Tastatur"
    ],
    "3556650597": [
     80.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Keychron K10 Pro Wireless"
    ],
    "3556950201": [
     80.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Keychron K3 Max  Mechanische Wireless Tastatur"
    ],
    "3557135483": [
     45.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Keychron K6 Brown Switches ISO-De"
    ],
    "3557158371": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Keychron K8 Tastatur DE / ISO Layout"
    ],
    "3557554722": [
     160.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Neue Mechanische Tastatur KEYCHRON Q1 Max"
    ],
    "3557594894": [
     100.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Neue Mechanische Tastatur KEYCHRON K3 Version 3"
    ],
    "3557596691": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Keychron V1 Knob, Schwarz German Layout"
+   ],
+   "3557690624": [
+    95.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Neue Mechanische Tastatur KEYCHRON K3 Version 2"
+   ],
+   "3557694238": [
+    90.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Neue Mechanische Tastatur KEYCHRON K3"
+   ],
+   "3557937502": [
+    50.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K4 V2 – QWERTZ – Brown Switches – RGB"
+   ],
+   "3557955339": [
+    65.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K3 Pro ISO QMK/VIA Wireless Mechanische Tastatur"
+   ],
+   "3558006939": [
+    100.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K2 HE Wireless Gaming Tastatur 75% DE-ISO Neu"
+   ],
+   "3558134664": [
+    80.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K8 Tastatur - QWERTY"
+   ],
+   "3558191611": [
+    40.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Keychron K6 (brown switch)"
    ]
   },
   "Konvolut Business-Laptops": {
@@ -6306,7 +6433,7 @@
   "Labornetzteil 30V 5A": {
    "3272312102": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Trafo Labornetzteil Korad KD3005D 0-30V, 0-5A begrenzbar"
    ],
@@ -6318,13 +6445,13 @@
    ],
    "3349279070": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "MC Power LAB3005 Labornetzteil regelbar 30V / 5A Top wie neu"
    ],
    "3404499486": [
     35.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Labornetzteil voltcraft 30V 2,5A"
    ],
@@ -6336,7 +6463,7 @@
    ],
    "3497773576": [
     160.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Labornetzteil Toellner TOE 8031-7 30 V / 5 A"
    ],
@@ -6348,25 +6475,25 @@
    ],
    "3531556730": [
     55.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Voltcraft Labornetzteil 0-30V , 0-2,5A ca. 1980"
    ],
    "3533389618": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Voltcraft TNG 35 Labornetzteil / Netzgerät (0-30V / 2.5A)"
    ],
    "3540047778": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Voltcraft Labornetzteil 0-30V, 0-2,5A"
    ],
    "3546799930": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Labornetzteil QJ3005T 0–30V / 0–5A mit Handy-Reparaturkabel"
    ],
@@ -6384,7 +6511,7 @@
    ],
    "3552091073": [
     49.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "PeakTech 6225 A – Labornetzteil 0- 30V / 0- 5A DC Labornetzgerät"
    ],
@@ -6410,7 +6537,7 @@
    ],
    "3540306676": [
     115.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Dell Latitude 7310 – Intel Core i5, 8 GB RAM, ohne SSD"
    ]
@@ -6564,91 +6691,91 @@
   "Lenovo ThinkVision P27h": {
    "2831523417": [
     165.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Monitor 27\" Zoll (68,58 cm) 2K ( WQHD) Lenovo ThinkVision P27H-10"
    ],
    "2926583767": [
     325.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "ThinkVision P27h-28 Flat Panel Monitor NEU original verpackt"
    ],
    "3359283875": [
     190.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-30 68,6 cm (27 Zoll)"
    ],
    "3433009962": [
     190.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-30 68,6 cm (27 Zoll)"
    ],
    "3469690208": [
     235.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-20 - LED Monitor"
    ],
    "3482101504": [
     175.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-30 27\" QHD USB-C Monitor"
    ],
    "3503133281": [
     200.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "(Neu) Lenovo ThinkVision P27h-28 Monitor 27 Zoll WQHD 2560x1440"
    ],
    "3519923326": [
     190.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-20 Monitor"
    ],
    "3519924303": [
     190.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-20 Monitor"
    ],
    "3522007885": [
     165.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo Thinkvision P27h-20 rotierender Monitor"
    ],
    "3527799358": [
     160.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-20 – 27Zoll QHD-Monitor, USB-C, OVP"
    ],
    "3528563431": [
     85.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-10 - 27 Zoll WQHD Monitor schwarz"
    ],
    "3533877504": [
     240.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo Thinkvision p27h-20 zu verkaufen"
    ],
    "3536985905": [
     300.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-30 27 Zoll USB-C Docking Büro Monitor"
    ],
    "3541237225": [
     120.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkVision P27h-10 Monitor"
    ],
@@ -6659,8 +6786,8 @@
     "Lenovo ThinkVision P27h-20 27 Zoll QHD Monitor Lautsprecher OVP"
    ],
    "3549258909": [
-    150.0,
-    "2026-10-27",
+    110.0,
+    "2026-11-01",
     "2026-10-23",
     "PC Bildschirm Lenovo ThinkVision P27h-30"
    ],
@@ -6672,7 +6799,7 @@
    ],
    "3554477966": [
     165.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-28",
     "Lenovo ThinkVision P27h-20"
    ]
@@ -6916,13 +7043,13 @@
   "Lenovo USB-C Dock Gen 2": {
    "3264313296": [
     30.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo USB-C Travel hub GEN 2 Dock adapter NEU | L0HC451"
    ],
    "3390859559": [
     79.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo Produktname: ThinkPad USB-C Dock Gen 2"
    ],
@@ -7150,31 +7277,31 @@
    ],
    "3544258273": [
     30.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkPad USB-C Dock Gen 2 (Typ 40AS) ohne USB-C Kabel"
    ],
    "3545399525": [
     80.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Dell P2719H 27-Zoll-Monitor + Lenovo USB-C Dock Gen 2 – Set"
    ],
    "3546654733": [
     25.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo Thinkpad USB-C Dock Gen 2"
    ],
    "3549547617": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkPad USB-C Dock Gen 2 – Modell 40A9 Top Zustand"
    ],
    "3549806221": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lenovo ThinkPad USB-C Dock Gen2 LDC-G2 40AS Laptop Dockingstation"
    ],
@@ -7186,7 +7313,7 @@
    ],
    "3550236638": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) inkl. Netzteil 90W"
    ],
@@ -7204,13 +7331,13 @@
    ],
    "3550938701": [
     49.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Lenovo ThinkPad USB-C Dock Gen 2 Dockingstation"
    ],
    "3550995960": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Lenovo ThinkPad USB-C Dock Gen 2 40AF mit Netzteil"
    ],
@@ -7222,7 +7349,7 @@
    ],
    "3551600624": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "Lenovo ThinkPad USB-C Dock Gen 2 Dockingstation"
    ],
@@ -7240,7 +7367,7 @@
    ],
    "3552207655": [
     69.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "Lenovo ThinkPad  USB-C Dock Gen 2 inkl. 90W Netzteil & USB-C/HDMI"
    ],
@@ -7252,7 +7379,7 @@
    ],
    "3553029834": [
     35.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "ThingPad USB-C Dock Gen2 Dockingstation (Lenovo)"
    ],
@@ -7264,57 +7391,63 @@
    ],
    "3554808162": [
     79.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-28",
     "Dockingstation Lenovo ThinkPad USB-C Dock Gen2 incl. 90W-Netzteil"
    ],
    "3555232414": [
     35.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-28",
     "Lenovo Thinkpad USB C Dock Gen 2 Neuwertig"
    ],
    "3555318862": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-29",
     "Lenovo ThinkPad USB-C Dock Gen2"
    ],
    "3555637291": [
     29.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-29",
     "Lenovo ThinkPad USB-C-Dock Gen2"
    ],
    "3556132891": [
     39.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Lenovo ThinkPad USB-C Dock Gen 2 40AS LDC-G2 +Netzteil TOP"
    ],
    "3556371012": [
     85.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Neue Lenovo Docking Station USB C Dock Gen2"
    ],
    "3556457258": [
     80.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Lenovo ThinkPad USB-C Dock Gen 2"
    ],
    "3557267550": [
     45.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "lenovo thinkpad usb-c dock gen2 40"
    ],
    "3557344976": [
-    40.0,
-    "2026-10-31",
+    35.0,
+    "2026-11-01",
     "2026-10-31",
     "Lenovo ThinkPad USB-C Dock Gen 2"
+   ],
+   "3557742468": [
+    60.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Lenovo ThinkPad USB-C Dock Gen 2 (40AS) inkl. 90W Netzteil"
    ]
   },
   "MacBook Air M1": {
@@ -8970,7 +9103,7 @@
    ],
    "3555948457": [
     549.0,
-    "2026-10-30",
+    "2026-11-01",
     "2026-10-29",
     "Apple MacBook Air 13 (512GB SSD, M1, 16GB) Laptop - Rósa Gold"
    ],
@@ -9417,6 +9550,24 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air 13\" M1 (8GB / 256GB SSD) – Roségold – mit OVP"
+   ],
+   "3558201455": [
+    480.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 / sehr guter Zustand / OVP / aus 2023"
+   ],
+   "3558230387": [
+    440.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 | 256GB / 8GB | Space Gray | 87% Akku"
+   ],
+   "3558246914": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air 2020 M1 256gb 16gb ram"
    ]
   },
   "MacBook Air M2": {
@@ -11075,36 +11226,48 @@
     "2026-11-01",
     "2026-11-01",
     "Mac Book Air M2 13“ - 8 GB - 256 SSD"
+   ],
+   "3558217046": [
+    875.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air M2 | 13 Zoll | 16 GB RAM | 512 GB SSD | 04/2024"
+   ],
+   "3558241633": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 15 Zoll Display"
    ]
   },
   "Makita DHP485 Set": {
    "3438546227": [
     240.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita DHP485RTJ 2x5Ah Akku"
    ],
    "3439223304": [
     125.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita Werkzeugkoffer DHP 485"
    ],
    "3461896836": [
     220.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita Schlagbohrschrauber DHP 485 RFE - Unbenutzt -"
    ],
    "3519685358": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita DHP485 Akku-Schlagbohrschrauber"
    ],
    "3524699465": [
     129.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita DHP485 18V"
    ],
@@ -11128,7 +11291,7 @@
    ],
    "3550818353": [
     75.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita DHP485 Akku-Schlagbohrschrauber 18V"
    ],
@@ -11140,51 +11303,57 @@
    ],
    "3552193204": [
     275.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "Makita DGA 511 Winkelschleifer + DHP 485 Schlagbohrschrauber Set"
    ],
    "3556159940": [
     115.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Makita Akku-Schlagbohrschrauber DHP485 mit Box, Akku + Ladegerät"
    ],
    "3556159941": [
     115.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Makita Akku-Schlagbohrschrauber DHP485 mit Box, Akku + Ladegerät"
+   ],
+   "3558175124": [
+    75.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Makita DHP485 Akku-Schlagbohrschrauber mit 18V aus der LXT-Serie."
    ]
   },
   "Makita DTD153/172 Set": {
    "2603285051": [
     255.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita DTD172 Akku Schlagschrauber 18 V Steckschlüssel Handschuhe"
    ],
    "2969793318": [
     349.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita 1/4 Zoll Akku Schlagschrauber DTD 172 RTJ mit 2 Akkus 5,0"
    ],
    "3518898578": [
     149.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita DTD172 Schlagschrauber – sehr guter Zustand"
    ],
    "3536206225": [
     110.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita Schlagschrauber DTD172 BL (180 Nm / 18V / 1/4\" )"
    ],
    "3548252388": [
     330.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Makita Akku-Schlagschrauber DTD172RTJ + kostenlosem BIT-Set"
    ]
@@ -11192,7 +11361,7 @@
   "Pinecil Lötkolben": {
    "3549997068": [
     75.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Pinecil V2 Set-Lötkolben +Transparente Hülle + Silikonkabel NEU"
    ],
@@ -11204,7 +11373,7 @@
    ],
    "3557430394": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Pinecil V2 Lötkolben USB-C"
    ]
@@ -13203,6 +13372,12 @@
     "2026-11-01",
     "2026-11-01",
     "Nvidia MSI GeForce RTX 3070 Gaming Trio Plus – 8 GB"
+   ],
+   "3558192555": [
+    190.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MSI GeForce RTX 3070 Ventus 3X Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -15187,6 +15362,12 @@
     "2026-10-31",
     "2026-10-31",
     "MSI GeForce RTX 4070Ti SUPER 16G VENTUS 2X OC"
+   ],
+   "3558193883": [
+    850.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MSI RTX 4070 TI SUPER OC VENTUS 2"
    ]
   },
   "RTX 4080": {
@@ -15911,6 +16092,12 @@
     "2026-11-01",
     "2026-11-01",
     "AMD Radeon RX 6800 XT 16GB GDDR6 XFX Speedster MERC 319 HDMI/DP"
+   ],
+   "3558166328": [
+    550.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Gigabyte AMD Radeon RX 6800 XT Gaming OC Grafikkarte 16GB GDDR6"
    ]
   },
   "RX 7800 XT": {
@@ -16350,7 +16537,7 @@
    ],
    "3530088665": [
     319.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-22",
     "Raspberry Pi 5 – 16 GB RAM – DeskPi Lite + Zubehör – getestet"
    ],
@@ -16374,13 +16561,13 @@
    ],
    "3544984544": [
     265.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-22",
     "Raspberry PI 5 16GB Model B Rev 1.1 + Case + Kühler + Netzteil"
    ],
    "3545343946": [
     320.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-22",
     "Raspberry Pi 5 Starterkit 16GB RAM"
    ],
@@ -16556,13 +16743,13 @@
    ],
    "3546529414": [
     190.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-22",
     "Raspberry Pi 5 (8GB RAM) mit Gehäuse und Netzteil"
    ],
    "3546850057": [
     200.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-22",
     "Raspberry Pi 5 8GB Set inkl. 27W Netzteil & GeeekPi Gehäuse"
    ],
@@ -16706,43 +16893,43 @@
    ],
    "3552527509": [
     249.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Raspberry Pi 5 8GB – North Gehäuse – NVMe Adapter – 128GB SanDisk"
    ],
    "3552580422": [
     229.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "SunFounder PiCar-X mit Raspberry Pi 5 (8 GB) – fertig aufgebaut"
    ],
    "3552581437": [
     229.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "SunFounder PiCar-X mit Raspberry Pi 5 (8 GB) – fertig aufgebaut"
    ],
    "3552582949": [
     229.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "SunFounder PiCar-X mit Raspberry Pi 5 (8 GB) – fertig aufgebaut"
    ],
    "3552587658": [
     179.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Raspberry Pi 5 – 8 GB RAM | 128 GB Starterset mit Zubehör"
    ],
    "3552588351": [
     179.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Raspberry Pi 5 – 8 GB RAM | 128 GB Starterset mit Zubehör"
    ],
    "3552589559": [
     179.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Raspberry Pi 5 – 8 GB RAM | 128 GB Starterset mit Zubehör"
    ],
@@ -16772,7 +16959,7 @@
    ],
    "3553550121": [
     200.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-27",
     "Raspberry Pi 5 8GB mit PCIe M.2 HAT (A)"
    ],
@@ -16796,7 +16983,7 @@
    ],
    "3555173710": [
     215.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-28",
     "Raspberry Pi 5 8GB mit Display, Lüfter und Original Kabeln"
    ],
@@ -16808,13 +16995,13 @@
    ],
    "3555716187": [
     200.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-29",
     "Raspberry Pi 5 (8 GB) Komplett-Set – NEU & OVP inkl. NVMe-Shield"
    ],
    "3555904671": [
     150.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-29",
     "Raspberry Pi 5 8GB"
    ],
@@ -16826,19 +17013,19 @@
    ],
    "3556814541": [
     185.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Raspberry Pi 5 8Gb– Inkl. Gehäuse, Kühler & Original 27W Netzteil"
    ],
    "3556932048": [
     180.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Raspberry Pi 5 8GB+64 GB SD-Karte mit Gehäuse und Netzteil"
    ],
    "3557066894": [
     199.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Raspberry Pi 5, 8 GB, 64 GB microSD, Netzteil, Alugehäuse"
    ],
@@ -16850,9 +17037,39 @@
    ],
    "3557158095": [
     220.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-31",
     "Raspberry Pi 5 | 8 GB RAM | 128 GB NVMe SSD | Komplettset"
+   ],
+   "3557692262": [
+    145.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Raspberry PI 5 mit 8GB Ram"
+   ],
+   "3558052707": [
+    189.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Raspberry Pi 5 8GB Starter Kit + Netzteil"
+   ],
+   "3558053036": [
+    199.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Raspberry Pi 5 8GB Starter Kit Netzteil Gehäuse"
+   ],
+   "3558065711": [
+    150.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Raspberry Pi 5  8GB RAM + NVMe Base"
+   ],
+   "3558120104": [
+    145.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Raspberry Pi 5 8GB  incl. Lüfter, Speicherkarte und Kabel Neu OVP"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -18438,12 +18655,18 @@
     "2026-11-01",
     "2026-11-01",
     "Samsung 990 Pro 2TB NVMe M.2 SSD PCIe 4.0 Wie neu 100%"
+   ],
+   "3558181603": [
+    300.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Samsung 990 PRO 2 TB SSD – Neu & OVP"
    ]
   },
   "Samsung PM983 1.92TB": {
    "3547224498": [
     300.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-24",
     "Samsung PM983 1,92 TB SSD NVMe U.2 93% Health"
    ]
@@ -19063,6 +19286,12 @@
     "2026-11-01",
     "2026-10-30",
     "Seagate 4TB IronWolf ST4000VN008 SATA 3,5\" NAS HDD Festplatte"
+   ],
+   "3558190141": [
+    110.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Seagate IronWolf 4 TB NAS HDD – nur 46 Betriebsstunden"
    ]
   },
   "Seagate IronWolf 8TB": {
@@ -19184,61 +19413,61 @@
   "Shelly Plus Plug S": {
    "3296809025": [
     21.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Shelly · Plug & Play \"Plug S Gen3 WLAN Matter\" white"
    ],
    "3296967584": [
     29.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Shelly Plug & Play \"Outdoor Plug 3 S Gen3\" Zwischenstecker für dr"
    ],
    "3317071166": [
     20.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Shelly Plug S Wi-Fi Bluetooth Plug 220-230 V"
    ],
    "3471525078": [
     19.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Shelly Plug S Weiß - WLAN Smarte Steckdose, Leistungsmessung"
    ],
    "3486078270": [
     21.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Shelly Outdoor Plug S Gen3 – Smarte Außensteckdose (Matter/WLAN)"
    ],
    "3486689945": [
     20.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Shelly Plug S Gen3 Smart Wi-Fi & Bluetooth Stecker"
    ],
    "3486690811": [
     25.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Shelly Outdoor Plug S Gen3 Smart Plug - Mocha"
    ],
    "3494989272": [
     25.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Shelly Plus Plug S - Intelligente Steckdose mit Strommessung"
    ],
    "3520530940": [
     34.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "EcoFlow x Shelly Smart Plug S MTR Gen3 Typ F"
    ],
    "3527539300": [
     24.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Shelly Plug & Play Outdoor Plug S Gen3 Zwischenstecker für drauße"
    ],
@@ -19268,13 +19497,13 @@
    ],
    "3552841851": [
     20.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Shelly Outdoor Plug s"
    ],
    "3553259366": [
     30.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "eco flow x Shelly Plug S MTR Gen3"
    ],
@@ -19286,15 +19515,15 @@
    ],
    "3554985228": [
     15.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-28",
     "Shelly Plus Plug S - Intelligente Steckdose Funktioniert mit Alex"
    ]
   },
   "Siglent SDS1104X-E": {
    "3538986564": [
-    440.0,
-    "2026-10-31",
+    420.0,
+    "2026-11-01",
     "2026-10-23",
     "Siglent SDS 1104X-E Digitales Oszilloskop 100MHz, wie neu"
    ]
@@ -20075,6 +20304,12 @@
     "2026-11-01",
     "2026-10-31",
     "Synology DiskStation DS220+ 2-Bay NAS, Top Zustand, OVP, ohne HDD"
+   ],
+   "3558216186": [
+    180.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Synology DS220+ NAS"
    ]
   },
   "Synology DS220j": {
@@ -20741,6 +20976,12 @@
     "2026-11-01",
     "2026-11-01",
     "Lenovo ThinkPad T14 Gen 3 i7-1260P 32GB RAM 1TB SSD LTE"
+   ],
+   "3558208345": [
+    375.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Lenovo ThinkPad T14 Gen 3 | Intel i5 | 8 GB RAM | 256 GB SSD"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -20808,6 +21049,12 @@
     650.0,
     "2026-11-01",
     "2026-10-23",
+    "Lenovo X1 Carbon Gen 10 i7 512GB NVMe DDR5 32GB LTE TOUCH-DISPLAY"
+   ],
+   "3558169979": [
+    650.0,
+    "2026-11-01",
+    "2026-11-01",
     "Lenovo X1 Carbon Gen 10 i7 512GB NVMe DDR5 32GB LTE TOUCH-DISPLAY"
    ]
   },
@@ -21553,7 +21800,7 @@
    ],
    "3499901802": [
     115.0,
-    "2026-10-29",
+    "2026-11-01",
     "2026-10-23",
     "WELLER WTCP-S Lötstation - Ganz guter Zustand"
    ],
@@ -21565,49 +21812,49 @@
    ],
    "3516166303": [
     85.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller WTCP-S Lötstation + TCP-S 24V Lötkolben,Halterung  Nr. A8"
    ],
    "3517864758": [
     45.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller WTCP Magnastat Lötstation 24V 50W Lötkolben,  4 Spitzen"
    ],
    "3534683255": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller Lötstation WTCP 50"
    ],
    "3538405914": [
     79.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Lötkolben Weller WTCP-S"
    ],
    "3542870508": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller WTCP-S Lötstation * funktionsfähig"
    ],
    "3543658726": [
     95.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller Magnastat Lötstation WTCP-S"
    ],
    "3543706957": [
     70.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller WTCP-S Lötstation mit Lötkolben und Halterung"
    ],
    "3544525208": [
     80.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller Lötstation WTCP-S"
    ],
@@ -21619,19 +21866,19 @@
    ],
    "3546300917": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller WTCP-S Netzteilmit Ablage"
    ],
    "3546783508": [
     55.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller Lötstation WTCP-S Magnastat  Lötkolben"
    ],
    "3547067523": [
     80.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Weller Lötstation WTCP-S 50W 24V kaum benutzt mit OVP"
    ],
@@ -21643,19 +21890,19 @@
    ],
    "3551680728": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "Profi Weller Lötstation WTCP-51 + Lötkolben!"
    ],
    "3552806900": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Weller WTCP-S Lötstation mit Zubehör"
    ],
    "3553416288": [
     110.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Weller WTCP-S Lötstation TOP"
    ],
@@ -21667,19 +21914,19 @@
    ],
    "3554979521": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-28",
     "Weller WTCP-S Magnastat Lötstation 50W 24V –"
    ],
    "3555047323": [
     120.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-28",
     "Weller WTCP-S Lötstation mit Lötkolben und Ablage"
    ],
    "3555923470": [
     50.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-29",
     "Lötstation Lötkolben Weller WTCP-S"
    ],
@@ -21849,73 +22096,73 @@
    ],
    "3505766409": [
     40.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "NEU: Telekom Magenta SmartHome Set: Home Base, ZigBee Stick + ..."
    ],
    "3507173909": [
     15.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "ConBee II Zigbee Gateway USB Stick"
    ],
    "3511686159": [
     20.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Slae.sh CC2652R Zigbee USB-Stick"
    ],
    "3515756507": [
     20.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "USB Stick CC2652P Sonoff ZigBee 3.0 - gebraucht"
    ],
    "3518160497": [
     25.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Magenta SmartHome Tür-/Fensterkontakt (2x) + Qivicon ZigBee Stick"
    ],
    "3522073915": [
     20.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "CC2531 Zigbee2mqtt Smart Home Stick"
    ],
    "3522520519": [
     20.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Phoscon ConBee II Zigbee USB-Gateway / Stick (inkl. OVP)"
    ],
    "3523466504": [
     16.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Phoscon ConBee II Zigbee USB-Stick Gateway mit OVP"
    ],
    "3527690983": [
-    10.0,
-    "2026-10-31",
+    9.0,
+    "2026-11-01",
     "2026-10-23",
     "Qivicon Zigbee Stick USB Smarthome"
    ],
    "3531255965": [
     12.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "ConBee II Zigbee USB Gateway Stick"
    ],
    "3533969163": [
     49.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Rademacher Home Pilot USB Stick Zigbee 3.0 Erweiterung Smart Home"
    ],
    "3536381767": [
     25.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Qivicon Mome Base mit Zigbee Stick"
    ],
@@ -21927,25 +22174,25 @@
    ],
    "3545000964": [
     10.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "CC2531 Zigbee USB Stick mit externer Antenne (für Home Assistant)"
    ],
    "3547397711": [
     15.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Phosconn RaspBee II 2 Raspberry Zigbee Stick"
    ],
    "3547822941": [
     20.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "Sonoff Zigbee Stick 3.0"
    ],
    "3549079254": [
     10.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-23",
     "CC2531 Zigbee USB Stick für Zigbee2MQTT"
    ],
@@ -21957,13 +22204,13 @@
    ],
    "3551437197": [
     35.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-25",
     "Home Assistant SkyConnect ZBT-1 Zigbee/Thread Stick"
    ],
    "3552513590": [
     20.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "ConBee II Phoscon ZigBee Gateway USB-Stick"
    ],
@@ -21981,25 +22228,25 @@
    ],
    "3553146533": [
     45.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Zigbee-Set: LAN-Koordinator CC2652R mit PoE + USB-Stick mit Anten"
    ],
    "3553271139": [
     18.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-26",
     "Conbee II Zigbee USB Stick"
    ],
    "3556231298": [
     25.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Smart Home Deutsche Telekom Quivicon Base + ZigBee Stick Angebot"
    ],
    "3556801571": [
     10.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-30",
     "Zigbee USB Stick CC2531"
    ]
