@@ -564,8 +564,8 @@
   "3559082723": "2026-11-01",
   "3559145683": "2026-11-01"
  },
- "laeufe": 362,
- "letzter_lauf": "2026-11-01T19:06:53",
+ "laeufe": 363,
+ "letzter_lauf": "2026-11-01T19:56:57",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -10025,6 +10025,12 @@
     "2026-11-01",
     "2026-11-01",
     "MacBook Air M1 13 Zoll 16 GB RAM 256 GB SSD"
+   ],
+   "3559209083": [
+    499.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air 13,3” M1 (2020) | 8 GB RAM | 256 GB SSD | Space"
    ]
   },
   "MacBook Air M2": {
@@ -11841,7 +11847,7 @@
     "13 Mac Book Air m2 Chip 256GB"
    ],
    "3559158623": [
-    724.0,
+    699.0,
     "2026-11-01",
     "2026-11-01",
     "MacBook Air M2 (2022)"
@@ -11851,6 +11857,18 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M2 | 16 GB RAM | 256 GB SSD"
+   ],
+   "3559204210": [
+    549.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air 13 M2, 8 GB, 256 GB, Polarstern, mit Rechnung"
+   ],
+   "3559204789": [
+    700.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 2022 - 16 GB RAM - 256 GB SSD - Mitternacht"
    ]
   },
   "Makita DHP485 Set": {
@@ -14096,6 +14114,12 @@
     "2026-10-21",
     "Gigabyte RTX 3080 10GB Aorus Xtreme mit OVP ►Händler◄"
    ],
+   "3505627022": [
+    499.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Grafikkarten: RTX4070TiS 5060Ti 3080/Ti RX6800/XT 2080Ti 2060 uvm"
+   ],
    "3533337077": [
     415.0,
     "2026-10-24",
@@ -15937,6 +15961,12 @@
     "2026-11-01",
     "2026-11-01",
     "RTX 4070 Super OC Asus Prime"
+   ],
+   "3559193319": [
+    600.0,
+    "2026-11-01",
+    "2026-11-01",
+    "RTX 4070 Super kfa2 ex oc Limited Edition in pink"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -16555,7 +16585,7 @@
     "Gainward Panther GeForce RTX 4080 16GB GDDR6X OVP"
    ],
    "3556027113": [
-    1225.0,
+    1199.0,
     "2026-11-01",
     "2026-10-29",
     "INNO3D GeForce RTX 4080 Super iChill Frostbite Wassergekühlt"
@@ -16613,6 +16643,12 @@
     "2026-11-01",
     "2026-11-01",
     "ASUS ROG STRIX GeForce RTX 4080"
+   ],
+   "3559177705": [
+    820.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Gigabyte GeForce RTX 4080 SUPER WINDFORCE V2 16GB Grafikkarte"
    ]
   },
   "RX 6800 XT": {
@@ -16915,6 +16951,12 @@
     "2026-11-01",
     "2026-11-01",
     "Powercolor Red Dragon RX 6800 XT 16 GB"
+   ],
+   "3559203365": [
+    500.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Msi Rx 6800 xt gaming x trio"
    ]
   },
   "RX 7800 XT": {
@@ -17159,7 +17201,7 @@
     "RX 7800 XT mit OVP"
    ],
    "3550373301": [
-    650.0,
+    600.0,
     "2026-11-01",
     "2026-10-24",
     "XFX Speedster QICK 319 AMD Radeon RX 7800 XT - 16GB (OVP)"
@@ -19550,6 +19592,12 @@
     "2026-11-01",
     "2026-11-01",
     "Samsung 990 PRO 2 TB SSD – Neu & OVP"
+   ],
+   "3559203512": [
+    250.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Samsung 990 Pro 2 TB Interne SSD mit Heatsink"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -22506,6 +22554,12 @@
     "2026-11-01",
     "2026-11-01",
     "Western Digital WD Red Plus 4 TB HDD Neu"
+   ],
+   "3559193899": [
+    90.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Western Digital WD Red Plus  ERFX 4TB Festplatte"
    ]
   },
   "WD Red Plus 8TB": {
