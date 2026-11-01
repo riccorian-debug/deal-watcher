@@ -552,10 +552,11 @@
   "3558120104": "2026-11-01",
   "3558216186": "2026-11-01",
   "3558241633": "2026-11-01",
-  "3558390235": "2026-11-01"
+  "3558390235": "2026-11-01",
+  "3558559166": "2026-11-01"
  },
- "laeufe": 355,
- "letzter_lauf": "2026-11-01T11:56:55",
+ "laeufe": 356,
+ "letzter_lauf": "2026-11-01T13:15:33",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2926,7 +2927,7 @@
     "Crucial DDR5 RAM Pro Series 32GB Kit (2x16GB) 6000 MT/s * NEU"
    ],
    "3557628021": [
-    500.0,
+    499.0,
     "2026-11-01",
     "2026-10-31",
     "ADATA XPG Lancer DDR5 32GB (2x16GB) 6000MHz RAM"
@@ -2978,6 +2979,12 @@
     "2026-11-01",
     "2026-11-01",
     "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz für AMD"
+   ],
+   "3558571510": [
+    400.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4469,6 +4476,12 @@
     "2026-11-01",
     "2026-11-01",
     "Crucial 16GB DDR4-3200 RAM SO-DIMM"
+   ],
+   "3558559166": [
+    50.0,
+    "2026-11-01",
+    "2026-11-01",
+    "V7 16GB DDR4 RAM Laptop / Mini-PC (3200 MHz, SO-DIMM) – Voll funk"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -4957,6 +4970,18 @@
     "2026-10-31",
     "2026-10-31",
     "Samsung 32GB DDR4 3200MHz RAM – 2x16GB SO-DIMM Notebook"
+   ],
+   "3558541241": [
+    120.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Kingston 2x16GB (32GB) DDR4 SODIMM Arbeitsspeicher 3200 MHz"
+   ],
+   "3558560910": [
+    140.0,
+    "2026-11-01",
+    "2026-11-01",
+    "32GB RAM Kit (2x 16GB) Samsung DDR4 SO-DIMM 3200MHz für Laptop"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {},
@@ -9654,6 +9679,18 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air Apple M1-Chip 8GB, 256 GB"
+   ],
+   "3558530135": [
+    490.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 (2023) mit OVP"
+   ],
+   "3558553112": [
+    395.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M1 (2020) / 8GB / 256GB „Top Zustand!“ ⚡️"
    ]
   },
   "MacBook Air M2": {
@@ -11342,6 +11379,36 @@
     "2026-11-01",
     "2026-11-01",
     "Apple MacBook Air M2, 2022, 8 GB RAM, 512GB Festplate"
+   ],
+   "3558471565": [
+    650.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air 13\" M2"
+   ],
+   "3558520858": [
+    799.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air 15 Zoll M2 – neuwertiger Zustand, nur 5 Ladezyklen"
+   ],
+   "3558572493": [
+    550.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MacBook Air 13\" M2 8GB 256GB – Akku 98%, 41 Zyklen, kleine Delle"
+   ],
+   "3558573628": [
+    800.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2, 8GB RAM, 512GB SSD, 13,6 Zoll, 99% Batterie"
+   ],
+   "3558598937": [
+    849.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Apple MacBook Air M2 – 16 GB RAM – 1 TB SSD – Top-Zustand"
    ]
   },
   "Makita DHP485 Set": {
@@ -12328,6 +12395,12 @@
     "2026-11-01",
     "2026-11-01",
     "Nvidia GeForce RTX 3060 12gb"
+   ],
+   "3558611776": [
+    325.0,
+    "2026-11-01",
+    "2026-11-01",
+    "12 GB - Geforce Rtx 3060"
    ]
   },
   "RTX 3070": {
@@ -13500,6 +13573,24 @@
     "2026-11-01",
     "2026-11-01",
     "MSI GeForce RTX 3070 Ventus 3X Grafikkarte"
+   ],
+   "3558455731": [
+    299.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MSI GeForce RTX 3070 Ventus 2X OC Edition"
+   ],
+   "3558481239": [
+    269.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MSI GeForce RTX 3070 Suprim 8G – 8 GB – Nicht-LHR – nur Abholung"
+   ],
+   "3558575422": [
+    279.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Gigabyte RTX 3070 Grafikkarte"
    ]
   },
   "RTX 3080": {
@@ -14312,6 +14403,18 @@
     "2026-11-01",
     "2026-11-01",
     "Gigabyte GeForce RTX 3080 Grafikkarte"
+   ],
+   "3558463568": [
+    400.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Zotac Gaming GeForce RTX 3080 Trinity OC mit OVP"
+   ],
+   "3558582888": [
+    450.0,
+    "2026-11-01",
+    "2026-11-01",
+    "MSI GeForce RTX 3080 Ventus 3x Plus mit OVP"
    ]
   },
   "RTX 4060 Ti": {
@@ -15954,6 +16057,12 @@
     "2026-10-31",
     "2026-10-31",
     "GIGABYTE RTX 4080 SUPER AERO OC + RECHNUNG"
+   ],
+   "3558558675": [
+    1200.0,
+    "2026-11-01",
+    "2026-11-01",
+    "ASUS ROG STRIX GeForce RTX 4080"
    ]
   },
   "RX 6800 XT": {
@@ -16375,7 +16484,7 @@
    ],
    "3542391520": [
     550.0,
-    "2026-10-31",
+    "2026-11-01",
     "2026-10-21",
     "Grafikkarte GIGABYTE RX 7800XT Gaming OC 16GB GPU"
    ],
@@ -17503,6 +17612,12 @@
     "2026-11-01",
     "2026-11-01",
     "AMD Ryzen 7 5800X3D Prozessor 8-Core 16-Thread"
+   ],
+   "3558532825": [
+    230.0,
+    "2026-11-01",
+    "2026-11-01",
+    "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -20982,6 +21097,12 @@
     "2026-11-01",
     "2026-10-31",
     "Lenovo ThinkPad T14 Gen 2 | i7-1165G7 | 32GB RAM"
+   ],
+   "3558574409": [
+    489.0,
+    "2026-11-01",
+    "2026-11-01",
+    "Lenovo Thinkpad T14 Gen 2 - i7 24 GB RAM 512 GB SSD + Rechnung"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -21797,7 +21918,7 @@
     "Western Digital WD Red Plus 8TB NAS HDD"
    ],
    "3556980823": [
-    280.0,
+    270.0,
     "2026-11-01",
     "2026-10-30",
     "WD RED Plus NAS HDD 8TB"
