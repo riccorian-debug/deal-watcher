@@ -566,9 +566,24 @@
   "3559218263": "2026-11-01",
   "3559267156": "2026-11-01"
  },
- "laeufe": 366,
- "letzter_lauf": "2026-11-02T06:23:20",
- "offen": {},
+ "laeufe": 367,
+ "letzter_lauf": "2026-11-02T08:36:54",
+ "offen": {
+  "3559383430": {
+   "bis": "2026-11-05",
+   "datum": "",
+   "direct": false,
+   "gesuch": false,
+   "id": "3559383430",
+   "kategorie": "pc-zubehoer",
+   "ort": "85221 Dachau",
+   "query": "EliteBook RAM 16GB SO-DIMM",
+   "ship": true,
+   "title": "SK hynix 16GB DDR4 RAM SO-DIMM 3200 MHz",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sk-hynix-16gb-ddr4-ram-so-dimm-3200-mhz/3559383430-225-5977",
+   "vb": false
+  }
+ },
  "pools": {
   "Arduino/ESP32 Starter-Set": {
    "2579740078": [
@@ -2999,13 +3014,13 @@
    ],
    "3557543966": [
     470.0,
-    "2026-11-01",
+    "2026-11-02",
     "2026-10-31",
     "Crucial DDR5 RAM Pro Series 32GB Kit (2x16GB) 6000 MT/s * NEU"
    ],
    "3557628021": [
     499.0,
-    "2026-11-01",
+    "2026-11-02",
     "2026-10-31",
     "ADATA XPG Lancer DDR5 32GB (2x16GB) 6000MHz RAM"
    ],
@@ -3116,6 +3131,12 @@
     "2026-11-02",
     "2026-11-02",
     "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL36 weiß"
+   ],
+   "3559389782": [
+    420.0,
+    "2026-11-02",
+    "2026-11-02",
+    "CORSAIR Vengeance DDR5 RAM 32GB Up to 6000MHz CL30-36-36-76 singl"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4661,6 +4682,24 @@
     "2026-11-02",
     "2026-11-01",
     "Micron 16GB DDR4 Arbeitsspeicher SO-DIMM 3200"
+   ],
+   "3559362089": [
+    60.0,
+    "2026-11-02",
+    "2026-11-02",
+    "Micron Arbeitsspeicher 16GB DDR4 3200MHz SoDimm Laptops"
+   ],
+   "3559379749": [
+    95.0,
+    "2026-11-02",
+    "2026-11-02",
+    "Crucial 16GB DDR4-3200 SO-DIMM Notebook RAM (CT16G4SFRA32A)"
+   ],
+   "3559383430": [
+    50.0,
+    "2026-11-02",
+    "2026-11-02",
+    "SK hynix 16GB DDR4 RAM SO-DIMM 3200 MHz"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -14314,7 +14353,7 @@
    ],
    "3559288488": [
     300.0,
-    "2026-11-01",
+    "2026-11-02",
     "2026-11-01",
     "Gigabyte NVIDIA GeForce RTX 3070 Grafikkarte OC"
    ],
@@ -15189,6 +15228,24 @@
     "2026-11-02",
     "2026-11-01",
     "Nvidia Geforce Rtx 3080 Asus Rog Strix"
+   ],
+   "3559377439": [
+    449.0,
+    "2026-11-02",
+    "2026-11-02",
+    "MSI RTX 3080 SuprimX 10G"
+   ],
+   "3559379707": [
+    440.0,
+    "2026-11-02",
+    "2026-11-02",
+    "NVidia GeForce RTX 3080 MSI Suprim X 10GB"
+   ],
+   "3559383895": [
+    470.0,
+    "2026-11-02",
+    "2026-11-02",
+    "Rtx 3080 12gb arous Master"
    ]
   },
   "RTX 4060 Ti": {
@@ -15319,7 +15376,7 @@
     "Gigabyte GeForce RTX 4060 Ti 16 GB WINDFORCE OC"
    ],
    "3546532885": [
-    420.0,
+    400.0,
     "2026-11-02",
     "2026-10-21",
     "MSI GeForce RTX 4060 Ti 8GB"
@@ -15897,7 +15954,7 @@
     "Grafikkarte Gainward GeForce RTX4070 PHOENIX 12GB Neuwertig!"
    ],
    "3557413846": [
-    650.0,
+    599.0,
     "2026-11-02",
     "2026-10-31",
     "GIGABYTE GeForce RTX 4070 WINDFORCE OC V2 12GB GDDR6"
@@ -16162,6 +16219,12 @@
     "2026-10-30",
     "Grafikkarte Nvidia Geforce RTX 4070 Super"
    ],
+   "3556739907": [
+    750.0,
+    "2026-11-02",
+    "2026-11-02",
+    "Gigabyte RTX 4070 SUPER Windforce OC 12GB - OVP & Rechnung"
+   ],
    "3557240079": [
     500.0,
     "2026-10-31",
@@ -16203,6 +16266,12 @@
     "2026-11-02",
     "2026-11-01",
     "Gainward NVIDIA GeForce RTX 4070 SUPER GHOST 12 GB Grafikkarte"
+   ],
+   "3559344181": [
+    750.0,
+    "2026-11-02",
+    "2026-11-02",
+    "MSI Gaming X Slim GeForce RTX 4070 Super"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -16897,6 +16966,12 @@
     "2026-11-02",
     "2026-11-01",
     "Zotac Gaming Nvidia GeForce RTX 4080S Super 16GB Trinity Black"
+   ],
+   "3559402001": [
+    1000.0,
+    "2026-11-02",
+    "2026-11-02",
+    "Grafikkarte GAINWARD GeForce RTX 4080 Phantom 16 GB"
    ]
   },
   "RX 6800 XT": {
@@ -17639,6 +17714,12 @@
     "2026-11-02",
     "2026-11-01",
     "GIGABYTE Radeon RX 7800 XT Gaming OC 16GB"
+   ],
+   "3559404443": [
+    550.0,
+    "2026-11-02",
+    "2026-11-02",
+    "ASUS DUAL RX 7800 XT 16GB TOP ZUSTAND WIE NEU NUR HEUTE 550€"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -18505,6 +18586,12 @@
     230.0,
     "2026-11-01",
     "2026-11-01",
+    "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
+   ],
+   "3559407934": [
+    230.0,
+    "2026-11-02",
+    "2026-11-02",
     "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
    ]
   },
@@ -19596,7 +19683,7 @@
     "Samsung 990 PRO 2TB NVMe SSD mit Heatsink – NEU & OVP versiegelt"
    ],
    "3551808773": [
-    265.0,
+    230.0,
     "2026-11-02",
     "2026-10-25",
     "SSD Nvme Samsung 990 PRO / 2TB"
@@ -19662,7 +19749,7 @@
     "Samsung 990 pro 2tb m2 nvme ssd wie neu"
    ],
    "3554440929": [
-    240.0,
+    220.0,
     "2026-11-02",
     "2026-10-28",
     "Samsung 990 PRO NVMe M.2 SSD 2TB - Sehr guter Zustand"
@@ -19852,6 +19939,12 @@
     "2026-11-02",
     "2026-11-02",
     "Samsung 990 Pro 2TB NVMe M.2 SSD PCIe 4.0 Wie neu 100%"
+   ],
+   "3559422993": [
+    279.0,
+    "2026-11-02",
+    "2026-11-02",
+    "Samsung 990 PRO NVMe M.2 SSD, 2 TB (Backup, Nas, Server, proxmox)"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -22671,7 +22764,7 @@
    ],
    "3551274396": [
     349.0,
-    "2026-10-28",
+    "2026-11-02",
     "2026-10-25",
     "WD_BLACK SN850X 2TB NVMe SSD mit Kühlkörper – unbenutzt"
    ],
@@ -23560,7 +23653,7 @@
  "zustand": {
   "leer_in_folge": 0,
   "letzte_warnung": "",
-  "pause_bis": "2026-11-01T01:04:49",
+  "pause_bis": "2026-11-02T14:36:54",
   "pause_h": 6
  }
 }
