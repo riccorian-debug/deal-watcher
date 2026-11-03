@@ -580,8 +580,8 @@
   "3560276988": "2026-11-03",
   "3560287436": "2026-11-03"
  },
- "laeufe": 371,
- "letzter_lauf": "2026-11-03T07:38:15",
+ "laeufe": 372,
+ "letzter_lauf": "2026-11-03T09:13:10",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3180,7 +3180,7 @@
     "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL36 weiß"
    ],
    "3559389782": [
-    420.0,
+    400.0,
     "2026-11-03",
     "2026-11-02",
     "CORSAIR Vengeance DDR5 RAM 32GB Up to 6000MHz CL30-36-36-76 singl"
@@ -3244,6 +3244,12 @@
     "2026-11-03",
     "2026-11-03",
     "Kingston FURY Beast DDR5 32GB 6000 MHz"
+   ],
+   "3560329019": [
+    480.0,
+    "2026-11-03",
+    "2026-11-03",
+    "G.Skill Trident Z5 NEO RGB DDR5 32GB (2x16GB) 6000MHz CL30 NEU"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4873,6 +4879,18 @@
     "2026-11-03",
     "2026-11-03",
     "16GB RAMAXEL DDR4 3200 SO-DIMM Laptop RAM 2Rx8"
+   ],
+   "3560333405": [
+    90.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Lexar SO-DIMM 16 GB DDR4-3200, LD4AS016G-B3200GSST"
+   ],
+   "3560349297": [
+    60.0,
+    "2026-11-03",
+    "2026-11-03",
+    "SK Hynix 16GB DDR4 RAM 3200MHz SO-DIMM Laptop Arbeitsspeicher"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -5403,6 +5421,18 @@
     "2026-11-03",
     "2026-11-03",
     "Crucial 32GB DDR4-3200 SODIMM RAM Arbeitsspeicher"
+   ],
+   "3560350001": [
+    200.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Crucial 32 GB DDR4-3200 CL22 SODIMM RAM"
+   ],
+   "3560361763": [
+    150.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Kingston FURY Impact 32GB (2x16GB) DDR4 3200MHz SO-DIMM KF432S20I"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {
@@ -6074,7 +6104,7 @@
    ],
    "3552913800": [
     250.0,
-    "2026-10-29",
+    "2026-11-03",
     "2026-10-29",
     "Intel i7 14700k"
    ],
@@ -10653,6 +10683,30 @@
     "2026-11-03",
     "2026-11-03",
     "Apple MacBook Air M1 2020 – 8 GB RAM / 256 GB SSD – 500 € VB"
+   ],
+   "3560307576": [
+    440.0,
+    "2026-11-03",
+    "2026-11-03",
+    "MacBook Air 2020 M1 8GB/256GB mit Zubehör, neuwertig"
+   ],
+   "3560313633": [
+    499.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Apple MacBook Air 13,3” M1 (2020) – Roségold Akku 96 %"
+   ],
+   "3560321177": [
+    490.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Mac book Air M1 Akku: 93%"
+   ],
+   "3560363703": [
+    600.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Apple MacBook Air M1 13\" | 8 GB RAM | 512 GB SSD | Top Zustand"
    ]
   },
   "MacBook Air M2": {
@@ -10703,6 +10757,12 @@
     "2026-10-24",
     "2026-10-22",
     "MacBook Air 13'' M2 2022 8GB RAM 256 GB SSD + 1 TB SSD extern"
+   ],
+   "3543286250": [
+    800.0,
+    "2026-11-03",
+    "2026-11-03",
+    "MacBook Air M2 13,6\" | 8 GB RAM | 512 GB SSD | Sehr guter Zustand"
    ],
    "3544301151": [
     760.0,
@@ -12671,6 +12731,12 @@
     "2026-11-03",
     "2026-11-03",
     "MacBook Air M2 mit OVP"
+   ],
+   "3560321510": [
+    650.0,
+    "2026-11-03",
+    "2026-11-03",
+    "MacBook Air M2 (2022) 13.6 Zoll /8C GPU/8GB/256GB"
    ]
   },
   "Makita DHP485 Set": {
@@ -13753,6 +13819,18 @@
     "2026-11-03",
     "2026-11-03",
     "ASUS NVIDIA GeForce RTX 3060 Grafikkarte 12 GB"
+   ],
+   "3560335674": [
+    300.0,
+    "2026-11-03",
+    "2026-11-03",
+    "RTX 3060 12GB"
+   ],
+   "3560372666": [
+    350.0,
+    "2026-11-03",
+    "2026-11-03",
+    "ASUS ROG Strix GeForce RTX 3060 12GB GDDR6 Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -15812,7 +15890,7 @@
    ],
    "3557827303": [
     459.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-31",
     "Gigabyte AORUS GeForce RTX 3080 XTREME 10GB | OVP & Zubehör"
    ],
@@ -15967,7 +16045,7 @@
     "Gainward GeForce RTX 3080 10GB Grafikkarte"
    ],
    "3560072697": [
-    420.0,
+    400.0,
     "2026-11-03",
     "2026-11-03",
     "RTX 3080 inno3d 10gb"
@@ -15989,6 +16067,12 @@
     "2026-11-03",
     "2026-11-03",
     "Rtx 3080  Grafikkarte"
+   ],
+   "3560361293": [
+    499.0,
+    "2026-11-03",
+    "2026-11-03",
+    "NVIDIA GeForce RTX 3080 Founders Edition"
    ]
   },
   "RTX 4060 Ti": {
@@ -16773,6 +16857,12 @@
     "2026-11-03",
     "2026-11-03",
     "Nvidea rtx 4070"
+   ],
+   "3560343751": [
+    300.0,
+    "2026-11-03",
+    "2026-11-03",
+    "ASUS Dual GeForce RTX 4070 OC SUPER 12GB - Gaming-Grafikkarte"
    ]
   },
   "RTX 4070 Super": {
@@ -17681,7 +17771,7 @@
     "ASUS ProArt GeForce RTX 4080 SUPER OC 16GB GDDR6X – OVP"
    ],
    "3555880080": [
-    1099.0,
+    1085.0,
     "2026-11-03",
     "2026-10-29",
     "Nvidia GeForce RTX 4080 - 16GB GDDR6X"
@@ -19468,6 +19558,12 @@
     "2026-11-02",
     "2026-11-02",
     "AMD Ryzen 7 5800X3D"
+   ],
+   "3560324438": [
+    230.0,
+    "2026-11-03",
+    "2026-11-03",
+    "AMD Ryzen 7 5800X3D AM4 Prozessor (100-100000651WOF)"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -21535,6 +21631,12 @@
     "2026-11-03",
     "2026-11-02",
     "Seagate IronWolf 4TB NAS Festplatte 3,5 Zoll ST4000VN008 SATA"
+   ],
+   "3560337955": [
+    140.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Seagate IronWolf 4TB SATA NAS ST4000VN006, 7800 h, SMART Gut, CMR"
    ]
   },
   "Seagate IronWolf 8TB": {
@@ -23938,6 +24040,12 @@
     "2026-11-02",
     "2026-11-01",
     "Western Digital WD Red Plus  ERFX 4TB Festplatte"
+   ],
+   "3560345853": [
+    125.0,
+    "2026-11-03",
+    "2026-11-03",
+    "WD Red Plus 4TB SATA NAS HDD WD40EFPX 256MB CMR, SMART Gut"
    ]
   },
   "WD Red Plus 8TB": {
