@@ -580,8 +580,8 @@
   "3560276988": "2026-11-03",
   "3560287436": "2026-11-03"
  },
- "laeufe": 372,
- "letzter_lauf": "2026-11-03T09:13:10",
+ "laeufe": 373,
+ "letzter_lauf": "2026-11-03T10:17:29",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3180,7 +3180,7 @@
     "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL36 weiß"
    ],
    "3559389782": [
-    400.0,
+    390.0,
     "2026-11-03",
     "2026-11-02",
     "CORSAIR Vengeance DDR5 RAM 32GB Up to 6000MHz CL30-36-36-76 singl"
@@ -3189,7 +3189,7 @@
     400.0,
     "2026-11-03",
     "2026-11-03",
-    "Vengeance 6000 MTS CL36 RGB DDR5 32GB (2x 16GB)"
+    "Corsair Vengeance 6000 MTS CL36 RGB DDR5 32GB (2x 16GB)"
    ],
    "3559585163": [
     500.0,
@@ -3232,6 +3232,12 @@
     "2026-11-03",
     "2026-11-03",
     "32 GB ADATA XPG LANCER BLADE RGB DDR5-6000 CL30 (2×16 GB)"
+   ],
+   "3560228029": [
+    480.0,
+    "2026-11-03",
+    "2026-11-03",
+    "G.Skill 32 GB, DDR5-6000 CL30, Trident Z5 RGB"
    ],
    "3560266935": [
     360.0,
@@ -3956,7 +3962,7 @@
    ],
    "3513467149": [
     350.0,
-    "2026-11-01",
+    "2026-11-03",
     "2026-10-22",
     "HP Elitebook 840 G8 i5-1145G7 16GB RAM 512GB SSD Win 11 Pro"
    ],
@@ -4884,7 +4890,7 @@
     90.0,
     "2026-11-03",
     "2026-11-03",
-    "Lexar SO-DIMM 16 GB DDR4-3200, LD4AS016G-B3200GSST"
+    "Lexar 16GB DDR4 3200MHz SO-DIMM Laptop RAM – Neu"
    ],
    "3560349297": [
     60.0,
@@ -5446,7 +5452,7 @@
   "Fluke 115/117 Multimeter": {
    "3539146735": [
     200.0,
-    "2026-11-01",
+    "2026-11-03",
     "2026-10-23",
     "Fluke 117 Digitales Multimeter Neu"
    ],
@@ -5457,8 +5463,8 @@
     "Fluke Promotion 117/323 EUR Combo Kit"
    ],
    "3556832222": [
-    145.0,
-    "2026-11-01",
+    135.0,
+    "2026-11-03",
     "2026-10-30",
     "Fluke 117 True RMS Digital-Multimeter"
    ]
@@ -5471,26 +5477,26 @@
     "fluke 87 v, neuwertig,  Multimeter"
    ],
    "3477392551": [
-    335.0,
-    "2026-11-01",
+    350.0,
+    "2026-11-03",
     "2026-10-23",
     "Fluke 87V True RMS Digitalmultimeter – Profi-Messgerät"
    ],
    "3503249180": [
     350.0,
-    "2026-11-01",
+    "2026-11-03",
     "2026-10-23",
     "Fluke 87 V True RMS Multimeter"
    ],
    "3534253112": [
     350.0,
-    "2026-11-01",
+    "2026-11-03",
     "2026-10-23",
     "Fluke 87V Digital Multimeter Digitalmultimeter"
    ],
    "3537326281": [
     370.0,
-    "2026-11-01",
+    "2026-11-03",
     "2026-10-23",
     "Multimeter Fluke 87 V, mit Zubehör, neuwertig"
    ],
@@ -5508,15 +5514,21 @@
    ],
    "3553846312": [
     320.0,
-    "2026-11-01",
+    "2026-11-03",
     "2026-10-27",
     "Fluke 87 V Industriemultimeter DigitalMultimeter Profi Messgerät"
    ],
    "3556601089": [
     369.0,
-    "2026-11-01",
+    "2026-11-03",
     "2026-10-30",
     "Fluke 87V Multimeter & TPAK Tool Hanging Kit"
+   ],
+   "3559327761": [
+    299.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Fluke 87V True RMS Multimeter Digital"
    ]
   },
   "Fujitsu Primergy TX1320 M4": {
@@ -7074,7 +7086,7 @@
   "Labornetzteil 30V 5A": {
    "3272312102": [
     70.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-23",
     "Trafo Labornetzteil Korad KD3005D 0-30V, 0-5A begrenzbar"
    ],
@@ -7086,13 +7098,13 @@
    ],
    "3349279070": [
     70.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-23",
     "MC Power LAB3005 Labornetzteil regelbar 30V / 5A Top wie neu"
    ],
    "3404499486": [
     35.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-23",
     "Labornetzteil voltcraft 30V 2,5A"
    ],
@@ -7104,7 +7116,7 @@
    ],
    "3497773576": [
     160.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-23",
     "Labornetzteil Toellner TOE 8031-7 30 V / 5 A"
    ],
@@ -7116,25 +7128,25 @@
    ],
    "3531556730": [
     55.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-23",
     "Voltcraft Labornetzteil 0-30V , 0-2,5A ca. 1980"
    ],
    "3533389618": [
     70.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-23",
     "Voltcraft TNG 35 Labornetzteil / Netzgerät (0-30V / 2.5A)"
    ],
    "3540047778": [
     40.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-23",
     "Voltcraft Labornetzteil 0-30V, 0-2,5A"
    ],
    "3546799930": [
     50.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-23",
     "Labornetzteil QJ3005T 0–30V / 0–5A mit Handy-Reparaturkabel"
    ],
@@ -7170,7 +7182,7 @@
    ],
    "3558639754": [
     99.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-11-01",
     "PeakTech 6035D Labornetzteil 0–30 V / 0–2,5 A + 12 V und 5 V Fest"
    ]
@@ -9930,7 +9942,7 @@
    ],
    "3556391808": [
     440.0,
-    "2026-10-30",
+    "2026-11-03",
     "2026-10-30",
     "MacBook Air M1 8 GB 256 GB Sehr Guter zustand"
    ],
@@ -10670,7 +10682,7 @@
     499.0,
     "2026-11-03",
     "2026-11-03",
-    "Apple MacBook Air M1 (2020) – sehr guter Zustand"
+    "Apple MacBook Air M1 (2020) – Mit OVP - sehr guter Zustand"
    ],
    "3560237034": [
     400.0,
@@ -10707,6 +10719,18 @@
     "2026-11-03",
     "2026-11-03",
     "Apple MacBook Air M1 13\" | 8 GB RAM | 512 GB SSD | Top Zustand"
+   ],
+   "3560377802": [
+    440.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Apple MacBook Air M1 (2020) – 8 GB RAM - Roségold"
+   ],
+   "3560434520": [
+    420.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Mac Book Air m1 (2020)"
    ]
   },
   "MacBook Air M2": {
@@ -12737,6 +12761,12 @@
     "2026-11-03",
     "2026-11-03",
     "MacBook Air M2 (2022) 13.6 Zoll /8C GPU/8GB/256GB"
+   ],
+   "3560433748": [
+    700.0,
+    "2026-11-03",
+    "2026-11-03",
+    "MacBook Air 2022 | M2 Chip | 8gb RAM | 256gb SSD |"
    ]
   },
   "Makita DHP485 Set": {
@@ -14994,7 +15024,7 @@
    ],
    "3558060428": [
     320.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-11-01",
     "Nvidia MSI GeForce RTX 3070 Gaming Trio Plus – 8 GB"
    ],
@@ -15116,7 +15146,7 @@
    ],
    "3505627022": [
     499.0,
-    "2026-11-01",
+    "2026-11-03",
     "2026-11-01",
     "Grafikkarten: RTX4070TiS 5060Ti 3080/Ti RX6800/XT 2080Ti 2060 uvm"
    ],
@@ -17395,6 +17425,12 @@
     "2026-11-03",
     "2026-11-03",
     "NVIDIA KFA2 RTX 4070 TI Super"
+   ],
+   "3560412268": [
+    780.0,
+    "2026-11-03",
+    "2026-11-03",
+    "RTX 4070 Ti Super, 16GB GDDR6X VRAM, Zotac Geforce Trinity black"
    ]
   },
   "RTX 4080": {
@@ -18197,6 +18233,12 @@
     "2026-11-03",
     "2026-11-03",
     "Gigabyte AMD Radeon RX 6800 XT Gaming OC 16G OVP"
+   ],
+   "3560398356": [
+    349.0,
+    "2026-11-03",
+    "2026-11-03",
+    "PowerColor Red Devil RX 6800 XT 16GB – OC-BIOS"
    ]
   },
   "RX 7800 XT": {
@@ -18651,7 +18693,7 @@
     "AMD Radeon RX 7800 XT"
    ],
    "3560227780": [
-    459.0,
+    639.0,
     "2026-11-03",
     "2026-11-03",
     "Sapphire Pure AMD Radeon RX 7800 XT (16GB GDDR6) – Weiß"
@@ -18672,7 +18714,7 @@
    ],
    "3530088665": [
     319.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-22",
     "Raspberry Pi 5 – 16 GB RAM – DeskPi Lite + Zubehör – getestet"
    ],
@@ -18696,13 +18738,13 @@
    ],
    "3544984544": [
     265.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-22",
     "Raspberry PI 5 16GB Model B Rev 1.1 + Case + Kühler + Netzteil"
    ],
    "3545343946": [
     320.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-22",
     "Raspberry Pi 5 Starterkit 16GB RAM"
    ],
@@ -18848,7 +18890,7 @@
    ],
    "3544245293": [
     180.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-22",
     "Raspberry Pi 5 (8 GB RAM) + 128 GB SD-Karte + Original Zubehör"
    ],
@@ -18860,7 +18902,7 @@
    ],
    "3544884946": [
     180.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-22",
     "Raspberry Pi 5 8GB RAM - Neu & OVP"
    ],
@@ -18878,13 +18920,13 @@
    ],
    "3546529414": [
     190.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-22",
     "Raspberry Pi 5 (8GB RAM) mit Gehäuse und Netzteil"
    ],
    "3546850057": [
     200.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-22",
     "Raspberry Pi 5 8GB Set inkl. 27W Netzteil & GeeekPi Gehäuse"
    ],
@@ -18938,7 +18980,7 @@
    ],
    "3549719111": [
     245.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-11-01",
     "Raspberry Pi 5 8gb Komplett Set"
    ],
@@ -19034,43 +19076,43 @@
    ],
    "3552527509": [
     249.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-26",
     "Raspberry Pi 5 8GB – North Gehäuse – NVMe Adapter – 128GB SanDisk"
    ],
    "3552580422": [
     229.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-26",
     "SunFounder PiCar-X mit Raspberry Pi 5 (8 GB) – fertig aufgebaut"
    ],
    "3552581437": [
     229.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-26",
     "SunFounder PiCar-X mit Raspberry Pi 5 (8 GB) – fertig aufgebaut"
    ],
    "3552582949": [
     229.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-26",
     "SunFounder PiCar-X mit Raspberry Pi 5 (8 GB) – fertig aufgebaut"
    ],
    "3552587658": [
     169.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-26",
     "Raspberry Pi 5 – 8 GB RAM | 128 GB Starterset mit Zubehör"
    ],
    "3552588351": [
     169.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-26",
     "Raspberry Pi 5 – 8 GB RAM | 128 GB Starterset mit Zubehör"
    ],
    "3552589559": [
     169.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-26",
     "Raspberry Pi 5 – 8 GB RAM | 128 GB Starterset mit Zubehör"
    ],
@@ -19100,7 +19142,7 @@
    ],
    "3553550121": [
     200.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-27",
     "Raspberry Pi 5 8GB mit PCIe M.2 HAT (A)"
    ],
@@ -19136,7 +19178,7 @@
    ],
    "3555716187": [
     200.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-29",
     "Raspberry Pi 5 (8 GB) Komplett-Set – NEU & OVP inkl. NVMe-Shield"
    ],
@@ -19154,7 +19196,7 @@
    ],
    "3556814541": [
     185.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-30",
     "Raspberry Pi 5 8Gb– Inkl. Gehäuse, Kühler & Original 27W Netzteil"
    ],
@@ -19166,7 +19208,7 @@
    ],
    "3557066894": [
     199.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-31",
     "Raspberry Pi 5, 8 GB, 64 GB microSD, Netzteil, Alugehäuse"
    ],
@@ -19178,7 +19220,7 @@
    ],
    "3557158095": [
     220.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-31",
     "Raspberry Pi 5 | 8 GB RAM | 128 GB NVMe SSD | Komplettset"
    ],
@@ -19226,13 +19268,13 @@
    ],
    "3559507634": [
     175.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-11-02",
     "Raspberry Pi 5 8GB Starter Kit + Netzteil"
    ],
    "3559555515": [
     140.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-11-02",
     "Raspberry PI 5 mit 8GB Ram"
    ],
@@ -19247,6 +19289,18 @@
     "2026-11-02",
     "2026-11-02",
     "Raspberry Pi 5 (8GB RAM) Set – 512GB NVMe SSD"
+   ],
+   "3560054666": [
+    110.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Raspberry Pi 5 8 GB RAM ARM Cortex-A76 2,4 GHz"
+   ],
+   "3560205350": [
+    190.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Raspberry Pi 5 NVMe Set 8GB 64GB Sd Home Assistant"
    ]
   },
   "Rigol DHO800 Oszilloskop": {},
@@ -19268,6 +19322,18 @@
     "2026-11-01",
     "2026-10-30",
     "Rigol Oszilloskop DS1054Z Neuwertig! OVP und 4 Originalen Probes"
+   ],
+   "3559629740": [
+    354.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Rigol Oszilloskop DS1054Z Neuwertig! OVP und 4 Originalen Probes"
+   ],
+   "3560119337": [
+    280.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Digital-Oszilloskop Rigol DS1054Z"
    ]
   },
   "Ryzen 7 5800X3D": {
@@ -19593,7 +19659,7 @@
    ],
    "3517577272": [
     300.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-21",
     "AMD Ryzen 7 7800X3D Processor – Wie neu / OVP"
    ],
@@ -20198,6 +20264,12 @@
     "2026-11-03",
     "2026-11-03",
     "AMD Ryzen 7 9800x3D Tray, Neu, Ungeöffnet"
+   ],
+   "3560426310": [
+    375.0,
+    "2026-11-03",
+    "2026-11-03",
+    "AMD Ryzen 7 9800X3D Tray CPU"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -20982,6 +21054,12 @@
     "2026-11-02",
     "2026-11-02",
     "Samsung 990 PRO Heatsink 2 TB NVMe SSD, nur 41 Betriebsstunden"
+   ],
+   "3560433424": [
+    320.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Samsung 990 PRO 2TB – M.2 NVMe SSD – PCIe 4.0 (Preis pro Stk)"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -21886,7 +21964,7 @@
   "Siglent SDS1104X-E": {
    "3538986564": [
     420.0,
-    "2026-11-02",
+    "2026-11-03",
     "2026-10-23",
     "Siglent SDS 1104X-E Digitales Oszilloskop 100MHz, wie neu"
    ]
@@ -24173,7 +24251,7 @@
    ],
    "3556164110": [
     130.0,
-    "2026-11-01",
+    "2026-11-03",
     "2026-10-30",
     "Weller WE 1010 Lötstation"
    ],
@@ -24188,6 +24266,12 @@
     "2026-11-01",
     "2026-11-01",
     "Weller WE1010 Lötstation in gutem Zustand"
+   ],
+   "3560357921": [
+    110.0,
+    "2026-11-03",
+    "2026-11-03",
+    "Weller WE1010 Lötstation"
    ]
   },
   "Weller WTCP-S": {
@@ -24774,7 +24858,7 @@
  "zustand": {
   "leer_in_folge": 0,
   "letzte_warnung": "",
-  "pause_bis": "2026-11-03T06:11:45",
-  "pause_h": 12
+  "pause_bis": "2026-11-04T10:17:28",
+  "pause_h": 24
  }
 }
