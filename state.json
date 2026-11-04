@@ -593,10 +593,13 @@
   "3561411722": "2026-11-04",
   "3561531254": "2026-11-04",
   "3561673488": "2026-11-04",
-  "3561754492": "2026-11-04"
+  "3561722009": "2026-11-04",
+  "3561754492": "2026-11-04",
+  "3561771208": "2026-11-04",
+  "3561946035": "2026-11-04"
  },
- "laeufe": 379,
- "letzter_lauf": "2026-11-04T17:20:06",
+ "laeufe": 380,
+ "letzter_lauf": "2026-11-04T22:46:16",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3553,6 +3556,24 @@
     "2026-11-04",
     "2026-11-04",
     "Predator Vesta II RGB 32GB DDR5-6000 CL36 Kit – unbenutzt"
+   ],
+   "3561757687": [
+    300.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Corsair Vengeance DDR5 6000 32GB (2x16)"
+   ],
+   "3561782680": [
+    450.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Corsair Dominator Titanium White DDR5 32GB 6000MT/s"
+   ],
+   "3561823183": [
+    449.0,
+    "2026-11-04",
+    "2026-11-04",
+    "G.Skill Trident Z5 Neo RGB 32GB DDR5-6000 CL30 AMD EXPO"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -5876,7 +5897,7 @@
     "Kingston 32GB DDR4 SO-DIMM 3200 RAM 1 Modul"
    ],
    "3561576594": [
-    190.0,
+    160.0,
     "2026-11-04",
     "2026-11-04",
     "Crucial 32GB DDR4-3200 SO-DIMM RAM 2Rx8 CL22"
@@ -5886,6 +5907,24 @@
     "2026-11-04",
     "2026-11-04",
     "Crucial 32GB DDR4-3200 SODIMM RAM Riegel"
+   ],
+   "3561804595": [
+    210.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Samsung 32GB 32 GB DDR4-3200 (PC4-3200AA) SO-DIMM"
+   ],
+   "3561841050": [
+    175.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Crucial 32GB // DDR4-3200 // SODIMM RAM Arbeitsspeicher"
+   ],
+   "3561861288": [
+    180.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Crucial 1x 32 GB DDR4 3200 MHz SODIMM in OVP"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {
@@ -7930,6 +7969,12 @@
     "2026-11-04",
     "2026-11-04",
     "Lenovo ThinkCentre M920Q i7-9700 32GB DDR4 WLAN 1TB"
+   ],
+   "3561973647": [
+    150.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Lenovo ThinkCentre M920q Tiny CPU i5-9500T, 8 GB RAM, 256 GB SSD"
    ]
   },
   "Lenovo ThinkVision P27h": {
@@ -11558,7 +11603,7 @@
     "Apple Macbook Air 13 Rosa M1"
    ],
    "3561722009": [
-    395.0,
+    380.0,
     "2026-11-04",
     "2026-11-04",
     "Apple MacBook Air M1 mit Netzteil und OVP"
@@ -11568,6 +11613,42 @@
     "2026-11-04",
     "2026-11-04",
     "Apple MacBook Air M1 (2020) – 13 Zoll – 8 GB RAM – 512 GB SSD"
+   ],
+   "3561758323": [
+    449.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple MacBook Air M1 2020 | 8 GB RAM | 256 GB SSD | 13,3 Zoll"
+   ],
+   "3561844353": [
+    420.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple MacBook Air M1"
+   ],
+   "3561898367": [
+    380.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple MacBook Air 2020 M1, 13 Zoll, sehr gut erhalten"
+   ],
+   "3561908468": [
+    329.0,
+    "2026-11-04",
+    "2026-11-04",
+    "M1 Macbook Air 8GB RAM 256GB SSD"
+   ],
+   "3561912609": [
+    535.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple MacBook Air, M1, 8/256 GB, Silber, OVP"
+   ],
+   "3561973196": [
+    550.0,
+    "2026-11-04",
+    "2026-11-04",
+    "MacBook Air M1 (2020) Space Grau - 8GB / 256GB"
    ]
   },
   "MacBook Air M2": {
@@ -13784,6 +13865,48 @@
     "2026-11-04",
     "2026-11-04",
     "MacBook Air 13 Zoll 2023 M2 mit Zubehör, neuwertig"
+   ],
+   "3561766477": [
+    650.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple Mac Book Air M2 13 Zoll"
+   ],
+   "3561807253": [
+    829.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple MacBook  Air M2 13,6 Zoll"
+   ],
+   "3561819026": [
+    690.0,
+    "2026-11-04",
+    "2026-11-04",
+    "MacBook Air M2, 8 GB, 13,6\""
+   ],
+   "3561851647": [
+    750.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Macbook Air M2 2022"
+   ],
+   "3561883568": [
+    740.0,
+    "2026-11-04",
+    "2026-11-04",
+    "MacBook Air M2 | 8GB | 256GB | 100% Akku | 18 Zyklen"
+   ],
+   "3561885994": [
+    900.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Macbook Air M2 2023 512GB"
+   ],
+   "3561941678": [
+    700.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Mac book air m2 2022"
    ]
   },
   "Makita DHP485 Set": {
@@ -14944,6 +15067,24 @@
     "2026-11-04",
     "2026-11-04",
     "RTX 3060 Trio 12 GB"
+   ],
+   "3561799322": [
+    350.0,
+    "2026-11-04",
+    "2026-11-04",
+    "MSI RTX 3060 12GB"
+   ],
+   "3561938257": [
+    350.0,
+    "2026-11-04",
+    "2026-11-04",
+    "RTX 3060 GAMING X TRIO | 12GB"
+   ],
+   "3561939397": [
+    300.0,
+    "2026-11-04",
+    "2026-11-04",
+    "NVIDIA ZOTAC Gaming GeForce RTX 3060 12gb white"
    ]
   },
   "RTX 3070": {
@@ -16232,7 +16373,7 @@
     "ASUS ROG Strix GeForce RTX 3070 Grafikkarte"
    ],
    "3560819083": [
-    325.0,
+    310.0,
     "2026-11-04",
     "2026-11-04",
     "MSI Ventus RTX 3070 OC Custom Grafikkarte"
@@ -16320,6 +16461,30 @@
     "2026-11-04",
     "2026-11-04",
     "EVGA RTX 3070"
+   ],
+   "3561811298": [
+    350.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Wie neu NVIDIA RTX 3070 Gainward Palit Phoenix 8gb msi Strix Trio"
+   ],
+   "3561839874": [
+    300.0,
+    "2026-11-04",
+    "2026-11-04",
+    "RTX 3070 ASUS Turbo Grafikkarte im Blower-Design"
+   ],
+   "3561951389": [
+    250.0,
+    "2026-11-04",
+    "2026-11-04",
+    "RTX 3070 Zotac Gaming"
+   ],
+   "3561980124": [
+    399.0,
+    "2026-11-04",
+    "2026-11-04",
+    "ASUS ROG STRIX RTX 3070 OC 8GB – Premium Gaming GPU"
    ]
   },
   "RTX 3080": {
@@ -17390,6 +17555,54 @@
     "2026-11-04",
     "2026-11-04",
     "Ich verkaufe mein RTX 3080 Suprim X."
+   ],
+   "3561809224": [
+    420.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Zotac RTX 3080 Trinity OC LHR 10GB – OVP – voll funktionsfähig"
+   ],
+   "3561883722": [
+    550.0,
+    "2026-11-04",
+    "2026-11-04",
+    "RTX  3080  12 GB  Grafikkarte"
+   ],
+   "3561884168": [
+    400.0,
+    "2026-11-04",
+    "2026-11-04",
+    "ASUS TUF Gaming NVIDIA GeForce RTX 3080 10GB"
+   ],
+   "3561890148": [
+    400.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Verkaufe mein RTX 3080 Suprim X."
+   ],
+   "3561910121": [
+    410.0,
+    "2026-11-04",
+    "2026-11-04",
+    "NVIDIA GeForce RTX 3080 10GB Mit Rest Garantie"
+   ],
+   "3561942691": [
+    600.0,
+    "2026-11-04",
+    "2026-11-04",
+    "EVGA GeForce RTX 3080 FTW3 Ultra Grafikkarte mit OVP"
+   ],
+   "3561946035": [
+    267.0,
+    "2026-11-04",
+    "2026-11-04",
+    "ASUS Dual RTX 2070 Super OC 8GB | OVP (RTX 3080 Box)"
+   ],
+   "3561978415": [
+    445.0,
+    "2026-11-04",
+    "2026-11-04",
+    "MSI GeForce RTX 3080 OC Ventus – Triple Fan – Gaming Grafikkarte"
    ]
   },
   "RTX 4060 Ti": {
@@ -18536,6 +18749,12 @@
     "2026-11-04",
     "2026-11-04",
     "Gigabyte RTX 4070 Super 12G"
+   ],
+   "3561949173": [
+    700.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Zotac RTX 4070 Super Trinity Black Gaming Grafikkarte"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -18583,7 +18802,7 @@
    ],
    "3522556302": [
     950.0,
-    "2026-11-02",
+    "2026-11-04",
     "2026-10-21",
     "RTX 4070 Ti Super"
    ],
@@ -21870,6 +22089,12 @@
     "2026-11-04",
     "AMD Ryzen 7 9800X3D Tray-Version 8 Kerne Neu"
    ],
+   "3561206215": [
+    350.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Ryzen 7 9800X3D Neu versiegelt"
+   ],
    "3561542626": [
     369.0,
     "2026-11-04",
@@ -23186,6 +23411,18 @@
     "2026-11-04",
     "2026-11-04",
     "Seagate Ironwolf 12TB NAS HDD"
+   ],
+   "3561835447": [
+    330.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Seagate IronWolf 12TB NAS HDD 7200 RPM SMART geprüft"
+   ],
+   "3561894023": [
+    404.0,
+    "2026-11-04",
+    "2026-11-04",
+    "12TB Seagate Ironwolf ST12000VN0008"
    ]
   },
   "Seagate IronWolf 4TB": {
@@ -23514,6 +23751,24 @@
     "2026-11-04",
     "2026-11-04",
     "Seagate IronWolf 8TB NAS HDD ST8000VN002"
+   ],
+   "3561881910": [
+    289.0,
+    "2026-11-04",
+    "2026-11-04",
+    "8TB Seagate Ironwolf ST8000VN0022 HDD NAS-Festplatte"
+   ],
+   "3561891203": [
+    289.0,
+    "2026-11-04",
+    "2026-11-04",
+    "8TB Seagate Ironwolf ST8000VN0022 HDD NAS-Festplatte"
+   ],
+   "3561920355": [
+    245.0,
+    "2026-11-04",
+    "2026-11-04",
+    "UGREEN NAS DXP4800 Plus + Seagate IronWolf 8 TB"
    ]
   },
   "Shelly Plus Plug S": {
@@ -24738,6 +24993,12 @@
     "2026-11-04",
     "2026-11-04",
     "Synology DS920+ 4-Bay NAS mit 20 GB RAM Upgrade"
+   ],
+   "3561980761": [
+    350.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Synology DS920+ - Mit 20 GB Ram Upgrade!"
    ]
   },
   "Synology DS923+": {
@@ -24862,6 +25123,12 @@
     "2026-11-04",
     "2026-11-04",
     "Laptop Lenovo ThinkPad L14 Gen3 16 GB Arbeitsspeicher 256GB SSD"
+   ],
+   "3561923519": [
+    300.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Lenovo ThinkPad L14 GEN3"
    ]
   },
   "ThinkPad T14 Gen 2": {
@@ -25419,6 +25686,12 @@
     420.0,
     "2026-11-03",
     "2026-11-03",
+    "Lenovo ThinkPad X1 Carbon Gen 10, i5, 16GB RAM, 512GB SSD"
+   ],
+   "3561771208": [
+    420.0,
+    "2026-11-04",
+    "2026-11-04",
     "Lenovo ThinkPad X1 Carbon Gen 10, i5, 16GB RAM, 512GB SSD"
    ]
   },
