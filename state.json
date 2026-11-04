@@ -592,10 +592,11 @@
   "3561389156": "2026-11-04",
   "3561411722": "2026-11-04",
   "3561531254": "2026-11-04",
-  "3561673488": "2026-11-04"
+  "3561673488": "2026-11-04",
+  "3561754492": "2026-11-04"
  },
- "laeufe": 378,
- "letzter_lauf": "2026-11-04T16:16:05",
+ "laeufe": 379,
+ "letzter_lauf": "2026-11-04T17:20:06",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -3540,6 +3541,18 @@
     "2026-11-04",
     "2026-11-04",
     "Corsair Vengeance RGB DDR5 32GB 6000MHz"
+   ],
+   "3561723646": [
+    379.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Crucial Pro 32GB DDR5-6000 CL36 Kit (2x16GB)–unbenutzt, ohne OVP"
+   ],
+   "3561750450": [
+    329.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Predator Vesta II RGB 32GB DDR5-6000 CL36 Kit – unbenutzt"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {},
@@ -4246,7 +4259,7 @@
    ],
    "3469562777": [
     420.0,
-    "2026-10-27",
+    "2026-11-04",
     "2026-10-22",
     "HP elitebook 840 G8 i5 11th gen 8 gb ram 256gb ssd Neu"
    ],
@@ -11509,7 +11522,7 @@
     "Mac Book Air M1 Akku: 93% + Magic Mouse"
    ],
    "3561497724": [
-    479.0,
+    489.0,
     "2026-11-04",
     "2026-11-04",
     "Apple Mc Book Air M1–Super Zustand ,Akku 100 %"
@@ -11543,6 +11556,18 @@
     "2026-11-04",
     "2026-11-04",
     "Apple Macbook Air 13 Rosa M1"
+   ],
+   "3561722009": [
+    395.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple MacBook Air M1 mit Netzteil und OVP"
+   ],
+   "3561752018": [
+    475.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple MacBook Air M1 (2020) – 13 Zoll – 8 GB RAM – 512 GB SSD"
    ]
   },
   "MacBook Air M2": {
@@ -13735,6 +13760,30 @@
     "2026-11-04",
     "2026-11-04",
     "MacBook Air M2 13\" 100% Akku | 27 Zyklen | Wie Neu! | Grau"
+   ],
+   "3561698507": [
+    669.0,
+    "2026-11-04",
+    "2026-11-04",
+    "MacBook Air M2 2022 100% Batterie, 256 SSD TOP Zustand"
+   ],
+   "3561714375": [
+    750.0,
+    "2026-11-04",
+    "2026-11-04",
+    "MacBook Air M2 (2022) - 16 GB RAM - 256 GB - 99 % Akku - Neuwerti"
+   ],
+   "3561729979": [
+    770.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple MacBook Air - 15,3 Zoll - M2 Chip - Space Grau"
+   ],
+   "3561731631": [
+    800.0,
+    "2026-11-04",
+    "2026-11-04",
+    "MacBook Air 13 Zoll 2023 M2 mit Zubehör, neuwertig"
    ]
   },
   "Makita DHP485 Set": {
@@ -16265,6 +16314,12 @@
     "2026-11-04",
     "2026-11-04",
     "Zotac Gaming RTX 3070"
+   ],
+   "3561732468": [
+    350.0,
+    "2026-11-04",
+    "2026-11-04",
+    "EVGA RTX 3070"
    ]
   },
   "RTX 3080": {
@@ -17323,6 +17378,18 @@
     "2026-11-04",
     "2026-11-04",
     "RTX 3080 10GB VRAM"
+   ],
+   "3561714042": [
+    380.0,
+    "2026-11-04",
+    "2026-11-04",
+    "NVIDIA GeForce RTX 3080"
+   ],
+   "3561749570": [
+    400.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Ich verkaufe mein RTX 3080 Suprim X."
    ]
   },
   "RTX 4060 Ti": {
@@ -17424,7 +17491,7 @@
    ],
    "3540361425": [
     500.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-10-21",
     "GeForce RTX 4060 TI"
    ],
@@ -18463,6 +18530,12 @@
     "2026-11-04",
     "2026-11-04",
     "Asus TUF Gaming NVIDIA GeForce RTX 4070 Super"
+   ],
+   "3561717170": [
+    650.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Gigabyte RTX 4070 Super 12G"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -18729,6 +18802,12 @@
     "2026-11-04",
     "2026-11-04",
     "ASUS Dual GeForce RTX 4070 Ti Super OC Edition, OVP & Rechnung"
+   ],
+   "3561732731": [
+    829.0,
+    "2026-11-04",
+    "2026-11-04",
+    "GAINWARD PHANTOM NVIDIA RTX 4070TI SUPER 16GB GDDR6X"
    ]
   },
   "RTX 4080": {
@@ -19277,6 +19356,12 @@
     "2026-11-04",
     "2026-11-04",
     "MSI Gaming X Trio RTX 4080 16GB Grafikkarte"
+   ],
+   "3561729480": [
+    1100.0,
+    "2026-11-04",
+    "2026-11-04",
+    "GIGABYTE GeForce RTX 4080 16GB GAMING OC"
    ]
   },
   "RX 6800 XT": {
@@ -19627,6 +19712,12 @@
     "2026-11-04",
     "2026-11-04",
     "Radeon RX 6800 XT Grafikkarte Founders Edition"
+   ],
+   "3561702979": [
+    449.0,
+    "2026-11-04",
+    "2026-11-04",
+    "ASRock Radeon RX 6800 XT Taichi X 16GB OC – kein Mining, top Zust"
    ]
   },
   "RX 7800 XT": {
@@ -22592,6 +22683,18 @@
     "2026-11-04",
     "2026-11-04",
     "Samsung 990 PRO Heatsink PS5 2 TB Gaming Festplatte Schwarz"
+   ],
+   "3561707204": [
+    270.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Samsung 990 Pro 2TB NVME SSD Festplatte"
+   ],
+   "3561708479": [
+    270.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Samsung 990 Pro 2TB NVME Festplatte SSD"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -23405,6 +23508,12 @@
     "2026-11-04",
     "2026-11-04",
     "Seagate IronWolf 8TB HDD Festplatte ST8000VN0022"
+   ],
+   "3561749165": [
+    190.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Seagate IronWolf 8TB NAS HDD ST8000VN002"
    ]
   },
   "Shelly Plus Plug S": {
@@ -23552,7 +23661,7 @@
    ],
    "3528081854": [
     159.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-11-01",
     "Sony WH-1000XM5 – NEUWERTIG – TOP ZUSTAND"
    ],
@@ -24206,13 +24315,13 @@
    ],
    "3557598517": [
     160.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-31",
     "Sony WH-1000XM5 Schwarz"
    ],
    "3557614796": [
     150.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-31",
     "Sony WH-1000XM5 kabellose Noise Cancelling Kopfhörer"
    ],
@@ -24331,7 +24440,7 @@
     "Sony WH-1000XM5 Kopfhörer"
    ],
    "3561021945": [
-    165.0,
+    150.0,
     "2026-11-04",
     "2026-11-04",
     "Sony WH-1000XM5 - Sehr guter, gepflegter Zustand"
@@ -24347,6 +24456,12 @@
     "2026-11-04",
     "2026-11-04",
     "Kopfhörer mit OVP Sony WH-1000XM5"
+   ],
+   "3561543954": [
+    90.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5"
    ]
   },
   "Synology DS220+": {
@@ -24679,6 +24794,18 @@
     "2026-11-04",
     "2026-11-04",
     "NAS - Synology DS923+"
+   ],
+   "3561724095": [
+    585.0,
+    "2026-11-04",
+    "2026-11-04",
+    "NAS - Synology DS923+ | 20 GB RAM"
+   ],
+   "3561725939": [
+    780.0,
+    "2026-11-04",
+    "2026-11-04",
+    "NAS - Synology DS923+ | 32 GB RAM"
    ]
   },
   "ThinkPad L14 Gen 3": {
@@ -25451,6 +25578,12 @@
     "2026-11-04",
     "2026-10-31",
     "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
+   ],
+   "3561754492": [
+    349.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Lenovo ThinkPad X1 Carbon Gen 9 | 16GB / 256GB SSD | Touchscreen"
    ]
   },
   "ThinkPad ohne Netzteil": {},
