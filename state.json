@@ -551,11 +551,13 @@
   "3558002744": "2026-11-01",
   "3558007393": "2026-11-01",
   "3558120104": "2026-11-01",
+  "3558153645": "2026-11-04",
   "3558216186": "2026-11-01",
   "3558241633": "2026-11-01",
   "3558390235": "2026-11-01",
   "3558526898": "2026-11-01",
   "3558559166": "2026-11-01",
+  "3558746012": "2026-11-04",
   "3558781130": "2026-11-01",
   "3558786337": "2026-11-01",
   "3558837296": "2026-11-01",
@@ -568,6 +570,7 @@
   "3559499793": "2026-11-02",
   "3559555515": "2026-11-02",
   "3559569171": "2026-11-02",
+  "3559631987": "2026-11-04",
   "3559636357": "2026-11-02",
   "3559701686": "2026-11-02",
   "3559742254": "2026-11-02",
@@ -582,10 +585,12 @@
   "3560918595": "2026-11-04",
   "3561100745": "2026-11-04",
   "3561154806": "2026-11-04",
-  "3561366053": "2026-11-04"
+  "3561366053": "2026-11-04",
+  "3561389156": "2026-11-04",
+  "3561411722": "2026-11-04"
  },
- "laeufe": 375,
- "letzter_lauf": "2026-11-04T12:10:12",
+ "laeufe": 376,
+ "letzter_lauf": "2026-11-04T13:34:30",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -1957,7 +1962,7 @@
    ],
    "3538395754": [
     130.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-26",
     "32GB Micron / Lenovo DDR4-2666 ECC Registered RDIMM 4x8GB Server"
    ],
@@ -1980,8 +1985,8 @@
     "Samsung 32GB DDR4-2666 ECC RDIMM"
    ],
    "3549622654": [
-    119.0,
-    "2026-11-01",
+    109.0,
+    "2026-11-04",
     "2026-10-23",
     "32GB (2x 16GB) Micron Supermicro DDR4-2666V ECC RDIMM Server RAM"
    ],
@@ -1993,7 +1998,7 @@
    ],
    "3550230244": [
     120.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-24",
     "HPE Micron 32GB DDR4 2666V ECC RDIMM Server-RAM"
    ],
@@ -2017,19 +2022,19 @@
    ],
    "3553665377": [
     200.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-27",
     "32GB (4x8) DDR4 3200 ECC RDIMM"
    ],
    "3554096330": [
     140.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-27",
     "32GB HPE Micron DDR4-2400 ECC RDIMM 2Rx4 Server RAM 819412-001"
    ],
    "3555289666": [
     109.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-29",
     "SK Hynix 32GB RAM (2x16GB) DDR4 2666 ECC RDIMM HMA82GR7CJR8N-VK"
    ],
@@ -2040,16 +2045,28 @@
     "32Gb 2rx4 DDR4 2666v ram sk Hynix ecc rdimm"
    ],
    "3557591761": [
-    130.0,
-    "2026-11-01",
+    129.0,
+    "2026-11-04",
     "2026-10-31",
     "Kingston 32GB DDR4-2666 ECC RDIMM KTD-PE426/32G neu"
    ],
    "3558169283": [
     50.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-11-01",
     "SK hynix Arbeitsspeicher RAM R-DIMM ECC DDR4 HMA82GR7AFR8N 32GB"
+   ],
+   "3559949158": [
+    119.0,
+    "2026-11-04",
+    "2026-11-04",
+    "32GB (2x16GB) SK hynix DDR4-2666 ECC RDIMM Server RAM"
+   ],
+   "3561411722": [
+    90.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Kingston 32GB DDR4 Server RAM PC4-2666V ECC Registered RDIMM"
    ]
   },
   "DDR4 ECC RDIMM 64GB": {
@@ -3678,25 +3695,25 @@
    ],
    "3511921163": [
     205.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dell UltraSharp U2722D – 27 Zoll QHD IPS Monitor #1"
    ],
    "3511936378": [
     205.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dell UltraSharp U2722D – 27 Zoll QHD IPS Monitor #2"
    ],
    "3519304078": [
     85.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dell U2722D Monitor 27 Zoll"
    ],
    "3528398403": [
     329.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dell UltraSharp U2722D – 27\" QHD – NEU & OVP"
    ],
@@ -3720,7 +3737,7 @@
    ],
    "3546203226": [
     160.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dell UltraSharp U2722D 27\" WQHD Monitor -2560x1440-"
    ],
@@ -3735,18 +3752,24 @@
     "2026-11-01",
     "2026-10-29",
     "Dell UltraSharp U2722D Monitor mit 27 Zoll."
+   ],
+   "3560997645": [
+    190.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Dell UltraSharp 27\" Monitor (U2722D) – Top Zustand & OVP"
    ]
   },
   "Dell UltraSharp U2723QE": {
    "3470525919": [
     400.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dell Monitor U2723QE"
    ],
    "3487223208": [
     390.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Monitor Dell Ultra Sharp U2723QE"
    ],
@@ -3758,19 +3781,19 @@
    ],
    "3524659316": [
     399.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dell U2723QE (4K UHD Monitor, 27 Zoll)"
    ],
    "3536430191": [
     300.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dell UltraSharp U2723QE | 27 Zoll 4K USB-C Monitor"
    ],
    "3541045733": [
     345.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dell U2723QE Monitor 27 Zoll 4K"
    ],
@@ -3794,19 +3817,19 @@
    ],
    "3553869741": [
     360.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-27",
     "Dell UltraSharp U2723QE 27 Zoll 4K Monitor (inkl. OVP) [1/2]"
    ],
    "3553872922": [
     360.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-27",
     "Dell UltraSharp U2723QE 27 Zoll 4K Monitor (inkl. OVP) [2/2]"
    ],
    "3558153645": [
-    285.0,
-    "2026-11-01",
+    260.0,
+    "2026-11-04",
     "2026-11-01",
     "DELL Monitor U2723QE 2022 Bildschirm"
    ]
@@ -5681,16 +5704,16 @@
   },
   "EliteBook ohne SSD/Netzteil": {
    "3558746012": [
-    120.0,
+    117.0,
+    "2026-11-04",
     "2026-11-01",
-    "2026-11-01",
-    "HP 840 G7 Touchscreen Elitebook 256 GB SSD 16 GB 14\" ohne SSD RAM"
+    "HP 840 G7 Touchscreen Elitebook Notebook 14\" ohne SSD RAM i5-1031"
    ]
   },
   "Fluke 115/117 Multimeter": {
    "3539146735": [
-    200.0,
-    "2026-11-03",
+    190.0,
+    "2026-11-04",
     "2026-10-23",
     "Fluke 117 Digitales Multimeter Neu"
    ],
@@ -5701,8 +5724,8 @@
     "Fluke Promotion 117/323 EUR Combo Kit"
    ],
    "3556832222": [
-    135.0,
-    "2026-11-03",
+    133.0,
+    "2026-11-04",
     "2026-10-30",
     "Fluke 117 True RMS Digital-Multimeter"
    ]
@@ -5716,7 +5739,7 @@
    ],
    "3477392551": [
     350.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-10-23",
     "Fluke 87V True RMS Digitalmultimeter – Profi-Messgerät"
    ],
@@ -5728,13 +5751,13 @@
    ],
    "3534253112": [
     350.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-10-23",
     "Fluke 87V Digital Multimeter Digitalmultimeter"
    ],
    "3537326281": [
     370.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-10-23",
     "Multimeter Fluke 87 V, mit Zubehör, neuwertig"
    ],
@@ -5752,19 +5775,19 @@
    ],
    "3553846312": [
     320.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-10-27",
     "Fluke 87 V Industriemultimeter DigitalMultimeter Profi Messgerät"
    ],
    "3556601089": [
     369.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-10-30",
     "Fluke 87V Multimeter & TPAK Tool Hanging Kit"
    ],
    "3559327761": [
     299.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-11-03",
     "Fluke 87V True RMS Multimeter Digital"
    ]
@@ -5812,7 +5835,7 @@
    ],
    "3346336073": [
     135.0,
-    "2026-10-27",
+    "2026-11-04",
     "2026-10-23",
     "HP Thunderbolt Dock G4 – Dockingstation (B-Ware)"
    ],
@@ -5926,13 +5949,13 @@
    ],
    "3535556389": [
     115.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4"
    ],
    "3536230599": [
     165.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 (M88252-001) mit Kombikabel - Neu"
    ],
@@ -5950,37 +5973,37 @@
    ],
    "3539619763": [
     150.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "HP Inc. Thunderbolt Dock G4"
    ],
    "3539681157": [
     75.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "HP Thunderbolt Dock G4 (HSN-IX03) inkl. Netzteil. DGUV geprüft"
    ],
    "3542186271": [
-    68.0,
-    "2026-11-01",
+    65.0,
+    "2026-11-04",
     "2026-10-23",
     "HP USB-C Thunderbolt Dock 120W G4 mit Netzteil Dockingstation"
    ],
    "3543374653": [
     77.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "HP G4 280W Dock Dockingstation Thunderbolt"
    ],
    "3546019638": [
     90.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "HP Thunderbolt Dock 280 G4 Dockingstation"
    ],
    "3546211036": [
-    79.0,
-    "2026-11-01",
+    74.0,
+    "2026-11-04",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 + Netzteil HSN-IX03 Kombinationskabel"
    ],
@@ -5991,20 +6014,20 @@
     "HP thunderbolt G4 dock 280W + Netzteil OvP neu"
    ],
    "3546973139": [
-    90.0,
-    "2026-11-01",
+    85.0,
+    "2026-11-04",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 – Dockingstation"
    ],
    "3549037468": [
     75.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 mit Netzteil, HSN-IX03"
    ],
    "3549117504": [
     90.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Dockingstation HP Thunderbolt Dock 120W G4 – NEU & OVP"
    ],
@@ -6016,7 +6039,7 @@
    ],
    "3549547068": [
     80.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "HP Thunderbolt Dock G4 – USB-C Dockingstation"
    ],
@@ -6034,7 +6057,7 @@
    ],
    "3550693140": [
     100.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-24",
     "HP Thunderbolt Dock 120W G4 – Neu & OVP (Originalverpackung)"
    ],
@@ -6052,7 +6075,7 @@
    ],
    "3553881493": [
     60.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-27",
     "HP Thunderbolt Dock G4 mit 280W-Netzteil+ Split Cable. Dockingsta"
    ],
@@ -6069,8 +6092,8 @@
     "HP Thunderbolt Dock G4 120W"
    ],
    "3554895322": [
-    150.0,
-    "2026-11-01",
+    120.0,
+    "2026-11-04",
     "2026-10-28",
     "HP Dockingstation Thunderbolt Dock 280W G4"
    ],
@@ -6106,7 +6129,7 @@
    ],
    "3557038739": [
     118.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-31",
     "HP Thunderbolt Dock G4 mit 280W"
    ],
@@ -6121,6 +6144,30 @@
     "2026-11-01",
     "2026-11-01",
     "HP Thunderbolt Dock G4 Dockingstation"
+   ],
+   "3559399797": [
+    100.0,
+    "2026-11-04",
+    "2026-11-04",
+    "HP Thunderbolt Dock 280W G4 (4J0G4AA)"
+   ],
+   "3560462735": [
+    85.0,
+    "2026-11-04",
+    "2026-11-04",
+    "HP Thunderbolt Dock 120W G4 - Neuwertig"
+   ],
+   "3560523398": [
+    89.0,
+    "2026-11-04",
+    "2026-11-04",
+    "HP Thunderbolt Dock G4 280W-Top Zustand-inkl. Netzteil"
+   ],
+   "3561340306": [
+    199.0,
+    "2026-11-04",
+    "2026-11-04",
+    "HP Thunderbolt Dock G4 280W NEU"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -7204,19 +7251,19 @@
    ],
    "3555021191": [
     250.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-28",
     "Hp Pavilion Laptop 15-cs3xxx und SSD konvolut alles als Paket"
    ],
    "3556036228": [
     75.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-29",
     "IT - neuwertiges hp-Konvolut - Sonderpreis wg. Auflösung"
    ],
    "3556187173": [
-    295.0,
-    "2026-11-01",
+    265.0,
+    "2026-11-04",
     "2026-10-30",
     "95x Laptoptastaturen Dell Acer Lenovo Notebook keyboard Konvolut"
    ],
@@ -7225,18 +7272,24 @@
     "2026-11-01",
     "2026-10-31",
     "3 Dell Lenovo Thinkpad Laptop Konvolut"
+   ],
+   "3560210868": [
+    65.0,
+    "2026-11-04",
+    "2026-11-04",
+    "3 Dell Lenovo Thinkpad Laptop Konvolut"
    ]
   },
   "Konvolut RAM DDR4/DDR5": {
    "3411403880": [
     10.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "ADATA 2GB SODIMM DDR4 2400 RAM Arbeitsspeicher Riegel Konvolut"
    ],
    "3481674065": [
     53.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Konvolut  6x 16GB DDR4 RDIMM UDIMM LRDIMM server speicher"
    ],
@@ -7256,13 +7309,19 @@
   "Konvolut SSD/Festplatten": {
    "2392961056": [
     20.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "SATA III Kabel Konvolut intern HDD SSD Datenkabel gerade - winkel"
    ],
+   "3509296097": [
+    15.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Großes SATA Kabel Konvolut – HDD SSD PC – verschiedene Kabel"
+   ],
    "3511898548": [
     40.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Konvolut RAM & SSD (2x 8GB DDR3L, 240GB M.2 SSD uvm.)"
    ],
@@ -7274,13 +7333,13 @@
    ],
    "3548465372": [
     10.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-31",
     "Samsung SSD Konvolut | 120GB – 500GB"
    ],
    "3553328282": [
     30.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-26",
     "13x M.2 SSD Konvolut | WD, Samsung, SK Hynix, KIOXIA"
    ],
@@ -7292,19 +7351,19 @@
    ],
    "3553514645": [
     30.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-26",
     "2× Samsung PM851 128GB mSATA SSD – 256GB gesamt – Konvolut"
    ],
    "3555115790": [
-    60.0,
-    "2026-11-01",
+    50.0,
+    "2026-11-04",
     "2026-10-28",
     "Festplatten Konvolut|SSD und HDD|3x500GB"
    ],
    "3557129001": [
     10.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-31",
     "Samsung SSD Konvolut | 120GB – 500GB"
    ],
@@ -7316,9 +7375,15 @@
    ],
    "3559218263": [
     20.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-11-01",
     "Samsung/Intel SSD 250GB/240GB LOT Konvolut EVO 860"
+   ],
+   "3559631987": [
+    30.0,
+    "2026-11-04",
+    "2026-11-04",
+    "8x M.2 SSD Speicher Festplatten Konvolut Preis pro Stück"
    ]
   },
   "Labornetzteil 30V 5A": {
@@ -7752,19 +7817,19 @@
    ],
    "3512629047": [
     110.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo Thunderbolt 4 Dock 40B00135EU mit Zubehör"
    ],
    "3518808308": [
     160.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 40B00300EU NEU"
    ],
    "3518874802": [
-    135.0,
-    "2026-11-01",
+    110.0,
+    "2026-11-04",
     "2026-10-23",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock – 135W – NEU & OVP"
    ],
@@ -7776,13 +7841,13 @@
    ],
    "3524384690": [
     100.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock DK2131 mit Netzteil"
    ],
    "3524530261": [
     110.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Dock mit 170W Netzteil"
    ],
@@ -7794,25 +7859,25 @@
    ],
    "3527086158": [
     165.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 DOCK ungeöffnete OVP"
    ],
    "3527891315": [
     180.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo Thunderbolt 4 Workstation Dock"
    ],
    "3530128075": [
     155.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock"
    ],
    "3532362683": [
     100.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo Universal Thunderbolt 4 Dock"
    ],
@@ -7830,7 +7895,7 @@
    ],
    "3543754892": [
     120.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Dock 40B0 mit 135W Netzteil"
    ],
@@ -7842,7 +7907,7 @@
    ],
    "3548159345": [
     110.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 300W + OVP"
    ],
@@ -7854,13 +7919,13 @@
    ],
    "3549920255": [
     150.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-23",
     "ThinkPad Universal Thunderbolt 4 Dock Docking Station Lenovo"
    ],
    "3550452503": [
     129.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-24",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock + 135W Netzteil"
    ],
@@ -7878,19 +7943,19 @@
    ],
    "3551478878": [
     145.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-25",
     "Lenovo ThinkPad Thunderbolt 4 Dock + 300W und 170W Netzteil"
    ],
    "3551672874": [
     190.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-25",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock (40B00135EU)"
    ],
    "3552542789": [
     145.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-26",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock - Neu"
    ],
@@ -7932,7 +7997,7 @@
    ],
    "3555639775": [
     110.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-10-29",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 40B0 135W"
    ],
@@ -7956,15 +8021,33 @@
    ],
    "3558889321": [
     129.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-11-01",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 135W in OVP"
    ],
    "3558961808": [
     175.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-11-01",
     "LENOVO ThinkPad Thunderbolt 4 Dock, 300W, neuwertig"
+   ],
+   "3559627803": [
+    180.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Lenovo ThinkPad Thunderbolt 4 Smart Dock Gen 2 7500 Quasi neu!"
+   ],
+   "3559830751": [
+    129.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B0 – Wie Neu"
+   ],
+   "3561373457": [
+    119.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Lenovo ThinkPad Thunderbolt 4 Universal Dock 40B0. 119€"
    ]
   },
   "Lenovo USB-C Dock Gen 2": {
@@ -11113,6 +11196,18 @@
     "2026-11-04",
     "2026-11-04",
     "Apple MacBook Air 2020 M1, 16GB RAM, 512GB SSD, Silber"
+   ],
+   "3561492307": [
+    520.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Mac Book Air M1 Akku: 93% + Magic Mouse"
+   ],
+   "3561497724": [
+    479.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple Mc Book Air M1–Super Zustand ,Akku 100 %"
    ]
   },
   "MacBook Air M2": {
@@ -13275,6 +13370,12 @@
     "2026-11-04",
     "2026-11-04",
     "Apple MacBook Air M2, 8GB, 512GB, 13 Zoll"
+   ],
+   "3561484976": [
+    719.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Apple MacBook Air 13\" M2 16GB 512GB Mitternacht Akzeptabel 19%"
    ]
   },
   "Makita DHP485 Set": {
@@ -14376,6 +14477,12 @@
     "2026-11-03",
     "ASUS ROG Strix GeForce RTX 3060 12GB GDDR6 Grafikkarte"
    ],
+   "3560392585": [
+    240.0,
+    "2026-11-04",
+    "2026-11-04",
+    "NVIDIA GeForce RTX 3060 12GB Grafikkarte"
+   ],
    "3560854725": [
     350.0,
     "2026-11-04",
@@ -14405,6 +14512,12 @@
     "2026-11-04",
     "2026-11-04",
     "Nvidia RTX 3060 12GB Gainward Ghost 3060 12GB OC"
+   ],
+   "3561448617": [
+    299.0,
+    "2026-11-04",
+    "2026-11-04",
+    "rtx 3060 12gb gebraucht"
    ]
   },
   "RTX 3070": {
@@ -15751,6 +15864,18 @@
     "2026-11-04",
     "2026-11-04",
     "Zotac Twin Edge GeForce RTX 3070 Grafikkarte OPV"
+   ],
+   "3561464040": [
+    300.0,
+    "2026-11-04",
+    "2026-11-04",
+    "NVIDIA GeForce RTX 3070 , 8 GB OC Gigabyte"
+   ],
+   "3561502187": [
+    299.0,
+    "2026-11-04",
+    "2026-11-04",
+    "INNO3D GeForce RTX 3070 iCHILL mit 8 GB GDDR6"
    ]
   },
   "RTX 3080": {
@@ -17237,6 +17362,12 @@
     "2026-11-04",
     "2026-11-04",
     "Gigabyte GeForce RTX 4060 Ti Gaming OC 16G"
+   ],
+   "3561513724": [
+    245.0,
+    "2026-11-04",
+    "2026-11-04",
+    "MSI Geforce RTX 4060 Ti Gaming X 16GB Top Zustand"
    ]
   },
   "RTX 4070": {
@@ -18723,13 +18854,13 @@
     "RTX 4080 SUPER AERO OC 16GB – OVP – Top Zustand"
    ],
    "3561122573": [
-    1400.0,
+    1350.0,
     "2026-11-04",
     "2026-11-04",
     "Gainward GeForce RTX 4080 SUPER Phoenix GS 16GB MIT OVP"
    ],
    "3561274788": [
-    1200.0,
+    1100.0,
     "2026-11-04",
     "2026-11-04",
     "NVIDIA RTX 4080 Suprim X wie Neu Zustand"
@@ -19220,7 +19351,7 @@
    ],
    "3541225601": [
     600.0,
-    "2026-10-31",
+    "2026-11-04",
     "2026-10-21",
     "Asus AMD Radeon RX 7800 XT 16GB TUF Gaming Grafikkarte"
    ],
@@ -20187,13 +20318,13 @@
    ],
    "3559629740": [
     354.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-11-03",
     "Rigol Oszilloskop DS1054Z Neuwertig! OVP und 4 Originalen Probes"
    ],
    "3560119337": [
     280.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-11-03",
     "Digital-Oszilloskop Rigol DS1054Z"
    ]
@@ -21978,10 +22109,16 @@
     "Samsung 990 PRO 2TB – M.2 NVMe SSD – PCIe 4.0 (Preis pro Stk)"
    ],
    "3561389156": [
-    250.0,
+    200.0,
     "2026-11-04",
     "2026-11-04",
     "Samsung 990 PRO 2TB SSD mit Heatsink – Top Zustand"
+   ],
+   "3561509619": [
+    349.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Samsung 990 PRO Heatsink PS5 2 TB Gaming Festplatte Schwarz"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -22205,6 +22342,12 @@
     "2026-10-28",
     "2026-10-28",
     "Seagate Exos X18 18TB ST18000NM000J 256MB Server HDD 3,5\""
+   ],
+   "3522171786": [
+    499.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Seagate Exos X20 18TB ST18000NM003D SATA werks-recertified 8-2023"
    ],
    "3529947093": [
     439.0,
@@ -23614,13 +23757,13 @@
    ],
    "3558208084": [
     130.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-11-01",
     "Sony WH1000XM5  Noise Cancelling"
    ],
    "3558413050": [
-    150.0,
-    "2026-11-01",
+    130.0,
+    "2026-11-04",
     "2026-11-01",
     "Sony WH-1000XM5 Kopfhörer – Schwarz"
    ],
@@ -23638,19 +23781,19 @@
    ],
    "3558837296": [
     89.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-11-01",
     "Sony WH-1000XM5 – Kopfhörer mit Kopfband-Gebrauchsspuren"
    ],
    "3558898698": [
-    120.0,
-    "2026-11-01",
+    140.0,
+    "2026-11-04",
     "2026-11-01",
     "Sony WH-1000XM5 Kopfhörer – gebraucht"
    ],
    "3558947985": [
     160.0,
-    "2026-11-01",
+    "2026-11-04",
     "2026-11-01",
     "Sony WH-1000XM5 Kopfhörer mit Zubehör & Tischhalterung"
    ],
@@ -23661,10 +23804,76 @@
     "Sony WH-1000XM5 Noise-Cancelling Kopfhörer Schwarz"
    ],
    "3559198526": [
-    160.0,
-    "2026-11-01",
+    150.0,
+    "2026-11-04",
     "2026-11-01",
     "Sony wh1000xm5"
+   ],
+   "3559407117": [
+    180.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH1000XM5"
+   ],
+   "3559508826": [
+    180.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5"
+   ],
+   "3559514149": [
+    130.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5 Kopfhörer Schwarz"
+   ],
+   "3559742603": [
+    95.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5 Kopfhörer Midnight Blue"
+   ],
+   "3559882441": [
+    160.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5 Bluetooth-Kopfhörer"
+   ],
+   "3560104998": [
+    105.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5 Kopfhörer schwarz"
+   ],
+   "3560391551": [
+    120.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5 Bluetooth-Kopfhörer – Noise Cancelling"
+   ],
+   "3560998043": [
+    125.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5 Kopfhörer"
+   ],
+   "3561021945": [
+    165.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5 - Sehr guter, gepflegter Zustand"
+   ],
+   "3561097439": [
+    170.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Sony WH-1000XM5 Kopfhörer"
+   ],
+   "3561295477": [
+    159.0,
+    "2026-11-04",
+    "2026-11-04",
+    "Kopfhörer mit OVP Sony WH-1000XM5"
    ]
   },
   "Synology DS220+": {
@@ -25233,7 +25442,7 @@
    ],
    "3556164110": [
     130.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-10-30",
     "Weller WE 1010 Lötstation"
    ],
@@ -25251,7 +25460,7 @@
    ],
    "3560357921": [
     110.0,
-    "2026-11-03",
+    "2026-11-04",
     "2026-11-03",
     "Weller WE1010 Lötstation"
    ]
