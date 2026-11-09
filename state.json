@@ -641,10 +641,14 @@
   "3566148263": "2026-11-09",
   "3566347106": "2026-11-09",
   "3566355160": "2026-11-09",
-  "3566392324": "2026-11-09"
+  "3566392324": "2026-11-09",
+  "3566732934": "2026-11-09",
+  "3566740352": "2026-11-09",
+  "3566896745": "2026-11-09",
+  "3566964242": "2026-11-09"
  },
- "laeufe": 393,
- "letzter_lauf": "2026-11-09T14:06:52",
+ "laeufe": 394,
+ "letzter_lauf": "2026-11-09T23:34:09",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -2329,6 +2333,12 @@
     "2026-11-09",
     "2026-11-06",
     "Crucial P3 Plus SSD 2TB M.2 PCIe Gen4 NVMe ( Festpreis )"
+   ],
+   "3566813699": [
+    200.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Crucial P3 Plus 2TB NVMe SSD PCIe 4.0 M.2"
    ]
   },
   "DDR4 ECC RDIMM 32GB": {
@@ -2484,13 +2494,13 @@
    ],
    "3557591761": [
     125.0,
-    "2026-11-07",
+    "2026-11-09",
     "2026-10-31",
     "Kingston 32GB DDR4-2666 ECC RDIMM KTD-PE426/32G neu"
    ],
    "3558169283": [
     50.0,
-    "2026-11-07",
+    "2026-11-09",
     "2026-11-01",
     "SK hynix Arbeitsspeicher RAM R-DIMM ECC DDR4 HMA82GR7AFR8N 32GB"
    ],
@@ -2508,7 +2518,7 @@
    ],
    "3561952780": [
     140.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-05",
     "Server RAM DDR4 ECC RDIMM Einzelstücke 32GB/16GB - 2666/2933/3200"
    ],
@@ -2580,21 +2590,45 @@
    ],
    "3563744407": [
     200.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "Dell Arbeitsspeicher DDR4-RAM 32GB PC4-2666V ECC RDIMM"
    ],
    "3564952503": [
     149.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "Samsung 32 GB DDR4-3200 ECC Server-RAM (RDIMM)"
    ],
    "3565307825": [
     100.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "32 gb ddr4 ecc rdimm (4x8) 2rx8"
+   ],
+   "3566046019": [
+    150.0,
+    "2026-11-09",
+    "2026-11-09",
+    "32GB DDR4 2666 ECC RDIMM Server RAM HPE 840758-091 SK hynix"
+   ],
+   "3566129215": [
+    195.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Micron 32GB DDR4 2133 ECC Registered RDIMM Server RAM"
+   ],
+   "3566420056": [
+    110.0,
+    "2026-11-09",
+    "2026-11-09",
+    "HPE Micron 32GB DDR4 2666V ECC RDIMM Server-RAM"
+   ],
+   "3566709517": [
+    120.0,
+    "2026-11-09",
+    "2026-11-09",
+    "32GB (2x 16GB) DDR4-2666 ECC RDIMM Server RAM Samsung/SK Hynix"
    ]
   },
   "DDR4 ECC RDIMM 64GB": {
@@ -4237,6 +4271,102 @@
     "2026-11-09",
     "2026-11-09",
     "32 GB DDR5 6000 CL36 Crucial Pro Weiß AMD Expo"
+   ],
+   "3566664026": [
+    449.0,
+    "2026-11-09",
+    "2026-11-09",
+    "G.Skill Trident Z5 32GB (2x16GB) 6000MHz CL40 DDR5 RAM Speicher"
+   ],
+   "3566717759": [
+    490.0,
+    "2026-11-09",
+    "2026-11-09",
+    "DDR5 RAM Corsair Dominator Platinum RGB 32GB Kit DDR5-6000 CL36"
+   ],
+   "3566771832": [
+    420.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL48 | NEU & OVP"
+   ],
+   "3566874677": [
+    499.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Kingston FURY Beast 32GB (2x16GB) DDR5-6000 CL30 RAM-Gaming/AMD"
+   ],
+   "3566895632": [
+    370.0,
+    "2026-11-09",
+    "2026-11-09",
+    "G.Skill Flare X5 DDR5 RAM – 32 GB (2×16 GB) 6000 MHz"
+   ],
+   "3566902295": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "CORSAIR Vengeance RGB DDR5 32GB (2 x 16GB) 6000MHz CL 30"
+   ],
+   "3566930982": [
+    350.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Corsair Vengeance 32GB 2x16GB 6000MT DDR5 Intel XMP/AMD Expo"
+   ],
+   "3566943011": [
+    420.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Corsair Vengeance RGB DDR5-6000 2×16GB (32GB)"
+   ],
+   "3566944868": [
+    400.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Corsair Vengeance DDR5 2x16GB 32GB RAM 6000MHz"
+   ],
+   "3566960875": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "NEUWERTIG: G.Skill Trident Z5 RGB 32GB (2x16GB) DDR5-6000 RAM Kit"
+   ],
+   "3566979175": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Corsair Vengeance DDR5 RAM 32GB (2x16GB) 6000MHz Weiß RGB"
+   ],
+   "3566993888": [
+    400.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Patriot Viper Venom DDR5 32GB (2x16GB) 6000MT/s CL30 RAM"
+   ],
+   "3567086217": [
+    469.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Corsair Vengeance RGB 32GB (2x16GB) DDR5-6000 CL36 NEU OVP"
+   ],
+   "3567092234": [
+    499.0,
+    "2026-11-09",
+    "2026-11-09",
+    "G.Skill Trident Z5 Neo RGB 32GB Kit DDR5-6000 CL30"
+   ],
+   "3567097954": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "32 GB Patriot Viper DDR5-6000"
+   ],
+   "3567116020": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Patriot Viper Venom 32GB DDR5-6000 CL30 | 2x16GB | EXPO/XMP"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {
@@ -4602,25 +4732,25 @@
    ],
    "3511921163": [
     205.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Dell UltraSharp U2722D – 27 Zoll QHD IPS Monitor #1"
    ],
    "3511936378": [
     205.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Dell UltraSharp U2722D – 27 Zoll QHD IPS Monitor #2"
    ],
    "3519304078": [
     85.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Dell U2722D Monitor 27 Zoll"
    ],
    "3528398403": [
     329.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Dell UltraSharp U2722D – 27\" QHD – NEU & OVP"
    ],
@@ -4662,7 +4792,7 @@
    ],
    "3560997645": [
     190.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-04",
     "Dell UltraSharp 27\" Monitor (U2722D) – Top Zustand & OVP"
    ],
@@ -4674,13 +4804,13 @@
    ],
    "3562505708": [
     140.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-05",
     "Dell U2722D UltraSharp 27\" QHD Monitor"
    ],
    "3565016386": [
-    189.0,
-    "2026-11-08",
+    169.0,
+    "2026-11-09",
     "2026-11-08",
     "Dell UltraSharp U2722D 27 Zoll QHD Monitor IPS USB-C Hub"
    ]
@@ -4688,13 +4818,13 @@
   "Dell UltraSharp U2723QE": {
    "3470525919": [
     400.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Dell Monitor U2723QE"
    ],
    "3487223208": [
     390.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Monitor Dell Ultra Sharp U2723QE"
    ],
@@ -4706,7 +4836,7 @@
    ],
    "3524659316": [
     399.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Dell U2723QE (4K UHD Monitor, 27 Zoll)"
    ],
@@ -4718,7 +4848,7 @@
    ],
    "3541045733": [
     345.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Dell U2723QE Monitor 27 Zoll 4K"
    ],
@@ -4741,34 +4871,40 @@
     "Dell U2723QE UltraSharp 27 Zoll 4K USB-C Hub-Monitor"
    ],
    "3553869741": [
-    330.0,
-    "2026-11-08",
+    300.0,
+    "2026-11-09",
     "2026-10-27",
     "Dell UltraSharp U2723QE 27 Zoll 4K Monitor (inkl. OVP) [1/2]"
    ],
    "3553872922": [
-    330.0,
-    "2026-11-08",
+    300.0,
+    "2026-11-09",
     "2026-10-27",
     "Dell UltraSharp U2723QE 27 Zoll 4K Monitor (inkl. OVP) [2/2]"
    ],
    "3558153645": [
-    245.0,
-    "2026-11-08",
+    240.0,
+    "2026-11-09",
     "2026-11-01",
     "DELL Monitor U2723QE 2022 Bildschirm"
    ],
    "3564097821": [
-    377.0,
-    "2026-11-08",
+    333.0,
+    "2026-11-09",
     "2026-11-07",
     "Dell UltraSharp U2723QE – 27\" 4K Monitor (IPS Black, USB-C Hub)"
    ],
    "3565607241": [
     299.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "Dell UltraSharp U2723QE 27\" 4K IPS Black USB-C Hub Monitor OVP"
+   ],
+   "3566683922": [
+    340.0,
+    "2026-11-09",
+    "2026-11-09",
+    "DELL Ultrasharp Monitor 27 Zoll - U2723QE - 4K - wie neu - OVP"
    ]
   },
   "Dell WD19TB/WD22TB4": {
@@ -5388,6 +5524,12 @@
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
+   "3540815733": [
+    75.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Lexar 16GB Kit (2×8GB) DDR4-3200 SO-DIMM - NEU & OVP, Laptop RAM"
+   ],
    "3545813718": [
     65.0,
     "2026-10-21",
@@ -6293,6 +6435,24 @@
     "2026-11-09",
     "2026-11-09",
     "16GB DDR4-3200 SODIMM - Micron MTA8ATF2G64HZ-3G2E2 - Laptop-RAM"
+   ],
+   "3566735572": [
+    90.0,
+    "2026-11-09",
+    "2026-11-09",
+    "RAM Lexar 16GB DDR4 3200 SO-DIMM 1.2V"
+   ],
+   "3566749447": [
+    99.0,
+    "2026-11-09",
+    "2026-11-09",
+    "DDR4 16GB Notebook RAM 3200 NEU SO-DIMM PC4-25600S CL22 1,20V"
+   ],
+   "3567040678": [
+    60.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Micron 16GB DDR4 RAM SO-DIMM 3200MHz Laptop RAM"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -7023,7 +7183,7 @@
     "G.Skill Ripjaws DDR4 SO-DIMM 32GB (2x16GB) 3200MHz - Neuwertig!"
    ],
    "3565132220": [
-    190.0,
+    160.0,
     "2026-11-09",
     "2026-11-08",
     "Mushkin 32GB (2x16GB) DDR4 3200MHz RAM SODIMM"
@@ -7035,10 +7195,16 @@
     "Crucial 32GB DDR4-3200 SODIMM RAM Arbeitsspeicher"
    ],
    "3566454585": [
-    165.0,
+    155.0,
     "2026-11-09",
     "2026-11-09",
     "32GB RAM DDR4 SO-DIMM 3200 MHz PC4-25600S ungebraucht!"
+   ],
+   "3567105631": [
+    125.0,
+    "2026-11-09",
+    "2026-11-09",
+    "SKhynix Arbeitsspeicher 2x 16GB (32GB) DDR4 3200MHz SoDimm Laptop"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {
@@ -7078,7 +7244,7 @@
    ],
    "3477392551": [
     350.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Fluke 87V True RMS Digitalmultimeter – Profi-Messgerät"
    ],
@@ -7090,13 +7256,13 @@
    ],
    "3534253112": [
     350.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Fluke 87V Digital Multimeter Digitalmultimeter"
    ],
    "3537326281": [
     370.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Multimeter Fluke 87 V, mit Zubehör, neuwertig"
    ],
@@ -7114,19 +7280,19 @@
    ],
    "3553846312": [
     320.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-27",
     "Fluke 87 V Industriemultimeter DigitalMultimeter Profi Messgerät"
    ],
    "3556601089": [
     369.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-30",
     "Fluke 87V Multimeter & TPAK Tool Hanging Kit"
    ],
    "3559327761": [
     299.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-03",
     "Fluke 87V True RMS Multimeter Digital"
    ],
@@ -7135,6 +7301,12 @@
     "2026-11-08",
     "2026-11-07",
     "FLUKE 87V Multimeter, neuwertig"
+   ],
+   "3566195192": [
+    399.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Fluke 87V True RMS Multimeter – inklusive Temperatursensor"
    ]
   },
   "Fujitsu Primergy TX1320 M4": {
@@ -7186,7 +7358,7 @@
    ],
    "3346336073": [
     135.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "HP Thunderbolt Dock G4 – Dockingstation (B-Ware)"
    ],
@@ -7330,7 +7502,7 @@
    ],
    "3539681157": [
     65.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "HP Thunderbolt Dock G4 (HSN-IX03) inkl. Netzteil. DGUV geprüft"
    ],
@@ -7342,7 +7514,7 @@
    ],
    "3543374653": [
     77.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "HP G4 280W Dock Dockingstation Thunderbolt"
    ],
@@ -7354,7 +7526,7 @@
    ],
    "3546211036": [
     74.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 + Netzteil HSN-IX03 Kombinationskabel"
    ],
@@ -7366,19 +7538,19 @@
    ],
    "3546973139": [
     85.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 – Dockingstation"
    ],
    "3549037468": [
     75.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "HP Thunderbolt Dock 280W G4 mit Netzteil, HSN-IX03"
    ],
    "3549117504": [
     90.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Dockingstation HP Thunderbolt Dock 120W G4 – NEU & OVP"
    ],
@@ -7390,7 +7562,7 @@
    ],
    "3549547068": [
     80.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "HP Thunderbolt Dock G4 – USB-C Dockingstation"
    ],
@@ -7408,7 +7580,7 @@
    ],
    "3550693140": [
     100.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-24",
     "HP Thunderbolt Dock 120W G4 – Neu & OVP (Originalverpackung)"
    ],
@@ -7426,7 +7598,7 @@
    ],
    "3553881493": [
     60.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-27",
     "HP Thunderbolt Dock G4 mit 280W-Netzteil+ Split Cable. Dockingsta"
    ],
@@ -7480,7 +7652,7 @@
    ],
    "3557038739": [
     118.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-31",
     "HP Thunderbolt Dock G4 mit 280W"
    ],
@@ -7498,13 +7670,13 @@
    ],
    "3559399797": [
     100.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-04",
     "HP Thunderbolt Dock 280W G4 (4J0G4AA)"
    ],
    "3560462735": [
     85.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-04",
     "HP Thunderbolt Dock 120W G4 - Neuwertig"
    ],
@@ -7516,7 +7688,7 @@
    ],
    "3561340306": [
     199.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-04",
     "HP Thunderbolt Dock G4 280W NEU"
    ],
@@ -7534,57 +7706,63 @@
    ],
    "3562767941": [
     75.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-05",
     "HP Thunderbolt Dock G4 120W Dockingstation mit Netzteil und Kabel"
    ],
    "3562949984": [
     75.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-06",
     "HP Thunderbolt USB-C Dock G4 120W Dockingstation mit Netzteil"
    ],
    "3563215822": [
     120.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-06",
     "HP Thunderbolt Dock G4 mit 120 Watt"
    ],
    "3564002229": [
-    145.0,
-    "2026-11-08",
+    119.0,
+    "2026-11-09",
     "2026-11-07",
     "HP Thunderbolt Dock G4 mit 120-W Netzteil"
    ],
    "3564358558": [
     100.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "HP Thunderbolt Dock 280W G4 mit Netzteil"
    ],
    "3564972892": [
     105.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "HP G4 Thunderbolt Dock inkl. 120W Netzteil/ HSN-IX03"
    ],
    "3565125113": [
     120.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "HP Thunderbolt Dock G4 – HSN-IX03"
    ],
    "3565925768": [
     75.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "HP Thunderbolt Dock USB-C G4 Dockingstation mit 120W Netzteil"
    ],
    "3565927291": [
     75.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "HP Thunderbolt Dock G4 mit 120W Netzteil"
+   ],
+   "3566588119": [
+    149.0,
+    "2026-11-09",
+    "2026-11-09",
+    "HP Thunderbolt Dock 120W G4 incl. Versand!"
    ]
   },
   "Home Assistant Green/Yellow": {
@@ -7727,6 +7905,12 @@
     "2026-11-07",
     "2026-11-07",
     "Intel Core i5-13600K – 14 Kerne / 20 Threads – Gaming CPU"
+   ],
+   "3566899320": [
+    190.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Intel I5 13600K"
    ]
   },
   "Intel i7-12700K": {
@@ -7801,6 +7985,12 @@
     "2026-11-08",
     "2026-11-07",
     "Intel Core i7-12700K 3,6GHz, Sockel 1700 Prozessor"
+   ],
+   "3566757116": [
+    219.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Intel Core i7 12700K CPU Sockel 1700 Prozessor Rechnung wie NEU"
    ]
   },
   "Intel i7-14700K": {
@@ -9028,7 +9218,7 @@
    ],
    "3556036228": [
     75.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-29",
     "IT - neuwertiges hp-Konvolut - Sonderpreis wg. Auflösung"
    ],
@@ -9051,34 +9241,40 @@
     "3 Dell Lenovo Thinkpad Laptop Konvolut"
    ],
    "3561832628": [
-    280.0,
-    "2026-11-08",
+    259.0,
+    "2026-11-09",
     "2026-11-05",
     "ThinkPad Konvolut: T530 + IBM R51 + T42"
    ],
    "3563243126": [
     295.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-06",
     "95x Laptoptastaturen Dell Acer Lenovo Notebook keyboard Konvolut"
    ],
    "3563927739": [
     50.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "3 Dell Lenovo Thinkpad Laptop Konvolut"
+   ],
+   "3567037081": [
+    45.0,
+    "2026-11-09",
+    "2026-11-09",
+    "HP Notebooks, Dockingstation und HP Netzteile (Konvolut)"
    ]
   },
   "Konvolut RAM DDR4/DDR5": {
    "3411403880": [
     10.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "ADATA 2GB SODIMM DDR4 2400 RAM Arbeitsspeicher Riegel Konvolut"
    ],
    "3481674065": [
     53.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Konvolut  6x 16GB DDR4 RDIMM UDIMM LRDIMM server speicher"
    ],
@@ -9098,19 +9294,19 @@
   "Konvolut SSD/Festplatten": {
    "2392961056": [
     20.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "SATA III Kabel Konvolut intern HDD SSD Datenkabel gerade - winkel"
    ],
    "3509296097": [
     15.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-04",
     "Großes SATA Kabel Konvolut – HDD SSD PC – verschiedene Kabel"
    ],
    "3511898548": [
     40.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Konvolut RAM & SSD (2x 8GB DDR3L, 240GB M.2 SSD uvm.)"
    ],
@@ -9122,7 +9318,7 @@
    ],
    "3548465372": [
     10.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-31",
     "Samsung SSD Konvolut | 120GB – 500GB"
    ],
@@ -9140,7 +9336,7 @@
    ],
    "3553514645": [
     30.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-26",
     "2× Samsung PM851 128GB mSATA SSD – 256GB gesamt – Konvolut"
    ],
@@ -9152,7 +9348,7 @@
    ],
    "3557129001": [
     10.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-31",
     "Samsung SSD Konvolut | 120GB – 500GB"
    ],
@@ -9164,7 +9360,7 @@
    ],
    "3559218263": [
     20.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-01",
     "Samsung/Intel SSD 250GB/240GB LOT Konvolut EVO 860"
    ],
@@ -9176,7 +9372,7 @@
    ],
    "3562300886": [
     35.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-05",
     "6x 2.5 Zoll SATA SSD Festplatten Konvolut pro Stück 35€"
    ]
@@ -9391,7 +9587,7 @@
     "✅ Lenovo ThinkCentre M920q| 8/16 RAM| 256/512 SSD| i7-8"
    ],
    "3543765417": [
-    295.0,
+    290.0,
     "2026-11-09",
     "2026-10-22",
     "Lenovo M920q i7-8700T 6C/12T , 16GB RAM , Win 11 Pro, 230w, riser"
@@ -9750,7 +9946,7 @@
    ],
    "3530128075": [
     155.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock"
    ],
@@ -9774,7 +9970,7 @@
    ],
    "3543754892": [
     120.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Dock 40B0 mit 135W Netzteil"
    ],
@@ -9786,7 +9982,7 @@
    ],
    "3548159345": [
     110.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 300W + OVP"
    ],
@@ -9798,13 +9994,13 @@
    ],
    "3549920255": [
     150.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-23",
     "ThinkPad Universal Thunderbolt 4 Dock Docking Station Lenovo"
    ],
    "3550452503": [
     129.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-24",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock + 135W Netzteil"
    ],
@@ -9822,19 +10018,19 @@
    ],
    "3551478878": [
     145.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-25",
     "Lenovo ThinkPad Thunderbolt 4 Dock + 300W und 170W Netzteil"
    ],
    "3551672874": [
     190.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-25",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock (40B00135EU)"
    ],
    "3552542789": [
     140.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-26",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock - Neu"
    ],
@@ -9876,7 +10072,7 @@
    ],
    "3555639775": [
     110.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-29",
     "Lenovo ThinkPad Thunderbolt 4 Workstation Dock 40B0 135W"
    ],
@@ -9900,37 +10096,37 @@
    ],
    "3558889321": [
     129.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-01",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 135W in OVP"
    ],
    "3558961808": [
     175.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-01",
     "LENOVO ThinkPad Thunderbolt 4 Dock, 300W, neuwertig"
    ],
    "3559627803": [
     170.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-04",
     "Lenovo ThinkPad Thunderbolt 4 Smart Dock Gen 2 7500 Quasi neu!"
    ],
    "3559830751": [
     129.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-04",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B0 – Wie Neu"
    ],
    "3561373457": [
     119.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-04",
     "Lenovo ThinkPad Thunderbolt 4 Universal Dock 40B0. 119€"
    ],
    "3562904060": [
     150.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-06",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock"
    ],
@@ -9942,43 +10138,43 @@
    ],
    "3563657482": [
     120.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B0 mit 135W"
    ],
    "3563658891": [
     120.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B0 mit 135W"
    ],
    "3564173547": [
     99.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock 40B0 135 W, TB-Kabel"
    ],
    "3564591587": [
     135.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "Lenovo Thunderbolt 4 Dock 40b0"
    ],
    "3565058726": [
-    150.0,
-    "2026-11-08",
+    140.0,
+    "2026-11-09",
     "2026-11-08",
     "Lenovo Thunderbolt 4 Smart Dock Gen 2 - 7500 + OVP + Rechnung"
    ],
    "3565517416": [
     109.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "Lenovo Dock Thunderbolt 4 mit 135W Netzteil Type 40B0"
    ],
    "3565867446": [
     110.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "Lenovo ThinkPad Universal Thunderbolt 4 Dock, Typ 40B0"
    ]
@@ -14287,6 +14483,96 @@
     "2026-11-09",
     "2026-11-09",
     "Macbook Air 2020 M1 Spacegrau 256GB Speicher - Neuwertig"
+   ],
+   "3566819196": [
+    410.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air M1 2020 WIE NEU"
+   ],
+   "3566827333": [
+    525.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple MacBook Air M1 2020 | 512 GB | Top-Zustand | OVP + Zubehör"
+   ],
+   "3566828475": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air M1 2020, 8 GB RAM, 256 GB SSD, Rosé, Akku wie neu"
+   ],
+   "3566852799": [
+    500.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple Mac Book Air 13 Zoll M1 (2020)"
+   ],
+   "3566855179": [
+    500.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple MacBook Air 13”, M1, 2020 Space Grau 16GB / 256GB Akku 93%"
+   ],
+   "3566873464": [
+    435.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air 13\" M1 (2020), 8 GB, 256 GB, deutsche Tastatur"
+   ],
+   "3566889536": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air 13\" M1 (2020) – 8 GB RAM – 256 GB SSD – Space Grau"
+   ],
+   "3566922379": [
+    550.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air (2020) 13 Zoll M1 Chip"
+   ],
+   "3566964255": [
+    349.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air M1 (2020) | 8GB | 256GB SSD | OVP"
+   ],
+   "3566986757": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Mac Book Air M1 2020"
+   ],
+   "3567072253": [
+    330.0,
+    "2026-11-09",
+    "2026-11-09",
+    "**Apple MacBook Air M1 (2020) – 13 Zoll – 256 GB – OVP**"
+   ],
+   "3567076784": [
+    500.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air (Modell A2337, M1, 2020) - Wie neu, originalverpackt"
+   ],
+   "3567078362": [
+    435.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air 13 m1 2020"
+   ],
+   "3567078518": [
+    500.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple MacBook Air M1 | 16 GB RAM | 256 GB SSD"
+   ],
+   "3567121904": [
+    350.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple MacBook Air M1 (2020) – 13 Zoll – 512 GB SSD – 8 GB RAM"
    ]
   },
   "MacBook Air M2": {
@@ -14447,14 +14733,14 @@
     "Macbook Air M2 13.3 Zoll 256 GB Ram 8 GB Batterie 98%"
    ],
    "3547622001": [
-    849.0,
-    "2026-10-22",
+    649.0,
+    "2026-11-09",
     "2026-10-22",
     "Apple 2023 MacBook Air (M2) Laptop 15 inch OVP grau 8GB 256GB"
    ],
    "3547630377": [
-    899.0,
-    "2026-10-22",
+    749.0,
+    "2026-11-09",
     "2026-10-22",
     "Apple 2023 MacBook Air (M2) Laptop 15 inch OVP Silber 8GB 512GB"
    ],
@@ -14463,6 +14749,12 @@
     "2026-10-22",
     "2026-10-22",
     "MacBook Air M2 13,6” | 256 GB | 100 % Akku"
+   ],
+   "3547637734": [
+    849.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple 2023 MacBook Air (M2) Laptop 15 inch OVP blau 16GB 1TB"
    ],
    "3547722034": [
     800.0,
@@ -17337,6 +17629,90 @@
     "2026-11-09",
     "2026-11-09",
     "MacBook Air 2022 M2 - Sehr guter Zustand 100% Batterie"
+   ],
+   "3566709683": [
+    699.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air M2 13” | Excellent Condition | 8GB RAM | 256GB SSD"
+   ],
+   "3566819606": [
+    650.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Mac Book Air 15 Zoll 256 GB M2 Chip Top Zustand"
+   ],
+   "3566864057": [
+    600.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple MacBook Air M2 15“, 8GB RAM, 256GB, Mitternacht"
+   ],
+   "3566881903": [
+    660.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air M2 2022 (Akkukapazität 100%)"
+   ],
+   "3566884801": [
+    699.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple MacBook Air M2 (2022) -  Space Grau - TOP Zustand"
+   ],
+   "3566886686": [
+    600.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple MacBook Air 2022 M2, 8GB RAM, 256GB SSD"
+   ],
+   "3566891005": [
+    690.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air 13 Zoll 2024 M2 im Sehr guten Zustand"
+   ],
+   "3566895899": [
+    650.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Mac Book Air 15 Zoll 256 GB M2 Chip Top Zustand"
+   ],
+   "3566896745": [
+    500.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Macbook air M2 8GB MitternachtBlau"
+   ],
+   "3566929765": [
+    715.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air M2 13,6\" Silber 8GB/256GB, Akku 100%"
+   ],
+   "3566959483": [
+    670.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Mac Book Air 15 Zoll, 256 GB, 16GB RAM , M2 Chip Top Zustand"
+   ],
+   "3566996640": [
+    799.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air 15“ M2 Spacegrau Top Zustand"
+   ],
+   "3567055468": [
+    770.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Apple MacBook Air - 15,3 - M2 Chip - Space Grau"
+   ],
+   "3567059484": [
+    650.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MacBook Air M2 (2022) - 86 Ladezyklen, 99% Akkukapazität"
    ]
   },
   "Makita DHP485 Set": {
@@ -18785,6 +19161,24 @@
     "2026-11-09",
     "2026-11-09",
     "MSI GeForce RTX 3060 Gaming X Trio 12G – 12 GB Grafikkarte"
+   ],
+   "3567072909": [
+    300.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Nividia GeForce RTX 3060 12gb"
+   ],
+   "3567103758": [
+    330.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Asus RTX 3060 12 GB - Top Zustand"
+   ],
+   "3567122494": [
+    310.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Palit GeForce RTX 3060 12GB – Grafikkarte"
    ]
   },
   "RTX 3070": {
@@ -20439,7 +20833,7 @@
     "MSI RTX 3070 Gaming X Trio 8GB GDDR6 Grafikkarte"
    ],
    "3565494284": [
-    299.0,
+    279.0,
     "2026-11-09",
     "2026-11-08",
     "GeForce RTX 3070 8GB"
@@ -20458,7 +20852,7 @@
    ],
    "3565669967": [
     279.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "Gigabyte GeForce RTX 3070 Gaming OC 8GB GDDR6 rev.2.0 Grafikkarte"
    ],
@@ -20487,7 +20881,7 @@
     "Manli GeForce RTX 3070 8GB GDDR6 Grafikkarte, läuft einwandfrei"
    ],
    "3566142840": [
-    350.0,
+    300.0,
     "2026-11-09",
     "2026-11-08",
     "NVIDIA GeForce RTX 3070 Founders Edition 8GB GDDR6"
@@ -20521,12 +20915,36 @@
     "2026-11-09",
     "2026-11-09",
     "Gigabyte RTX 3070 Eagle 8GB Grafikkarte"
+   ],
+   "3566663894": [
+    350.0,
+    "2026-11-09",
+    "2026-11-09",
+    "RTX 3070 8GB KFA"
+   ],
+   "3566832787": [
+    250.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Grafikkarte MSI Geforce RTX 3070"
+   ],
+   "3566992209": [
+    350.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Grafikkarte Zotac Geforce RTX 3070 Twin Edge OCWhite ED 8GGDDR6 2"
+   ],
+   "3567095588": [
+    375.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Gigabyte RTX 3070 AORUS Master 8GB – wenig genutzt"
    ]
   },
   "RTX 3080": {
    "3499306574": [
     439.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-21",
     "Gigabyte RTX 3080 10GB Aorus Xtreme mit OVP ►Händler◄"
    ],
@@ -21839,7 +22257,7 @@
     "Asus ROG Strix GeForce RTX 3080 White Edition"
    ],
    "3566262996": [
-    444.0,
+    420.0,
     "2026-11-09",
     "2026-11-09",
     "GeForce RTX 3080 ASUS TUF Gaming 10GB Super Zustand"
@@ -21861,6 +22279,54 @@
     "2026-11-09",
     "2026-11-09",
     "Rtx 3080 Asus ROG STRIX 10gb mit"
+   ],
+   "3566899458": [
+    429.0,
+    "2026-11-09",
+    "2026-11-09",
+    "NVIDIA GeForce RTX 3080 Founders Edition 10GB – Alphacool Wasserk"
+   ],
+   "3566923995": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "RTX 3080 Palit Gaming Pro"
+   ],
+   "3566934953": [
+    435.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Palit GeForce RTX 3080 GamingPro mit 10 GB"
+   ],
+   "3566946152": [
+    500.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MSI GeForce RTX 3080 SUPRIM X – High-End Grafikkarte"
+   ],
+   "3566974072": [
+    550.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MSI RTX 3080 Ventus 3X Plus 12GB OC LHR in OVP"
+   ],
+   "3566976476": [
+    550.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Zotac Gaming Nvidia Geforce RTX 3080 12GB VRAM neue Paste/Pads"
+   ],
+   "3567006214": [
+    429.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Zotac RTX 3080 AMP Holo 10 GB – getestet"
+   ],
+   "3567122283": [
+    450.0,
+    "2026-11-09",
+    "2026-11-09",
+    "rtx 3080 suprem x 10gb Bilder folgen"
    ]
   },
   "RTX 4060 Ti": {
@@ -22343,6 +22809,24 @@
     "2026-11-07",
     "2026-11-07",
     "MSI RTX 4060 Ti VENTUS 2X BLACK 16GB OC GDDR6"
+   ],
+   "3566732934": [
+    250.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 16GB OC"
+   ],
+   "3566785804": [
+    429.0,
+    "2026-11-09",
+    "2026-11-09",
+    "GIGABYTE GeForce RTX 4060ti Eagle OC ICE 8GB VRam mit Verpackung"
+   ],
+   "3566989533": [
+    250.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Grafikkarte MSI RTX 4060TI Gaming X 16gb"
    ]
   },
   "RTX 4070": {
@@ -22807,6 +23291,12 @@
     "2026-11-09",
     "2026-11-09",
     "Gigabyte GEFORCE RTX 4070 Windforce OC 12G"
+   ],
+   "3566807207": [
+    620.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Gigabyte GeForce RTX 4070 Windforce OC 12G – Top Zustand, OVP & R"
    ]
   },
   "RTX 4070 Super": {
@@ -23159,7 +23649,7 @@
     "Asus Dual RTX 4070 Super"
    ],
    "3564125553": [
-    729.0,
+    679.0,
     "2026-11-09",
     "2026-11-07",
     "Gigabyte RTX 4070 Super Windforce OC 12GB mit OVP"
@@ -24133,6 +24623,30 @@
     "2026-11-08",
     "2026-11-08",
     "MSI GeForce RTX 4080 SUPRIM X mit 16GB GDDR6X VRAM"
+   ],
+   "3566703105": [
+    1350.0,
+    "2026-11-09",
+    "2026-11-09",
+    "GeForce RTX 4080 OC 16 Gb"
+   ],
+   "3566994538": [
+    1600.0,
+    "2026-11-09",
+    "2026-11-09",
+    "ASUS ROG Strix RTX 4080 SUPER OC White Edition 16GB"
+   ],
+   "3567104173": [
+    1500.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Zotac RTX 4080 AMP Extreme Airo"
+   ],
+   "3567119651": [
+    1120.0,
+    "2026-11-09",
+    "2026-11-09",
+    "MSI GeForce RTX 4080 Gaming X Trio 16GB"
    ]
   },
   "RX 6800 XT": {
@@ -24431,7 +24945,7 @@
     "MSI Radeon RX 6800 XT 16GB GGrafikkarte mit Triple-Fan Kühlsystem"
    ],
    "3559085984": [
-    450.0,
+    460.0,
     "2026-11-09",
     "2026-11-01",
     "Powercolor Red Dragon RX 6800 XT 16 GB"
@@ -24525,6 +25039,18 @@
     "2026-11-09",
     "2026-11-08",
     "sapphir nitro+ Rx 6800 xt"
+   ],
+   "3566866109": [
+    600.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Asrock Phantom Gaming RX 6800XT OC"
+   ],
+   "3567123877": [
+    425.0,
+    "2026-11-09",
+    "2026-11-09",
+    "XFX Radeon RX 6800 XT MERC 319 16GB mit OVP"
    ]
   },
   "RX 7800 XT": {
@@ -25063,10 +25589,10 @@
     "PowerColor Radeon RX 7800 XT Hellhound 16GB GDDR6 in OVP – Top"
    ],
    "3565708772": [
-    499.0,
+    590.0,
     "2026-11-09",
     "2026-11-08",
-    "RX7800xt Powercolour Hellhound"
+    "RX7800xt Powercolour Hellhound weiß"
    ],
    "3565743411": [
     630.0,
@@ -25085,6 +25611,30 @@
     "2026-11-09",
     "2026-11-08",
     "Sapphire PURE Radeon RX 7800 XT 16 GB Weiß"
+   ],
+   "3566719463": [
+    580.0,
+    "2026-11-09",
+    "2026-11-09",
+    "rx 7800xt 16gb"
+   ],
+   "3567014508": [
+    550.0,
+    "2026-11-09",
+    "2026-11-09",
+    "AMD RX 7800XT 16Gb"
+   ],
+   "3567072435": [
+    699.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Sapphire Pure AMD Radeon RX 7800 XT mit 16 GB, weiß, wie neu!"
+   ],
+   "3567127645": [
+    500.0,
+    "2026-11-09",
+    "2026-11-09",
+    "RX 7800 XT"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -25833,7 +26383,7 @@
    ],
    "3559629740": [
     354.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-03",
     "Rigol Oszilloskop DS1054Z Neuwertig! OVP und 4 Originalen Probes"
    ],
@@ -26174,6 +26724,12 @@
     "2026-11-09",
     "2026-11-09",
     "AMD Ryzen 7 5800 X3D"
+   ],
+   "3566791770": [
+    215.0,
+    "2026-11-09",
+    "2026-11-09",
+    "AMD Ryzen 7 5800X3D NEU&OVP"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -26557,7 +27113,7 @@
    ],
    "3560933760": [
     260.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-04",
     "AMD Ryzen 7 7800 X3D"
    ],
@@ -26710,6 +27266,18 @@
     "2026-11-09",
     "2026-11-09",
     "AMD Ryzen 7 7800X3D"
+   ],
+   "3566794510": [
+    255.0,
+    "2026-11-09",
+    "2026-11-09",
+    "AMD RYZEN 7 7800X3D TRAY CPU Prozessor  NEU"
+   ],
+   "3566812427": [
+    240.0,
+    "2026-11-09",
+    "2026-11-09",
+    "AMD Ryzen 7 7800X3D - AM5-8 Kerne / 16 Threads"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -26745,7 +27313,7 @@
    ],
    "3538473467": [
     390.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-21",
     "AMD Ryzen 7 9800 x3d Prozessor neu und original versiegelt"
    ],
@@ -27114,6 +27682,12 @@
     "2026-11-09",
     "2026-11-09",
     "⚡NEU⚡ AMD Ryzen 7 9800X3D Prozessor – Versiegelt & OVP"
+   ],
+   "3567087358": [
+    339.0,
+    "2026-11-09",
+    "2026-11-09",
+    "AMD Ryzen 7 9800x3D Tray NEU"
    ]
   },
   "Samsung 970 Evo Plus 2TB": {
@@ -28029,7 +28603,7 @@
     295.0,
     "2026-11-09",
     "2026-11-08",
-    "Samsung 990 Pro 2TB kompatibel mit PS5"
+    "Samsung 990 Pro 2TB kompatibel mit PS5 *kaum benutzt*"
    ],
    "3565566757": [
     220.0,
@@ -28084,6 +28658,12 @@
     "2026-11-09",
     "2026-11-09",
     "Samsung 990 PRO 2 TB NVMe SSD M.2 PCIe 4.0, in OVP"
+   ],
+   "3567040585": [
+    333.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Samsung 990 PRO NVMe M.2 SSD, 2 TB, PCIe 4.0 Neu versiegelt"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -28299,6 +28879,18 @@
     "2026-11-09",
     "2026-11-09",
     "Seagate Exos X18 16TB Festplatte NEU,  OVP - ST16000NM004J - SAS"
+   ],
+   "3566682426": [
+    390.0,
+    "2026-11-09",
+    "2026-11-09",
+    "NEU Seagate Exos X16 16TB HDD 3.5\" SATA III (ST16000NM001G)"
+   ],
+   "3567084170": [
+    385.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Seagate Exos 16TB Enterprise HDD 3,5\" SATA Neu & OVP verschweißt"
    ]
   },
   "Seagate Exos 18TB": {
@@ -28677,6 +29269,12 @@
     "2026-11-09",
     "2026-11-07",
     "Seagate IronWolf 12TB NAS HDD 7200 RPM SMART geprüft"
+   ],
+   "3566736777": [
+    330.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Seagate IronWolf 12TB NAS HDD 7200 RPM SMART geprüft"
    ]
   },
   "Seagate IronWolf 4TB": {
@@ -28760,7 +29358,7 @@
    ],
    "3544811123": [
     90.0,
-    "2026-10-31",
+    "2026-11-09",
     "2026-10-18",
     "SATA Festplatte 4TB Seagate IronWolf ST4000VN006-3CW104"
    ],
@@ -29107,6 +29705,12 @@
     "2026-11-08",
     "2026-11-08",
     "Seagate IronWolf 8TB NAS HDD (ST8000VN004) – NEU & OVP"
+   ],
+   "3566772891": [
+    199.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Seagate IRONWOLF ST8000VN004 8TB SATA NAS Festplatte HDD"
    ]
   },
   "Shelly Plus Plug S": {
@@ -30160,31 +30764,31 @@
    ],
    "3563457265": [
     150.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-06",
     "Sony WH-1000XM5 Kopfhörer Over-Ear mit Noise Cancelling"
    ],
    "3563738044": [
-    110.0,
-    "2026-11-08",
+    100.0,
+    "2026-11-09",
     "2026-11-07",
     "Sony WH-1000XM5 – Noise Cancelling Kopfhörer"
    ],
    "3564042857": [
     150.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "Sony WH-1000XM5 Kopfhörer, schwarz, sehr guter Zustand"
    ],
    "3564054625": [
     155.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "Sony WH-1000XM5 Schwarz"
    ],
    "3564299710": [
     170.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-07",
     "Sony WH-1000XM5 in Blau original Verpackt mit Rechnung"
    ],
@@ -30202,13 +30806,13 @@
    ],
    "3564817509": [
     150.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "Sony WH-1000XM5, Top, Noise Cancelling Kopfhörer, Platinsilber"
    ],
    "3565074755": [
     115.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "Sony WH-1000XM5 Over Ear Kopfhörer ANC schwarz 30 Std."
    ],
@@ -30226,13 +30830,13 @@
    ],
    "3565566793": [
     135.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "Sony WH1000XM5 Over-Ear Kopfhörer"
    ],
    "3565671250": [
     150.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-08",
     "Sony WH-1000XM5"
    ],
@@ -30241,6 +30845,54 @@
     "2026-11-08",
     "2026-11-08",
     "Sony WH-1000XM5 - Wireless Noise Cancelling Kopfhörer"
+   ],
+   "3566072737": [
+    200.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Sony Noise Cancelling Kopfhörer WH-1000XM5"
+   ],
+   "3566475009": [
+    189.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Kopfhörer Sony WH-1000 XM5 Noise Cancelling mit Garantie"
+   ],
+   "3566644875": [
+    120.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Sony Kopfhörer Wh-1000xm5"
+   ],
+   "3566740352": [
+    100.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Sony WH-1000XM5 Kopfhörer Midnight Blue"
+   ],
+   "3566744333": [
+    130.0,
+    "2026-11-09",
+    "2026-11-09",
+    "SONY WH-1000XM5"
+   ],
+   "3566832648": [
+    140.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Sony WH-1000XM5 Kopfhörer - OVP & Rechnung"
+   ],
+   "3566863518": [
+    199.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Sony WH-1000XM5 Schwarz – Sehr guter Zustand"
+   ],
+   "3566875895": [
+    165.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Sony wh1000xm5"
    ]
   },
   "Synology DS220+": {
@@ -30357,6 +31009,12 @@
     "2026-11-09",
     "2026-11-07",
     "Synology DiskStation DS220+ NAS"
+   ],
+   "3566965113": [
+    200.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Synology DS220+ NAS Neuwertig mit Noctua Lüfter in OVP"
    ]
   },
   "Synology DS220j": {
@@ -30737,6 +31395,12 @@
     "2026-11-09",
     "2026-11-06",
     "Laptop Lenovo ThinkPad L14 Gen3 16 GB Arbeitsspeicher 256 GB SSD"
+   ],
+   "3566968516": [
+    300.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Lenovo ThinkPad L14 Gen3 | Ryzen 5 Pro | 16GB RAM"
    ]
   },
   "ThinkPad T14 Gen 2": {
@@ -31099,6 +31763,12 @@
     "2026-11-09",
     "2026-11-08",
     "Lenovo Thinkpad T14 Gen 2 Intel 32GB 512GB PTM7950 A033"
+   ],
+   "3566964242": [
+    250.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Lenovo ThinkPad T14 Gen 2 Laptop"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -31527,7 +32197,7 @@
     "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
    ],
    "3555188116": [
-    399.0,
+    380.0,
     "2026-11-09",
     "2026-10-28",
     "Lenovo Thinkpad X1 Carbon Gen 9"
@@ -31873,6 +32543,12 @@
     "2026-11-05",
     "SSD 2TB WD Black SN850X M.2 NVMe PCIe 4.0 x4 3D-NAND TLC"
    ],
+   "3563042892": [
+    310.0,
+    "2026-11-09",
+    "2026-11-09",
+    "NEU!! WD Black SN850X 2TB NVMe"
+   ],
    "3563054706": [
     229.0,
     "2026-11-06",
@@ -31916,7 +32592,7 @@
     "Western Digital WD_BLACK SN850X 2TB NVMe SSD wie neu !"
    ],
    "3564825179": [
-    265.0,
+    260.0,
     "2026-11-09",
     "2026-11-08",
     "WD BLACK SN850X  2TB NVMe SSD"
@@ -31950,6 +32626,12 @@
     "2026-11-09",
     "2026-11-09",
     "Western Digital WD_BLACK SN850X NVMe SSD 2TB"
+   ],
+   "3566943216": [
+    300.0,
+    "2026-11-09",
+    "2026-11-09",
+    "WD_BLACK SN850X NVMe SSD 2TB mit Heatsink"
    ]
   },
   "WD Red Plus 4TB": {
@@ -32169,7 +32851,7 @@
    ],
    "3556164110": [
     130.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-10-30",
     "Weller WE 1010 Lötstation"
    ],
@@ -32187,7 +32869,7 @@
    ],
    "3560357921": [
     110.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-03",
     "Weller WE1010 Lötstation"
    ],
@@ -32199,9 +32881,21 @@
    ],
    "3563620782": [
     139.0,
-    "2026-11-08",
+    "2026-11-09",
     "2026-11-06",
     "Weller WE1010 Lötstation Set 70 W digital T0053298390"
+   ],
+   "3566624813": [
+    97.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Weller WE1010NA Digitale Lötstation 85W 120V"
+   ],
+   "3566824802": [
+    100.0,
+    "2026-11-09",
+    "2026-11-09",
+    "Weller WE1010 Lötstation"
    ]
   },
   "Weller WTCP-S": {
