@@ -657,10 +657,15 @@
   "3567863032": "2026-11-10",
   "3567878998": "2026-11-11",
   "3567956713": "2026-11-10",
-  "3568219930": "2026-11-11"
+  "3568219930": "2026-11-11",
+  "3568531786": "2026-11-11",
+  "3568674909": "2026-11-11",
+  "3568727532": "2026-11-11",
+  "3568742328": "2026-11-11",
+  "3568787511": "2026-11-11"
  },
- "laeufe": 398,
- "letzter_lauf": "2026-11-11T12:52:07",
+ "laeufe": 399,
+ "letzter_lauf": "2026-11-11T20:18:35",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -4477,7 +4482,7 @@
     "Kingston Beast Fury 32gb Set DDR5 (2*16gb) 6000MT/s  CL30"
    ],
    "3567856419": [
-    420.0,
+    390.0,
     "2026-11-11",
     "2026-11-10",
     "Patriot Viper 32 GB (2x16) DDR5-6000 CL30"
@@ -4506,11 +4511,41 @@
     "2026-11-11",
     "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL36"
    ],
+   "3568287389": [
+    170.0,
+    "2026-11-11",
+    "2026-11-11",
+    "DDR5 Kingston Fury Beast Black 32GB (2x16GB) 6000MHz"
+   ],
    "3568333863": [
     425.0,
     "2026-11-11",
     "2026-11-11",
     "G.Skill 32GB DDR5 - 6000 CL30"
+   ],
+   "3568440575": [
+    320.0,
+    "2026-11-11",
+    "2026-11-11",
+    "G.SKILL Trident Z5 Neo 32GB DDR5-6000 DIMM AMD EXPO RAM"
+   ],
+   "3568626144": [
+    450.0,
+    "2026-11-11",
+    "2026-11-11",
+    "G.Skill Trident Z5 Neo RGB 32GB (2x16GB) DDR5-6000 CL30"
+   ],
+   "3568780041": [
+    450.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Crucial DDR5 Pro 32GB (2x16GB) 6000 MT/s CL48"
+   ],
+   "3568793706": [
+    430.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL48 | NEU & OVP"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {
@@ -4577,7 +4612,7 @@
     "Dell Latitude 7420 2in1 14\" i5 16GB Ram 512GB SSD Uni Office"
    ],
    "3517776680": [
-    310.0,
+    280.0,
     "2026-11-11",
     "2026-10-22",
     "Dell Latitude 7420 Business Laptop-Sehr Gutem Zustand"
@@ -4637,10 +4672,10 @@
     "Dell latitude 7420 i5 11, 16RAM 500GB touch"
    ],
    "3539877842": [
-    255.0,
-    "2026-11-09",
+    270.0,
+    "2026-11-11",
     "2026-10-22",
-    "Dell latitude 7420 i7   11 gen"
+    "Dell latitude 7420 i7- 11 generation"
    ],
    "3540606553": [
     150.0,
@@ -5475,7 +5510,7 @@
     "HP EliteBook 840 G8, i5 11. Gen generalüberholt"
    ],
    "3541838544": [
-    429.0,
+    409.0,
     "2026-11-11",
     "2026-10-22",
     "♻️WIE NEU| HP EliteBook 840 G8 | 24M Garantie | 16GB | i5 11. Gen"
@@ -5607,7 +5642,7 @@
     "HP EliteBook 840 G8 Notebook"
    ],
    "3556563530": [
-    419.0,
+    399.0,
     "2026-11-11",
     "2026-10-30",
     "♻️WIE NEU| HP EliteBook 840 G8 | 24M Garantie | 16GB | i5 11. Gen"
@@ -5701,6 +5736,36 @@
     "2026-11-11",
     "2026-11-10",
     "HP EliteBook 840 G8 | 16GB | QWERTY | GARANTIE & RECHNUNG"
+   ],
+   "3568742328": [
+    229.0,
+    "2026-11-11",
+    "2026-11-11",
+    "HP EliteBook 840 G8 · i5 · 14\" · Windows 11 · wie neu"
+   ],
+   "3568745344": [
+    249.0,
+    "2026-11-11",
+    "2026-11-11",
+    "HP EliteBook 840 G8 · i5 · 14\" · Windows 11 · wie neu"
+   ],
+   "3568748263": [
+    249.0,
+    "2026-11-11",
+    "2026-11-11",
+    "HP EliteBook 840 G8 · i5 · 14\" · Windows 11 · wie neu"
+   ],
+   "3568750028": [
+    249.0,
+    "2026-11-11",
+    "2026-11-11",
+    "HP EliteBook 840 G8 · i5 · 14\" · Windows 11 · wie neu"
+   ],
+   "3568750987": [
+    249.0,
+    "2026-11-11",
+    "2026-11-11",
+    "HP EliteBook 840 G8 · i5 · 14\" · Windows 11 · wie neu"
    ]
   },
   "EliteBook RAM 16GB SO-DIMM": {
@@ -6669,6 +6734,42 @@
     "2026-11-11",
     "2026-11-11",
     "Crucial 16GB DDR4-3200 SODIMM RAM Arbeitsspeicher NEU OVP"
+   ],
+   "3568339942": [
+    120.0,
+    "2026-11-11",
+    "2026-11-11",
+    "2x Gigastone 16GB DDR4 3200 RAM SO-DIMM Laptop Arbeitsspeicher"
+   ],
+   "3568660056": [
+    75.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Kingston FURY Impact DDR4 SO-DIMM 16GB DDR4-3200 KF432S20IBK2/32"
+   ],
+   "3568672543": [
+    75.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Crucial 16GB DDR4-3200 SODIMM RAM  CT16G4SFRA32A"
+   ],
+   "3568727532": [
+    55.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Ramaxel 16GB DDR4-3200 SO-DIMM laptop RAM"
+   ],
+   "3568735962": [
+    80.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Samsung 16GB DDR4 3200MHz SO-DIMM RAM Laptop Arbeitsspeicher"
+   ],
+   "3568794856": [
+    60.0,
+    "2026-11-11",
+    "2026-11-11",
+    "1x SK hynix 16GB DDR4 3200MHz Laptop RAM SO-DIMM (HMA82GS6DJR8N-X"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -7505,6 +7606,42 @@
     "2026-11-11",
     "2026-11-11",
     "Crucial 32GB DDR4-3200 SODIMM 1.2 V CL22 RAM - OVP -"
+   ],
+   "3568537832": [
+    199.0,
+    "2026-11-11",
+    "2026-11-11",
+    "SK hynix 32GB DDR4 3200MHz SO-DIMM Laptop RAM"
+   ],
+   "3568544297": [
+    130.0,
+    "2026-11-11",
+    "2026-11-11",
+    "2*16 GB (32 GB) DDR4 3200 SO-DIMM (SK Hynix HMA82GS6DJR8N-XN)"
+   ],
+   "3568547644": [
+    200.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Crucial DDR4 RAM 32GB 3200MHz SODIMM für Notebooks"
+   ],
+   "3568601400": [
+    200.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Crucial DDR4 RAM 32GB 3200MHz SODIMM für Notebooks"
+   ],
+   "3568623339": [
+    180.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Samsung 32GB DDR4 3200MHz SO-DIMM RAM Laptop Arbeitsspeicher"
+   ],
+   "3568678358": [
+    169.0,
+    "2026-11-11",
+    "2026-11-11",
+    "32GB Crucial RAM DDR4-3200 SO-DIMM Notebook Arbeitsspeicher"
    ]
   },
   "EliteBook ohne SSD/Netzteil": {
@@ -8309,6 +8446,12 @@
     "2026-11-11",
     "2026-11-09",
     "Intel Core i7 12700K CPU Sockel 1700 Prozessor Rechnung wie NEU"
+   ],
+   "3568787511": [
+    120.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Intel i7 12700k"
    ]
   },
   "Intel i7-14700K": {
@@ -11201,6 +11344,12 @@
     "2026-11-04",
     "2026-11-04",
     "Apple MacBook Air M1 2020 A2337 noch ein Gerät verfügbar"
+   ],
+   "3541964660": [
+    549.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Apple MacBook Air M1 2020-99% Akku- Top Zustand!"
    ],
    "3547288717": [
     399.0,
@@ -15209,6 +15358,114 @@
     "2026-11-11",
     "2026-11-11",
     "MacBook Air M1 2020"
+   ],
+   "3568440448": [
+    489.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air M1 (2020) 8 GB RAM, 256 GB SSD"
+   ],
+   "3568483972": [
+    550.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air M1 Kauf Dez. 2023 12 Zyklen Akku 100% OVP TOP!!!"
+   ],
+   "3568491018": [
+    400.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Macbook Air M1 8GB 256GB"
+   ],
+   "3568496112": [
+    449.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Apple MacBook Air M1 13\" – 8 GB / 256 GB – Roségold"
+   ],
+   "3568512364": [
+    435.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air 2020 m1 | Vb"
+   ],
+   "3568523453": [
+    390.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air M1 2020"
+   ],
+   "3568531786": [
+    300.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air M1 2020"
+   ],
+   "3568554646": [
+    500.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air mit Appel M1-Chip+Magic Mouse"
+   ],
+   "3568582595": [
+    530.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air, M1, 2020"
+   ],
+   "3568645061": [
+    475.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Apple Macbook Air M1 | Notverkauf❗️| 93% | 16GB | 13\" | 128GB"
+   ],
+   "3568654942": [
+    470.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air 2020 M1"
+   ],
+   "3568686303": [
+    499.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air 13 Zoll M1 512 GB"
+   ],
+   "3568730517": [
+    400.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Macbook Air M1"
+   ],
+   "3568730609": [
+    650.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Apple MacBook Air M1 2020 Tadelloser Zustand, NUR 95 Ladezyklen"
+   ],
+   "3568746656": [
+    469.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Apple MacBook Air M1 (2020) – sehr guter Zustand – 8 GB / 256 GB"
+   ],
+   "3568764823": [
+    500.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MacBook Air M1 Chip 256 GB und 8GB RAM Top Zustand"
+   ],
+   "3568768937": [
+    459.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Apple MacBook Air M1, 8GB RAM, 256GB SSD, Space Grau"
+   ],
+   "3568800200": [
+    400.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Apple MacBook Air M1 - Silber - Guter Zustand"
    ]
   },
   "MacBook Air M2": {
@@ -15229,6 +15486,12 @@
     "2026-11-11",
     "2026-11-11",
     "MacBook Air 13.6\" 2024 | M2 | 8GB | 256GB 1A-TOP-Zustand Garantie"
+   ],
+   "3260074343": [
+    700.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Apple MacBookAir M2 (2022) 256 GB - US- Keyboard"
    ],
    "3325187576": [
     740.0,
@@ -20044,6 +20307,12 @@
     "2026-11-10",
     "Grafikkarte Asus Rog RTX 3060 OC 12GB"
    ],
+   "3567696416": [
+    300.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Palit RTX 3060 Dual 12GB"
+   ],
    "3567704294": [
     300.0,
     "2026-11-11",
@@ -20115,6 +20384,42 @@
     "2026-11-11",
     "2026-11-11",
     "Inno3D GeForce RTX 3060 Twin X2 (12 GB)"
+   ],
+   "3568605159": [
+    275.0,
+    "2026-11-11",
+    "2026-11-11",
+    "RTX 3060 12 GB  Gigabyte Triple Fan"
+   ],
+   "3568632851": [
+    210.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Asus TUF Gaming GeForce RTX 3060 12GB Grafikkarte"
+   ],
+   "3568685584": [
+    210.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Nvidia Manli RTX 3060 12GB Grafikkarte"
+   ],
+   "3568729537": [
+    350.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Rtx 3060  12 GB Asus OC"
+   ],
+   "3568731777": [
+    350.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MSI RTX 3060 12GB OC – Gaming-Power – TOP Zustand"
+   ],
+   "3568758369": [
+    299.0,
+    "2026-11-11",
+    "2026-11-11",
+    "INNO3D Nvidia GEFORCE RTX 3060 12GB TWIN X2"
    ]
   },
   "RTX 3070": {
@@ -21925,7 +22230,7 @@
     "RTX 3070 # Gigabyte # 8 GB # Nvidia # HDMI # DisplayPort"
    ],
    "3567842711": [
-    280.0,
+    320.0,
     "2026-11-11",
     "2026-11-10",
     "ASUS TUF Gaming GeForce RTX 3070 Grafikkarte"
@@ -21934,7 +22239,7 @@
     330.0,
     "2026-11-11",
     "2026-11-10",
-    "Grafikarte Gainward Ghost RTX3070 ⭐HÄNDLER⭐"
+    "Grafikarte RTX3070 Gainward Ghost ⭐HÄNDLER⭐"
    ],
    "3567860525": [
     350.0,
@@ -21971,6 +22276,30 @@
     "2026-11-11",
     "2026-11-11",
     "Gigabyte GeForce RTX 3070 Gaming OC 8GB GDDR6 rev.2.0 Grafikkarte"
+   ],
+   "3568407806": [
+    339.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MSI GeForce RTX 3070"
+   ],
+   "3568498529": [
+    270.0,
+    "2026-11-11",
+    "2026-11-11",
+    "ASUS GeForce RTX 3070 Turbo 8GB | Guter Zustand | Blower / Radial"
+   ],
+   "3568706639": [
+    329.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MSI GeForce RTX 3070 SUPRIM 8GB – OVP & Zubehör"
+   ],
+   "3568803234": [
+    339.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MSI GeForce RTX 3070 SUPRIM 8GB GDDR6 – Gebraucht, Geprüft"
    ]
   },
   "RTX 3080": {
@@ -23390,6 +23719,12 @@
     "2026-11-10",
     "Gigabyte rtx 3080 Aorus waterforce"
    ],
+   "3567734879": [
+    380.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Gigabyte GeForce RTX 3080 Gaming OC 10G Rev. 1.0"
+   ],
    "3567895367": [
     299.0,
     "2026-11-11",
@@ -23415,13 +23750,13 @@
     "MSI NVIDIA GeForce RTX 3080 - 10GB GDDR6X Gaming X Trio DP/HDMI"
    ],
    "3568166648": [
-    530.0,
+    450.0,
     "2026-11-11",
     "2026-11-11",
     "RTX 3080 10gb"
    ],
    "3568216962": [
-    549.0,
+    499.0,
     "2026-11-11",
     "2026-11-11",
     "RTX 3080 Grafikkarte Geforce 10 GB"
@@ -23443,6 +23778,36 @@
     "2026-11-11",
     "2026-11-11",
     "RTX 3080 10GB"
+   ],
+   "3568497733": [
+    370.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Gigabyte RTX 3080 Grafikkarte"
+   ],
+   "3568539265": [
+    470.0,
+    "2026-11-11",
+    "2026-11-11",
+    "RTX 3080 OC ROG 10GB"
+   ],
+   "3568700493": [
+    450.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Zotac RTX 3080 Trinity OC"
+   ],
+   "3568768797": [
+    490.0,
+    "2026-11-11",
+    "2026-11-11",
+    "MSI GeForce RTX 3080 SUPRIM X 10G Grafikkarte"
+   ],
+   "3568806808": [
+    400.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Asus TUF GeForce RTX 3080 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -24807,7 +25172,7 @@
     "Asus Dual RTX 4070 Super"
    ],
    "3564125553": [
-    679.0,
+    680.0,
     "2026-11-11",
     "2026-11-07",
     "Gigabyte RTX 4070 Super Windforce OC 12GB mit OVP"
@@ -24853,6 +25218,24 @@
     "2026-11-11",
     "2026-11-11",
     "rtx 4070 super"
+   ],
+   "3568657983": [
+    650.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Nvidia RTX 4070 Super 12GB Zotac Gaming"
+   ],
+   "3568692275": [
+    700.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Zotac Gaming GeForce RTX 4070 Super 12GB Grafikkarte"
+   ],
+   "3568706008": [
+    800.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Asus Rog Rtx 4070 Super  Grafikarte"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -25163,7 +25546,7 @@
     "ASUS ProArt RTX 4070 Ti SUPER 16GB – Garantie bis 09/2027"
    ],
    "3567131237": [
-    950.0,
+    900.0,
     "2026-11-11",
     "2026-11-10",
     "NVIDIA RTX 4070 TI Super 16GB - Topzustand + Funktionstest"
@@ -25175,7 +25558,7 @@
     "Dell NVIDIA RTX 4070 Ti Super 16 GB"
    ],
    "3568266582": [
-    950.0,
+    900.0,
     "2026-11-11",
     "2026-11-11",
     "RTX 4070TI Super"
@@ -25802,7 +26185,7 @@
    ],
    "3564987671": [
     1500.0,
-    "2026-11-09",
+    "2026-11-11",
     "2026-11-08",
     "ASUS TUF Gaming GeForce RTX 4080 Super"
    ],
@@ -25895,6 +26278,12 @@
     "2026-11-11",
     "2026-11-11",
     "MSI Nvidia RTX 4080 16GB GAMING TRIO X"
+   ],
+   "3568495804": [
+    1350.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Palit rtx Gamerock premium+240hz Lg oled gegen rtx 5070ti/4080s"
    ]
   },
   "RX 6800 XT": {
@@ -26289,7 +26678,7 @@
     "sapphir nitro+ Rx 6800 xt"
    ],
    "3566866109": [
-    600.0,
+    550.0,
     "2026-11-11",
     "2026-11-09",
     "Asrock Phantom Gaming RX 6800XT OC"
@@ -26907,6 +27296,12 @@
     "2026-11-11",
     "2026-11-10",
     "AMD Radeon RX 7800 XT 16 GB Grafikkarte, Sapphire Pure Weiß, GPU"
+   ],
+   "3568623620": [
+    520.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Radeon rx7800xt 16GB ... Power Coler"
    ]
   },
   "Raspberry Pi 5 16GB": {
@@ -28080,6 +28475,18 @@
     "2026-11-11",
     "2026-11-11",
     "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF) Top"
+   ],
+   "3568603263": [
+    210.0,
+    "2026-11-11",
+    "2026-11-11",
+    "AMD Ryzen 7 5800X3D Prozessor"
+   ],
+   "3568799656": [
+    230.0,
+    "2026-11-11",
+    "2026-11-11",
+    "AMD Ryzen 7 5800X3D 3,40GHz AM4 Prozessor (100-100000651WOF)"
    ]
   },
   "Ryzen 7 7800X3D": {
@@ -28474,7 +28881,7 @@
     "AMD Ryzen 7 7800X3D – 8 Kerne, AM5"
    ],
    "3561520769": [
-    260.0,
+    240.0,
     "2026-11-11",
     "2026-11-04",
     "AMD Ryzen 7 7800x3d"
@@ -28618,7 +29025,7 @@
     "AMD Ryzen 7 7800X3D"
    ],
    "3566794510": [
-    240.0,
+    235.0,
     "2026-11-11",
     "2026-11-09",
     "AMD RYZEN 7 7800X3D TRAY CPU Prozessor  NEU"
@@ -28663,7 +29070,13 @@
     280.0,
     "2026-11-11",
     "2026-11-11",
-    "AMD Ryzen™️ 7 7800X3D Desktop Processor OVP"
+    "AMD Ryzen™️ 7 7800X3D OVP"
+   ],
+   "3568716341": [
+    270.0,
+    "2026-11-11",
+    "2026-11-11",
+    "AMD Ryzen 7 7800X3D – NEU & unbenutzt – Boxed mit OVP – AM5"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -30022,7 +30435,7 @@
     "Samsung 990 PRO 2TB M.2 NVMe SSD – NEU"
    ],
    "3565843339": [
-    349.0,
+    314.0,
     "2026-11-11",
     "2026-11-08",
     "Samsung 990 PRO 2 TB NVMe SSD - M.2 PCIe 4.0"
@@ -30082,7 +30495,7 @@
     "Samsung 990 PRO 2TB M.2 NVMe SSD – NEU"
    ],
    "3567733095": [
-    325.0,
+    300.0,
     "2026-11-11",
     "2026-11-10",
     "Samsung 990 Pro, SSD / 2TB"
@@ -30315,7 +30728,7 @@
     "Seagate Exos X18 16TB Festplatte NEU,  OVP - ST16000NM004J - SAS"
    ],
    "3566682426": [
-    390.0,
+    380.0,
     "2026-11-11",
     "2026-11-09",
     "NEU Seagate Exos X16 16TB HDD 3.5\" SATA III (ST16000NM001G)"
@@ -30331,6 +30744,12 @@
     "2026-11-11",
     "2026-11-10",
     "NEUE! 16TB Seagate Exos X24 Festplatte | HDD 3,5“ Zoll | SATA |"
+   ],
+   "3568400527": [
+    400.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Seagate Exos X16 16TB Server Festplatte"
    ]
   },
   "Seagate Exos 18TB": {
@@ -30693,7 +31112,7 @@
     "Seagate IronWolf 12TB NAS HDD 7200 RPM SMART geprüft"
    ],
    "3561894023": [
-    404.0,
+    399.0,
     "2026-11-11",
     "2026-11-04",
     "12TB Seagate Ironwolf ST12000VN0008"
@@ -30726,13 +31145,13 @@
    ],
    "3526480762": [
     120.0,
-    "2026-11-08",
+    "2026-11-11",
     "2026-10-18",
     "SEAGATE IronWolf 4TB HDD Festplatte"
    ],
    "3533650167": [
-    170.0,
-    "2026-11-08",
+    150.0,
+    "2026-11-11",
     "2026-10-18",
     "Seagate IronWolf 4TB SATA 3, 3,5 Zoll Interne Festplatte - Silber"
    ],
@@ -30779,7 +31198,7 @@
     "Seagate IronWolf 4TB NAS HDD SATA 3, 3,5 Zoll interne Festplatte"
    ],
    "3543526795": [
-    75.0,
+    69.0,
     "2026-11-11",
     "2026-10-18",
     "HDD Festplatte Seagate Ironwolf 4TB (Sektorenproblem)"
@@ -31093,13 +31512,13 @@
     "Seagate IronWolf 8TB NAS HDD ST8000VN002"
    ],
    "3561881910": [
-    275.0,
+    269.0,
     "2026-11-11",
     "2026-11-04",
     "8TB Seagate Ironwolf ST8000VN0022 HDD NAS-Festplatte"
    ],
    "3561891203": [
-    275.0,
+    269.0,
     "2026-11-11",
     "2026-11-04",
     "8TB Seagate Ironwolf ST8000VN0022 HDD NAS-Festplatte"
@@ -32673,6 +33092,12 @@
     "2026-11-11",
     "2026-11-10",
     "Synology DiskStation DS220j – 2-Bay NAS - Top Zustand"
+   ],
+   "3568543480": [
+    120.0,
+    "2026-11-11",
+    "2026-11-11",
+    "NAS Synology DS220j"
    ]
   },
   "Synology DS920+": {
@@ -32820,6 +33245,18 @@
     400.0,
     "2026-11-08",
     "2026-11-08",
+    "Synology DiskStation DS923+ NAS 32GB RAM - OVP - Restgarantie - s"
+   ],
+   "3568537069": [
+    500.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Synology DS923+ NAS 32GB RAM * *10GbE"
+   ],
+   "3568674909": [
+    375.0,
+    "2026-11-11",
+    "2026-11-11",
     "Synology DiskStation DS923+ NAS 32GB RAM - OVP - Restgarantie - s"
    ]
   },
@@ -33133,7 +33570,7 @@
     "Lenovo thinkpad T14 Gen 2 | intel i7-1185G7|32 GB RAM | 256 GBssd"
    ],
    "3556563834": [
-    399.0,
+    389.0,
     "2026-11-11",
     "2026-10-30",
     "♻️ WIE NEU | Lenovo ThinkPad T14 Gen2 | 24M Gar | 100% Akku |16GB"
@@ -33275,6 +33712,12 @@
     "2026-11-11",
     "2026-11-10",
     "Lenovo ThinkPad T14 Gen 2 | i5-1135G7 | 16 GB RAM"
+   ],
+   "3568726008": [
+    325.0,
+    "2026-11-11",
+    "2026-11-11",
+    "Lenovo Thinkpad T14 Gen2 (AMD Ryzen 5 pro)  16 GB RAM-512 GB NVMe"
    ]
   },
   "ThinkPad T14 Gen 3": {
@@ -33569,7 +34012,7 @@
     "Lenovo X1 Carbon Gen 10 i7 512GB NVMe DDR5 32GB LTE TOUCH-DISPLAY"
    ],
    "3565440805": [
-    499.0,
+    449.0,
     "2026-11-11",
     "2026-11-08",
     "Lenovo X1 Carbon Gen 10"
@@ -34162,6 +34605,12 @@
     "2026-11-11",
     "2026-11-11",
     "NEU WD_BLACK SN850X NVMe SSD 2TB mit Heatsink"
+   ],
+   "3568742952": [
+    349.0,
+    "2026-11-11",
+    "2026-11-11",
+    "WD_BLACK SN850X 2TB SSD PS5 / PS5 Pro | NEU & OVP | GTA 6"
    ]
   },
   "WD Red Plus 4TB": {
@@ -34242,6 +34691,18 @@
     "2026-11-11",
     "2026-11-09",
     "Western Digital WD Red Plus 4 TB (WD40EFZX)"
+   ],
+   "3568417985": [
+    179.0,
+    "2026-11-11",
+    "2026-11-11",
+    "NAS Festplatte 4TB Western Digital RED Plus - WD40EFPX SATA, 96h"
+   ],
+   "3568489942": [
+    179.0,
+    "2026-11-11",
+    "2026-11-11",
+    "NAS Festplatte 4TB Western Digital RED Plus - WD40EFPX SATA, 61h"
    ]
   },
   "WD Red Plus 8TB": {
