@@ -686,10 +686,11 @@
   "3571042649": "2026-11-14",
   "3571067288": "2026-11-14",
   "3571397052": "2026-11-14",
-  "3571477141": "2026-11-14"
+  "3571477141": "2026-11-14",
+  "3571663664": "2026-11-14"
  },
- "laeufe": 407,
- "letzter_lauf": "2026-11-14T18:50:04",
+ "laeufe": 408,
+ "letzter_lauf": "2026-11-14T23:06:14",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -4806,7 +4807,7 @@
     "32GB Ram ADATA XPG LANCER BLADE RGB 2x16 DDR5 6000, NEU, OVP"
    ],
    "3569875459": [
-    440.0,
+    390.0,
     "2026-11-14",
     "2026-11-13",
     "G.Skill Trident Z5 DDR5 32 GB (2×16 GB) 6000 MHz schwarz"
@@ -4906,6 +4907,12 @@
     "2026-11-14",
     "2026-11-14",
     "2x G.Skill Ripjaws S5 DDR5 RAM 32GB (2x16GB) 6000MHz"
+   ],
+   "3571601116": [
+    500.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Corsair Vengeance RGB DDR5 32GB Kit 6000MHz CL30 Neu"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {
@@ -7286,6 +7293,12 @@
     "2026-11-14",
     "2026-11-14",
     "Crucial 16GB DDR4 3200Mhz SODIMM Laptop RAM"
+   ],
+   "3571548860": [
+    70.0,
+    "2026-11-14",
+    "2026-11-14",
+    "16GB DDR4 RAM 3200MHz SO-DIMM Arbeitsspeicher"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -9136,6 +9149,12 @@
     "2026-11-14",
     "2026-11-13",
     "Intel Core i7-12700K – guter Zustand – Voll funktionsfähig"
+   ],
+   "3571683863": [
+    199.0,
+    "2026-11-14",
+    "2026-11-14",
+    "INTEL CORE I7 12700K"
    ]
   },
   "Intel i7-14700K": {
@@ -16914,7 +16933,7 @@
     "MacBook Air M1 13“"
    ],
    "3571365520": [
-    500.0,
+    470.0,
     "2026-11-14",
     "2026-11-14",
     "Apple macbook Air 2020 M1 8GB RAM 256 GB SSD"
@@ -16948,6 +16967,18 @@
     "2026-11-14",
     "2026-11-14",
     "Apple MacBook Air M1, 2020, 8GB RAM"
+   ],
+   "3571614748": [
+    400.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Apple MacBook Air M1 2020 13,3 Zoll 8GB 256GB QWERTZ Laptop"
+   ],
+   "3571694872": [
+    450.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Apple MacBook Air 2020 – M1 Chip – 13,3 Zoll – Originalverpackung"
    ]
   },
   "MacBook Air M2": {
@@ -20312,7 +20343,7 @@
     "MacBook Air M2, 13,6 Zoll, 8 GB, 256 gb Festplatte"
    ],
    "3568647733": [
-    749.0,
+    699.0,
     "2026-11-14",
     "2026-11-12",
     "Apple MacBook Air M2 13,6Zoll QWERTY 256 GB SSD Mitternacht"
@@ -20874,6 +20905,24 @@
     "2026-11-14",
     "2026-11-14",
     "Apple MacBook Air 13 Zoll M2 8GB/ 8C CPU/8C GPU / 512GB  2023"
+   ],
+   "3571607787": [
+    650.0,
+    "2026-11-14",
+    "2026-11-14",
+    "MacBook Air (2022) M2 | 13\" | 8gb RAM | 256gb | 8-Core CPU"
+   ],
+   "3571640759": [
+    765.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Apple MacBook Air 13 Zoll M2"
+   ],
+   "3571696717": [
+    850.0,
+    "2026-11-14",
+    "2026-11-14",
+    "15\" MacBook Air M2 512GB SSD 8GB RAM"
    ]
   },
   "Makita DHP485 Set": {
@@ -22634,6 +22683,12 @@
     "2026-11-14",
     "2026-11-14",
     "GeForce RTX 3060 12 GB Grafikkarte"
+   ],
+   "3571639380": [
+    339.0,
+    "2026-11-14",
+    "2026-11-14",
+    "ASUS Dual RTX 3060 OC 12GB GDDR6"
    ]
   },
   "RTX 3070": {
@@ -24607,7 +24662,7 @@
    ],
    "3570112273": [
     330.0,
-    "2026-11-13",
+    "2026-11-14",
     "2026-11-13",
     "Geforce RTX 3070"
    ],
@@ -24702,7 +24757,7 @@
     "MSI GeForce RTX 3070 Ventus 3X OC 8GB Grafikkarte"
    ],
    "3571238388": [
-    280.0,
+    295.0,
     "2026-11-14",
     "2026-11-14",
     "Gigabyte GeForce RTX 3070 EAGLE OC 8G Grafikkarte"
@@ -24724,6 +24779,18 @@
     "2026-11-14",
     "2026-11-14",
     "ZOTAC Gaming GeForce RTX 3070 Grafikkarte Weiß"
+   ],
+   "3571586278": [
+    289.0,
+    "2026-11-14",
+    "2026-11-14",
+    "MSI GeForce RTX 3070 Gaming Z TRIO 8G LHR - Grafikkarte"
+   ],
+   "3571663373": [
+    350.0,
+    "2026-11-14",
+    "2026-11-14",
+    "RTX3070 8GB"
    ]
   },
   "RTX 3080": {
@@ -26382,6 +26449,12 @@
     "2026-11-14",
     "2026-11-14",
     "MSI Gaming Trio Z Nvidia RTX 3080 12G | Grafikkarte"
+   ],
+   "3571679476": [
+    425.0,
+    "2026-11-14",
+    "2026-11-14",
+    "EVGA RTX 3080 FTW3 Ultra 10GB"
    ]
   },
   "RTX 4060 Ti": {
@@ -27942,6 +28015,24 @@
     "2026-11-14",
     "2026-11-14",
     "ASUS TUF Gaming GeForce RTX 4070 SUPER 12GB NEU"
+   ],
+   "3571651233": [
+    640.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Rtx 4070 Super 12"
+   ],
+   "3571680210": [
+    750.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Asus Rtx 4070 super Gamers of republic"
+   ],
+   "3571695752": [
+    649.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Gainward RTX 4070 SUPER Ghost 12GB – Wie neu – OVP"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -29592,6 +29683,12 @@
     "2026-11-14",
     "2026-11-14",
     "XFX Speedster MERC 319 RX 6800 XT 16GB Grafikkarte"
+   ],
+   "3571645528": [
+    430.0,
+    "2026-11-14",
+    "2026-11-14",
+    "AMD RX 6800 XT XFX 16GB Grafikkarte"
    ]
   },
   "RX 7800 XT": {
@@ -32203,6 +32300,12 @@
     "2026-11-14",
     "2026-11-14",
     "Ryzen 7 7800X3D"
+   ],
+   "3571700047": [
+    249.0,
+    "2026-11-14",
+    "2026-11-14",
+    "AMD Ryzen 7 7800X3D tray"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -33829,6 +33932,18 @@
     "2026-11-14",
     "2026-11-14",
     "Samsung 990 PRO 2 TB Interne M.2 PCle NVMe SSD"
+   ],
+   "3571602851": [
+    350.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Samsung SSD 990 PRO 2TB PCIe 4.0 NVMe M.2 - Neu"
+   ],
+   "3571693124": [
+    315.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Samsung 990 Pro 2TB (Ps5) Festplatte"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -34742,6 +34857,12 @@
     "2026-11-14",
     "2026-11-13",
     "Seagate IronWolf 4TB x 4 NAS-Festplatten - ST4000VN008 - 16TB ins"
+   ],
+   "3571686205": [
+    119.0,
+    "2026-11-14",
+    "2026-11-14",
+    "#516 Seagate IronWolf 4TB NAS HDD ST4000VN008"
    ]
   },
   "Seagate IronWolf 8TB": {
@@ -37458,6 +37579,12 @@
     "2026-11-14",
     "2026-11-14",
     "ThinkPad T14 Gen 3 | i7-1255U | 32GB | 512GB | LTE | 400 nits"
+   ],
+   "3571663664": [
+    399.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Lenovo ThinkPad T14 Gen3 G3 16GB/256GB i5-1245U 14\" Akku91%"
    ]
   },
   "ThinkPad X1 Carbon Gen 10": {
@@ -37780,6 +37907,12 @@
     "2026-11-14",
     "2026-11-14",
     "Lenovo X1 Carbon gen.9,Intel Core i5 16GB RAM 512GB Windows 11"
+   ],
+   "3571576805": [
+    325.0,
+    "2026-11-14",
+    "2026-11-14",
+    "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
    ]
   },
   "ThinkPad ohne Netzteil": {},
