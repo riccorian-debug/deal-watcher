@@ -706,8 +706,8 @@
   "3572908836": "2026-11-15",
   "3572952739": "2026-11-15"
  },
- "laeufe": 410,
- "letzter_lauf": "2026-11-15T19:28:37",
+ "laeufe": 411,
+ "letzter_lauf": "2026-11-16T00:03:39",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -5016,7 +5016,7 @@
     "RAM Patriot Viper Venom DDR5 6000 CL36 32GB 2x16GB Schwarz"
    ],
    "3572211368": [
-    450.0,
+    430.0,
     "2026-11-15",
     "2026-11-15",
     "Corsair Vengeance RGB DDR5 32GB 6000MHz + Light Enhancement Kit"
@@ -5044,6 +5044,24 @@
     "2026-11-15",
     "2026-11-15",
     "Kingston FURY DDR5 RAM 32GB (2x16GB) 6000MT/s"
+   ],
+   "3573061891": [
+    420.0,
+    "2026-11-15",
+    "2026-11-15",
+    "DDR5 32GB Kit Corsair Vengeance RGB 6000 CL30 Weiß"
+   ],
+   "3573146123": [
+    500.0,
+    "2026-11-15",
+    "2026-11-15",
+    "32GB G.Skill Ripjaws S5 schwarz DDR5-6000 DIMM CL30 Dual Kit RAM"
+   ],
+   "3573171015": [
+    439.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Kingston FURY Beast RAM 32GB DDR5-6000 CL30 (2x16GB)"
    ]
   },
   "DDR5 ECC RDIMM 32GB": {
@@ -5368,7 +5386,7 @@
     "Laptop Dell Latitude 7420 Notebook i7 11th Intel 16GB Ram SSD"
    ],
    "3569580761": [
-    320.0,
+    290.0,
     "2026-11-15",
     "2026-11-13",
     "Dell latitude 7420 intel i7-1185g7 ram 16gb ssd 512gb touchscreen"
@@ -5396,6 +5414,18 @@
     "2026-11-15",
     "2026-11-15",
     "Dell Latitude 7420 i7 11gen 16GB 512SSD M.2 SIM-Karte"
+   ],
+   "3572831841": [
+    320.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Dell Latitude 7420"
+   ],
+   "3573171976": [
+    320.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Dell Latitude 7420 i7-1185G7 16GB RAM 512GB SSD Sim-Kartenslot"
    ]
   },
   "Dell UltraSharp U2719D": {
@@ -6081,7 +6111,7 @@
    ],
    "3528908616": [
     350.0,
-    "2026-11-14",
+    "2026-11-15",
     "2026-10-22",
     "HP Elitebook 840 G8 - Sehr guter Zustand"
    ],
@@ -7520,6 +7550,24 @@
     "2026-11-15",
     "2026-11-15",
     "Samsung 16GB DDR4 3200 MHz SODIMM RAM Riegel PC4-3200AA"
+   ],
+   "3573057722": [
+    65.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Samsung 16GB DDR4-3200 SO-DIMM Laptop RAM – M471A2G43AB2-CWE"
+   ],
+   "3573106320": [
+    30.0,
+    "2026-11-15",
+    "2026-11-15",
+    "16 GB DDR4 SODIMM RAM (3200 MHz, Runeng) – Notebook-Speicher"
+   ],
+   "3573144096": [
+    70.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Kingston 16GB DDR4 3200 MHz PC4-25600 1Rx8 SODIMM KCP432SS8/16"
    ]
   },
   "EliteBook RAM 32GB SO-DIMM": {
@@ -17572,6 +17620,54 @@
     "2026-11-15",
     "2026-11-15",
     "Apple MacBook Air M1, 8GB RAM"
+   ],
+   "3573018088": [
+    540.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Macbook air M1 2020"
+   ],
+   "3573055816": [
+    395.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Apple MacBook Air 10.1 M1"
+   ],
+   "3573062282": [
+    440.0,
+    "2026-11-15",
+    "2026-11-15",
+    "MacBook Air M1 2020"
+   ],
+   "3573074442": [
+    520.0,
+    "2026-11-15",
+    "2026-11-15",
+    "13“ MacBook Air mit Apple M1-Chip (2020)"
+   ],
+   "3573108928": [
+    430.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Apple MacBook Air M1 (2020) – 13 Zoll – 256 GB SSD A2337"
+   ],
+   "3573127332": [
+    400.0,
+    "2026-11-15",
+    "2026-11-15",
+    "APPLE MAC BOOK AIR M1"
+   ],
+   "3573148946": [
+    469.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Apple MacBook Air 13\" M1 2020 8 GB 256 GB SSD Silber QWERTZ 87%"
+   ],
+   "3573156338": [
+    570.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Apple MacBook Air M1, 16GB RAM, 256GB SSD, englisches Keyboard"
    ]
   },
   "MacBook Air M2": {
@@ -20937,7 +21033,7 @@
    ],
    "3568647733": [
     699.0,
-    "2026-11-14",
+    "2026-11-15",
     "2026-11-12",
     "Apple MacBook Air M2 13,6Zoll QWERTY 256 GB SSD Mitternacht"
    ],
@@ -21689,7 +21785,7 @@
     500.0,
     "2026-11-15",
     "2026-11-15",
-    "Macbook Air M2 (256GB) - Top Zustand (95% Akku)"
+    "Macbook Air M2 (256GB) 8 GB RAM - Top Zustand (95% Akku)"
    ],
    "3573009931": [
     600.0,
@@ -21702,6 +21798,60 @@
     "2026-11-15",
     "2026-11-15",
     "Apple MacBook Air M2 (2022) | 13,6 Zoll | 16 GB RAM | 512 GB SSD"
+   ],
+   "3573034324": [
+    600.0,
+    "2026-11-15",
+    "2026-11-15",
+    "MacBook Air M2 8GB RAM 256 GB Speicher"
+   ],
+   "3573038396": [
+    650.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Apple MacBook Air M2 (2022) 13,6\" | Silber | 256 GB SSD | 8 GB"
+   ],
+   "3573042881": [
+    500.0,
+    "2026-11-15",
+    "2026-11-15",
+    "MacBook Air M2 2022 8GB in Silber"
+   ],
+   "3573051049": [
+    850.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Apple MacBook Air M2 2022 256GB"
+   ],
+   "3573056667": [
+    700.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Apple MacBook Air M2 (2022) – Top Zustand – 100% Akku"
+   ],
+   "3573069338": [
+    679.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Apple MacBook Air M2 (2022), 13,6 Zoll – makelloser Zustand"
+   ],
+   "3573112002": [
+    650.0,
+    "2026-11-15",
+    "2026-11-15",
+    "MacBook Air M2"
+   ],
+   "3573156678": [
+    800.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Macbook Air 2022 M2 Chip 256GB space grey"
+   ],
+   "3573159213": [
+    799.0,
+    "2026-11-15",
+    "2026-11-15",
+    "MacBook Air M2 | 512 GB | 8 GB RAM | 100 % Akku | US-QWERTY"
    ]
   },
   "Makita DHP485 Set": {
@@ -25744,6 +25894,24 @@
     "2026-11-15",
     "2026-11-15",
     "NVIDIA GeForce RTX 3070 Founders Edition, versiegelt"
+   ],
+   "3573057461": [
+    350.0,
+    "2026-11-15",
+    "2026-11-15",
+    "EVGA GeForce RTX 3070 FTW3 Ultra 8 GB inkl. OVP"
+   ],
+   "3573118828": [
+    310.0,
+    "2026-11-15",
+    "2026-11-15",
+    "MSI GeForce RTX 3070 VENTUS 2X 8GB"
+   ],
+   "3573163470": [
+    330.0,
+    "2026-11-15",
+    "2026-11-15",
+    "MSI GeForce RTX 3070 Ventus – 8GB GDDR6 – OVP – Top Zustand"
    ]
   },
   "RTX 3080": {
@@ -27456,6 +27624,18 @@
     "2026-11-15",
     "2026-11-15",
     "Nvidia RTX 3080 FE"
+   ],
+   "3573102099": [
+    450.0,
+    "2026-11-15",
+    "2026-11-15",
+    "RTX 3080 TUF Gaming"
+   ],
+   "3573127801": [
+    420.0,
+    "2026-11-15",
+    "2026-11-15",
+    "ASUS TUF Gaming GeForce RTX 3080 OC – 10 GB GDDR6X"
    ]
   },
   "RTX 4060 Ti": {
@@ -28577,6 +28757,12 @@
     "2026-11-15",
     "Gigabyte Geforce RTX 4070 Aero OC 12G"
    ],
+   "3572688909": [
+    699.0,
+    "2026-11-15",
+    "2026-11-15",
+    "ZOTAC GeForce RTX 4070 12GB – nach Herstellergarantie-Reparatur"
+   ],
    "3572847423": [
     650.0,
     "2026-11-15",
@@ -28594,6 +28780,12 @@
     "2026-11-15",
     "2026-11-15",
     "ZOTAC 12GB RTX 4070 Trinity // GPU // NVIDIA // GeForce"
+   ],
+   "3573081279": [
+    500.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Asus Dual GeForce RTX 4070 Grafikkarte"
    ]
   },
   "RTX 4070 Super": {
@@ -29088,6 +29280,12 @@
     "2026-11-15",
     "2026-11-15",
     "⭐ RTX 4070 Super Gigabyte Windforce OC f Neuwertig mit Garantie"
+   ],
+   "3573120007": [
+    695.0,
+    "2026-11-15",
+    "2026-11-15",
+    "ASUS RTX 4070 Super | Garantie bis 20.02.2027"
    ]
   },
   "RTX 4070 Ti Super": {
@@ -30163,7 +30361,7 @@
    ],
    "3568495804": [
     1350.0,
-    "2026-11-14",
+    "2026-11-15",
     "2026-11-11",
     "Palit rtx Gamerock premium+240hz Lg oled gegen rtx 5070ti/4080s"
    ],
@@ -30786,6 +30984,12 @@
     "2026-11-15",
     "2026-11-15",
     "AMD Radeon RX 6800 XT Grafikkarte in OVP"
+   ],
+   "3573115224": [
+    450.0,
+    "2026-11-15",
+    "2026-11-15",
+    "ASUS TUF Gaming AMD Radeon RX 6800 XT Grafikkarte"
    ]
   },
   "RX 7800 XT": {
@@ -32790,6 +32994,12 @@
     "2026-11-13",
     "Prozessor AMD Ryzen 7 5800X3D - Top Zustand"
    ],
+   "3570612500": [
+    290.0,
+    "2026-11-15",
+    "2026-11-15",
+    "AMD Ryzen 7 5800X3D 10th Anniversary Edition"
+   ],
    "3572289830": [
     230.0,
     "2026-11-15",
@@ -33529,6 +33739,18 @@
     "2026-11-15",
     "2026-11-15",
     "AMD Ryzen 7 7800X3D"
+   ],
+   "3573040495": [
+    300.0,
+    "2026-11-15",
+    "2026-11-15",
+    "AMD Ryzen 7 7800X3D Prozessor"
+   ],
+   "3573054177": [
+    300.0,
+    "2026-11-15",
+    "2026-11-15",
+    "AMD Ryzen 7 7800X3D Prozessor"
    ]
   },
   "Ryzen 7 9800X3D": {
@@ -35064,7 +35286,7 @@
     290.0,
     "2026-11-15",
     "2026-11-10",
-    "Samsung 990 PRO 2TB M.2 NVMe SSD – NEU"
+    "Samsung 990 PRO 2TB M.2 NVMe SSD – NEU (tuasch auch möglich)"
    ],
    "3567733095": [
     250.0,
@@ -35221,6 +35443,18 @@
     "2026-11-15",
     "2026-11-15",
     "Samsung 990 PRO 2TB NVMe M.2 SSD mit Heatsink"
+   ],
+   "3573089175": [
+    330.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Samsung 990 PRO 2 TB mit Heatsink NVMe SSD – NEU, versiegelt"
+   ],
+   "3573161664": [
+    299.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Samsung 990 PRO NVMe M.2 SSD 2TB – Neu & OVP"
    ]
   },
   "Samsung PM983 1.92TB": {
@@ -36346,6 +36580,12 @@
     "2026-11-13",
     "2026-11-11",
     "Seagate IRONWOLF ST8000VN004 8TB SATA NAS Festplatte HDD"
+   ],
+   "3572302490": [
+    300.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Seagate IronWolf 8 TB"
    ]
   },
   "Shelly Plus Plug S": {
@@ -38924,7 +39164,7 @@
     "ThinkPad T14 Gen 3 | i7-1255U | 32GB | 512GB | LTE | 400 nits"
    ],
    "3571663664": [
-    399.0,
+    379.0,
     "2026-11-15",
     "2026-11-14",
     "Lenovo ThinkPad T14 Gen3 G3 16GB/256GB i5-1245U 14\" Akku91%"
@@ -39256,6 +39496,12 @@
     "2026-11-15",
     "2026-11-14",
     "Thinkpad Carbon X1 9.gen G9 / Acer Travelmate P6 Notebook"
+   ],
+   "3573070443": [
+    380.0,
+    "2026-11-15",
+    "2026-11-15",
+    "Lenovo ThinkPad X1 Carbon Laptop Gen 9"
    ]
   },
   "ThinkPad ohne Netzteil": {},
