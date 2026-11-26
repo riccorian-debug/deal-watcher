@@ -803,8 +803,8 @@
   "3582452678": "2026-11-26",
   "3582571023": "2026-11-26"
  },
- "laeufe": 432,
- "letzter_lauf": "2026-11-26T00:34:33",
+ "laeufe": 433,
+ "letzter_lauf": "2026-11-26T15:26:07",
  "offen": {},
  "pools": {
   "Arduino/ESP32 Starter-Set": {
@@ -43879,7 +43879,7 @@
  "zustand": {
   "leer_in_folge": 0,
   "letzte_warnung": "",
-  "pause_bis": "2026-11-23T22:11:53",
+  "pause_bis": "2026-11-26T21:26:07",
   "pause_h": 6
  }
 }
